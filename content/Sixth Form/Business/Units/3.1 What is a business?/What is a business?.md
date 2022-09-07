@@ -21,4 +21,4 @@ Services are intangible products, a task is fulfilled by a business to save some
 - Increased (international) investment
 
 
-[Go home](content/_index)
+[Go home](/)

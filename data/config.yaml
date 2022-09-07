@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-enableSemanticSearch: false
+enableSemanticSearch: true
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   A website hosting school work

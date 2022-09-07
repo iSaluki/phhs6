@@ -44,4 +44,4 @@ Definite iteration would make sense, because we know how many pupils are in the 
 
 [*15/15*]
 
-[Go home](/_index)
+[Go home](content/_index)

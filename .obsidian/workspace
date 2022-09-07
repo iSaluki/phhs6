@@ -124,13 +124,13 @@
   "lastOpenFiles": [
     "content/templates/post.md",
     "content/private/private-note.md",
-    "content/notes/updating.md",
-    "content/notes/troubleshooting.md",
-    "content/notes/showcase.md",
+    "content/private/notes/updating.md",
+    "content/private/notes/troubleshooting.md",
+    "content/private/notes/showcase.md",
     "content/Sixth Form/Biology/Cells/Organelles.md",
-    "content/notes/hosting.md",
-    "content/notes/config.md",
-    "content/notes/custom Domain.md",
-    "content/notes/CJK + Latex Support (测试).md"
+    "content/private/notes/hosting.md",
+    "content/private/notes/config.md",
+    "content/private/notes/custom Domain.md",
+    "content/private/notes/CJK + Latex Support (测试).md"
   ]
 }

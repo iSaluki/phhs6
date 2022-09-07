@@ -13,7 +13,7 @@ Quartz is designed to be effortless to deploy. If you forked and cloned Quartz d
 ### Enable GitHub Actions
 By default, GitHub disables workflows from running automatically on Forked Repostories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your Quartz site!
 
-![Enable GitHub Actions](content/private/notes/images/github-actions.png)*Enable GitHub Actions*
+![Enable GitHub Actions](content/private/images/github-actions.png)*Enable GitHub Actions*
 
 ### Enable GitHub Pages
 
@@ -76,17 +76,17 @@ Please note that the `cname` field should *not* have any path `e.g. end with /qu
 	cname: <YOUR-DOMAIN>
 ```
 
-Have a custom domain? [Learn how to set it up with Quartz ](content/private/notes/custom%20Domain.md).
+Have a custom domain? [Learn how to set it up with Quartz ](content/private/custom%20Domain.md).
 
 ### Ignoring Files
 Only want to publish a subset of all of your notes? Don't worry, Quartz makes this a simple two-step process.
 
-❌ [Excluding pages from being published](content/private/notes/ignore%20notes.md)
+❌ [Excluding pages from being published](content/private/ignore%20notes.md)
 
 ---
 
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 
-> Step 6: 🎨 [Customizing Quartz](content/private/notes/config.md)
+> Step 6: 🎨 [Customizing Quartz](content/private/config.md)
 
-Having problems? Checkout our [FAQ and Troubleshooting guide](content/private/notes/troubleshooting.md).
+Having problems? Checkout our [FAQ and Troubleshooting guide](content/private/troubleshooting.md).

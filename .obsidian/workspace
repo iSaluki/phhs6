@@ -7,8 +7,12 @@
         "id": "d3419bba12d50233",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/Sixth Form/Biology/Cells/Organelles.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Sixth Form/Biology/Cells/Organelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Sixth Form/Biology/Cells/Organelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Sixth Form/Biology/Cells/Organelles.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12f04770a927872b",
+  "active": "d3419bba12d50233",
   "lastOpenFiles": [
     "content/templates/post.md",
+    "content/private/config.md",
+    "content/private/images/github-actions.png",
+    "content/private/callouts.md",
     "content/private/private-note.md",
-    "content/private/notes/updating.md",
-    "content/private/notes/troubleshooting.md",
-    "content/private/notes/showcase.md",
+    "content/private/updating.md",
+    "content/private/troubleshooting.md",
+    "content/private/showcase.md",
     "content/Sixth Form/Biology/Cells/Organelles.md",
-    "content/private/notes/hosting.md",
-    "content/private/notes/config.md",
-    "content/private/notes/custom Domain.md",
-    "content/private/notes/CJK + Latex Support (测试).md"
+    "content/private/hosting.md"
   ]
 }

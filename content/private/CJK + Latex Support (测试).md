@@ -37,4 +37,4 @@ a & b & c
 $$
 
 ## RTL
-More information on configuring RTL languages like Arabic in the [config](content/private/notes/config.md) page.
+More information on configuring RTL languages like Arabic in the [config](content/private/config.md) page.

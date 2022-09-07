@@ -1,3 +1,8 @@
+---
+title: "Programming 1"
+description: "Programming unit introduction"
+---
+
 An algorithm is an unambiguous, repeatable set of instructions that can be followed to complete a given task in a finite time.
 
 Programming is the process of converting an algorithm into computer code.
@@ -39,4 +44,4 @@ Definite iteration would make sense, because we know how many pupils are in the 
 
 [*15/15*]
 
--EOL
+[Go home](templates/_index_)

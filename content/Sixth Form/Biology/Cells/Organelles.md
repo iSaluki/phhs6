@@ -1,7 +1,6 @@
 ---
 title: "Organelles"
-tags:
-- biology
+description: "An overview of cell organelles"
 ---
 # Organelles
 
@@ -110,3 +109,6 @@ The first stage of photosynthesis is when light energy is trapped by chlorophyll
 The second stage when hydrogen reduces carbon dioxide, using energy from ATP to make carbohydrates, occurs in the stroma. 
 
 Chloroplasts are abundant in leaf cells, particularly the pallisade mesophyll layer.
+
+
+[Go home](templates/_index_)

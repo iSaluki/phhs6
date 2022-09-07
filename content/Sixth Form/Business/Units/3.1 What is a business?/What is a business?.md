@@ -1,4 +1,7 @@
-*6 September 2022*
+---
+title: "What is a business?"
+description: "Definitions and information about businesses"
+---
 
 ## Definitions
 
@@ -17,3 +20,5 @@ Services are intangible products, a task is fulfilled by a business to save some
 - Drives innovation
 - Increased (international) investment
 
+
+[Go home](templates/_index_)

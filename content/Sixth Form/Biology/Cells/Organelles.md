@@ -1,10 +1,6 @@
 ---
 title: "Organelles"
 ---
-
-![[Pasted image 20220907094203.png]]
-*A diagram representing most of the cell organelles required for this unit. See full list below for details. Ignore any additional organelles.*
-
 # Organelles
 
 ## Rough Endoplasmic Reticulum (RER/Rough ER)

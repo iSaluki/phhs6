@@ -7,12 +7,8 @@
         "id": "d3419bba12d50233",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/Sixth Form/Biology/Cells/Organelles.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Sixth Form/Biology/Cells/Organelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Sixth Form/Biology/Cells/Organelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Sixth Form/Biology/Cells/Organelles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,16 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3419bba12d50233",
+  "active": "12f04770a927872b",
   "lastOpenFiles": [
     "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/notes/updating.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/showcase.md",
     "content/Sixth Form/Biology/Cells/Organelles.md",
     "content/notes/hosting.md",
     "content/notes/config.md",
     "content/notes/custom Domain.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/callouts.md",
-    "content/_index.md",
-    "content/Sixth Form/Biology/Cells/Untitled.md"
+    "content/notes/CJK + Latex Support (测试).md"
   ]
 }

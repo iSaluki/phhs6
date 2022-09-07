@@ -1,5 +1,5 @@
-baseURL = "https://work.sethmb.xyz/"
-languageCode = "en-uk"
+baseURL = "https://sethmb.xyz/"
+languageCode = "en-gb"
 googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true

@@ -111,4 +111,4 @@ The second stage when hydrogen reduces carbon dioxide, using energy from ATP to 
 Chloroplasts are abundant in leaf cells, particularly the pallisade mesophyll layer.
 
 
-[Go home](templates/_index_)
+[Go home](/_index_)

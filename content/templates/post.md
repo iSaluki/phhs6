@@ -6,4 +6,4 @@ description: "description text"
 
 
 
-[Go home](templates/_index_)
+[Go home](/_index_)

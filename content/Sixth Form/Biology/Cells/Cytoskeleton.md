@@ -1,0 +1,29 @@
+---
+title: "Cytoskeleton"
+description: "Cytoskeleton information"
+---
+
+
+
+## Microfilaments
+
+Size: 7nm
+Made from: polymers of actin
+Roles: Give support and mechanical strength, keep cell shape and enable movement
+
+## Intermediate filaments
+
+Size: 10nm
+Made from: variety of proteins
+Roles: Anchor nucleus, extend between membranes
+
+## Microtubules
+Size: 18-30nm
+Made from: tubulin
+Roles: Form tracks for motor proteins (dyein and kinesin) to walk and drag organelles.
+
+
+
+
+
+[Go home](/)

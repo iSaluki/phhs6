@@ -24,7 +24,7 @@ When this code is executed, it will return the literal `3`. This is because we p
 
 Here is a demonstration of the program being executed:
 
-![[sixth/Computer Science/Programming/img/Pasted image 20220908123946.png]]
+![[content/sixth/CompSci/Programming/img/Pasted image 20220908123946.png]]
 
 Taking this a step further, we could ask the user to pick the values to add together. We would do this using the following code:
 
@@ -45,6 +45,6 @@ print(addition)
 
 And the result looks like this when we run it:
 
-![[sixth/Computer Science/Programming/img/Pasted image 20220908124522.png]]
+![[content/sixth/CompSci/Programming/img/Pasted image 20220908124522.png]]
 
 [Go home](/)

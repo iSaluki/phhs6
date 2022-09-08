@@ -13,14 +13,14 @@ print(5 + 3)
 
 Both 5 and 3 are literals in this context, because they are definied exactly where they are used.
 
-![[sixth/Computer Science/Programming/img/Pasted image 20220908115725.png]]
+![[content/sixth/CompSci/Programming/img/Pasted image 20220908115725.png]]
 
 ## Variables
 A variable is an object with an assigned value that can be referenced elsewhere in the program. It is useful for dynamically updating a value.
 
 `bobAge = 50` is a variable.
 
-![[sixth/Computer Science/Programming/img/Pasted image 20220908115815.png]]
+![[content/sixth/CompSci/Programming/img/Pasted image 20220908115815.png]]
 
 Naming conventions should be followed when naming variables to prevent misunderstandings.
 
@@ -44,9 +44,9 @@ A constant is a variable that CANNOT be changed after definition. The idea of a 
 
 `SPEED = 5.0`
 
-![[sixth/Computer Science/Programming/img/Pasted image 20220908115902.png]]
+![[content/sixth/CompSci/Programming/img/Pasted image 20220908115902.png]]
 
-The next page is [subroutines](sixth/Computer-Science/Programming/subroutines)
+The next page is [subroutines](sixth/CompSci/Programming/subroutines)
 
 [Go home](/)
 

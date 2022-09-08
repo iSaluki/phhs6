@@ -1,6 +1,5 @@
 ---
 title: "title text"
-description: "description text"
 ---
 
 

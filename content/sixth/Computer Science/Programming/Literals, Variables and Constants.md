@@ -30,9 +30,17 @@ So naming a variable `pen_island` would be better. This is what PEP8 recommends,
 
 Conventional naming would be `penIsland` though. Camelcase means the first word of a variable is lowercase and then all additional words in the name should start with a capital.
 
+> [!note] Note
+>
+> Variable names can also be called an identifier.
+
 ## Constants
 A constant is a variable that CANNOT be changed after definition. The idea of a constant is to define a reused value once at one point in the code, and then allow for it to be used everywhere. if you want to change the speed of the player in your game, you can change the constant at first definition, avoiding a huge amount of refactoring.
-Python does not actually support constants, but a normal variable can be treated like a constant with:
+
+> [!bug] Python does not support constants natively
+>
+> Instead, use a fully capitalised variable name and do not change it. This method is flawed, but it's the best one avaliable.
+ 
 
 `SPEED = 5.0`
 

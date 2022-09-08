@@ -6,15 +6,15 @@ description: "An overview of cell organelles"
 
 
 
-## Rough Endoplasmic Reticulum (RER/Rough ER)
+## Rough Endoplasmic Reticulum (rER/Rough ER)
 This is a system of membranes containing fluid filled cavities that are connected to the nuclear membrane. The distinguishing factor between rough and smooth ER is that rough ER is coated with ribosomes.
 
-RER is the cells internal transport system and creates channels that enable the transport of substances from one section of the cell to another. The RER provides a large surface area for ribosomes to attach. The ribosomes assemble proteins from amino acids , these proteins are then absorbed through the membrane and are transported by the RER to the Golgi Apparatus for modification and packaging. 
+rER is the cells internal transport system and creates channels that enable the transport of substances from one section of the cell to another. The rER provides a large surface area for ribosomes to attach. The ribosomes assemble proteins from amino acids , these proteins are then absorbed through the membrane and are transported by the rER to the Golgi Apparatus for modification and packaging. 
 
-## Smooth Endoplasmic Reticulum (SER/Smooth ER)
-Like the RER, this is a system of membrances within the cell that contain fluid-filled cavities that link to the nuclear envelope. It DOES NOT have ribosomes on its surface.
+## Smooth Endoplasmic Reticulum (sER/Smooth ER)
+Like the rER, this is a system of membrances within the cell that contain fluid-filled cavities that link to the nuclear envelope. It DOES NOT have ribosomes on its surface.
 
-SER contains enzymes that catalyse reactions involved with the metabolism of lipids. This includes: 
+sER contains enzymes that catalyse reactions involved with the metabolism of lipids. This includes: 
 
 - synthesis of cholesterol
 - synthesis of lipids/phospholids needed by the cell
@@ -58,9 +58,9 @@ These are protrusions from the cell and are surrounded by the cell surface membr
 The epitheal cells lining your airways have many hundreds of cilia that beat and move the band of mucus. Nearly all cell types in the body have one cilium that acts as an antenna. It contains receptors and allows cells to detect signals about their immediate environment. The only human cell to have an undulipodium (a lot of cillium) is a spermatozoon. The unulipodium allows the spermatozoon to move.
 
 ## Ribosomes
-Small, spherical and about 20nm in diameter they are constructed from ribosomal RNA. They are made in the nucleolus from two different subunits which pass through the nucelar envelope into the cell cytoplasm and then combine. Some remain free in the cytoplasm and some attach to the RER.
+Small, spherical and about 20nm in diameter they are constructed from ribosomal RNA. They are made in the nucleolus from two different subunits which pass through the nucelar envelope into the cell cytoplasm and then combine. Some remain free in the cytoplasm and some attach to the rER.
 
-Ribosomes bound to the exterior of the RER are mainly for synthesising proteins that will be exported out of the cell. Ribosomes that are free in the cytoplasm - either singularly or in a cluster - are primarily a site for synthesising proteins that will be used in the cell. 
+Ribosomes bound to the exterior of the rER are mainly for synthesising proteins that will be exported out of the cell. Ribosomes that are free in the cytoplasm - either singularly or in a cluster - are primarily a site for synthesising proteins that will be used in the cell. 
 
 ## Centrioles
 The centrioles consist of two bundles of microtubles at right angles to each other. The microtubules are made of tublin protein subunits, and are arranged to form a cylinder.

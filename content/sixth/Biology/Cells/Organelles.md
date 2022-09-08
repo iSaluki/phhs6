@@ -53,7 +53,7 @@ Lysosomes keep the dangerous enzymes seperate from the rest of the cell, prevent
 ## Cilia and undulipodia
 These are protrusions from the cell and are surrounded by the cell surface membrane. Each contains microtubules (see Cytoskeleton for more details). They are formed from centrioles.
 
-The epitheal cells lining your airways have many hundreds of cilia that beat and move the band of mucus. Nearly all cell types in the body have one cilium that acts as an antenna. It contains receptors and allows cells to detect signals about their immediate environment. The only human cell to have an undulipodium (a lot of cillium) is a spermaozoon. The unulipodium allows the spermatozoon to move.
+The epitheal cells lining your airways have many hundreds of cilia that beat and move the band of mucus. Nearly all cell types in the body have one cilium that acts as an antenna. It contains receptors and allows cells to detect signals about their immediate environment. The only human cell to have an undulipodium (a lot of cillium) is a spermatozoon. The unulipodium allows the spermatozoon to move.
 
 ## Ribosomes
 Small, spherical and about 20nm in diameter they are constructed from ribosomal RNA. They are made in the nucleolus from two different subunits which pass through the nucelar envelope into the cell cytoplasm and then combine. Some remain free in the cytoplasm and some attach to the RER.

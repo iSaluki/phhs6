@@ -26,5 +26,25 @@ Here is a demonstration of the program being executed:
 
 ![[sixth/Computer Science/Programming/img/Pasted image 20220908123946.png]]
 
+Taking this a step further, we could ask the user to pick the values to add together. We would do this using the following code:
+
+```py
+# Define the subroutine
+def AddNum(num1,num2):
+    return (num1+num2)
+
+# This could be more efficient, and will crash if we enter an invalid input.
+num1 = int(input("Enter num1: "))
+num2 = int(input("Enter num2: "))
+
+
+# Call the subroutine
+addition = AddNum(num1,num2)
+print(addition)
+```
+
+And the result looks like this when we run it:
+
+![[sixth/Computer Science/Programming/img/Pasted image 20220908124522.png]]
 
 [Go home](/)

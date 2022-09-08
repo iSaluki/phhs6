@@ -2,7 +2,9 @@
 title: "Organelles"
 description: "An overview of cell organelles"
 ---
-# Organelles
+![[sixth/Biology/Cells/img/Pasted image 20220908112443.png]]
+
+
 
 ## Rough Endoplasmic Reticulum (RER/Rough ER)
 This is a system of membranes containing fluid filled cavities that are connected to the nuclear membrane. The distinguishing factor between rough and smooth ER is that rough ER is coated with ribosomes.

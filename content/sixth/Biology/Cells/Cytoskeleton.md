@@ -3,7 +3,7 @@ title: "Cytoskeleton"
 description: "Cytoskeleton information"
 ---
 
-
+![http://cellstructure.pbworks.com/f/big_cytoskeletoncover.jpg](http://cellstructure.pbworks.com/f/big_cytoskeletoncover.jpg)
 
 ## Microfilaments
 
@@ -23,7 +23,7 @@ Made from: tubulin
 Roles: Form tracks for motor proteins (dyein and kinesin) to walk and drag organelles.
 
 
-
+Overview in [Organelles](sixth/Biology/Cells/Organelles)
 
 
 [Go home](/)

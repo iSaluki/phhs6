@@ -46,7 +46,8 @@ A constant is a variable that CANNOT be changed after definition. The idea of a 
 
 ![[content/sixth/CompSci/Programming/img/Pasted image 20220908115902.png]]
 
-The next page is [subroutines](sixth/CompSci/Programming/subroutines)
+The next page is [subroutines](sixth/CompSci/Programming/Subroutines)
+
 
 [Go home](/)
 

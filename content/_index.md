@@ -1,5 +1,6 @@
 ---
-title: SethMB Work
+title: "SethMB Work"
+description: "Landing page"
 ---
 
 Welcome to my digital garden! 🍓
@@ -10,10 +11,13 @@ This site is primarily used to host school work for sixth form. Other content ma
 
 I have attached a link to all work for each subject below.
 
-### [Computer Science](/tags/compsci)
+### 💻[Computer Science](/tags/compsci)
 
-### [Biology](/tags/biology)
+### 🦠[Biology](/tags/biology)
 
-### [Business Studies](/tags/business)
+### 🧳[Business Studies](/tags/business)
 
-Other, miscellaneous work may be found via the search function or the interactive graph.
+Other, miscellaneous work may be found via the search function or the interactive graph. 
+
+If you notice an issue with the site or need help, please email **seth@sethmb.xyz** for assistance.
+

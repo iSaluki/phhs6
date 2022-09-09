@@ -76,12 +76,12 @@ def FromPHHS(name):
 	print(name+" from PHHS")
 ```
 
-Next, a function to convert celsius to farenheit:
+Next, a function to convert celsius to fahrenheit:
 
 ```py
 def CelToFaren(celsius):
-	faren = celsius * 1.8 + 32
-	return faren
+	fahren = celsius * 1.8 + 32
+	return fahren
 ```
 
 [Go home](/)

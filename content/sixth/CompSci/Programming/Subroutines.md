@@ -63,7 +63,7 @@ A procedure does not return any value to the logic that called it, whereas a fun
 
 A function would typically be used where a response is needed or the status of the action needs verifying. If you do not need an answer, then a procedure may be the best choice.
 
-Subroutines are made out of the basic (building blocks)[sixth/CompSci/Programming/Building-Blocks] found here.
+Subroutines are made out of the basic [building blocks](sixth/CompSci/Programming/BuildingBlocks) found here.
 
 ## Task: Write a subroutine
 
@@ -85,5 +85,9 @@ def CelToFaren(celsius):
 	fahren = celsius * 1.8 + 32
 	return fahren
 ```
+
+> [!info] Identifiers
+>
+>Just like with variables, the name of a subroutine is officially called an identifier. Also - just like with variables - the identifier should be descriptive as it improves code readability.
 
 [Go home](/)

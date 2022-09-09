@@ -2,6 +2,7 @@
 title: "Literals, variables and constants"
 tags:
 - compsci
+- programming
 ---
 
 ## Literals

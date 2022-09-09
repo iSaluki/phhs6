@@ -3,6 +3,7 @@ title: "Cytoskeleton"
 description: "Cytoskeleton information"
 tags:
 - biology
+- cells
 ---
 
 ![http://cellstructure.pbworks.com/f/big_cytoskeletoncover.jpg](http://cellstructure.pbworks.com/f/big_cytoskeletoncover.jpg)

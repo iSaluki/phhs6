@@ -3,6 +3,7 @@ title: "Building Blocks"
 description: "Programming unit introduction"
 tags:
 - compsci
+- programming
 ---
 
 An algorithm is an unambiguous, repeatable set of instructions that can be followed to complete a given task in a finite time.

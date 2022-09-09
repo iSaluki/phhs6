@@ -1,5 +1,5 @@
 ---
-title: "Data Representation"
+title: "Number Systems"
 tags:
 - compsci
 - theory

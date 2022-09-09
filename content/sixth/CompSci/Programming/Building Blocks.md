@@ -1,5 +1,5 @@
 ---
-title: "Programming 1"
+title: "Building Blocks"
 description: "Programming unit introduction"
 tags:
 - compsci
@@ -45,5 +45,7 @@ Definite iteration would make sense, because we know how many pupils are in the 
 
 
 [*15/15*]
+
+This links on to [Literals, Variables and Constants](sixth/CompSci/Programming/Literals, Variables and Constants)
 
 [Go home](/)

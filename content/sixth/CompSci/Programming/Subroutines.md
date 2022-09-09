@@ -49,4 +49,31 @@ And the result looks like this when we run it:
 
 ![[sixth/CompSci/Programming/img/Pasted image 20220908124522.png]]
 
+## Types of subroutine
+
+> [!abstract] In terms of Python
+>
+> The following uses Python keywords as examples, but the same logic can be applied to any language.
+
+Because this code uses the `return` keyword, it is a **function**.
+
+The other type of subroutine is a **procedure**, this would not use the `return` keyword.
+
+A procedure does not return any value to the logic that called it, whereas a function does. This is the only difference between the two types.
+
+A function would typically be used where a response is needed or the status of the action needs verifying. If you do not need an answer, then a procedure may be the best choice.
+
+## Task: Write a subroutine
+
+Brief:
+- Receive a person's name
+- Adds "from PHHS" to the name
+- Prints the product
+- Ends
+
+```py
+def FromPHHS(name):
+	print(name+" from PHHS")
+```
+
 [Go home](/)

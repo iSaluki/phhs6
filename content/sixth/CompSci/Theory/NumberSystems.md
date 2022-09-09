@@ -63,6 +63,8 @@ This limits the range of numbers that can be stored, but can be applied to large
 
 ## Binary Task
 
+### Converting binary to denary
+
 14 -> Bin
 
 64 -> 32 -> 16 -> 8 -> 4 -> 2 -> 1
@@ -83,6 +85,26 @@ This limits the range of numbers that can be stored, but can be applied to large
 1  ->     1    -> 0   ->  0  -> 1  -> 0 -> 0 -> 0
 
 = 11001000
+
+### Binary Arithmetic
+
+56 + 32 = 88
+
+64 -> 32 -> 16 -> 8 -> 4 -> 2 -> 1
+0 ->    1   -> 1   -> 1 -> 0 -> 0 -> 0
+
+56 = 0111000
+
+64 -> 32 -> 16 -> 8 -> 4 -> 2 -> 1
+0100000
+
+0111000
+0100000
+
++
+
+1111000
+
 
 
 [Go home](/) 

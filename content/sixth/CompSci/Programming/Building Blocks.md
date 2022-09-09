@@ -46,6 +46,6 @@ Definite iteration would make sense, because we know how many pupils are in the 
 
 [*15/15*]
 
-This links on to [Literals, Variables and Constants](sixth/CompSci/Programming/Literals-Variables-and-Constants)
+This links on to [Literals, Variables and Constants](sixth/CompSci/Programming/Literals Variables Constants)
 
 [Go home](/)

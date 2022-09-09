@@ -65,7 +65,7 @@ A function would typically be used where a response is needed or the status of t
 
 ## Task: Write a subroutine
 
-Brief:
+A procedure that:
 - Receive a person's name
 - Adds "from PHHS" to the name
 - Prints the product
@@ -74,6 +74,14 @@ Brief:
 ```py
 def FromPHHS(name):
 	print(name+" from PHHS")
+```
+
+Next, a function to convert celsius to farenheit:
+
+```py
+def CelToFaren(celsius):
+	faren = celsius * 1.8 + 32
+	return faren
 ```
 
 [Go home](/)

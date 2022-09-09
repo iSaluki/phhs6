@@ -1,6 +1,8 @@
 ---
 title: "Organelles"
 description: "An overview of cell organelles"
+tags:
+- biology
 ---
 ![[sixth/Biology/Cells/img/Pasted image 20220908112443.png]]
 

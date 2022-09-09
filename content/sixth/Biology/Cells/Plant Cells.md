@@ -1,6 +1,8 @@
 ---
 title: "Plant cells"
 description: "Plant specific organelles"
+tags:
+- biology
 ---
 
 See Chloroplasts, Vacuole and Cell Wall from [Organelles](sixth/Biology/Cells/Organelles)

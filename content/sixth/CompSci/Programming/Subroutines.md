@@ -1,5 +1,7 @@
 ---
 title: "Subroutines"
+tags:
+- compsci
 ---
 
 Instead of writing a huge, monolithic piece of code, you can break a program down into smaller pieces, called subroutines. These allow for increased modularity in an application. It also makes it much easier to work on a project with multiple people involved because they can each write subroutines to work together and produce a complex system quickly.

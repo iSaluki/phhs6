@@ -1,6 +1,8 @@
 ---
 title: "Programming 1"
 description: "Programming unit introduction"
+tags:
+- compsci
 ---
 
 An algorithm is an unambiguous, repeatable set of instructions that can be followed to complete a given task in a finite time.

@@ -1,6 +1,8 @@
 ---
 title: "What is a business?"
 description: "Definitions and information about businesses"
+tags:
+- compsci
 ---
 
 ## Definitions

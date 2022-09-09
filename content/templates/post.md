@@ -1,5 +1,7 @@
 ---
 title: "title text"
+tags:
+- subject
 ---
 
 

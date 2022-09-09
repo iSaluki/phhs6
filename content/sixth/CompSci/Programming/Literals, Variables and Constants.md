@@ -1,5 +1,7 @@
 ---
 title: "Literals, variables and constants"
+tags:
+- compsci
 ---
 
 ## Literals

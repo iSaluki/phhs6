@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/sixth/Business/Units/3.2/LeadershipStyles.md",
+            "file": "content/sixth/CompSci/Theory/TwosComplement.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/LeadershipStyles.md",
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/LeadershipStyles.md",
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/LeadershipStyles.md"
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md"
               }
             }
           },
@@ -140,14 +140,14 @@
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
     "content/sixth/CompSci/Theory/NumberSystems.md",
+    "content/sixth/CompSci/Theory/TwosComplement.md",
+    "content/sixth/Business/Units/3.2/LeadershipStyles.md",
     "content/sixth/Biology/Cells/Cytoskeleton.md",
     "content/sixth/Biology/Cells/Organelles.md",
     "content/sixth/Biology/Cells/PlantCells.md",
     "content/sixth/CompSci/Programming/Subroutines.md",
     "content/sixth/CompSci/Programming/LiteralsVariablesConstants.md",
     "content/sixth/CompSci/Programming/BuildingBlocks.md",
-    "content/private/callouts.md",
-    "screenshot.png",
-    "content/_index.md"
+    "content/private/callouts.md"
   ]
 }

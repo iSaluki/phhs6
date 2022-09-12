@@ -61,6 +61,8 @@ Sign - 64 - 32 - 16 - 8 - 4 - 2 - 1
 
 This limits the range of numbers that can be stored, but can be applied to larger binary patterns too.
 
+The main method used is [Two's Complement](sixth/CompSci/Theory/TwosComplement)
+
 ## Binary Task
 
 ### Converting binary to denary

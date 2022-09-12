@@ -23,4 +23,6 @@ Services are intangible products, a task is fulfilled by a business to save some
 - Increased (international) investment
 
 
+Business's begin their corporate life as a startup, more information on startups can be found [here](sixth/Business/Units/3.1/WhatIsAStartUp)
+
 [Go home](/)

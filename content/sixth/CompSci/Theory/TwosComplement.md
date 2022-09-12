@@ -1,5 +1,5 @@
 ---
-title: "Two's complement"
+title: "Two's Complement"
 tags:
 - compsci
 - theory

@@ -1,5 +1,5 @@
 ---
-title: "What is a business?"
+title: "What Is A Business?"
 description: "Definitions and information about businesses"
 tags:
 - business

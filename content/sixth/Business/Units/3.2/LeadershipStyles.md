@@ -1,5 +1,5 @@
 ---
-title: "Management and leadership styles"
+title: "Management and Leadership Styles"
 tags:
 - business
 ---

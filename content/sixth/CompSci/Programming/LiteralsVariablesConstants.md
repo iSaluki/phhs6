@@ -1,5 +1,5 @@
 ---
-title: "Literals, variables and constants"
+title: "Literals, Variables and Constants"
 tags:
 - compsci
 - programming

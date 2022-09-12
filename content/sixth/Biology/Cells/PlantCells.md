@@ -1,5 +1,5 @@
 ---
-title: "Plant cells"
+title: "Plant Cells"
 description: "Plant specific organelles"
 tags:
 - biology

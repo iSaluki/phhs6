@@ -1,5 +1,5 @@
 ---
-title: "What is a startup?"
+title: "What Is A Startup?"
 tags:
 - business
 ---

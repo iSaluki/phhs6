@@ -12,7 +12,8 @@ tags:
 
 **Laissez-faire:** Very little care is taken, employees are told what to do and left to get on with it. Staff have to be very trusted and should know what they're doing for this to work.
 
-
 Leadership styles are important and should be considered by [new businesses](sixth/Business/Units/3.1/WhatIsAStartUp)
+
+This is developed upon in [Management and Leadership](sixth/Business/Units/3.2/ManagementAndLeadership)
 
 [Go home](/)

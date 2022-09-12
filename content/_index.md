@@ -15,7 +15,7 @@ I have attached a link to all work for each subject below.
 
 ### 🦠[Biology](/tags/biology)
 
-### 🧳[Business Studies](/tags/business)
+### 💰[Business Studies](/tags/business)
 
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 

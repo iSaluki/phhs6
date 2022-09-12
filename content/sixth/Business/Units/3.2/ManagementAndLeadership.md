@@ -35,7 +35,14 @@ As you move along the continuum, it moves from the manager telling staff what to
 The extremes of the spectrum are Manager-centered leadership and subordinate centered leadership.
 
 ![[sixth/Business/Units/3.2/img/Pasted image 20220912151118.png]]
+*Tell, sell, consult, joins*
 
+**Tells**: Leader identifies problems, makes decisions and announces to subordinates.
 
+**Sells**: Leader still makes decision, but attempts to overcome resistance through discussion and persuasion.
+
+**Consults**: Leader identifies problems and presents them to the group and listens to advice before making a final decision.
+
+**Joins**: Leader defines problems and leaves the staff to decide on a solution.
 
 [Go home](/)

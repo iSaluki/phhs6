@@ -17,7 +17,7 @@ To use Two's complement, you must:
 - add a place value of 1 to the inverted number
 
 
-Further details: [https://en.wikipedia.org/wiki/Two%27s_complement#Converting_to_two's_complement_representation]
+Further details: (https://en.wikipedia.org/wiki/Two%27s_complement#Converting_to_two's_complement_representation)
 
 
 

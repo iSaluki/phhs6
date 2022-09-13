@@ -91,4 +91,6 @@ def CelToFaren(celsius):
 >
 >Just like with variables, the name of a subroutine is officially called an identifier. Also - just like with variables - the identifier should be descriptive as it improves code readability.
 
+To extend the functionality of a subroutine (or any of your code), modules are very useful. Find out more [here](sixth/CompSci/Programming/Modules)
+
 [Go home](/)

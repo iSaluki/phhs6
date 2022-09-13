@@ -25,4 +25,10 @@ Despite all the potential positives of a more relaxed management style, her curr
 In conclusion, Jayne may be perfectly fine where things are - and would be taking the least risk by changing nothing. However, moving towards greater employee freedom may be incredibly beneficial and boost productivity more than Jayne could manage under her authoritarian style. The problem with a new approach is that the outcome is unknown - so the risk is high.
 
 
+## Leadership Styles Research
+
+**McDonald's**: They have an effective leadership style, because staff working there are typically low skilled. So they delegate from a business manager to a general manager, and then down to shift managers who give instructions to the crew members. As you move higher up the ladder, it becomes less authoritarian as a higher skill level is assumed. This does cause some issues, but most of them are minor and can be easily resolved.
+
+**Nando's**: Managers are reportedly very imposing and stressed. They are not paid much more than the lowest level workers, but are given a lot more responsibility and are expected to run everything. This results in the managers not caring much for the business or their work and results in a more impoverished management style. Becuase of this there are employees who do not feel satisfied with the Nando's management style.
+
 [Go home](/)

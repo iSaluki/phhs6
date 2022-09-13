@@ -45,4 +45,6 @@ The extremes of the spectrum are Manager-centered leadership and subordinate cen
 
 **Joins**: Leader defines problems and leaves the staff to decide on a solution.
 
+To compare, see [Leadership or Management](sixth/Business/Units/3.2/LeadershipOrManagement)
+
 [Go home](/)

@@ -44,4 +44,32 @@ Why is this happening?
 
 The "*Blake Mouton Managerial Grid*" shows how management styles differ between the balance between a concern for people and concern for results.
 
+Produce or Perish Management is also called Task Management.
+
+### Impoverished Management
+
+Laissez-faire style; minimal effort on management; looking to avoid blame for errors. 
+
+Low concern for people and task
+
+### Country Club Management
+Focus on creating safe, comfortable working environment with minimal conflict.
+
+High concern for people, low concern for task
+
+### Task Management
+Autocratic style, consistent with McGregor Theory X. Workers have to complete tasks - nothing else.
+
+Low concern for people, high concern for task.
+
+### Team Management
+Staff closely involved in decision-making and feel valued; consistent with McGregor Theory Y.
+
+High concern for both people and task.
+
+### Middle of the Road Management
+Compromises made to achieve acceptable performance; thought to be the less effective leadership style.
+
+Medium concern for people and task.
+
 [Go home](/)

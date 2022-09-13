@@ -31,4 +31,6 @@ In conclusion, Jayne may be perfectly fine where things are - and would be takin
 
 **Nando's**: Managers are reportedly very imposing and stressed. They are not paid much more than the lowest level workers, but are given a lot more responsibility and are expected to run everything. This results in the managers not caring much for the business or their work and results in a more impoverished management style. Becuase of this there are employees who do not feel satisfied with the Nando's management style.
 
+A significant amount of data for this research was found on [Breakroom](https://breakroom.cc)
+
 [Go home](/)

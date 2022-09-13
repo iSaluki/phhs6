@@ -18,13 +18,15 @@ myNum = random.randint(0,10)
 print(myNum)
 ```
 
+Every time you run this script, it will print out an integer between 0 and 10.
+
 ## Installing modules
 
 Using `pip` you can install a Python module from the repositories. 
 
 Simply run the command `pip install module-name` to download a module. You can then import it into your program and use it.
 
-[https://pypi.org/](Find packages) 
+[PyPi](https://pypi.org/)
 
 ## Making a module
 

@@ -5,6 +5,8 @@ tags:
 - programming
 ---
 
+
+## Value
 A **value** is a single piece of data.  It can be used as a [literal](sixth/CompSci/Programming/LiteralsVariablesConstants) or stored in a variable.
 
 Examples:
@@ -18,7 +20,7 @@ Examples:
 Variables can *only* contain values. So if it is contained within a variable - it is a value.
 
 ---
-
+## Expression
 An **expression** is an operation of values and/or variables that will result in a value.
 
 Typically, you get a different value output than the input - as you are performing a mathematical operation usually (and most of the time you won't  be doing a * 1 operation).
@@ -46,6 +48,7 @@ But `Bob / 2` is not valid and will return an error.
 A division operation will **always** return a float - even if the inputs were integers.
 
 ---
+## Statement
 A **statement** is any valid fragment of code. (A command, any line of code etc).
 
 Examples:

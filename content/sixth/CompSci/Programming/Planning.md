@@ -23,6 +23,23 @@ More subject to issues than Waterfall, as waterfall allows for queries to go bac
 
 ![[sixth/CompSci/Programming/img/Pasted image 20220914122207.png]]
 
-Continuous reviews of the project result in faster problem detection and resolution. Scrum immitates a much more natural working style. 
+Continuous reviews of the project result in faster problem detection and resolution. Scrum immitates a much more natural working style. Sprints are used to focus on getting things finished bit by bit and allow everybody to stay on schedule.
+
+### Flowcharts
+
+![[sixth/CompSci/Programming/img/Pasted image 20220914123033.png]]
+
+A diagram that explains the flow of a program.
+
+Shapes represent actions that must be perfomed.
+
+The shapes are connected together with arrows - defining the flow route.
+
+Flowcharts are much easier for the layman to understand.
+
+The shapes all represent a specific action. In a flowchart, the shape is important. The key is shown below:
+
+![[sixth/CompSci/Programming/img/Pasted image 20220914123717.png]]
+
 
 [Go home](/)

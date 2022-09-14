@@ -41,5 +41,14 @@ The shapes all represent a specific action. In a flowchart, the shape is importa
 
 ![[sixth/CompSci/Programming/img/Pasted image 20220914123717.png]]
 
+### Pseudo Code
+
+Laid out roughly like code, with some form of uniform syntax. HOWEVER - there is not set syntax rules and ideas can be expressed more freely.
+
+It is more natural for programmers to work with pseudo code than any of the other methods.
+
+No rules as such, but it is conventional to declare the end of an IF, WHILE or something else.
+
+
 
 [Go home](/)

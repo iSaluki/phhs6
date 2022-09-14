@@ -22,6 +22,8 @@ Repeating a sequence zero or more times.
 Zero or one sequences that can be chosen from a range of options.
 
 
+A [plan](sixth/CompSci/Programming/Planning) is vital to producing a good program if it has any complexity.
+
 # Worksheet
 
 An algorithm is an umabiguous, repeatable set of instructions that can be followed to complete a task in a finite time.   [*5/5*]

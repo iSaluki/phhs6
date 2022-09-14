@@ -62,4 +62,4 @@ other = "Enter a keyword or page name..."
 other = "Table of Contents"
 
 [copyright]
-other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}. Some content is provided by third-parties (some image resources etc)"
+other = "Made by {{ .name }}, © {{ .year }}. Some content is provided by third-parties (some image resources etc)"

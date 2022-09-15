@@ -107,6 +107,7 @@ The main method used is [Two's Complement](sixth/CompSci/Theory/TwosComplement)
 
 1111000
 
+Advanced numbers and mathematical systems are explained [here](sixth/CompSci/Theory/DataRepFundamentals)
 
 
 [Go home](/) 

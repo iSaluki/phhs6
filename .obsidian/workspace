@@ -139,6 +139,8 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/NumberSystems.md",
+    "content/sixth/CompSci/Theory/DataRepFundamentals.md",
     "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
     "content/sixth/Business/Units/3.1/WhatIsABusiness.md",
     "content/sixth/Business/Units/3.1/WhatIsAStartUp.md",
@@ -146,8 +148,6 @@
     "2022-09-15.md",
     "content/sixth/CompSci/Programming/Planning.md",
     "content/_index.md",
-    "content/templates/post.md",
-    "content/sixth/CompSci/Programming/BuildingBlocks.md",
-    "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md"
+    "content/templates/post.md"
   ]
 }

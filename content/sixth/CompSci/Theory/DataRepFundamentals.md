@@ -94,6 +94,45 @@ The vertical bar (|) represents "such that" and the symbol 𝐸 denoted "belongs
 
 A = {𝑥 𝐸 𝐙 | -2 < 𝑥 < 7}
 
+### Subsets and Supersets
+If every member of A is also present in B, then A is a subset of B. This relationship is also represented as:
+
+A ⊆ B
+
+A super set would be 
+
+A ⊃ B
+![[sixth/CompSci/Theory/img/Pasted image 20220915111406.png]]
+
+Think of substrings, sublists etc
+
+### Cartesian Products
+
+The cartesian product of two sets (P and Q) is written as P x Q and consists of ordered pairs (p,q) where p is a member of set P and q is a member of set Q.
+
+For example, P = {1,3,5,7} and Q = {2,4}, then P x Q = {(1,2), (1,4), (3,2), (3,4), (5,2), (5,4), (7,2), (7,4)}
+
+Used in substrings where there is a set of rules to give the total number of combinations possible. Useful for choosing a scheme for a billion user social site.
+
+### Union
+
+An OR operation between two sets results in the union (∪) of both sets.
+
+### Intersection
+
+The similarities between two sets
+
+### Difference
+
+A / B represents the difference between A and B
+
+### Symmetric Difference/ Disjunctive Union
+
+The resulting set consists of elements that are in either set but not in their intersection. 
+
+A Δ B
+
+
 
 
 [Go home](/)

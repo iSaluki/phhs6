@@ -36,6 +36,8 @@ The shareholders all have limited liability.
 
 A plc is usually a lot bigger than a standard ltd company.
 
+Shareholders have ultimate control over the business - however the majority shareholder, if one exists, has complete control. (Anyone with more than 50% of shares.)
+
 Here are some Plcs:
 
 - Admiral Group Plc

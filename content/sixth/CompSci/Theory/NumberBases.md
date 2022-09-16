@@ -88,10 +88,17 @@ A 16-bit system can represent integers up to 2^16
 7) How many binary combinations are possible in a 5-bit system?
 - 2^5 (32) ✅
 8) What number does an odd number end with when represented in the binary system?
-- 1
+- 1 ✅
 9) An 8-bit system can represent up to what integer?
-- 255
+- 255 ✅
 10) What is the sum of 1011 and 0010?
+- 1101 ✅
+11) What is the denary equivalent for the binary number 1101?
+- 13 ✅
+12) What is denary equivalent for the binary number 11001?
+- 25 ✅
+13) What is the denary equivalent of the binary number 10111011?
+- 187 ✅
 
 ## Overflow Errors
 A CPU with an 8-bit register has a capacity of up to 111111111 in binary. If an extra bit is added, we get an overflow error.
@@ -115,7 +122,7 @@ To divide a 16-bit number by 2 in an 8-bit processor:
 - Shift the contents of Reg A to the right
 - Perform a circular right shift in Reg B
 
-
+There is a Carry Bit - which is a seperate part of memory where we can hold a bit for carrying operations.
 
 
 [Go home](/)

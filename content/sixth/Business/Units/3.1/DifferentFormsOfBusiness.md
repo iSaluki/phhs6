@@ -92,5 +92,37 @@ Private limited companies tend to be smaller businesses, however there is no lim
 - Radius Payment Solutions Ltd
 - Bet365
 
+## Business Research: Partnership
+
+A partnership is usually a smaller business, owned by a group of partners who usually all have specialisations in an area.
+
+We frequently see partnerships operating as a firms such as solicitors, lawyers, dentists etc. The business is professional, but geared up to run at a relatively small scale.
+
+### Advantages:
+
+- deed of partnership can specify what profits each partner gets
+- they are quick and easy to setup
+- the owners have shared decision making
+- debt responsibility is split between owners
+
+### Disadvantages:
+- they can involve very long hours
+- conflict among owners can occur
+- there is the risk of unlimited liability
+- one partner may let the rest down if they don't uphold the standards of the business
+
+All partners have shared control.
+
+Finance is provided by the partners, and profit is split between them. The "deed of partnership" denotes the specifics of this.
+
+The business has unlimited liability - putting the partners at high risk.
+
+Typically, partnerships are small and do not grow much.
+
+### Examples:
+
+- JBW law
+- High Street dental practice
+- Merstow Green Medical Practice 
 
 [Go home](/)

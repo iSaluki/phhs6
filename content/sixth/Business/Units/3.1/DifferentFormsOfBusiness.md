@@ -73,7 +73,15 @@ Within a private limited company, the decision making is usually more central th
 
 Control is very central, as the owner of the business may choose to keep the whole organisation under their sole control, or delegate it as they choose.
 
-Corporation tax needs to be funded
+Corporation tax needs to be paid based on profits - meaning that the company may struggle to keep a positive balance.
+
+The business is incorporated, and liability is limited - so the owners are protected from having their personal assets lost if something goes wrong with the business.
+
+Private limited companies tend to be smaller businesses, however there is no limit to the size of a ltd company - so some of them are very big. 
+
+### Examples:
+
+- 
 
 
 [Go home](/)

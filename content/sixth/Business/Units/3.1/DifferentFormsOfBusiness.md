@@ -49,5 +49,10 @@ Here are some Plcs:
 - Shell plc
 - Tesco plc
 
+## Business Research: Private Limited Companies
+
+Private limited companies can be really small all the way up to a large business. It is the simplest way to form a limited liability company and it has fairly low costs and requirements.
+
+It only costs £25 to register the company and needs shares to be assigned (if that method is used - persons of signifcant control can also be assigned). A ltd company is typically owned by one (or few) people who set it up. Shares are typically only owned by people directly involved with the company - and share capital is not usually a main source of finance.
 
 [Go home](/)

@@ -81,7 +81,16 @@ Private limited companies tend to be smaller businesses, however there is no lim
 
 ### Examples:
 
-- 
+- Contract West Limited
+- The Mill at Harvington Limited
+- Arrowtrack Limited
+- B Car Service Limited
+- Jacana Produce Limited
+- INEOS
+- Home Bargains
+- Thames Water
+- Radius Payment Solutions Ltd
+- Bet365
 
 
 [Go home](/)

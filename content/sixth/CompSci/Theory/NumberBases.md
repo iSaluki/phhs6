@@ -93,11 +93,28 @@ A 16-bit system can represent integers up to 2^16
 - 255
 10) What is the sum of 1011 and 0010?
 
-
 ## Overflow Errors
 A CPU with an 8-bit register has a capacity of up to 111111111 in binary. If an extra bit is added, we get an overflow error.
 
 The number of bits a register can hold is called the word size. Exceeding the capacity of the word size will cause a failure with an overflow error.
+
+Sometimes you will get a wrong number, or you may get a system issue where the computer fetches something else from RAM - issuing random commands. 
+
+## Binary Shifts for Multiplication
+Shifting the number 132 to the left is effectively multiplying it by 2, resulting in the value of 264.
+
+## Binary Shifts for Division
+Shifting the number 171 right will divide to 85 - which is incorrect because 85.5 would be the exact answer. This is why we need floating point handling.
+
+Circular right shifts exist to maintain number length in binary representation. So when shifting right, a zero will be moved to the leftmost part of the number. 
+
+A larger number can be stored across multiple numbers. So a 16-bit number can be stored across 2 8-bit registers.
+
+To divide a 16-bit number by 2 in an 8-bit processor:
+
+- Shift the contents of Reg A to the right
+- Perform a circular right shift in Reg B
+
 
 
 

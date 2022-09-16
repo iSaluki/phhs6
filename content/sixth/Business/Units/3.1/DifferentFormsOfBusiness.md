@@ -125,4 +125,20 @@ Typically, partnerships are small and do not grow much.
 - High Street dental practice
 - Merstow Green Medical Practice 
 
+## Business Research: Sole Trader
+A sole trader is a common form of business where the owner of the business is the same legal entity as the business. They have unlimited liability, and fairly little legal protection. 
+
+A sole trader is owned by a single person who runs the business.
+
+All of the decision making is made by the singular owner.
+
+### Advantages
+- absolute control to the owner
+- still a legal business, can hire employees etc
+- lower turnover may remove VAT requirements
+
+### Disadvantages
+- unlimited liability
+- personal assets at risk
+
 [Go home](/)

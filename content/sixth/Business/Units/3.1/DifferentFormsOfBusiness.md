@@ -55,4 +55,25 @@ Private limited companies can be really small all the way up to a large business
 
 It only costs £25 to register the company and needs shares to be assigned (if that method is used - persons of signifcant control can also be assigned). A ltd company is typically owned by one (or few) people who set it up. Shares are typically only owned by people directly involved with the company - and share capital is not usually a main source of finance.
 
+Within a private limited company, the decision making is usually more central than with the typically larger plc. This is because in a private limited company, management is typically much smaller, possibly consisting of a single person. Therefore, a ltd is going to run more like a dictatorship, as one person *could* definitely have complete control over everything.
+
+### Advantages:
+
+- owners have limited liability
+- individuals have the opportunity to become their own boss
+- new shareholders must be invited, preventing hostile takeover and divergence of interests.
+- shares can still be sold to raise money
+
+### Disadvantages:
+
+- there is frequently a lot of paperwork
+- sometimes financial information may end up being public
+- setup can be time consuming
+- the business may require professional help to manage finances
+
+Control is very central, as the owner of the business may choose to keep the whole organisation under their sole control, or delegate it as they choose.
+
+Corporation tax needs to be funded
+
+
 [Go home](/)

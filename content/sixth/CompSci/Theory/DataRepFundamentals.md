@@ -133,6 +133,6 @@ The resulting set consists of elements that are in either set but not in their i
 A Δ B
 
 
-
+[Storing this as binary](sixth/CompSci/Theory/NumberBases)
 
 [Go home](/)

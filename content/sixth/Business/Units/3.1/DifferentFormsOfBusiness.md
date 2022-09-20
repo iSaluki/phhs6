@@ -151,6 +151,23 @@ The board typically aims to get a return on the shareholder's investments into t
 
 In many smaller **ltd** companies, the same people will be shareholders, board members and senior managers in the organisation.
 
+---
 
+## Unincorporated vs Incorporated
+
+### Unincorporated
+- the owner **is** the business - no legal differences
+- owner has unlimited liability for business actions (including debt)
+- most unincorporated businesses operate as sole traders
+
+### Incorporated
+- legal difference between the business and the owners
+- owners/shareholders have limited liability
+- most incorporated businesses operate as private limited companies
+
+### Setting up a plc
+![[sixth/Business/Units/3.1/img/Pasted image 20220920140004.png]]
+### Setting up a ltd
+![[sixth/Business/Units/3.1/img/Pasted image 20220920140040.png]]
 
 [Go home](/)

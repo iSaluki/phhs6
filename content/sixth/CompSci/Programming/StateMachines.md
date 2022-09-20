@@ -13,4 +13,13 @@ The system must have a known (finite) number of states.
 
 FSMs can be converted into a circuit, meaning that they can be used to control things such as traffic lights without the need for actual code.
 
+![[sixth/CompSci/Programming/img/Pasted image 20220920145051.png]]
+States are connected by transitions (arrows). Transitions should be labelled with the trigger for the transition.
+
+They can be useful for debugging an algorithm or representing it in a way that people who don't work with code will be able to understand more easily. Start can be inidcated with an -> coming from nothing.
+
+
+
+
+
 [Go home](/)

@@ -19,6 +19,7 @@ States are connected by transitions (arrows). Transitions should be labelled wit
 They can be useful for debugging an algorithm or representing it in a way that people who don't work with code will be able to understand more easily. Start can be inidcated with an -> coming from nothing.
 
 
+![[sixth/CompSci/Programming/img/doorbell.drawio.png]]
 
 
 

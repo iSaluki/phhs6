@@ -141,4 +141,16 @@ All of the decision making is made by the singular owner.
 - unlimited liability
 - personal assets at risk
 
+---
+
+Shareholders in **plc** and **ltd** companies can appoint a **Board of Directors** to make the decisions when it comes to running the business. The board appoints management staff of the business.
+
+Every year, an annual general meeting (AGM) happens for any business. During this time, all shareholders may attend and vote to appoint the board of directors. Shareholder's influence over the vote is dictated by the percentage of shares that they own in the company.
+
+The board typically aims to get a return on the shareholder's investments into the business.
+
+In many smaller **ltd** companies, the same people will be shareholders, board members and senior managers in the organisation.
+
+
+
 [Go home](/)

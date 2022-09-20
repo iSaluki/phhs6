@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/sixth/CompSci/Theory/NumberBases.md",
+            "file": "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/NumberBases.md",
+                "file": "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/NumberBases.md",
+                "file": "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/NumberBases.md"
+                "file": "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/DataRepFundamentals.md",
+    "content/sixth/Business/Units/3.1/UnderstandingDifferentForms.md",
+    "content/sixth/Business/Units/3.1/WhatIsABusiness.md",
     "content/sixth/CompSci/Theory/NumberBases.md",
+    "content/sixth/CompSci/Theory/DataRepFundamentals.md",
     "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
     "content/sixth/CompSci/Theory/NumberSystems.md",
-    "content/sixth/Business/Units/3.1/WhatIsABusiness.md",
     "content/sixth/Business/Units/3.1/WhatIsAStartUp.md",
     "content/sixth/Business/Units/3.1/BusinessObjectives.md",
     "2022-09-15.md",
-    "content/sixth/CompSci/Programming/Planning.md",
-    "content/_index.md"
+    "content/sixth/CompSci/Programming/Planning.md"
   ]
 }

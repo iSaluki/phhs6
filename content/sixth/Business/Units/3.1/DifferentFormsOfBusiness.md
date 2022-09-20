@@ -170,4 +170,11 @@ In many smaller **ltd** companies, the same people will be shareholders, board m
 ### Setting up a ltd
 ![[sixth/Business/Units/3.1/img/Pasted image 20220920140040.png]]
 
+---
+Limited companies have significantly more paperwork than unlimited companies. Accounts will be made public and avaliable for anyone who wants to access them, in a plc. Ltds will not have to have their accounts published.
+
+Investors look for a return on their investment when they buy shares in a business. They would earn money back from dividends - or shares of the company profits.
+
+Dividends can be paid annually or as interim dividends.
+
 [Go home](/)

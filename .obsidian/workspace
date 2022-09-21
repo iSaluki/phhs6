@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/sixth/Biology/Cells/UsingALightMicroscope.md",
+            "file": "content/sixth/Biology/Cells/CellTheory.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Cells/UsingALightMicroscope.md",
+                "file": "content/sixth/Biology/Cells/CellTheory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Cells/UsingALightMicroscope.md",
+                "file": "content/sixth/Biology/Cells/CellTheory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Cells/UsingALightMicroscope.md"
+                "file": "content/sixth/Biology/Cells/CellTheory.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
-    "content/sixth/Biology/Cells/CellTheory.md",
     "content/sixth/Biology/Cells/Organelles.md",
-    "content/sixth/Biology/Cells/2022-09-08-110558.jpg",
+    "content/sixth/Biology/Cells/CellTheory.md",
     "content/sixth/Biology/Cells/Cytoskeleton.md",
+    "content/sixth/Biology/Cells/PlantCells.md",
+    "content/sixth/Biology/Cells/UsingALightMicroscope.md",
+    "content/sixth/Biology/Cells/2022-09-08-110558.jpg",
     "content/sixth/Biology/Cells/img/2022-09-08-110457.jpg",
     "content/sixth/Biology/Cells/img/2022-09-08-110511.jpg",
     "content/sixth/Biology/Cells/img/2022-09-08-110558.jpg",
-    "content/sixth/Biology/Cells/PlantCells.md",
-    "content/sixth/CompSci/Programming/Modules.md",
-    "content/sixth/CompSci/Programming/StateMachines.md"
+    "content/sixth/CompSci/Programming/Modules.md"
   ]
 }

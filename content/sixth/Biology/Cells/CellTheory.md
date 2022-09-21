@@ -4,6 +4,8 @@ tags:
 - biology
 ---
 
+Cell theory is the basic foundation on which our understanding of cells is built.
+
 ## The discovery of cell theory over time
 
 **Robert Hooke** - 1665
@@ -17,7 +19,7 @@ tags:
 
 **Robert Brown** - 1833
 
-- Discovered the nucleus in plant cells
+- Discovered the [nucleus](sixth/Biology/Cells/Organelles#nucleus) in plant cells
 
 **Matthias Schleiden** - 1838
 

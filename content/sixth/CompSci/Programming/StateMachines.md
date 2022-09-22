@@ -100,6 +100,7 @@ Eg
 | S19           | Letter            | S21        |
 | S21           | Any character     | S12        |
 | S12           | Any character     | S12        |
+* Not all possible routes are listed in the above table
 
 
 [Go home](/)

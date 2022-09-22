@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/private/CJK + Latex Support (测试).md",
+            "file": "content/sixth/CompSci/Programming/StateMachines.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/CJK + Latex Support (测试).md",
+                "file": "content/sixth/CompSci/Programming/StateMachines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/CJK + Latex Support (测试).md",
+                "file": "content/sixth/CompSci/Programming/StateMachines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/private/CJK + Latex Support (测试).md"
+                "file": "content/sixth/CompSci/Programming/StateMachines.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
+    "Pasted image 20220922120610.png",
+    "content/sixth/CompSci/Programming/StateMachines.md",
+    "content/private/images/github-actions.png",
+    "content/private/images/github-pages.png",
+    "content/private/images/obsidian-settings.png",
+    "content/private/images/google-domains.png",
+    "content/private/CJK + Latex Support (测试).md",
     "content/private/hosting.md",
     "content/private/obsidian.md",
-    "content/private/showcase.md",
-    "content/private/setup.md",
-    "content/private/preview changes.md",
-    "content/private/philosophy.md",
-    "content/private/updating.md",
-    "content/private/search.md",
-    "content/privacy.md",
-    "content/private/callouts.md"
+    "content/private/showcase.md"
   ]
 }

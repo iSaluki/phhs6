@@ -71,4 +71,35 @@ Eg
 ## State Transition Practice
 
 ![[sixth/CompSci/Programming/img/transitionpractice.png]]
+
+| Current State | Input             | Next State |
+|---------------|-------------------|------------|
+|               |                   |            |
+| S1            | I                 | S2         |
+| S2            | P                 | S3         |
+| S3            | 1\|2\|3\|4        | S4         |
+| S4            | Numeric Digit     | S6         |
+| S6            | Numeric Digit     | S7         |
+| S7            | Letter            | S9         |
+| S9            | Letter            | S11        |
+| S11           | -                 | -          |
+|               |                   |            |
+| S1            | I                 | S2         |
+| S2            | Letter (except P) | S13        |
+| S13           | Numeric Digit     | S16        |
+| S16           | Numeric Digit     | S17        |
+| S17           | Letter            | S19        |
+| S19           | Letter            | S21        |
+| S21           | -                 | -          |
+|               |                   |            |
+| S1            | Letter (except I) | S14        |
+| S14           | Numeric Digit     | S16        |
+| S16           | Letter            | S22        |
+| S22           | Numeric Digit     | S23        |
+| S23           | Letter            | S19        |
+| S19           | Letter            | S21        |
+| S21           | Any character     | S12        |
+| S12           | Any character     | S12        |
+
+
 [Go home](/)

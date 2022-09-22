@@ -70,11 +70,10 @@ Eg
 
 ## State Transition Practice
 
-![[sixth/CompSci/Programming/img/transitionpractice.png]]
+	![[sixth/CompSci/Programming/img/transitionpractice.png]]
 
 | Current State | Input             | Next State |
 |---------------|-------------------|------------|
-|               |                   |            |
 | S1            | I                 | S2         |
 | S2            | P                 | S3         |
 | S3            | 1\|2\|3\|4        | S4         |

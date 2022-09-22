@@ -101,5 +101,11 @@ Eg
 | S12           | Any character     | S12        |
 * Not all possible routes are listed in the above table
 
+## Flowchart, Pseudo Code of Finite State Machine?
+
+- Flowcharts are a great way to present information to non-specialists
+- Pseudo code is great if your audience are programmers
+- Finite State Machines are best suited to control systems
+
 
 [Go home](/)

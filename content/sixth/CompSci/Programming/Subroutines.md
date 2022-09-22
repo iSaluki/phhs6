@@ -9,7 +9,7 @@ Instead of writing a huge, monolithic piece of code, you can break a program dow
 
 It is much easier to solve a problem by breaking it down into subroutines.
 
-All subroutines are reusable, meaning that if you write a utility to authenticate a user, you can call the same subroutine from multiple places, keeping code tidy and reducing time wasting.
+All subroutines are reusable, meaning that if you write a utility to authenticate a user, you can call the same subroutine from multiple places, keeping code tidy and reducing time-wasting.
 
 Here is an example subroutine written in Python:
 

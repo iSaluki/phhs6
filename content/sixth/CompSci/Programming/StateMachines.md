@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Finite State Machines
- An FSM shows the states in which a system can exist, what causes the system to move from one state to another and what outputs or chages the transition causes.
+ An FSM shows the states in which a system can exist, what causes the system to move from one state to another, and what outputs or changes the transition causes.
 
 The system must have a known (finite) number of states.
 
@@ -16,7 +16,7 @@ FSMs can be converted into a circuit, meaning that they can be used to control t
 ![[sixth/CompSci/Programming/img/Pasted image 20220920145051.png]]
 States are connected by transitions (arrows). Transitions should be labelled with the trigger for the transition.
 
-They can be useful for debugging an algorithm or representing it in a way that people who don't work with code will be able to understand more easily. Start can be inidcated with an -> coming from nothing.
+They can be useful for debugging an algorithm or representing it in a way that people who don't work with code will be able to understand more easily. Start can be indicated with an -> coming from nothing.
 
 
 ![[sixth/CompSci/Programming/img/doorbell.drawio.png]]
@@ -25,7 +25,7 @@ They can be useful for debugging an algorithm or representing it in a way that p
 ## Mealy vs Moore Machine
 
 ### Mealy Machine
-The output is determined by it's current state and current inputs.
+The output is determined by its current state and current inputs.
 
 ### Moore Machine
 The output is determined solely by the current state.
@@ -107,5 +107,15 @@ Eg
 - Pseudo code is great if your audience are programmers
 - Finite State Machines are best suited to control systems
 
+## Natural Languages vs Formal Languages
+
+A natural language is your typical-spoken language - English or Spanish are good examples. They are ambiguous and can be interpreted in multiple ways.
+
+Whereas a formal language is like a formula in maths or science and programming languages. It can only be interpreted in a single way and is very rigid.
+
+
+### Algorithms
+
+Typically, an algorithm will use a formal language (or will be much closer to formal than natural). A recipe is an example of an algorithm that can be represented using natural languages, with a more formal structure. A recipe can be misinterpreted, a program cannot.
 
 [Go home](/)

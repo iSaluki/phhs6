@@ -40,14 +40,14 @@ Eg
 
 ![[sixth/CompSci/Programming/img/mooremealy.png]]
 
-```markdown
+
 | Current State | Input | Next State |
 |---------------|-------|------------|
 | Se            | 0     | Se         |
 | Se            | 1     | So         |
 | So            | 0     | So         |
 | Se            | 1     | Se         |
-```
+
 
 
 ### Producing a table
@@ -55,7 +55,7 @@ Eg
 ![[sixth/CompSci/Programming/img/haveago.png]]
 
 
-```markdown
+
 | Current State | Input | Next State |
 |---------------|-------|------------|
 | S0            | a     | S1         |
@@ -66,7 +66,7 @@ Eg
 | S3            | -     | -          |
 | S0            | c     | S0         |
 | S0            | b     | S3         |
-```
+
 
 ## State Transition Practice
 

@@ -1,5 +1,8 @@
 {
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Eg"
+  ]
 }

@@ -1,7 +1,7 @@
 ---
 title: "Stakeholders"
 tags:
-- buisness
+- business
 ---
 
 A **stakeholder** is anybody with an interest in the business.

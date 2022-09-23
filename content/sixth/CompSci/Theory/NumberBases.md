@@ -202,9 +202,11 @@ Sign and magnitude are combined to make a binary number that can be positive (+)
 ˯
 1011
 
-Work right to left
-Leave first one untouched
-Invert all additional characters
+- Work right to left
+
+- Leave first one untouched
+
+- Invert all additional characters
 
 +102
 
@@ -224,5 +226,7 @@ Invert all additional characters
 
 -102
 
+
+When dealing with Two's Complement, the overflow bit should always be discarded.
 
 [Go home](/)

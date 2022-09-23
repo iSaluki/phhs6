@@ -124,5 +124,105 @@ To divide a 16-bit number by 2 in an 8-bit processor:
 
 There is a Carry Bit - which is a seperate part of memory where we can hold a bit for carrying operations.
 
+---
+## Recall
+1) 2^5-1 = 31 (32 total numbers)
+2) 98 -> 8 bit bin
+01100100
+3) 01100110 -> den
+102
+4) 00100100 * 6 
+11011000
+5) 11001100/8
+00110011 *(inc)*
+
+
+## Bitwise Operations
+The logic operations are:
+
+- NOT: Complements the binary value
+- AND: Produces the output '1' only when both inputs are '1'
+- OR: Produces output '1' when at least 1 of the outputs is '1'
+- XOR: Produces output '1' when both the outputs are different, otherwise produces '0'
+
+## Representing negative numbers in binary
+Sign and magnitude are combined to make a binary number that can be positive (+) or negative (-).
+
+12:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 0 | 0  | 0  | 0  | 1 | 1 | 0 | 0 |
+39:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 0 | 0  | 1  | 0  | 0 | 1 | 1 | 1 |
+96:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 0 | 1  | 1  | 0  | 0 | 0 | 0 | 0 |
+85:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 0 | 1  | 0  | 1  | 0 | 0 | 1 | 1 |
+127:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 0 | 1  | 1  | 1  | 1 | 1 | 1 | 1 |
+
+-12:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 1 | 0  | 0  | 0  | 1 | 1 | 0 | 0 |
+
+-39:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 1 | 0  | 1  | 0  | 0 | 1 | 1 | 1 |
+
+-96:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 1 | 1  | 1  | 0  | 0 | 0 | 0 | 0 |
+
+-85:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 1 | 1  | 0  | 1  | 0 | 0 | 1 | 1 |
+
+-127:
+| SIGN    | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|---------|----|----|----|---|---|---|---|
+| 1 | 1  | 1  | 1  | 1 | 1 | 1 | 1 |
+
+## Finding Two's Complement
+- Finding two's complement is an alternative method to represent negative numbers
+- Most computers use this method to perform mathematical operations
+
+0101
+˯
+1011
+
+Work right to left
+Leave first one untouched
+Invert all additional characters
+
++102
+
+011000000
+˯
+10000000
+
++63
+0111111
+˯
+1100001
+
++127
+1111111
+˯
+10000001
+
+-102
+
 
 [Go home](/)

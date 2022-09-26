@@ -40,5 +40,43 @@ Stakeholder needs should be considered when making decisions. This can help to a
 
 ![[sixth/Business/Units/3.2/img/Pasted image 20220923144942.png]]
 
+---
+
+| Stakeholder           | Example of needs    |
+| --------------------- | ------------------- |
+| Customers             | Product or service  |
+| Employees             | Good pay            |
+| Shareholders          | Dividend Payments   |
+| Government            | Tax and Regulations |
+| Community             | Respect local area  | 
+| Suppliers             | Frequent sales      |
+| Financial Institution | Loan repayments     |
+
+## Influences on the relationship with stakeholders
+
+- Leadership style
+- Mission and objectives including:
+	- Financial
+	- Social
+	- Ethical
+	- Environmental
+- Stakeholder power and interest
+- Market conditions including competition
+- External influences (eg, legislation)
+- Business Form
+
+
+## Decision-making
+
+### Hunch
+- Based on intuition, gut feel and experience
+- Key benefit - very quick!
+- But hard to justify for business decisions involving significant risk.
+
+### Scientific
+- Based on data and analysis
+- Downside: time-consuming and costly; no guarantee of the right decision.
+- Increasingly common and automated, supported by Big Data and data analytics
+
 
 [Go home](/)

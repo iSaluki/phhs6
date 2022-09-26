@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/sixth/Business/Units/3.2/Stakeholders.md",
+            "file": "content/sixth/CompSci/Theory/TwosComplement.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/Stakeholders.md",
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/Stakeholders.md",
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/3.2/Stakeholders.md"
+                "file": "content/sixth/CompSci/Theory/TwosComplement.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/NumberBases.md",
-    "content/sixth/CompSci/Programming/Programming.md",
-    "content/sixth/CompSci/Programming/BuildingBlocks.md",
-    "content/sixth/CompSci/Programming/Planning.md",
-    "content/sixth/CompSci/Programming/Subroutines.md",
-    "content/sixth/CompSci/Programming/StateMachines.md",
-    "Pasted image 20220922120610.png",
-    "content/private/images/github-actions.png",
-    "content/private/images/github-pages.png",
-    "content/private/images/obsidian-settings.png"
+    "content/sixth/Business/Units/3.2/Stakeholders.md",
+    "content/sixth/Business/Units/3.1/WhatIsABusiness.md",
+    "content/sixth/Business/Units/3.1/BusinessObjectives.md",
+    "content/sixth/Business/Units/3.1/DifferentFormsOfBusiness.md",
+    "content/sixth/Business/Units/3.1/WhatIsAStartUp.md",
+    "content/sixth/Business/Units/3.2/CaseStudyPerfectPaper.md",
+    "content/sixth/Business/Units/3.2/LeadershipOrManagement.md",
+    "content/sixth/Business/Units/3.2/LeadershipStyles.md",
+    "content/sixth/Business/Units/3.2/ManagementAndLeadership.md",
+    "content/sixth/CompSci/Theory/NumberBases.md"
   ]
 }

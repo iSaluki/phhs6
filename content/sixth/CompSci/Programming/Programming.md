@@ -95,7 +95,7 @@ Assembly has a 1:1 equivalence with machine code. It is the exact same, just rep
 - Errors fit into three classifications
 	- Syntax Errors: the grammar of the statement is wrong
 	- Runtime Errors: the program has received some wrong data that it cannot process
-	- Semantic Errors: the program gives the wrong result.
+	- Semantic Errors (logica errors): the program gives the wrong result.
 
 
 [Go home](/)

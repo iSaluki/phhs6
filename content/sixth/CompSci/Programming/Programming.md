@@ -73,5 +73,29 @@ Similarly, the website [RosettaCode.org](https://rosettacode.org/wiki/Rosetta_Co
 | **Combine**     | Linker         | Linker          | Linker (usually automated) Interpreter bypasses linker |
 | **Executable**  | Machine Code   | Machine Code    | Machine Code                                           |
 
+Assembly has a 1:1 equivalence with machine code. It is the exact same, just represented with keywords rather than binary.
+
+## Compiler or Interpreter
+
+- Compiler
+	- The source code is translated into object code
+	- This only needs to be done once
+	- The result is machine code that will run very quickly
+	- No other software is needed to be supplied to the user
+- Interpreter
+	- The source code is interpreted by a special program at run time.
+		- The source code, effectively, calls upon pre-built routines in the interpreter.
+	- This must be done every time the program is run
+	- Interpreted programs do not execute as quickly as compiled code.
+	- You must provide the end user with a copy of the interpreter AND your source code.
+
+## Errors
+- When writing code, we should expect a few errors
+
+- Errors fit into three classifications
+	- Syntax Errors: the grammar of the statement is wrong
+	- Runtime Errors: the program has received some wrong data that it cannot process
+	- Semantic Errors: the program gives the wrong result.
+
 
 [Go home](/)

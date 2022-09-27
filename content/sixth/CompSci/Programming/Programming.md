@@ -95,7 +95,15 @@ Assembly has a 1:1 equivalence with machine code. It is the exact same, just rep
 - Errors fit into three classifications
 	- Syntax Errors: the grammar of the statement is wrong
 	- Runtime Errors: the program has received some wrong data that it cannot process
-	- Semantic Errors (logica errors): the program gives the wrong result.
+	- Semantic Errors (logical errors): the program gives the wrong result.
 
+## Exceptions
+- Exceptions happen when something exceptional (unexpected) happens.
+- This is often an error, although it doesn't mean the error is unexpected
+	- The programmer can write exception handling routines to deal with these situations
+- Throwing, catching and fatal errors.
+	- When an exception happens, we describe this as throwing an error.
+	- Having a routine to deal with it is called catching an error.
+	- A fatal error would be an error that is thrown but for which there is no catch routine.
 
 [Go home](/)

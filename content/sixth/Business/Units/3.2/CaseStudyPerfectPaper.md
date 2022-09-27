@@ -7,12 +7,13 @@ tags:
 
 ## With reference to the Tannenbaum Schmidt continuum and Blake Mouton Grid, analyze what type of manager Jayne is. (9m)
 
-Jayne has received instructions from her superiors and has made a decision to remedy the situation. However, when interacting with her employees, whilst she does listen to feedback she does not take it on board. To make this work, she likely has to compromise with her subordinates to keep morale up. This places Jayne on the **Task Manager** corner of the Blake Mouton Grid - giving her a significant focus on achieving goals above anything else. Jayne does not adapt her plans based on the requests of her employees. She is told that some staff may not be happy with travelling long distances (such as Scotland to London) for various reasons, including them being parents of young children. Whilst she does justify her decision as helping to prevent redundancies - she does not adapt it.
+Jayne has received instructions from her superiors and has made a decision to remedy the situation. However, when interacting with her employees, whilst she does listen to feedback, she does not take it on board. To make this work, she likely has to compromise with her subordinates to keep morale up. This places Jayne on the **Task Manager** corner of the Blake Mouton Grid - giving her a significant focus on achieving goals above anything else. Jayne does not adapt her plans based on the requests of her employees. She is told that some staff members may not be happy with travelling long distances (such as Scotland to London) for various reasons, including them being parents of young children. Whilst she does justify her decision as helping to prevent redundancies - she does not adapt it.
 
-In a similar sense, she falls under the authoritarian segment of the tannenbaum schmidt continuum. This is because she has centralised the decision making process, and is giving very little control to the people who her decision will impact. 
+In a similar sense, she falls under the authoritarian segment of the tannenbaum schmidt continuum. This is because she has centralized the decision-making process, and is giving very little control to the people who her decision will impact. 
 
 This does not make Jayne a bad manager, however it does mean people may not feel comfortable around her or taking their problems to her. But at the end of the day, Jayne is not trying to create a Paternalistic environment, all she is focused on is the results. If she can get good results, then her subordinates keep their jobs and everyone can be happy. Because of this, Jayne could be seen as a good manager, but one that works employees hard.
 
+**Feedback:** Tells or Sells? First paragraph is strong, tannenbaum schmidt needs to be more precise.
 
 ## To what extent might a change in Jayne's leadership style improve sales volume? (16m)
 
@@ -24,6 +25,7 @@ Despite all the potential positives of a more relaxed management style, her curr
 
 In conclusion, Jayne may be perfectly fine where things are - and would be taking the least risk by changing nothing. However, moving towards greater employee freedom may be incredibly beneficial and boost productivity more than Jayne could manage under her authoritarian style. The problem with a new approach is that the outcome is unknown - so the risk is high.
 
+**Feedback:** Good understanding. To get higher marks, make less points and go into more detail. Also needs evaluation.
 
 ## Leadership Styles Research
 

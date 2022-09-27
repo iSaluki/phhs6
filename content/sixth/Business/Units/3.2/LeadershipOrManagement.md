@@ -72,4 +72,8 @@ Compromises made to achieve acceptable performance; thought to be the less effec
 
 Medium concern for people and task.
 
+---
+
+Good decisions should be made with consideration towards [stakeholders](sixth/Business/Units/3.2/Stakeholders).
+
 [Go home](/)

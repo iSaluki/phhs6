@@ -106,4 +106,31 @@ Assembly has a 1:1 equivalence with machine code. It is the exact same, just rep
 	- Having a routine to deal with it is called catching an error.
 	- A fatal error would be an error that is thrown but for which there is no catch routine.
 
+- When an error gets thrown:
+	- The current process gets suspended.
+	- The exception handling routine is called—if it exists.
+		- If there is none, the program crashes.
+- The original routine is restored.
+
+![[sixth/CompSci/Programming/img/Pasted image 20220928120809.png]]
+The above diagram shows the flow if the exception is caught. If it is uncaught, then it will just crash.
+
+## Development Lifecycle
+
+- Initiation—what needs to happen. 
+- Feasibility study—can I solve this problem? Is it affordable?
+- Analysis—what is the problem? Legal limitations?
+- Planning—how are we going to achieve the goal? What needs changing? Who is doing what?
+- Design—Creating flowcharts, pseudocode, FSMs etc.
+- Development—Writing the code, creating databases etc
+- Installation/ roll-out—Put everything into a production environment, ensure it is working.
+- Training—Make sure the people who need to use the product can use the product.
+- Maintenance—Fixing issues, ensuring performance and security are up to standard. Keeping the system ticking over.
+
+This is not a rigid list, not everyone uses every stage, and not everybody does them in the order used here. Some people may collapse stages into larger categories.
+
+You can go back through phases if an issue arises.
+
+
+
 [Go home](/)

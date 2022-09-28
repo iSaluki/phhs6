@@ -16,7 +16,7 @@ tags:
 - Intelligence (EQ/IQ)
 - And many others
 
-Different kinds of leader [(leadership styles)](sixth/Business/Units/3.2/LeadershipStyles) will show different leadership skills to complement their style.
+Different kinds of leader [(leadership styles)](sixth/Business/Units/nd/LeadershipStyles.md) will show different leadership skills to complement their style.
 
 The traditional view of good leadership (Victorian) is that you will take *Command and Control* and be good at *Decision-making*. However, the more modern view is that a leader will:
 
@@ -34,7 +34,7 @@ As you move along the continuum, it moves from the manager telling staff what to
 
 The extremes of the spectrum are Manager-centered leadership and subordinate centered leadership.
 
-![[sixth/Business/Units/3.2/img/Pasted image 20220912151118.png]]
+![[content/sixth/Business/Units/nd/img/Pasted image 20220912151118.png]]
 *Tell, sell, consult, joins*
 
 **Tells**: Leader identifies problems, makes decisions and announces to subordinates.
@@ -45,6 +45,6 @@ The extremes of the spectrum are Manager-centered leadership and subordinate cen
 
 **Joins**: Leader defines problems and leaves the staff to decide on a solution.
 
-To compare, see [Leadership or Management](sixth/Business/Units/3.2/LeadershipOrManagement)
+To compare, see [Leadership or Management](sixth/Business/Units/nd/LeadershipOrManagement.md)
 
 [Go home](/)

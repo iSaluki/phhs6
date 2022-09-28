@@ -13,7 +13,7 @@ Goods are physical products that can be traded.
 
 Services are intangible products, a task is fulfilled by a business to save someone without the time, expertise or the equipment the effort of sorting it out themselves.
 
-They come in many different [forms](sixth/Business/Units/3.1/DifferentFormsOfBusiness)
+They come in many different [forms](sixth/Business/Units/hb/DifferentFormsOfBusiness.md)
 
 ## Benefits to society
 - Sustain economy
@@ -25,6 +25,6 @@ They come in many different [forms](sixth/Business/Units/3.1/DifferentFormsOfBus
 - Increased (international) investment
 
 
-Business's begin their corporate life as a startup, more information on startups can be found [here](sixth/Business/Units/3.1/WhatIsAStartUp)
+Business's begin their corporate life as a startup, more information on startups can be found [here](sixth/Business/Units/hb/WhatIsAStartUp.md)
 
 [Go home](/)

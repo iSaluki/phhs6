@@ -40,7 +40,7 @@ Why is this happening?
 
 ## Blake Mouton Managerial Grid
 
-![[sixth/Business/Units/3.2/img/Pasted image 20220913095215.png]]
+![[content/sixth/Business/Units/nd/img/Pasted image 20220913095215.png]]
 
 The "*Blake Mouton Managerial Grid*" shows how management styles differ between the balance between a concern for people and concern for results.
 
@@ -74,6 +74,6 @@ Medium concern for people and task.
 
 ---
 
-Good decisions should be made with consideration towards [stakeholders](sixth/Business/Units/3.2/Stakeholders).
+Good decisions should be made with consideration towards [stakeholders](sixth/Business/Units/nd/Stakeholders.md).
 
 [Go home](/)

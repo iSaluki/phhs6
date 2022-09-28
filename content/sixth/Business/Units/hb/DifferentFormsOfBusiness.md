@@ -14,7 +14,7 @@ Business forms typically depend upon some of the following factors:
 ## Business Form Mapping
 The private sector is any business that is owned by partners, owners or shareholders.
 
-![[sixth/Business/Units/3.1/img/Pasted image 20220915094507.png]]
+![[content/sixth/Business/Units/hb/img/Pasted image 20220915094507.png]]
 
 **Incorporated:** Private Limited Companies and Public Limited Companies
 
@@ -166,9 +166,9 @@ In many smaller **ltd** companies, the same people will be shareholders, board m
 - most incorporated businesses operate as private limited companies
 
 ### Setting up a plc
-![[sixth/Business/Units/3.1/img/Pasted image 20220920140004.png]]
+![[content/sixth/Business/Units/hb/img/Pasted image 20220920140004.png]]
 ### Setting up a ltd
-![[sixth/Business/Units/3.1/img/Pasted image 20220920140040.png]]
+![[content/sixth/Business/Units/hb/img/Pasted image 20220920140040.png]]
 
 ---
 Limited companies have significantly more paperwork than unlimited companies. Accounts will be made public and avaliable for anyone who wants to access them, in a plc. Ltds will not have to have their accounts published.
@@ -176,5 +176,7 @@ Limited companies have significantly more paperwork than unlimited companies. Ac
 Investors look for a return on their investment when they buy shares in a business. They would earn money back from dividends - or shares of the company profits.
 
 Dividends can be paid annually or as interim dividends.
+
+There are also [Public Sector](sixth/Business/Units/hb/PublicSector) businesses.
 
 [Go home](/)

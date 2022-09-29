@@ -78,4 +78,41 @@ _101100_
 0010101
 0100101
 
+# Hexadecimal
+
+Hex is a base 16 system, each nibble is can be represented with 1 digit.
+
+It is easier to use for humans than basic binary.
+
+The memory location in a computer is stated in hexadecimal form. This makes memory addresses much easier to read.
+
+## Binary to Hexadecimal
+
+Left -> Right
+Numbers are split into 4 bits (nibbles)
+Replace each nibble with a hex equivalent
+
+![[sixth/CompSci/Theory/img/Pasted image 20220929105851.png]]
+
+214
+
+128 64 32 16 8 4  2 1
+1       1    0     1  0  1  1  0
+
+11010110
+
+1101   0110
+D         6
+
+
+10010100
+
+1001 0100
+9        4
+
+ 128 64 32 16 8 4 2 1
+    1    0   0     1   0 1 0 0 
+128 + 16 + 4 = 148
+
+
 [Go home](/)

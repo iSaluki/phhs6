@@ -114,5 +114,29 @@ D         6
     1    0   0     1   0 1 0 0 
 128 + 16 + 4 = 148
 
+## Applications of Hexadecimal
+- Colour representation (#RRGGBB)
+- Errors
+	- Error messages can contain a hex number that contains a memory location to the error
+	- Very beneficial to programmers
+	- Errors can be easily rectified by looking at the code in the particular memory location.
+	- The process in which the contents of the memory is displayed or stored in a specific drive in case of a system crash is called a memory dump.
+	- Programmers must have knowledge of computer architecture
+- MAC addresses
+	- A Media Access Control address refers to the number that the internet that uniquely identifies a device on the Internet.
+	- The address is for the NIC (Network Interface Card)
+	- A MAC address is 48 bits long.
+	- The first half represents an identification number of the manufacturer, and the second half represents the serial number of the device.
+	- There are 2 types of MAC address, UAA and LAA. UAA is set by the manufacturer and the LAA can be set by an individual. UAA is most commonly used.
+	- It is crucial that a UAA is unique.
+	- Occasionally represented in different formats, but always the same actual data.
+- URLs
+	- Used to represent URLs with ASCII.
+	- % is used to denote that hex is being used
+	- Improves security
+- Assembly code and machine code
+	- Hex can refer to memory locations directly
+	- Hex makes low-level programming easier as it reduces the chance of a mistake.
+- HTML
 
 [Go home](/)

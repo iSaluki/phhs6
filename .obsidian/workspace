@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/sixth/Business/Units/fh/ProfitMeasurement.md",
+            "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ProfitMeasurement.md",
+                "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ProfitMeasurement.md",
+                "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ProfitMeasurement.md"
+                "file": "content/sixth/CompSci/Theory/DecimalPoints.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "59da94a389ea6e48",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/sixth/CompSci/Theory/Hex.md",
     "content/sixth/Business/Units/fh/ProfitMeasurement.md",
+    "content/_index.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/fh/DifferentFormsOfBusiness.md",
     "content/sixth/Business/Units/fh/CaseStudyStayingPrivate.md",
     "content/sixth/Business/Units/fh/WhatIsABusiness.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/BusinessOrganisation.md",
-    "content/sixth/Business/Units/nd/Stakeholders.md",
-    "content/sixth/Business/Units/nd/ManagementAndLeadership.md"
+    "content/sixth/Business/Units/nd/Stakeholders.md"
   ]
 }

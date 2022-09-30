@@ -139,4 +139,42 @@ D         6
 	- Hex makes low-level programming easier as it reduces the chance of a mistake.
 - HTML
 
+
+### Recall
+
+
+SIGN 64 32 16 8 4 2 1 
+00011001
+16+8+1 = 25
+
+
++32
+
+00100000
+
+10000110
+
+SIGN+2+4 = -6
+
+01111111
+64+32+16+8+4+2+1
+127
+
+-16
+
+1001000
+
+
+12^10 = 0xC
+
+128^10 = 0x80
+
+250^10 = FA
+
+20^16 = 32
+
+
+
+
+
 [Go home](/)

@@ -4,7 +4,7 @@ tags:
 - business
 ---
 
-![[content/sixth/Business/Units/hb/img/Pasted image 20220914095046.png]]
+![[content/sixth/Business/Units/fh/img/Pasted image 20220914095046.png]]
 *The hierarchy of objectives*
 
 ---

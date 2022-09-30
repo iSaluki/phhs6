@@ -49,7 +49,7 @@ Involving restaurants, supermarkets, food distributors to reach net 0 waste
 The mission statement is the overriding goal of the business. The reason for the business's existence. A strategic perspective or a vision for the future. Excites, inspires, motivates and guides.
 
 
-Continued in [Business Objectives](sixth/Business/Units/hb/BusinessObjectives.md)
+Continued in [Business Objectives](sixth/Business/Units/fh/BusinessObjectives.md)
 
 ## Mission Statements Homework
 

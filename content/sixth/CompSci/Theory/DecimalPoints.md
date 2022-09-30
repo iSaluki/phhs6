@@ -72,5 +72,12 @@ Fixed point binary system:
 1.3 is the mantissa
 
 
+1234 = 0.1234 x 10^4
+
+
+Step 1 ) Find exponent and check sign bit
+
+Step 2 ) Modulate the mantissa by the exponent
+
 
 [Go home](/)

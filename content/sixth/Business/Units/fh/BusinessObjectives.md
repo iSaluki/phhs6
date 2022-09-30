@@ -53,6 +53,8 @@ Increasing sales, revenue or sales. Anything related to directly increasing cash
 
 **Security**: The entrepreneur being able to withdraw enough to be financially stable.
 
+Many financial objectives require attention to be paid to [Pricing](sixth/Business/Units/fh/ProfitMeasurement)
+
 #### Explain non-financial aims
 
 - Not usually linked to monetary success

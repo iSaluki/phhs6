@@ -92,6 +92,8 @@ Private limited companies tend to be smaller businesses, however there is no lim
 - Radius Payment Solutions Ltd
 - Bet365
 
+Businesses considering changing their form, may need to consider some points covered [here.](sixth/Business/Units/fh/CaseStudyStayingPrivate)
+
 ## Business Research: Partnership
 
 A partnership is usually a smaller business, owned by a group of partners who usually all have specialisations in an area.

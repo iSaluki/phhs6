@@ -50,6 +50,17 @@ Some examples of costs include:
 - running costs
 - administrative costs
 
+Overall, costs can be split into 2 categories -**variable** and **fixed**. A fixed cost does not change based on output, an example of fixed costs is salaries, rent and administrative costs.
+
+Variable costs are costs that do change with output. Examples include raw materials, wages (if hours fluctuate or are piece rate), packaging etc.
+
+**Fixed costs (FC) + Variable Costs (VC) = Total Costs (TC)**
+
+**(Units sold * variable cost per unit) + fixed costs = Total Costs**
+
+Average costs—how much it costs to produce a single unit or item.
+
+Average cost per unit = Total costs / Total Output
 
 
 [Go home](/)

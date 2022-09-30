@@ -17,8 +17,7 @@ I have attached a link to all work for each subject below.
 
 ### 💰[Business Studies](/tags/business)
 
-
-#### 📕[Homework](/tags/homework)
+### 📕[Homework](/tags/homework)
 
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 

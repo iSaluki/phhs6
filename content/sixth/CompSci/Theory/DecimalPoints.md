@@ -147,6 +147,11 @@ Target Number: 5000
 Absolute Error: 0.5
 Relative Error: 0.01%
 
+Target Number: 10
+Absolute Error: 0.00000005
+Relative Error: 0.0000005%
+
+	
 
 
 [Go home](/)

@@ -24,6 +24,27 @@ tags:
 6) Opportunity cost is the benefits that have been given up by making a particular decision over another.
 7) Opportunity cost helps you to see what your resources are going towards, and what you're getting back. It allows for a more analytical overview of decision-making.
 
+---
+
+## Decision Trees
+
+- A mathematical model
+- Used by managers to help make decisions
+- Uses estimates and probabilities to calculate likely outcomes.
+- Helps to decide whether the net gain from a decision is worthwhile. 
+
+![[sixth/Business/Units/nd/img/Pasted image 20221003120813.png]]
+
+**Expected Value:** The financial value of an outcome calculated by multiplying the estimated financial effect by its probability.
+
+Example:
+
+![[sixth/Business/Units/nd/img/Pasted image 20221003121736.png]]
+
+High sales + low sales = Total Expected Value
+
+Net gain = Total Expected Value - Cost
+
 
 
 [Go home](/)

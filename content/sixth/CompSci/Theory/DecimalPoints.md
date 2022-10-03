@@ -151,7 +151,7 @@ Target Number: 10
 Absolute Error: 0.00000005
 Relative Error: 0.0000005%
 
-	
+
 
 
 [Go home](/)

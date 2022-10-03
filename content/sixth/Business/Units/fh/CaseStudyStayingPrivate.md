@@ -10,6 +10,19 @@ tags:
 
 # Homework: Discuss the factors that John Timpson might have taken into account in judging that staying private is the best way to run the business
 
+3) When deciding whether or not to remain a private company, Timpson would have considered a wide range of different factors. These would have included the likes of financial stability, as a private company would be much more responsible for financing itself, whereas a public company would have the freedom to raise finance via the sale of shares. Because Timpson wants the company to remain private to give him more freedom over the decision-making aspect, he would have to find a way to justify the financial side of this move, as anybody who wanted to transition to a public company would likely use the financial difference as an argument point. Another important factor in this decision would be the risk of a hostile takeover. As a public company, the business would be very vulnerable as a low share price could leave them open to be bought out by another organisation. This would likely conflict with the interests of Timpson, because he likes retaining control over the business. A loss of control may end up being a worthwhile sacrifice, though, as a public company comes with advantages too. These include the obvious, like being able to sell shares easily, but also less clear benefits like greater public presence. 
+2) Factors impacting a plc's share price:
+- performance of similar businesses
+- overall economic status
+- profit warnings
+- accounts
+- recent business decisions
+- rumours (ie, layoffs)
+- whether or not the business will become obsolete in future
+- sustainability
+- public opinion
+
+
 
 
 

@@ -80,4 +80,73 @@ Step 1 ) Find exponent and check sign bit
 Step 2 ) Modulate the mantissa by the exponent
 
 
+Mantissa is the actual number
+The exponent is the modifier to be applied to the mantissa.
+
+FPB: 001010.01
+
+  32 16 8 4  2 1 . 1/2 1/4
+
+10.25
+
+1001.0010
+
+17.125
+	(Incorrect, negative due to sign bit)
+
+-17.5 to bin
+
+1001.1
+
+---
+
+0.111 010
+
+Exponent = 2
+011.1010
+3 + 1/2 + 1/8 = 3.625
+Mantissa = 3.625
+
+0.110111 0100
+Exponent = 4
+Mantissa = 
+
+-32 16 8 4 2 1
+1       1   0 1 1 1
+
+-32 + 16 + 4 + 2 +1 = -9 
+
+Act: 13.75
+
+## Rounding Errors
+- Binary hits some issues when we deal with some numbers that aren't factors of 2.
+- It can't be done accurately, we have to settle on being as close as possible.
+
+### Absolute Error
+- The difference between the number you're trying to calculate and the number you've managed to store.
+
+### Relative Error
+- Essentially the same as a relative error, but it is expressed as a percentage.
+- It gives us an idea of the scale of the error that we're dealing with and how much we can trust the numbers.
+
+- Divide the absolute error by the number that we're trying to represent, and times the result by 100 to get a percentage.
+- So 0% is entirely accurate, and 100% is completely inaccurate.
+- The closer the percentage value is to 0, the greater the accuracy of the number.
+
+
+
+Target Number: 25000
+Absolute Error: 0.5
+Relative Error: 0.002%
+
+Target Number: 100
+Absolute Error: 0.5
+Relative Error: 0.5%
+
+Target Number: 5000
+Absolute Error: 0.5
+Relative Error: 0.01%
+
+
+
 [Go home](/)

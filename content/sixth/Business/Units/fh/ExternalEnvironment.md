@@ -32,7 +32,23 @@ PESTLE analysis is a good list to work through when analysing the external envir
 - Exchange rates
 - Economic growth (GDP)
 
+**Social:**
+- Demographic change
+- Impact of pressure groups
+- Consumer tastes & fashions
+- Changing lifestyles
 
+**Technology:**
+- Disruptive technologies
+- Adoption of mobile tech
+- New production processes
+- Big data and processing
+
+**Legal:**
+- Employment Law
+- Minimum/ Living Wage
+- Health & Safety Laws
+- Environmental legislation
 
 
 [Go home](/)

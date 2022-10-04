@@ -42,13 +42,41 @@ PESTLE analysis is a good list to work through when analysing the external envir
 - Disruptive technologies
 - Adoption of mobile tech
 - New production processes
-- Big data and processing
+- Big data and dynamic pricing
 
 **Legal:**
 - Employment Law
 - Minimum/ Living Wage
 - Health & Safety Laws
 - Environmental legislation
+
+**Ethical and Environmental:**
+- Sustainability 
+- Tax practices
+- Ethical sourcing (supply chain)
+- Pollution & Carbon Emissions
+---
+
+## PESTLE Analysis Activity
+
+Politics may impact the future of Amazon because governments may become concerned about the influence of Amazon. Therefore, to regulate competition, the government may choose to prevent a monopoly by taking action against Amazon.
+
+Economic factors influencing business strategy:
+
+- Interest Rates
+- Unemployment
+- Inflation
+- Recession
+
+A recession will directly impact the amount of revenue Amazon generates, meaning that Amazon may have to restructure their business model to survive.
+
+If Amazon does not keep in the loop with social changes, then they will be seen as out of touch and will lose customers.
+
+Legal factors are typically enforced by laws, forcing the company to follow specific regulations.
+
+Amazon has frequently been seen to package items inefficiently, wasting excess plastics and polluting the environment. This means that Amazon has to change in order to retain customers.
+
+
 
 
 [Go home](/)

@@ -212,4 +212,11 @@ The exponent may also be lessened and the mantissa increased.
     
 0.1110 010
 
+Standard Form
+
+ In standard form, binary numbers must start with:
+
+Pos: 0.1
+Neg: 1.0
+
 [Go home](/)

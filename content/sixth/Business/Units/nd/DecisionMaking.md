@@ -45,6 +45,45 @@ High sales + low sales = Total Expected Value
 
 Net gain = Total Expected Value - Cost
 
+---
+
+(A):
+
+1.4m cost
+
+=> 40% 2.5m payoff
+=> 60% 800k payoff
+
+0.4 * 2500000 = 1000000
+0.6 * 800000 = 480000
+
+1000000 + 480000 = 1480000 (1.48m)
+ 1.48 - 1.4 = 0.08m net gain
+
+(B):
+ 0.5m cost
+
+=> 30% 1m payoff
+=> 70% 0.5m payoff
+
+0.3 * 1000000 = 300000
+0.7 * 500000 = 350000
+
+
+300000 + 350000 = 650000 (0.65m)
+0.65 - 0.5 = 0.15m net gain
+(C):
+
+Do nothing. Not optimal.
+
+
+Option **B** is the most profitable option.
+
+== {Express in a single unit—everything in millions would have been good}
+
+
+
+
 
 
 [Go home](/)

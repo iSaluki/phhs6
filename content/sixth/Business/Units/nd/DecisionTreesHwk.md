@@ -7,6 +7,9 @@ tags:
 
 ![[sixth/Business/Units/nd/img/Pasted image 20221005100716.png]]
 
+###### Displayed in millions
+
+ - (£8) should have been used as -£8
 1) Germany:
 	0.75 * 24 = 18
 	0.24 * 4  = 0.96
@@ -43,6 +46,7 @@ Sports Club:
 0.25 * 155000 = 38750
 370000 + 610000 + 38750
 1018750 / 850000 = 1.198529412
+
 
 
 Extra Capacity:

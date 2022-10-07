@@ -221,7 +221,7 @@ Neg: 1.0
 
 ## Arithmetic Operations
 If you need to add two numbers together, they must be converted into the same form. 
-
+``
 So 4.63x10^6 cannot be added to 4.63x10^8 until the power is normalised.
 
 ### Underflow error

@@ -212,11 +212,22 @@ The exponent may also be lessened and the mantissa increased.
     
 0.1110 010
 
-Standard Form
+### Standard Form
 
  In standard form, binary numbers must start with:
 
 Pos: 0.1
 Neg: 1.0
+
+## Arithmetic Operations
+If you need to add two numbers together, they must be converted into the same form. 
+
+So 4.63x10^6 cannot be added to 4.63x10^8 until the power is normalised.
+
+### Underflow error
+An underflow error occurs when a number is too small for your register to hold. “There isn't enough space to store a number with any accuracy, so 0 is stored.”
+
+
+
 
 [Go home](/)

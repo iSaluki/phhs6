@@ -81,7 +81,18 @@ Option **B** is the most profitable option.
 
 == {Express in a single unit—everything in millions would have been good}
 
+## Advantages of using decision trees
+- Choices are set out logically
+- Options are considered in parallel
+- Use of probabilities enables risk analysis
+- Likely costs are considered as well as potential benefits
+- Easy to understand & tangible results
 
+## Disadvantages of using decision trees
+- Probabilities are just estimates - can be erroneous
+- Uses quantative data only - ignores qualititive aspects of decisions
+- Assignment of probabilities and expected values prone to bias
+- Decision-making technique doesn't nescessarily reduce risk
 
 
 

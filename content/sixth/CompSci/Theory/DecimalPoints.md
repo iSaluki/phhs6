@@ -151,7 +151,52 @@ Target Number: 10
 Absolute Error: 0.00000005
 Relative Error: 0.0000005%
 
+---
 
+#### FLOP to Denary
+
+0.010 0110
+
+Exponent:  6
+
+0.010
+
+0.100
+1.0000
+10
+100
+1000
+10000
+ 16   8  4   2  1
+
+16
+
+0.1101 011
+
+Exponent: 3
+
+0110.1
+    4 2. 1/2 
+
+6.5
+
+---
+## Normalisation
+
+The process of improving the accuracy of a number with decimal points.
+
+46321 (denary) can be represented as 0.46321x10^4
+0.00463x10^6 ( less accurate)
+
+Out of these representations, the first is the most precise.
+
+This same logic can be applied to **binary numbers**. 
+
+An unormalised positive number consists of a sign bit (0) and one or more zeros after the decimal point.
+
+For a normalised positive binary number, the sign bit is 0 and the bit after the sign bit is *always* 1.
+
+To normalise a binary number, there must be a 1 after the decimal point. The mantissa may be lessened and the exponent will be directly increased.
 
 
 [Go home](/)

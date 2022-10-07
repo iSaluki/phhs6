@@ -198,5 +198,18 @@ For a normalised positive binary number, the sign bit is 0 and the bit after the
 
 To normalise a binary number, there must be a 1 after the decimal point. The mantissa may be lessened and the exponent will be directly increased.
 
+To normalised a negative binary number, the first bit of both the mantissa and the exponent is 1.
+
+The exponent may also be lessened and the mantissa increased.
+
+`01`
+`10` 
+
++ + left
++ - right
+
+3.5 = 00011.100 
+    
+0.1110 010
 
 [Go home](/)

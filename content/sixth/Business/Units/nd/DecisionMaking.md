@@ -90,11 +90,11 @@ Option **B** is the most profitable option.
 
 ## Disadvantages of using decision trees
 - Probabilities are just estimates—can be erroneous
-- Uses quantitive data only—ignores qualititive aspects of decisions
+- Uses quantitive data only—ignores qualitative aspects of decisions
 - Assignment of probabilities and expected values prone to bias
 - Decision-making technique doesn't necessarily reduce risk
 
-
+Quality of data inputted is equal to the quality of the data outputted.
 
 
 [Go home](/)

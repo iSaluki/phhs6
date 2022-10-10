@@ -76,7 +76,7 @@ Legal factors are typically enforced by laws, forcing the company to follow spec
 
 Amazon has frequently been seen to package items inefficiently, wasting excess plastics and polluting the environment. This means that Amazon has to change in order to retain customers.
 
-
+[Task](sixth/Business/Units/fh/ExternalVsInternal)
 
 
 [Go home](/)

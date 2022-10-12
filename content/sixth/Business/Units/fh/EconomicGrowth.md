@@ -26,5 +26,7 @@ GDP is measured in quarters, so 4 sections per year of 3 month units. 2 consecut
 
 Interest Rates—An interest rate is the **reward for saving** and the **cost of borrowing** expressed as a percentage of the money saved or borrowed.
 
+So, when interest rates are high, saving is more attractive and taking out loans or mortgages are less so.
+
 
 [Go home](/)

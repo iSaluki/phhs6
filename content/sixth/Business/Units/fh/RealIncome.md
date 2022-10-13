@@ -26,6 +26,19 @@ Household income is only one factor that impacts consumer spending.
 - Housing market effects - more demand and higher property prices
 - Exchange rate and exports - cheaper currency will increase exports
 
+### Impacts of higher interest rates
+
+- Cost of borrowing rises
+- Main effect will be through mortgages 
+- Add contraction in retail credit
+- Repayments on other debts
+- Possible slowdown in housing market
+- Higher rates might also cause currency to get stronger
+- Makes UK exports more expensive in overseas markets
+
+## Demographic Factors
+
+Demography is concerned with the size and composition of a population. Changes in population dynamics occur slowly but can be significant for business.
 
 
 

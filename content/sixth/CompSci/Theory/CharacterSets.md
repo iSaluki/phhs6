@@ -49,6 +49,7 @@ It added more characters, but still couldn't fit every character needed for ever
 - The ASCII character codes for the characters and symbols remained unchanged in Unicode.
 - Unicode is used online as users communicate in different languages.
 - It would not have been possible with older computer systems due to memory limitations.
-- 
+
+
 
 [Go home](/)

@@ -40,4 +40,15 @@ A sample is a snapshot of what sound was detected at a specific point in time. I
 	- For accurate sampling, the sampling rate must be at least twice the frequency of the highest frequency in the original sound signal.
 	- When sampling rate is less than the frequency suggested by the theorem, the recording will not be accurate to the original sound.
 
+## Bit Depth
+- Bit depth is the number of bits available for each sample
+- The higher the bit depth, the higher the quality of the audio
+- A CD has a bit depth of 16 bits, and a DVD has a bit depth of 24 bits
+- An n bit system can have 2^n different values.
+- High-quality audio files are created as pulse-code modulation (PCM)
+
+## Bit Rates
+- The amount of data sampled per second (kbps)
+- Bit rate = sampling rate x bit depth x channels
+- Typically, stereo is the minimum channel count (2 channels)
 [Go home](/)

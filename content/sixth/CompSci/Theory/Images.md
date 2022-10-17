@@ -15,7 +15,7 @@ Images consist of tiny pixels (picture elements). The higher the number of pixel
 - A representation of mathematical data—not a direct mapping
 - Consists of a drawing list in the file header including:
 	- A command that describes the shape of the object
-	- Attributes of each object (eg, position)
+	- Attributes of each object (e.g. position)
 	- Line colour
 	- Line thickness
 	- Fill colour
@@ -69,6 +69,54 @@ Each **channel** has 24 bits, to allow very precise colours.
 
 Screen resolution is horizontal pixels * vertical pixels.
 
+## Resolution
+- The pixel density of an image is measured in dots per inch or pixels per inch. It is the number of pixels or dots in a unit.
+- Magazines and books have higher resolution compared to the images on computer screen.
+- An image on a website is usually 72dpi. An image in a book has a resolution of 300 or even up to 600 dpi.
 
+![[sixth/CompSci/Theory/img/Pasted image 20221017100016.png]]
+
+## Pixel Density
+- Pixel density for a screen is calculated using the following steps.
+- Calculating the pixel density of a Samsung Galaxy S10 phone which has a resolution of 1440 x 3040 pixels and a 6.1 inch display.
+	- Add the squares of resolution sizes, 1440^2 + 3040^2 = 11315200
+	- Take the square root of the result = 3363.81
+	- Divide by the screen size, 3363.81 / 6.1 = 551ppi (pixels per square inch)
+
+## Estimating the size of an image file
+- Multiply the width and height of the image by the colour depth.
+- Example:
+	- 1010 x 562px
+	- Colour Depth = 8
+	- 1010 x 562 x 8 = 45409060 bits
+	- 45409060 / 8 = 567620 bytes
+	- 567620 / 8 = 0.568 megabytes
+
+### Practice
+600 x 800 pixels
+16 bit colour
+
+ 600 x 800 = 567620
+ x 16 = 9081920 bits
+ = 0.96 MB
+
+
+## Run Length Encoding (RLE)
+- RLE is lossless compression
+- We count the number of bits in a row that have the same value, and then store them as one entry rather than by storing each pixel individually. 
+
+![[sixth/CompSci/Theory/img/Pasted image 20221017101124.png]]
+
+## Metadata
+“Data about data”
+
+- Some examples of metadata for an image include:
+	- Filename, format
+	- Dimensions resolution, and colour depth of the image
+	- Date and place the photo was taken
+	- Time and date when the photo was changed
+	- Camera settings when the photo was taken
+
+Next: [Sound](sixth/CompSci/Theory/Sound)
 
 [Go home](/)

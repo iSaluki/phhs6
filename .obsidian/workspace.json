@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "36063092d6779fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "70f044fbc750c633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6902dc02bfdd36e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "582538ac14291c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b55b26094200eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26bb2f04aed842e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f04770a927872b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a836ff1d57e2028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f891a132711552d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "3ded8aa385937e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "c192df7ab5d28900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9a42ed3ad37b0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7195d8c56e30a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43dc3bd4d2080dfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05fb6e3ef8f13365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md"
+              }
+            }
+          },
+          {
+            "id": "8d9813953639fb89",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "582538ac14291c1e",
+  "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Images.md",
+    "content/sixth/CompSci/Theory/Sound.md",
+    "content/sixth/CompSci/Theory/CharacterSets.md",
+    "content/sixth/Business/Units/fh/RealIncome.md",
+    "content/privacy.md",
+    "content/sixth/Business/Units/fh/EconomicGrowth.md",
+    "content/sixth/Business/Units/fh/HwkPestleAnalysis.md",
+    "content/sixth/Business/Units/nd/Revision.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironment.md",
+    "content/sixth/Business/Units/fh/ExternalVsInternal.md"
+  ]
+}

@@ -1,4 +1,5 @@
 {
   "baseFontSize": 21,
-  "interfaceFontFamily": "FontAwesome"
+  "interfaceFontFamily": "FontAwesome",
+  "accentColor": ""
 }

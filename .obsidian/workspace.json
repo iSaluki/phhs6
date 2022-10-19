@@ -100,9 +100,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "724f4fd5094b27c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/ExchangeSurfaces/TheNeedForSpecialisedExchange.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7394b9002c405571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/ExchangeSurfaces/MamillianLungs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eae96f260158256d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/ExchangeSurfaces/BreathingMechanism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -168,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+                "file": "content/sixth/Biology/ExchangeSurfaces/BreathingMechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+                "file": "content/sixth/Biology/ExchangeSurfaces/BreathingMechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md"
+                "file": "content/sixth/Biology/ExchangeSurfaces/BreathingMechanism.md"
               }
             }
           },
@@ -231,17 +267,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9da055ce8d47baa8",
+  "active": "eae96f260158256d",
   "lastOpenFiles": [
+    "content/sixth/Biology/ExchangeSurfaces/MamillianLungs.md",
+    "content/private/callouts.md",
+    "content/sixth/Biology/ExchangeSurfaces/TheNeedForSpecialisedExchange.md",
+    "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
     "content/sixth/Biology/Cells/TypesOfMicroscope.md",
     "content/sixth/Biology/Cells/UnitScales.md",
     "content/sixth/Biology/Cells/PlantCells.md",
     "Pasted image 20221019111759.png.md",
     "Pasted image 20221019111759.png",
-    "Pasted image 20221019111750.png",
-    "content/private/callouts.md",
-    "content/sixth/Biology/Cells/ProkaryoticCells.md",
-    "content/sixth/Biology/Cells/OrganellesWorkTogether.md",
-    "content/sixth/Biology/Cells/LightMicroscopy.md"
+    "Pasted image 20221019111750.png"
   ]
 }

@@ -23,14 +23,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "file": "content/sixth/Biology/Cells/UsingALightMicroscope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2919fbb8d55e829a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Cells/LightMicroscopy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "214db2c2d74fcd16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Cells/OrganellesWorkTogether.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8520e9b15ffb8126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Cells/ProkaryoticCells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d0a106bf34f41fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Cells/TypesOfMicroscope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44dfb1cbd41677b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Cells/TypesOfMicroscope.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "file": "content/sixth/Biology/Cells/TypesOfMicroscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
+                "file": "content/sixth/Biology/Cells/TypesOfMicroscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md"
+                "file": "content/sixth/Biology/Cells/TypesOfMicroscope.md"
               }
             }
           },
@@ -159,17 +219,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "582538ac14291c1e",
+  "active": "44dfb1cbd41677b4",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/Images.md",
-    "content/sixth/CompSci/Theory/Sound.md",
-    "content/sixth/CompSci/Theory/CharacterSets.md",
-    "content/sixth/Business/Units/fh/RealIncome.md",
-    "content/privacy.md",
-    "content/sixth/Business/Units/fh/EconomicGrowth.md",
-    "content/sixth/Business/Units/fh/HwkPestleAnalysis.md",
-    "content/sixth/Business/Units/nd/Revision.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironment.md",
-    "content/sixth/Business/Units/fh/ExternalVsInternal.md"
+    "content/sixth/Biology/Cells/UnitScales.md",
+    "content/sixth/Biology/Cells/TypesOfMicroscope.md",
+    "content/sixth/Biology/Cells/PlantCells.md",
+    "Pasted image 20221019111759.png.md",
+    "Pasted image 20221019111759.png",
+    "Pasted image 20221019111750.png",
+    "content/private/callouts.md",
+    "content/sixth/Biology/Cells/ProkaryoticCells.md",
+    "content/sixth/Biology/Cells/OrganellesWorkTogether.md",
+    "content/sixth/Biology/Cells/LightMicroscopy.md"
   ]
 }

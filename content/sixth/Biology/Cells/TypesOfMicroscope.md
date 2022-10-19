@@ -57,6 +57,8 @@ tags:
 >
 > - Can't see inside cells, surface only
 
+![[sixth/Biology/Cells/img/Pasted image 20221019114841.png]]
+
 ## Transmission Electron Microscope (TEM)
 - Magnification up to x2000000
 - 2D greyscale image
@@ -72,6 +74,8 @@ tags:
 > - Large
 > - Prone to artifacts
 > - Samples will be killed
+
+![[sixth/Biology/Cells/img/Pasted image 20221019114937.png]]
 
 ## Scanning Electron Microscope (SEM)
 - Magnification between `x15` and `x200000`
@@ -92,7 +96,7 @@ tags:
 > - Salt stains are dangerous
 > - Requires training
 
-
+![[sixth/Biology/Cells/img/Pasted image 20221019115017.png]]
 
 
 [Go home](/)

@@ -59,4 +59,14 @@ Market segments can also be measured.
 - Good indicator of competitive advantage
 - Key is to look for significant increases or decreases in this value
 
+| Business | Sales in 2018 (£) | Cumulative Market Sales (£) | Market Share (%) in 2018 |
+|----------|-------------------|-----------------------------|--------------------------|
+| A        | 250000            | 250000                      | 12.5                     |
+| B        | 400000            | 650000                      | 20                       |
+| C        | 900000            | 1550000                     | 45                       |
+| D        | 175000            | 1725000                     | 8.75                     |
+| E        | 275000            | 2000000                     | 13.75                    |
+
+
+
 [Go home](/)

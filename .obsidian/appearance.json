@@ -1,5 +1,6 @@
 {
   "baseFontSize": 21,
   "interfaceFontFamily": "FontAwesome",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

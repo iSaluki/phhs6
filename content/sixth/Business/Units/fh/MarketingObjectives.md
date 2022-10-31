@@ -31,5 +31,32 @@ Not usually a marketing objective, as you can't easily influence in the size of 
 
 Market segments can also be measured.
 
+| Year | Market Size (£) | Index Number (2014 = 100) |
+|------|-----------------|---------------------------|
+| 2014 | 5000000         | 100                       |
+| 2015 | 5250000         | 105                       |
+| 2016 | 5600000         | 112                       |
+| 2017 | 6250000         | 125                       |
+
+
+### Market Growth
+
+- A key indicator for existing and potential market entrants
+- Growth rate can be calculated using either value (eg market sales) or volume (units sold)
+
+| Year | Units Sold [A] | Change (Units) [B] | Growth Rate (%) [B/A (from prev yr] x 100 |
+|------|----------------|--------------------|-------------------------------------------|
+| 2014 | 1000000        | -                  | -                                         |
+| 2015 | 1100000        | 100000             | 10.0                                        |
+| 2016 | 1350000        | 250000             | 22.7                                      |
+| 2017 | 1475000        | 125000             | 9.3                                       |
+
+
+### Market Share
+
+- Explains how the overall market is split between the existing competitors
+- Tends to be calculated based on market value, but volume can also be used
+- Good indicator of competitive advantage
+- Key is to look for significant increases or decreases in this value
 
 [Go home](/)

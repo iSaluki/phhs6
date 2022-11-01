@@ -17,6 +17,24 @@ Examples of operational objectives:
 - Efficiency & Flexibility
 - Environmental
 
+## Internal and External Influences
+
+### Internal
+- Corporate objectives
+- Finance 
+- HR
+- Avaliability of resources
+- Nature of the product
+
+### External
+- Market factors
+- Competitor actions
+- Technological change
+- Economic factors (interest rates etc)
+- Political factors
+- Legal factors
+- Environmental factors
+- Suppliers
 
 
 

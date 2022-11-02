@@ -80,4 +80,24 @@ Market segments can also be measured.
 
 **Maintaining or increasing market share** (corporate objective) => Achieve revenue growth of 20% per year for the next four years. Increase our market share in the Uk by 5% by 2017. Add 1,000 new customer accounts generating at least £100,000 per account within four years. (marketing objective)
 
+
+### Internal influences on marketing objectives
+
+- Employees
+- Skills
+- Finance
+- Motivated workforce
+- No conflict with corporate objectives
+
+### External influences on marketing objectives
+
+- Legislation
+- Competition
+- The market
+- Economic changes
+
+**PESTLE** is important here (or whenever looking at external influences/factors).
+
+
+
 [Go home](/)

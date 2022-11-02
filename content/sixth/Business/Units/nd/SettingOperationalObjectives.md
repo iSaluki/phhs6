@@ -23,7 +23,7 @@ Examples of operational objectives:
 - Corporate objectives
 - Finance 
 - HR
-- Avaliability of resources
+- Availability of resources
 - Nature of the product
 
 ### External
@@ -35,6 +35,8 @@ Examples of operational objectives:
 - Legal factors
 - Environmental factors
 - Suppliers
+
+**The capacity of a business is a measure of how much output it can achieve in a given period.**
 
 
 

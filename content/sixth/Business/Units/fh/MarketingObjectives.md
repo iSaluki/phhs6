@@ -67,6 +67,13 @@ Market segments can also be measured.
 | D        | 175000            | 1725000                     | 8.75                     |
 | E        | 275000            | 2000000                     | 13.75                    |
 
+## Problems with setting market objectives
 
+- Fast-changing external environment
+	- new competitors or legislature
+- Potential conflict between marketing objectives
+	- trying to increase market share by cutting prices may damage brand perception
+- Easy to be too ambitious with marketing objectives
+	- growing market share without putting necessary resources in place to achieve it
 
 [Go home](/)

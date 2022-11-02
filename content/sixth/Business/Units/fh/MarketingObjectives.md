@@ -95,8 +95,37 @@ Market segments can also be measured.
 - Competition
 - The market
 - Economic changes
+- Social changes
 
 **PESTLE** is important here (or whenever looking at external influences/factors).
+
+## Worksheet
+
+1) Percentage change in market size.
+Year 1: £22,000            Year 2: £25,300
+15% change
+
+2) £35,700 + 30 % = £46410
+25 + 20% = 30
+
+---
+1) Greater brand loyalty will result in more returning customers and word of mouth publicity, leading to higher sales and customer numbers.
+2) Higher interest rates will impact the amount people are willig to borrow, so for a high value product such as a car, higher interest rates may require more affordable finance options to be made available or lower prices overall.
+3) Lower profitability means that the business needs to take action to increase the amount of profit that it is making to prevent it from becoming unprofitable and to appease shareholders and increase stability of jobs. 
+---
+3 internal influences:
+- employees
+- finances
+- target market
+
+3 external influences:
+- market changes
+- government legislature
+- social changes
+---
+a,c
+
+---
 
 
 

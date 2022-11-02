@@ -78,7 +78,7 @@ Market segments can also be measured.
 
 ### Example of marketing objectives
 
-**Maintaining or increasing market share** (corporate objective) => Achieve revenue growth of 20% per year for the next four years. Increase our market share in the Uk by 5% by 2017. Add 1,000 new customer accounts generating at least £100,000 per account within four years. (marketing objective)
+**Maintaining or increasing market share** (corporate objective) => Achieve revenue growth of 20% per year for the next four years. Increase our market share in the UK by 5% by 2017. Add 1,000 new customer accounts generating at least £100,000 per account within four years. (marketing objective)
 
 
 ### Internal influences on marketing objectives
@@ -110,7 +110,7 @@ Year 1: £22,000            Year 2: £25,300
 
 ---
 1) Greater brand loyalty will result in more returning customers and word of mouth publicity, leading to higher sales and customer numbers.
-2) Higher interest rates will impact the amount people are willig to borrow, so for a high value product such as a car, higher interest rates may require more affordable finance options to be made available or lower prices overall.
+2) Higher interest rates will impact the amount people are willing to borrow, so for a high value product such as a car, higher interest rates may require more affordable finance options to be made available or lower prices overall.
 3) Lower profitability means that the business needs to take action to increase the amount of profit that it is making to prevent it from becoming unprofitable and to appease shareholders and increase stability of jobs. 
 ---
 3 internal influences:

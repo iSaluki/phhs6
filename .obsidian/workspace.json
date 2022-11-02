@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SettingOperationalObjectives.md"
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md"
               }
             }
           },
@@ -184,10 +184,10 @@
   },
   "active": "10e2581c005723c3",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/Business/Units/fh/MarketingObjectives.md",
     "content/sixth/Business/Units/fh/ProblemsWithSettingMarketingObjectives.md",
     "content/2022-11-02.md",
-    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/2022-11-01.md",
     "content/sixth/Business/Units/nd/Revision.md",
     "content/sixth/Business/Units/nd/Stakeholders.md",

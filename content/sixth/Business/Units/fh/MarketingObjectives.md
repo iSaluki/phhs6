@@ -76,4 +76,8 @@ Market segments can also be measured.
 - Easy to be too ambitious with marketing objectives
 	- growing market share without putting necessary resources in place to achieve it
 
+### Example of marketing objectives
+
+**Maintaining or increasing market share** (corporate objective) => Achieve revenue growth of 20% per year for the next four years. Increase our market share in the Uk by 5% by 2017. Add 1,000 new customer accounts generating at least £100,000 per account within four years. (marketing objective)
+
 [Go home](/)

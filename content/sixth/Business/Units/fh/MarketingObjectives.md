@@ -123,7 +123,7 @@ Year 1: £22,000            Year 2: £25,300
 - government legislature
 - social changes
 ---
-a,c
+a
 
 ---
 

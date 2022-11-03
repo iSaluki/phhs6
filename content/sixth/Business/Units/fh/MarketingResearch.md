@@ -75,8 +75,17 @@ Data that already exists and which has been collected for a different purpose
 - Not specific to what you need
 
 
+### Quantitative Research
+- Focuses on numerical data 
+- Collected through surveys and questionnaires
+- Helps companies to see what % of people think what
+- - Eg, 35% of people enjoy football
 
-
+### Qualitative Research
+- Focuses on opinions and attitudes
+- Collected through interviews, focus  groups, in-depth discussions
+- Helps companies to see what people really think
+- Eg, students at the local school like watching football but not playing it.
 
 
 

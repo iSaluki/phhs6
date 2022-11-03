@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
+                "file": "content/2022-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6decc9ff20063c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
+                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
+                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md"
+                "file": "content/sixth/Business/Units/fh/MarketingResearch.md"
               }
             }
           },
@@ -175,24 +187,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "10e2581c005723c3",
+  "active": "6decc9ff20063c1f",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
+    "content/2022-11-03.md",
     "content/sixth/Business/Units/fh/MarketingObjectives.md",
+    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/Business/Units/fh/ProblemsWithSettingMarketingObjectives.md",
     "content/2022-11-02.md",
     "content/2022-11-01.md",
     "content/sixth/Business/Units/nd/Revision.md",
     "content/sixth/Business/Units/nd/Stakeholders.md",
     "content/sixth/Business/Units/nd/DecisionMaking.md",
-    "content/sixth/Business/Units/fh/BusinessObjectives.md",
-    "content/sixth/Biology/ExchangeSurfaces/BreathingMechanism.md"
+    "content/sixth/Business/Units/fh/BusinessObjectives.md"
   ]
 }

@@ -36,11 +36,16 @@ Data collected first-hand for a specific reason or purpose
 - Targeted data—what you need exactly
 - Verifiable accuracy
 - Fresh data
+- Kept private
+- More detailed
 
 #### Disadvantages
 - Time consuming
 - Requires engagement with individuals/marketing
 - Needs analysis (secondary research may come with completed graphs etc)
+- Specialist reports can be expensive
+- Risk of survey bias
+- Sampling may not be representitive
 
 ### Secondary Research
 Data that already exists and which has been collected for a different purpose
@@ -56,6 +61,7 @@ Data that already exists and which has been collected for a different purpose
 - Quick and easy to access
 - Likely to be free
 - Large datasets are available 
+- Good source of market insights
 
 #### Disadvantages
 - Can contain bias

@@ -30,6 +30,9 @@ Data collected first-hand for a specific reason or purpose
 - Interviews
 - Testing & Observation
 - Focus Groups
+- Staged launches/releases
+- Postal surveys
+- Experiments
 
 #### Advantages
 
@@ -45,17 +48,20 @@ Data collected first-hand for a specific reason or purpose
 - Needs analysis (secondary research may come with completed graphs etc)
 - Specialist reports can be expensive
 - Risk of survey bias
-- Sampling may not be representitive
+- Sampling may not be representative
 
 ### Secondary Research
 Data that already exists and which has been collected for a different purpose
 
 #### Examples
 
-- Government and Census data
+- Government and Census data (ONS etc)
 - Internet
 - Books & Newspapers
 - Income statements
+- Competitor Websites
+- Marketing Research Reports (£££)
+- Trade Associations
 
 #### Advantages
 - Quick and easy to access

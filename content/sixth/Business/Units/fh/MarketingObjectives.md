@@ -142,7 +142,8 @@ Sampling involves the gathering of data from a sample of respondents, the result
 	- Stratified sampling is used to select a sample that is representative of different groups. If the groups are of different sizes, the number of items selected from each group will be proportional to the number of items in that group. People are selected randomly.
 
 
-**Highly geared** - the business is financed by loans
+
+**Highly geared—thee business is financed by loans
 
 
 [Go home](/)

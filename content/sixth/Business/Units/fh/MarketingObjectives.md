@@ -127,6 +127,22 @@ c
 
 ---
 
+## Sampling
+
+Sampling involves the gathering of data from a sample of respondents, the results of which should be representative of the population (eg, target market) as a whole.
+
+### Sampling Techniques
+- Simple Random Samples
+	- a sample is elected for study from a population where everyone is chosen entirely by chance and has an equal chance of being selected, such as the electoral register.
+- Quota sample
+	- the population is first segmented into subgroups (strata) before a judgement is made in selecting respondents that are representative of that subgroup. (male or female, income, education)
+		- Example: 60% of people who shop at a shopping centre are female. Sample size is 400, so 240 females and 160 males.
+		- Women are aged 30-40
+- Stratified Sample
+	- Stratified sampling is used to select a sample that is representative of different groups. If the groups are of different sizes, the number of items selected from each group will be proportional to the number of items in that group. People are selected randomly.
+
+
+**Highly geared** - the business is financed by loans
 
 
 [Go home](/)

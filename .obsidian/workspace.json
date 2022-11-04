@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
+                "file": "content/2022-11-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingResearch.md",
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingResearch.md"
+                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md"
               }
             }
           },
@@ -194,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6decc9ff20063c1f",
+  "active": "6ddfb629286b7aa6",
   "lastOpenFiles": [
-    "content/2022-11-03.md",
+    "content/2022-11-04.md",
     "content/sixth/Business/Units/fh/MarketingObjectives.md",
+    "content/sixth/Business/Units/fh/MarketingResearch.md",
+    "content/2022-11-03.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/Business/Units/fh/ProblemsWithSettingMarketingObjectives.md",
     "content/2022-11-02.md",
     "content/2022-11-01.md",
     "content/sixth/Business/Units/nd/Revision.md",
-    "content/sixth/Business/Units/nd/Stakeholders.md",
-    "content/sixth/Business/Units/nd/DecisionMaking.md",
-    "content/sixth/Business/Units/fh/BusinessObjectives.md"
+    "content/sixth/Business/Units/nd/Stakeholders.md"
   ]
 }

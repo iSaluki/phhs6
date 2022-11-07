@@ -68,6 +68,17 @@ A sample is a snapshot of what sound was detected at a specific point in time. I
 - A signal from a microphone is an example of an analogue signal.
 - However, a digital signal is a discrete signal that uses discontinuous data.
 
+## File size check
+- 24 bit depth
+- 2 channel - L & R
+- Sample rate 16kHz
+- 2.5 minutes long
+sample rate *  bit depth * channels 
+
+24 x 16000 x 2 = 768kbps
+768000 x 150= 115200000 bits
+/ 8 = 14.4 MB
+
 
 
 [Go home](/)

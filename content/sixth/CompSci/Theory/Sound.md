@@ -94,11 +94,17 @@ sample rate *  bit depth * channels
 	- Indicates instruments about the type of action to be performed
 	- The action of 16 channels are represented in this byte
 	- Notes are ON or OFF
-	- Key pressure - how hard a key is pressed
+	- Key pressure—how hard a key is pressed
 - Data bytes
 	- Information to status bytes
 	- Pitch byte: denotes note to be played
 	- Velocity note: denotes the loudness of the note.
 
+- Using a MIDI file, music identical to the original can be played every time.
+- A sequence program is required so that commands can be recognised.
+- Smaller in size than MP3
+- MIDI does not contain any audio track
+- Used in web pages, ringtones etc
+- Used for creating electronic orchestras.
 
 [Go home](/)

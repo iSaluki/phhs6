@@ -79,6 +79,26 @@ sample rate *  bit depth * channels
 768000 x 150= 115200000 bits
 / 8 = 14.4 MB
 
+## (Musical Instrument Device Interface) MIDI
+
+- A communication protocol that enables electronic musical instruments to interact with each other using information and control signals.
+- Asynchronous serial 8-bit transmission
+- MIDI file instructs device on how to produce a musical note using several commands.
+- A command is identified by its specific sequence of bits.
+- You can think of it as the musical equivalent of an `SVG` file.
+
+![[sixth/CompSci/Theory/img/Pasted image 20221107101325.png]]
+
+### Types of bytes
+- Status bytes
+	- Indicates instruments about the type of action to be performed
+	- The action of 16 channels are represented in this byte
+	- Notes are ON or OFF
+	- Key pressure - how hard a key is pressed
+- Data bytes
+	- Information to status bytes
+	- Pitch byte: denotes note to be played
+	- Velocity note: denotes the loudness of the note.
 
 
 [Go home](/)

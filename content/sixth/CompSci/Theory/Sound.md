@@ -45,17 +45,29 @@ A sample is a snapshot of what sound was detected at a specific point in time. I
 - The higher the bit depth, the higher the quality of the audio
 - A CD has a bit depth of 16 bits, and a DVD has a bit depth of 24 bits
 - An n bit system can have 2^n different values.
+
+### PCM
 - High-quality audio files are created as pulse-code modulation (PCM)
+- WAV or AIFF are uncompressed examples
+- The pulses of the induced electrical signal in the microphone
 
 ## Bit Rates
 - The amount of data sampled per second (kbps)
-- Bit rate = sampling rate x bit depth x channels
+- **Bit rate = sampling rate x bit depth x channels**
 - Typically, stereo is the minimum channel count (2 channels)
 
+### Audio Quality
+- A reasonable music audio must have a minimum bit rate of 128bkps.
+- The greater the bit rate, the higher the quality.
+- This is why the audio quality of a CD is higher than that of Spotify.
+- Tidal is a music streaming solution that provides the highest streaming quality over the internet.
+
 ## Analogue to Digital conversion
+
 - An analogue signal is a continuous signal which represents physical measurements.
 - A signal from a microphone is an example of an analogue signal.
 - However, a digital signal is a discrete signal that uses discontinuous data.
+
 
 
 [Go home](/)

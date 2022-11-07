@@ -1,5 +1,5 @@
 ---
-title: "WIP"
+title: "Dangers of Capacity Utilisation"
 subject:
 	- business
 ---
@@ -23,3 +23,20 @@ Utilisation change = 19.23%
 3) Running at high capacity utilisation means high efficency, so you are maximising profits.
 
 4) Running at high utilisation  does not protect against contingencies. So you are vulnerable to faults.
+
+---
+
+## High utilisation
+
+- No downtime, high defects
+- Equipment wears out faster
+- Increased stress for employees
+- Unexpected demand increases can cause a loss of sales
+
+## Low utilisation
+
+- High unit costs
+- Wasted resources
+- Difficult to compete effectively
+- Reduced job security
+

@@ -107,4 +107,22 @@ sample rate *  bit depth * channels
 - Used in web pages, ringtones etc
 - Used for creating electronic orchestras.
 
+---
+1) Bit depth of 8 bits, what value range can be represented?
+2^n = 2^8 = 256
+2) Calculate the bit rate of a 32-bit system with a sampling rate of 44,100 samples per second and 2 channels.
+32 * 44100 * 2 = 2822400 bits
+ 
+2822.4kbps
+
+3) What is the file size of a 4-minute song with bit rate of question 2/
+2,822,400 * 240 = 677,376,600 bits = 84.67MB
+
+---
+1) Analogue sound is converted to digital using a DAC to sample.
+2) Sound files from the internet are typically lower quality than a CD sound file, because online services tend to use lower bit rates and higher compression to reduce hosting costs and increase speed.
+3) If the bit depth is increased, then there is a greater range of sound possible. The file size will also be increased.
+4) VoIP uses a sampling rate of 8kHZ because it is enough for you to understand a human voice. Anything higher would be inefficient.
+5) Factors affecting audio quality: sample rate, bit depth & bit rate.
+
 [Go home](/)

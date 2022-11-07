@@ -51,4 +51,11 @@ A sample is a snapshot of what sound was detected at a specific point in time. I
 - The amount of data sampled per second (kbps)
 - Bit rate = sampling rate x bit depth x channels
 - Typically, stereo is the minimum channel count (2 channels)
+
+## Analogue to Digital conversion
+- An analogue signal is a continuous signal which represents physical measurements.
+- A signal from a microphone is an example of an analogue signal.
+- However, a digital signal is a discrete signal that uses discontinuous data.
+
+
 [Go home](/)

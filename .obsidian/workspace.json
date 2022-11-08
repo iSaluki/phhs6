@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16577e8ca2505ee2",
+            "id": "4cfdff44385343f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingObjectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ddfb629286b7aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/CompSci/Theory/Sound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "169487d43ba59cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/2022-11-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e2581c005723c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/2022-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6decc9ff20063c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/2022-11-04.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Sound.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Sound.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Sound.md"
+                "file": "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md"
               }
             }
           },
@@ -194,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ddfb629286b7aa6",
+  "active": "4cfdff44385343f7",
   "lastOpenFiles": [
+    "content/2022-11-08.md",
+    "content/sixth/Business/Units/nd/DangersofCapacityUtil.md",
+    "content/sixth/Business/Units/nd/CaseStudyStakeholders.md",
     "content/2022-11-07.md",
     "content/2022-11-04.md",
     "content/sixth/Business/Units/fh/MarketingObjectives.md",
     "content/sixth/Business/Units/fh/MarketingResearch.md",
     "content/2022-11-03.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
-    "content/sixth/Business/Units/fh/ProblemsWithSettingMarketingObjectives.md",
-    "content/2022-11-02.md",
-    "content/2022-11-01.md",
-    "content/sixth/Business/Units/nd/Revision.md"
+    "content/sixth/Business/Units/fh/ProblemsWithSettingMarketingObjectives.md"
   ]
 }

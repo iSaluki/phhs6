@@ -1,7 +1,7 @@
 ---
 title: "Dangers of Capacity Utilisation"
 subject:
-	- business
+- business
 ---
 
 ## Initial Questions

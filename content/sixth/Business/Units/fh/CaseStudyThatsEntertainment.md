@@ -20,4 +20,6 @@ Market research is unable to ensure anything, it should never be treated as a ha
 
 His secondary market research can act as a reinforcement of the primary research he performed, as parallels can be drawn between the results. For instance, it is possible to see that opinions found on Netmums can be related to those shared by local parents. This can be used to make the educated suggestion that approximately 50% of parents would consider paying for a children's entertainer.
 
+He has not taken factors such as population size into account. Because if he is only planning on operating in a small region, then the existing entertainers in the region may already saturate the market, and their experience and loyalty may be able to allow them to outcompete James. If this is the case then it may be true that customers have a demand, but the supply would already be provided. He could have improved his research by asking customers whether they had found a child entertainer, and whether that child entertainer had provided everything that they wanted. This would have enabled James to identify gaps in the market and increase his probability of success in a situation where the market is already competitive. 
+
 [Go home](/)

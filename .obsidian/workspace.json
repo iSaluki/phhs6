@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "e6b30acb8c4fbc99",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
     "content/2022-11-10.md",
     "content/sixth/Business/Units/nd/Untitled.md",
-    "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
     "content/sixth/Business/Units/nd/DangersofCapacityUtil.md",
     "content/2022-11-09.md",
     "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",

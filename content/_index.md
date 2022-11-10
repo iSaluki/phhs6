@@ -5,7 +5,9 @@ description: "Landing page"
 
 Welcome to my digital garden! 🍓
 
-This site is primarily used to host school work for sixth form. Other content may be stored here. It is recommended that you navigate this site using links that you have been sent, but basic navigation is available too.
+This site is primarily used to host school work for sixth form, however may host anything that I end up using it for—including possible blog posts and experiments.
+
+This content is provided by me, free of charge, to you. As this content typically originates from my lessons, I may not own the rights to everything, including text and images, that may be used on this site—and therefore cannot make a blanket statement on whether you may reuse any content. If you wish to use any content from my website for anything other than strictly educational use, then please contact me first.
 
 # Subjects
 

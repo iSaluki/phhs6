@@ -24,5 +24,5 @@ I have attached a link to all work for each subject below.
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 
 If you notice an issue with the site or need help, please email 
-📌 **seth@sethmb.xyz** for assistance.
+📌 **seth@sethmb.xyz** for assistance, or reach out to me on Mastodon. (Find the link below)
 

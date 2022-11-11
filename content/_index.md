@@ -7,6 +7,8 @@ Welcome to my digital garden! 🍓
 
 This site is primarily used to host school work for sixth form, however may host anything that I end up using it for—including possible blog posts and experiments.
 
+My biology work is not done here primarily, so it is copied up after being done in batches. This may result in significant delays.
+
 This content is provided by me, free of charge, to you. As this content typically originates from my lessons, I may not own the rights to everything, including text and images, that may be used on this site—and therefore cannot make a blanket statement on whether you may reuse any content. If you wish to use any content from my website for anything other than strictly educational use, then please contact me first.
 
 # Subjects

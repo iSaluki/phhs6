@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Biology/ExchangeSurfaces/TheNeedForSpecialisedExchange.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86391fdc53b80062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661afcc8d486d868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Biology/Circulatory/StructureOfTheHeart.md"
               }
             }
           },
@@ -158,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6b30acb8c4fbc99",
+  "active": "661afcc8d486d868",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
+    "content/2022-11-01.md",
+    "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
+    "content/sixth/Biology/ExchangeSurfaces/TheNeedForSpecialisedExchange.md",
+    "content/2022-11-11.md",
     "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
     "content/2022-11-10.md",
     "content/sixth/Business/Units/nd/Untitled.md",
-    "content/sixth/Business/Units/nd/DangersofCapacityUtil.md",
-    "content/2022-11-09.md",
-    "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",
-    "content/2022-11-08.md",
-    "content/sixth/Business/Units/nd/CaseStudyStakeholders.md",
-    "content/2022-11-07.md",
-    "content/2022-11-04.md"
+    "content/sixth/Business/Units/nd/DangersofCapacityUtil.md"
   ]
 }

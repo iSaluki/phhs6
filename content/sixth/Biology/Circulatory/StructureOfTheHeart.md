@@ -6,6 +6,7 @@ tags:
 
 ## Diagram of Heart Structure
 
+![[sixth/Biology/Circulatory/img/Pasted image 20221111111303.png]]
 
 ## Cardiac Cycle
 *AV = Atrioventricular*

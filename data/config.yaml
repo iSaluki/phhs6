@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/iSaluki/phhs6/tree/hugo/content/
 enableSemanticSearch: false

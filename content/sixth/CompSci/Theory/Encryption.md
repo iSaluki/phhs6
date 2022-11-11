@@ -73,4 +73,34 @@ So to say AB in this tree, you would use:
 
 In Huffman coding, the more frequently used characters require less bits to represent.
 
+Another, more complex tree, as an example:
+
+![[sixth/CompSci/Theory/img/Pasted image 20221111140336.png]]
+
+### How to build a binary tree
+- We need the lowest number of bits for letters with a higher frequency
+- So start with the least frequent characters, and work upwards.
+- When two nodes are close together, create a root node above to link them together.
+- When following a tree down, each possible path should terminate at a valid "leaf".
+
+## Encryption
+
+- The process of changing data into another form or code so that only people with access to a secret key can read it. For others, the message would be unreadable.
+
+### Caesar Cypher
+- A very simple substitution cypher. Each letter of the alphabet is shifted by a certain number of characters. A shift left of 2, would make "abc" become "cde".
+- A shift of 5 on the message "INITIATE PLAN A" would become "NSNYFJ UQFS F."
+- Easy to decrypt, as it is vulnerable to brute force attacks and frequency analysis.
+- Longer messages are easier to decode than shorter ones.
+
+### The Vernam cypher
+- The Vernam cypher uses a one-time pad or an encryption key.
+- Encryption key: its length is equal to the length of characters, or greater than that. They keys are only used once.
+- Sender and receiver meet in person to exchange the keys and destroy them after the exchange of messages.
+- The sole mathematically unbreakable code found so far: RSA, PGP etc can be broken given enough time and computing power.
+
+- Vernam cypher works with the ASCII codes of characters. Each ASCII code is taken in binary form.
+- The one-time key is also taken in binary form.
+- An XOR operation is performed between the key and the data to produce cypher text. An XOR operation is reversible, and therefore the same method can be used to decrypt the message.
+
 [Go home](/)

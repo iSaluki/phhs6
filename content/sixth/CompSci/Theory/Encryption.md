@@ -99,8 +99,12 @@ Another, more complex tree, as an example:
 - Sender and receiver meet in person to exchange the keys and destroy them after the exchange of messages.
 - The sole mathematically unbreakable code found so far: RSA, PGP etc can be broken given enough time and computing power.
 
+- Keys can also be called salts
 - Vernam cypher works with the ASCII codes of characters. Each ASCII code is taken in binary form.
 - The one-time key is also taken in binary form.
 - An XOR operation is performed between the key and the data to produce cypher text. An XOR operation is reversible, and therefore the same method can be used to decrypt the message.
+
+
+
 
 [Go home](/)

@@ -25,7 +25,7 @@ tags:
 - ventricular contraction (systole)
 	- AV and SL valves are closed
 	- ventricles contract from the apex (base) upwards
-	- blood forced out of aorta and pulmonary atery, SL valves open
+	- blood forced out of aorta and pulmonary artery, SL valves open
 - heart sounds
 	- "lub": AV valves closing as ventricles contract
 	- "dub": SL valves closing as ventricles contract
@@ -37,10 +37,10 @@ tags:
 	- located in the right atrium
 	- group of cells that can initiate their own impulse (cardiac muscle is *myogenic* because of this ability)
 
-1) Electrical activity from SAN spreads through both atria - triggering a contractio of the atria.
-2) Electrical activity can't pass through atrioventricular septum, but can pass through the atrioventricular node (AVN).
-3) Short delay before AVN conducts electrical activity down to the base of the ventricles (ensures atria finish contracting and ventricles are full with blood).
-4) Electrical activity travels to base of ventricles (ensures atria finish contracting and ventricles are full with blood).
+1) Electrical activity from SAN spreads through both atria—triggering a contraction of the atria.
+2) Electrical activity can't pass through the atrioventricular septum, but can pass through the atrioventricular node (AVN).
+3) A short delay before AVN conducts electrical activity down to the base of the ventricles (ensures atria finish contracting and ventricles are full of blood).
+4) Electrical activity travels to base of ventricles (ensures atria finish contracting and ventricles are full of blood).
 5) Electrical activity travels to the base of ventricles via the bundle of His.
 6) Ventricles contract from the base upwards.
 

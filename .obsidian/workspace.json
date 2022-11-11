@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70f044fbc750c633",
+        "id": "7622aa92bca07a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "4cfdff44385343f7",
+            "id": "4919f934157d712b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/DangersofCapacityUtil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b30acb8c4fbc99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Biology/ExchangeSurfaces/TheNeedForSpecialisedExchange.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86391fdc53b80062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "661afcc8d486d868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79307481c6c62834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/CompSci/Theory/Encryption.md",
+                "file": "content/sixth/Business/Units/nd/EconomiesOfScale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Encryption.md",
+                "file": "content/sixth/Business/Units/nd/EconomiesOfScale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Encryption.md",
+                "file": "content/sixth/Business/Units/nd/EconomiesOfScale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Encryption.md"
+                "file": "content/sixth/Business/Units/nd/EconomiesOfScale.md"
               }
             }
           },
@@ -194,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79307481c6c62834",
+  "active": "4919f934157d712b",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Encryption.md",
     "content/sixth/Biology/Circulatory/StructureOfTheHeart.md",
     "content/_index.md",
     "content/2022-11-01.md",
@@ -204,7 +156,6 @@
     "content/2022-11-11.md",
     "content/sixth/Business/Units/nd/CaseStudyCapacityUtilisation.md",
     "content/2022-11-10.md",
-    "content/sixth/Business/Units/nd/Untitled.md",
-    "content/sixth/Business/Units/nd/DangersofCapacityUtil.md"
+    "content/sixth/Business/Units/nd/EconomiesOfScale.md"
   ]
 }

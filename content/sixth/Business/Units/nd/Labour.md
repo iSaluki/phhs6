@@ -40,5 +40,16 @@ Costs are mainly fixed = higher breakeven output
 
 **Luddite:** A term used for workers afraid that technology and automation will take their jobs.
 
+## Labour Intensity
+
+### Benefits
+- Unit costs may still be low in low-wage locations
+- Labour is a flexible resource—through multi-skilling and training
+- Labour at the heart of the production process—can help continuous improvement
+
+### Drawbacks
+- Greater risk of problems with employee/employer relationship
+- Potentially high costs of labour turnover
+- Need for continuous investment in training
 
 [Go home](/)

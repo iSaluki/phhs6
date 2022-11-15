@@ -1,3 +1,9 @@
+---
+title: "M2P5 Josie Notes"
+tags:
+- business
+---
+
 ## Labour VS Capital Intensity
 
 Labour intensity – product relies on using labour resources
@@ -19,3 +25,5 @@ Capacity intensity – product relies on using capacity resources
 2)	B
 3)	D
 4)	A
+
+[Go home](/)

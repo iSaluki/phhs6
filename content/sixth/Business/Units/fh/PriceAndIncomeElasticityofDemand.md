@@ -21,13 +21,26 @@ Unitary price elasticity => PED is exactly 1 => Change in demand = change in pri
 
 If PED greater than 1, a change in price will cause a larger change in demand, so overall revenues would increase with a price cut, but drop with a price increase.
 
-## Factors influencing PED
+### Factors influencing PED
 
 - Price of complementary goods
 - Brand strength
 - Habit
 - Availability of substitutes
 - Time
+
+**Income elasticity of demand**-measures the extent to which the quantity of a product demanded is altered by a change in income.
+
+Calculating income elasticity of demand (YED) is done using the formula:
+
+**% change in Quantity Demanded / % change in income**
+
+Typically:
+- a rise in income will result in a rise in demand
+- a fall in income will result in a fall in demand
+To the extent:
+- this depends on the type of product (necessity vs luxury)
+
 
 
 [Go home](/)

@@ -41,6 +41,13 @@ Typically:
 To the extent:
 - this depends on the type of product (necessity vs luxury)
 
+For inferior goods, demand falls as income rises, but increases as income declines.
+ 
+PED: A(-1.5), B(-0.2)
+IED: A(0.5), B(-1.9)
+*Negatives can be ignored here*
 
+PED: A is elastic, B is inelastic
+Y/IED: B is luxury(elastic), A is necessary (inelastic)
 
 [Go home](/)

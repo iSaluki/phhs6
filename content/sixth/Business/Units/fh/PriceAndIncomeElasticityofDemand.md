@@ -50,4 +50,31 @@ IED: A(0.5), B(-1.9)
 PED: A is elastic, B is inelastic
 Y/IED: B is luxury(elastic), A is necessary (inelastic)
 
+
+**Limitations of calculating and using elasticities**
+
+- Can be difficult to get reliable data
+- Other factors affect demand 
+- Many markets subject to rapid technological change
+- Competitors will react
+
+**Key evaluation points**
+- Elasticities provide useful insights for management in decision-making
+- Firms tend to like to have products with inelastic demand
+- Building strong brans and product USPs is a good strategy for making demand more price inelastic
+---
+
+Elastic products are more vulnerable to a decrease in demand if they increase their price. A price inelastic product will not notice much impact on demand if they increase prices.
+
+Petrol's elasticity depends on factors such as the number of nearby petrol stations, the need of customers to get petrol and various other factors. This means that petrol in a city would be fairly elastic, but fairly inelastic in the middle of nowhere.
+
+Price elasticity  = % change in demand / % change in price
+
+Example of a product raising prices by 20%:
+
+- Server costs
+	- May prompt to look for another provider
+	- Current provider has several USPs, meaning that migration would likely be too much of a hassle
+
+
 [Go home](/)

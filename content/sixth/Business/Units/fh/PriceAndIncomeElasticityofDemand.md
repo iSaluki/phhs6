@@ -76,5 +76,10 @@ Example of a product raising prices by 20%:
 	- May prompt to look for another provider
 	- Current provider has several USPs, meaning that migration would likely be too much of a hassle
 
+---
+Price elasticity of demand measures the responsiveness of demand to a change in the price. We normally assume that a rise in price results in a fall in demand. The level of elasticity depends upon several factors including: the number of substitutes in the market which make it possible for customers to switch, whether the good is a necessity or a luxury and brand loyalty.
+
+
+
 
 [Go home](/)

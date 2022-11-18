@@ -41,6 +41,55 @@ Operating System Functionalities:
 - User input handling, and output handling
 - Provide baseline APIs for hardware and cross-software interactions
 
+### Layers in an operating system
+
+![[sixth/CompSci/Theory/img/Pasted image 20221118122250.png]]
+
+- User Interface
+	- Applications
+		- Kernel
+			- CPU
+			- Memory
+			- Devices
+
+The kernel is the component of the operating system that handles the interaction with physical hardware.
+
+Actions are taken based on the priority of the request.
+
+
+## Human-computer interface
+
+### GUI
+A graphical environment where you can use a mouse or touchscreen to interact with UI objects.
+
+### CLI
+Direct text-based interface with the computer. Faster, more flexible and efficient than a GUI, but harder to use.
+
+### BIOS (basic input/output system)
+
+- A BIOS chip is present on the motherboard
+- It runs before the operating system, but typically only tests hardware and then starts the bootloader
+- Provides a usable interface (that varies in appearance and interaction style) to change basic device settings and select a boot device.
+
+- UEFI is taking over from BIOS as it can bypass some checks and is faster.
+
+## Managing the CPU
+
+- Software must be loaded into memory from secondary storage and then commands must pass through the CPU to be executed.
+
+- Program is found on the storage drive
+- Section of RAM is allocated for the program and its data
+- Program is copied from storage drive into RAM
+- Program counter is set to the memory location
+- The program is now executed
+
+## Multitasking
+
+- An OS can run multiple programs at the same time.
+- It has to anyway, as multiple daemons need to run simultaneously.
+- To do this it must copy all programs into RAM, but then only one can be processed at once.
+- CPUs are extremely fast and can swap very quickly.
+- When one process is running, there are other processes waiting to run in a queue. They will likely swap every few ticks allowing all processes to progress at a similar rate, although priority will be given to the more urgent requests.
 
 
 

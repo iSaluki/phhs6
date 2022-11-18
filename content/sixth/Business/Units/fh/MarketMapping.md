@@ -17,6 +17,7 @@ Allows us to understand how a product or brand is perceived relative to a compet
 - Typically, products or brands are compared between all competitors within a market
 - Gives a business insight into the competition within the same market as its own product
 
+![[sixth/Business/Units/fh/img/Pasted image 20221118104836.png]]
 
 
 

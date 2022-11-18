@@ -91,6 +91,14 @@ Direct text-based interface with the computer. Faster, more flexible and efficie
 - CPUs are extremely fast and can swap very quickly.
 - When one process is running, there are other processes waiting to run in a queue. They will likely swap every few ticks allowing all processes to progress at a similar rate, although priority will be given to the more urgent requests.
 
+### Scheduling
+- When multiple tasks need to be done, they have to be scheduled in a queue. The operating system may choose how to schedule jobs based on:
+- length
+- time waiting to run
+- priority
+
+The "scheduler" is the module that manages this process
+
 
 
 [Go home](/)

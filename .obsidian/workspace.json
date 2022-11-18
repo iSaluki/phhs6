@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d3dc79871e2fc6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
+                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
+                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md"
+                "file": "content/sixth/Business/Units/fh/MarketMapping.md"
               }
             }
           },
@@ -194,8 +206,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "032ad5f8e920080f",
+  "active": "2d3dc79871e2fc6d",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
     "content/sixth/Business/Units/nd/LeanProduction.md",
     "content/sixth/Business/Units/nd/Labour.md",
     "content/sixth/Business/Units/nd/M2P5JosieNotes.md",
@@ -204,7 +217,6 @@
     "content/sixth/Business/Units/nd/Revision.md",
     "content/sixth/Biology/ExchangeSurfaces/MethodsOfCellTransport.md",
     "content/sixth/Business/Units/nd/EconomiesOfScale.md",
-    "content/sixth/CompSci/Theory/Encryption.md",
-    "content/sixth/Biology/Circulatory/StructureOfTheHeart.md"
+    "content/sixth/CompSci/Theory/Encryption.md"
   ]
 }

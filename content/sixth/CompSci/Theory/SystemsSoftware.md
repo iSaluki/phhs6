@@ -109,6 +109,6 @@ The "scheduler" is the module that manages this process
 
 **Shortest remaining time:** Whichever job will be finished first will be done next. Reducing the number of waiting jobs is one of the main benefits of this. It does need to calculate how long each job would take to finish, giving it some delays.
 
-**Multiple level feedback queues:** Processes are separated into categories based on their need for the processor. They are can be moved between queues as needed.
+**Multiple level feedback queues:** Processes are separated into categories based on their need for the processor. They can be moved between queues as needed.
 
 [Go home](/)

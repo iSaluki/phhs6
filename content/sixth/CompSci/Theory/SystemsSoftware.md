@@ -123,4 +123,9 @@ The memory required from process X is split into two parts.
 
 This allows you to utilise all free memory.
 
+### Paging
+Alternatively, the memory can also be split into equally sized blocks called pages.
+
+The information of which page is allocated to which process is maintained in a table.
+
 [Go home](/)

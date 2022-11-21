@@ -111,4 +111,12 @@ The "scheduler" is the module that manages this process
 
 **Multiple level feedback queues:** Processes are separated into categories based on their need for the processor. They can be moved between queues as needed.
 
+## Memory Management
+
+- Memory is shared efficiently between processes.
+- When multiple processes are being run, the OS makes sure that each process has its data and instructions stored in a different memory location.
+- Hence, processes do not interfere with each other.
+- In the case where multiple processes require the same data, shared memory locations are used.
+
+
 [Go home](/)

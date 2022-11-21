@@ -118,5 +118,9 @@ The "scheduler" is the module that manages this process
 - Hence, processes do not interfere with each other.
 - In the case where multiple processes require the same data, shared memory locations are used.
 
+### Segmentation
+The memory required from process X is split into two parts.
+
+This allows you to utilise all free memory.
 
 [Go home](/)

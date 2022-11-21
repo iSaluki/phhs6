@@ -99,6 +99,16 @@ Direct text-based interface with the computer. Faster, more flexible and efficie
 
 The "scheduler" is the module that manages this process
 
+### Scheduling Algorithms
 
+**First come, first served:** FCFS works simply by processing jobs in the order they are submitted.
+
+**Shortest Job First:** SJF always executes the shortest task first.
+
+**Round Robin:** Each job is allocated a time slice, which is a limited amount of CPU time. A job can also be put on hold if a high priority interrupt occurs.
+
+**Shortest remaining time:** Whichever job will be finished first will be done next. Reducing the number of waiting jobs is one of the main benefits of this. It does need to calculate how long each job would take to finish, giving it some delays.
+
+**Multiple level feedback queues:** Processes are separated into categories based on their need for the processor. They are can be moved between queues as needed.
 
 [Go home](/)

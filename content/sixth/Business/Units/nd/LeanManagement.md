@@ -31,6 +31,4 @@ Time-based management focuses on optimising the usage of time to the greatest ex
 - Cells interact with other cells as customers, meaning quality is ensured within the production line.
 
 
-
-
 [Go home](/)

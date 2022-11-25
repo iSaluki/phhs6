@@ -132,7 +132,19 @@ The information of which page is allocated to which process is maintained in a t
 - When too many processes are running and the RAM capacity is not enough, then a section of secondary storage drive is allocated for storing temporary data. This is called a swap file.
 - RAM is selected to be transferred to SWAP if it is not currently in use, to try and reduce friction and the frequency of reads/writes to the disk.
 
-Using a swap file can be called **paging**
+Using a swap file can be called **paging**.
+
+## Control of input-output devices
+
+### Protocols
+- Peripheral devices connected to the computer and programmed with machine code.
+- This describes the way that data is to be transferred between the device and the printer.
+
+### Device drivers
+
+- A device driver manages the connection with a peripheral device.
+- Handles the different requests between a computer and a device.
+- Defines the process to store outgoing data and incoming messages.
 
 
 [Go home](/)

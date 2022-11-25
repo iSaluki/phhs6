@@ -59,5 +59,6 @@ KAIZEN is to continuously improve
 - Extra processing
 - Excess motion
 - Excess inventory
+- Quality
 
 [Go home](/)

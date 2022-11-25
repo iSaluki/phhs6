@@ -164,4 +164,31 @@ The peripheral devices are controlled using *protocols* and *device drivers*.
 - Interrupts are signals sent from a device or application to the processor.
 - The processor will temporarily stop its current process and will service the interrupt signal.
 
+## Buffers
+
+- Hardware devices operate at a much lower speed compared to that of a processor
+- If the processor is sending data to an output device, it needs to wait for the hardware.
+- Buffers are temporary memory areas, which hold the data for the output hardware.
+
+Buffers and interrupts are used in conjunction.
+
+## Maintenance utilities: Disk defragmentation
+
+- When small files are deleted in, small parts of all clusters are free for usage. 
+- If a large file needs to be stored, this file is fragmented into smaller parts and can then be stored in many small clusters.
+- When the large file is accessed, the read write head must move around lots, slowing the operation time.
+- Disk defragmentation allows for the rearrangement of data, placing all related data close to each other.
+
+## Types of OS
+
+**Distributed operating system:** Offers parallel processing system by sharing the load over multiple servers that are interlinked.
+A job is divided into simple tasks and each task is sent out over the network for the worker nodes to complete.
+
+**Multi-tasking system:** Are used in laptops and personal computers, where multiple processes run simultaneously.
+The processor rapidly switches between processes, so it appears that multiple tasks are being completed simultaneously.
+
+**Multi-user multi-tasking system:** Based on time-sharing and implements efficient processor scheduling algorithms to divide the time between multiple users. In this system, numerous users are connected to one mainframe.
+
+
+
 [Go home](/)

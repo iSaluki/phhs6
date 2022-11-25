@@ -32,4 +32,32 @@ Time-based management focuses on optimising the usage of time to the greatest ex
 
 **KAIZEN** => Continually removing waste from your system
 
+## KAIZEN
+KAIZEN is to continuously improve
+
+### Kaizen morning routine
+- 7.30 - alarm
+- 7.35 - get woken up by dad
+- 7.45 - get woken up by dad
+- 7.55 - get pulled out of bed by dad
+- 8.00 - contemplate life
+- 8.05 - breakfast
+- 8.10 - get changed
+- 8.15 - brush teeth
+- 8.17 - standby mode
+- 8.45 - leave for school
+
+- Optimisations
+	- ignore dad until shaken out of bed
+	- wake up later to avoid standby mode
+
+### 7 deadly wastes
+
+- Over-production
+- Waiting time
+- Transportation time
+- Extra processing
+- Excess motion
+- Excess inventory
+
 [Go home](/)

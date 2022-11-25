@@ -30,5 +30,6 @@ Time-based management focuses on optimising the usage of time to the greatest ex
 - Cells tend to be isolated away from the main company—potentially being able to manage hiring and holidays internally.
 - Cells interact with other cells as customers, meaning quality is ensured within the production line.
 
+**KAIZEN** => Continually removing waste from your system
 
 [Go home](/)

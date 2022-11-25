@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/SystemsSoftware.md",
+                "file": "content/sixth/Business/Units/nd/LeanManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/SystemsSoftware.md",
+                "file": "content/sixth/Business/Units/nd/LeanManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/SystemsSoftware.md",
+                "file": "content/sixth/Business/Units/nd/LeanManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/SystemsSoftware.md"
+                "file": "content/sixth/Business/Units/nd/LeanManagement.md"
               }
             }
           },
@@ -147,12 +147,12 @@
   },
   "active": "7250a0b60e7da041",
   "lastOpenFiles": [
-    "Test Feedback.md",
+    "content/sixth/Business/Units/nd/LeanProduction.md",
     "content/sixth/CompSci/Theory/SystemsSoftware.md",
+    "Test Feedback.md",
     "content/sixth/Business/Units/fh/MarketMapping.md",
     "content/sixth/Business/Units/nd/LeanManagement.md",
     "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
-    "content/sixth/Business/Units/nd/LeanProduction.md",
     "content/sixth/Business/Units/nd/Labour.md",
     "content/sixth/Business/Units/nd/M2P5JosieNotes.md",
     "content/sixth/Business/Units/nd/DecisionMaking.md",

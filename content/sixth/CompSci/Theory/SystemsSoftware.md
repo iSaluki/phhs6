@@ -136,6 +136,8 @@ Using a swap file can be called **paging**.
 
 ## Control of input-output devices
 
+The peripheral devices are controlled using *protocols* and *device drivers*.
+
 ### Protocols
 - Peripheral devices connected to the computer and programmed with machine code.
 - This describes the way that data is to be transferred between the device and the printer.
@@ -146,5 +148,20 @@ Using a swap file can be called **paging**.
 - Handles the different requests between a computer and a device.
 - Defines the process to store outgoing data and incoming messages.
 
+- When a device is idle for more than a specific amount of time, a driver may put the device into sleep mode, to conserve power.
+- An OS comes equipped with various generic drivers, but some devices require the installation of specialized drivers.
+- A single driver is enough to control multiple peripherals.
+	- Processes do not interfere in this case because the connection information for each device is isolated.
+
+## File Management Systems
+
+- To retrieve data from the file, an OS needs to know:
+	- the organization structure
+	- the amount of data needed in a structure
+	- the protocol needed to communicate with the file system
+
+## Interrupts
+- Interrupts are signals sent from a device or application to the processor.
+- The processor will temporarily stop its current process and will service the interrupt signal.
 
 [Go home](/)

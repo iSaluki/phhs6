@@ -189,6 +189,19 @@ The processor rapidly switches between processes, so it appears that multiple ta
 
 **Multi-user multi-tasking system:** Based on time-sharing and implements efficient processor scheduling algorithms to divide the time between multiple users. In this system, numerous users are connected to one mainframe.
 
+**Embedded operating systems:** Are designed to perform a single task. Very limited resources. No permanent storage is provided. Accepts inputs from sensors and sends output to control devices.
+
+Examples include (certain): microwaves, missiles, automatic lights/doors, heating systems, many industrial systems.
+
+**Real time operating systems:** Mission critical systems that must be highly reliable, as their failure may have an impact on human lives. Meant to be fault tolerant with redundancy and fail safes.
+
+Examples include: ECGs, ATC, Nuclear reactors, elements of mobile phones, satellites. 
+
+RTOS tend to duplicate critical infrastructure to allow for a backup to take over in the event of an emergency.
+
+**OS for mobile and handheld devices:** User interface, hardware operations and radio. 
+
+Effectively two systems, one is real time and the other is mainly an interface.
 
 
 [Go home](/)

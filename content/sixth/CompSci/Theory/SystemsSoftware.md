@@ -203,5 +203,9 @@ RTOS tend to duplicate critical infrastructure to allow for a backup to take ove
 
 Effectively two systems, one is real time and the other is mainly an interface.
 
+## Virtual Machines
+
+- A dedicated machine houses multiple guest operating systems from a hypervisor.
+- Core functionality is provided by the host operating system
 
 [Go home](/)

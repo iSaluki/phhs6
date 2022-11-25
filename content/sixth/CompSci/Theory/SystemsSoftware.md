@@ -121,11 +121,18 @@ The "scheduler" is the module that manages this process
 ### Segmentation
 The memory required from process X is split into two parts.
 
-This allows you to utilise all free memory.
+This allows you to utilize all free memory.
 
 ### Paging
 Alternatively, the memory can also be split into equally sized blocks called pages.
 
 The information of which page is allocated to which process is maintained in a table.
+
+## Virtual memory
+- When too many processes are running and the RAM capacity is not enough, then a section of secondary storage drive is allocated for storing temporary data. This is called a swap file.
+- RAM is selected to be transferred to SWAP if it is not currently in use, to try and reduce friction and the frequency of reads/writes to the disk.
+
+Using a swap file can be called **paging**
+
 
 [Go home](/)

@@ -206,6 +206,8 @@ Effectively two systems, one is real time and the other is mainly an interface.
 ## Virtual Machines
 
 - A dedicated machine houses multiple guest operating systems from a hypervisor.
-- Core functionality is provided by the host operating system
+- Core functionality is provided by the host operating system.
+
+![[sixth/CompSci/Theory/img/Pasted image 20221125142347.png]]
 
 [Go home](/)

@@ -67,4 +67,12 @@ Productivity = output per input
 
 Efficiency = output for all inputs
 
+Firms with a **higher** output per employee are more efficient, but they tend to gain a competitive advantage.
+
+Quality of inputs in the production process can stop the line and lose the company money whilst out of action.
+Having the right number of staff at peak times will increase productivity overall, because stretched employees are demotivated by being overloaded.
+Investment in new technology; robots can work 24/7 without rest breaks and so will increase productivity levels dramatically.
+
+
+
 [Go home](/)

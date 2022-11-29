@@ -73,6 +73,14 @@ Quality of inputs in the production process can stop the line and lose the compa
 Having the right number of staff at peak times will increase productivity overall, because stretched employees are demotivated by being overloaded.
 Investment in new technology; robots can work 24/7 without rest breaks and so will increase productivity levels dramatically.
 
+## How to increase productivity and labour productivity
+
+**Some** of the ways in which you can increase labour productivity are:
+
+- productivity bonuses
+- productivity deal (for whole workforce)
+- staff training
+- investment in new machinery and equipment
 
 
 [Go home](/)

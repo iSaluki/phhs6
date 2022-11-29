@@ -61,4 +61,10 @@ KAIZEN is to continuously improve
 - Excess inventory
 - Quality
 
+---
+
+Productivity = output per input
+
+Efficiency = output for all inputs
+
 [Go home](/)

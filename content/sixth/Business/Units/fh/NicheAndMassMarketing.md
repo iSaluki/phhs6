@@ -15,7 +15,7 @@ tags:
 | Profit margins often higher     | Lower sales required to cover costs                                                                        | Lack of economies of scale                  | Demand will be relatively low, so manufacturing will have to happen in smaller batches                                                                 |
 | Clear focus                     | Because they are targeting a niche market, they know exactly what customers want.                          | If successful likely to attract competition | Other businesses will be interested to expand their market share, because it would lead to greater income.                                             |
 | Less competition                | A smaller market segment means less businesses will be competing for the custom.                           | Vulnerable to market change                 | Because the targeted market is so small, any small change could severely impact the revenue of the company.                                            |
-| Customers tend to be more loyal | Becuase you are tailoring your product or service to them specifically, customers will feel a closer bond. | Risk of overdependence on a single market   | Targeting a niche market means that a very small group of people will be customers, so the company will  be a lot more dependant on a few individuals. |
+| Customers tend to be more loyal | Because you are tailoring your product or service to them specifically, customers will feel a closer bond. | Risk of overdependence on a single market   | Targeting a niche market means that a very small group of people will be customers, so the company will  be a lot more dependant on a few individuals. |
 
 ## Mass Marketing
 

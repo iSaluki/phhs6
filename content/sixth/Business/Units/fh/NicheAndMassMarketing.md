@@ -26,4 +26,6 @@ tags:
 | More potential customers | A larger than niche market, so more people might want to buy the product.      | More competition                              | The market is bigger, and as there is more money to be made there will be more people trying to make money in the market.                |
 | Cost efficient           | Economies of scale can be used so unit costs can be reduced.                   | Less attractive to consumers                  | Not focused on their needs specifically, so niche markets will be more likely to capture their interest if they exist for that customer. |
 
+
+
 [Go home](/)

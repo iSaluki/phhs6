@@ -66,6 +66,16 @@ E—Pensioners, casual workers, students and unemployed.
 - Income
 - Behavioural
 
+----
+
+Market Size: The volume of sales for a product
+
+Brand: A name, sign, symbol, design or slogan linked to a particular product or service
+
+Primary market research: The collection of data on a first hand basis
+
+Market Mapping: Various market conditions that are plotted on a map.
+
 
 
 [Go home](/)

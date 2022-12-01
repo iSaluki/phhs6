@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a2f704997996ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
+                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
+                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md"
+                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md"
               }
             }
           },
@@ -158,8 +170,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e95579baf49bca04",
+  "active": "0a2f704997996ca4",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/Untitled.md",
+    "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
     "content/sixth/Business/Units/nd/LeanManagement.md",
     "content/sixth/Business/Units/nd/LeanProduction.md",
     "content/sixth/CompSci/Theory/SystemsSoftware.md",
@@ -167,8 +181,6 @@
     "content/sixth/Business/Units/fh/MarketMapping.md",
     "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
     "content/sixth/Business/Units/nd/Labour.md",
-    "content/sixth/Business/Units/nd/M2P5JosieNotes.md",
-    "content/sixth/Business/Units/nd/DecisionMaking.md",
-    "content/sixth/Business/Units/nd/DecisionTreesHwk.md"
+    "content/sixth/Business/Units/nd/M2P5JosieNotes.md"
   ]
 }

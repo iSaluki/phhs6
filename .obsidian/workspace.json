@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f263f2683d57e768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
+                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
+                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md"
+                "file": "content/sixth/Business/Units/fh/TargetMarket.md"
               }
             }
           },
@@ -170,8 +182,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a2f704997996ca4",
+  "active": "f263f2683d57e768",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
     "content/sixth/Business/Units/Untitled.md",
     "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
     "content/sixth/Business/Units/nd/LeanManagement.md",
@@ -180,7 +193,6 @@
     "Test Feedback.md",
     "content/sixth/Business/Units/fh/MarketMapping.md",
     "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
-    "content/sixth/Business/Units/nd/Labour.md",
-    "content/sixth/Business/Units/nd/M2P5JosieNotes.md"
+    "content/sixth/Business/Units/nd/Labour.md"
   ]
 }

@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91e5864d53aa2968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/CompSci/Theory/TypesOfSoftware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
+                "file": "content/sixth/CompSci/Theory/TypesOfSoftware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
+                "file": "content/sixth/CompSci/Theory/TypesOfSoftware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/TargetMarket.md"
+                "file": "content/sixth/CompSci/Theory/TypesOfSoftware.md"
               }
             }
           },
@@ -182,8 +194,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f263f2683d57e768",
+  "active": "91e5864d53aa2968",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/TargetMarket.md",
     "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
     "content/sixth/Business/Units/Untitled.md",
     "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
@@ -192,7 +205,6 @@
     "content/sixth/CompSci/Theory/SystemsSoftware.md",
     "Test Feedback.md",
     "content/sixth/Business/Units/fh/MarketMapping.md",
-    "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md",
-    "content/sixth/Business/Units/nd/Labour.md"
+    "content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand.md"
   ]
 }

@@ -33,16 +33,22 @@ A full till system, potentially including features such as stock control and sig
 
 ## Benefits of technology
 
-- Testing can be performed without wasting a physical product thanks to simulations.
-- Efficiency can be improved
-- Faster iteration
-- Improvements can be suggested automatically
-- Inefficiencies can be ironed out quickly
-- Manufacturing can be sped up
-- Manufacturing can continue 24/7
+- Testing can be performed without wasting a physical product. thanks to simulations.
+- Efficiency can be improved.
+- Faster iteration.
+- Improvements can be suggested automatically.
+- Inefficiencies can be ironed out quickly.
+- Manufacturing can be sped up.
+- Manufacturing can continue 24/7.
 
 ## Drawbacks
 
-- 
+- Technology can require high upfront investment.
+- Requires skill to use.
+- Requires maintaining by someone with equipment and training.
+- Dependent on electricity and internet connectivity.
+- Can be too rigid for certain systems—meaning that if a business adds a new product with lots of customisations, it may not be reflected properly on their till.
+- Technology moves quickly, may only last several years before replacements are needed.
+
 
 [Go home](/)

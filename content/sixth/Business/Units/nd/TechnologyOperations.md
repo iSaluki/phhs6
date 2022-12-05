@@ -1,0 +1,34 @@
+---
+title: "Tehnology use to improve operational efficency"
+tags:
+- business
+---
+
+- High quality
+- Lower cost
+
+Includes:
+- robotics
+- automation
+- digital communications
+- apps and software advances
+
+## Computer Aided Design (CAD)
+
+The use of computers to improve the design of products. CAD is frequently combined with CAM to provide a business with optimal efficiency.
+
+![[sixth/Business/Units/nd/img/Pasted image 20221205120713.png]]
+
+## Computer Aided Manufacturing (CAM)
+
+Typically, using robotics or some form of automation, CAM utilizes computer systems to control parts of or all of the manufacturing process.
+
+![[sixth/Business/Units/nd/img/Pasted image 20221205121019.png]]
+
+## Electronic Point of Sale (EPOS)
+
+A full till system, potentially including features such as stock control and signalling to employees to inform them of whats they need to be doing. It includes basic functionality such as products, pricing and monetary calculations. 
+
+![[sixth/Business/Units/nd/img/Pasted image 20221205121107.png]]
+
+[Go home](/)

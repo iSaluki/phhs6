@@ -1,5 +1,5 @@
 ---
-title: "Tehnology use to improve operational efficency"
+title: "Technology use to improve operational efficency"
 tags:
 - business
 ---

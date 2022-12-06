@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45d396cd4d21600e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md"
               }
             }
           },
@@ -242,8 +254,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebcbe24333e0597d",
+  "active": "45d396cd4d21600e",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/utilities.md",
     "content/sixth/Business/Units/nd/CaseStudyPerfectPaper.md",
     "content/privacy.md",
@@ -252,7 +265,6 @@
     "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
     "content/sixth/CompSci/Theory/TypesOfSoftware.md",
     "content/sixth/Business/Units/fh/TargetMarket.md",
-    "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
-    "content/sixth/Business/Units/Untitled.md"
+    "content/sixth/Business/Units/fh/NicheAndMassMarketing.md"
   ]
 }

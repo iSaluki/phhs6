@@ -23,4 +23,6 @@ Also, fresh ingredients means that products have a short shelf life otherwise th
 
 Lush is “iconic”, their stores are unlike any others. You can smell their stores from a distance, which makes them noticeable. If Lush sold their products in other company's stores, such as a supermarket, they would not be able to utilize such a marketing method. Also, people tend to consider the ethics of the store they are in more that the ethics of the company producing the product that they are buying. By running their own stores, Lush can take their core values such as freshness and reinforce them by designing their stores around their business.
 
+Also, running their own shops would provide them with greater control over every aspect of their business. When they were selling through The Body shop, they were completely dependent on The Body Shop for all sales. If The Body Shop decided to stop stocking their products, they wouldn't have anywhere to turn. However, if running their own stores they would have greater control. Nobody would be able to cut them out of their own business.
+
 [Go home](/)

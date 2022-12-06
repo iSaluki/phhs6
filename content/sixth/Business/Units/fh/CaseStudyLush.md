@@ -21,6 +21,6 @@ Also, fresh ingredients means that products have a short shelf life otherwise th
 
 ## Analyse two reasons why Lush might have decided to open its own shops when it re-launched the business in 1994? (9m)
 
-Lush is “iconic”, their stores are unlike any others. You can smell their stores from a distance, which makes them noticeable. If Lush sold their products in other company's stores such as a supermarket, they would not be able to utilise such a marketing method. Also, people tend to consider the ethics of the store they are in more tha the ethics of the company producing the product that they asre buying.
+Lush is “iconic”, their stores are unlike any others. You can smell their stores from a distance, which makes them noticeable. If Lush sold their products in other company's stores, such as a supermarket, they would not be able to utilize such a marketing method. Also, people tend to consider the ethics of the store they are in more that the ethics of the company producing the product that they are buying. By running their own stores, Lush can take their core values such as freshness and reinforce them by designing their stores around their business.
 
 [Go home](/)

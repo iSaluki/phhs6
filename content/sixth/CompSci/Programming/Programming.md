@@ -131,6 +131,11 @@ This is not a rigid list, not everyone uses every stage, and not everybody does 
 
 You can go back through phases if an issue arises.
 
+[Planning is important!](sixth/CompSci/Programming/Planning)
+
+
+[Majority of programming work is found on GitHub](sixth/CompSci/Programming/ProgrammingChallenges)
+
 
 
 [Computer Science](/ComputerScience)

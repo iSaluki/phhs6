@@ -53,6 +53,6 @@ tags:
 	- heart to lungs
 
 
-
+See [Structure of Heart](sixth/Biology/Circulatory/StructureOfTheHeart) for more details on transport
 
 [Biology](/Biology)

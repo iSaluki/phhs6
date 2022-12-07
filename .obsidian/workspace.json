@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/DecimalPoints.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/DecimalPoints.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -304,6 +304,7 @@
   },
   "active": "4608fb98b403df21",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/DecimalPoints.md",
     "content/utilities.md",
     "content/SchoolWork.md",
     "content/ComputerScience.md",
@@ -312,7 +313,6 @@
     "content/sixth/Biology/Cells/UsingALightMicroscope.md",
     "content/sixth/Biology/Cells/UnitScales.md",
     "content/sixth/Biology/Cells/TypesOfMicroscope.md",
-    "content/sixth/Biology/Cells/ProkaryoticCells.md",
-    "content/sixth/Biology/Cells/PlantCells.md"
+    "content/sixth/Biology/Cells/ProkaryoticCells.md"
   ]
 }

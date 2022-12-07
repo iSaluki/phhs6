@@ -1,5 +1,5 @@
 ---
-title: "SethMB Work"
+title: "Home"
 description: "Landing page"
 ---
 

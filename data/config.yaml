@@ -15,9 +15,9 @@ GitHubLink: https://github.com/iSaluki/phhs6/tree/hugo/content/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  A website hosting school work
+  A website hosting lots of content related to me
 page_title:
-  "Seth MB Work"
+  "SethMB"
 links:
   - link_name: Github
     link: https://github.com/isaluki

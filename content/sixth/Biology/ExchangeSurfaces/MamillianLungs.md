@@ -56,4 +56,4 @@ Alveoli have thin walls and provide large surface areas for gas exchange.
 - elastic fibres: recoil after exhalation to prevent bursting
 
 
-[Go home](/)
+[Biology](/Biology)

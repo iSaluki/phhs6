@@ -135,4 +135,4 @@ A Δ B
 
 [Storing this as binary](sixth/CompSci/Theory/NumberBases)
 
-[Go home](/)
+[Computer Science](/ComputerScience)

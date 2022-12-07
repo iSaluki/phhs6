@@ -16,4 +16,4 @@ Leadership styles are important and should be considered by [new businesses](six
 
 This is developed upon in [Management and Leadership](sixth/Business/Units/nd/ManagementAndLeadership.md)
 
-[Go home](/)
+[Business](/Business)

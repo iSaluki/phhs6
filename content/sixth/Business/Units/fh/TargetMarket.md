@@ -31,4 +31,4 @@ Promotion:
 
 
 
-[Go home](/)
+[Business](/Business)

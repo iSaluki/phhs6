@@ -29,4 +29,4 @@ tags:
 
 
 
-[Go home](/)
+[Business](/Business)

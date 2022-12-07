@@ -97,4 +97,4 @@ Option **B** is the most profitable option.
 Quality of data inputted is equal to the quality of the data outputted.
 
 
-[Go home](/)
+[Business](/Business)

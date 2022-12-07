@@ -110,4 +110,4 @@ The main method used is [Two's Complement](sixth/CompSci/Theory/TwosComplement)
 Advanced numbers and mathematical systems are explained [here](sixth/CompSci/Theory/DataRepFundamentals)
 
 
-[Go home](/) 
+[Computer Science](/ComputerScience)

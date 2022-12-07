@@ -17,4 +17,4 @@ The problem that arises for a business such as Daihatsu offering lower prices is
 
 Effectively, businesses in industries where overall capacity utilisation is falling need to shift their focuses to different parts of the market to ensure that their longevity is secured. Cutting prices is a good way to reduce the impact of higher unit costs, meaning that for many businesses it will be a viable option.
 
-[Go home](/)
+[Business](/Business)

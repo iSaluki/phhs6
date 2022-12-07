@@ -119,4 +119,4 @@ Screen resolution is horizontal pixels * vertical pixels.
 
 Next: [Sound](sixth/CompSci/Theory/Sound)
 
-[Go home](/)
+[Computer Science](/ComputerScience)

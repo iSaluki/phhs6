@@ -83,4 +83,4 @@ Investment in new technology; robots can work 24/7 without rest breaks and so wi
 - investment in new machinery and equipment
 
 
-[Go home](/)
+[Business](/Business)

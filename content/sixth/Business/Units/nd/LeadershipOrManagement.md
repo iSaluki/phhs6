@@ -76,4 +76,4 @@ Medium concern for people and task.
 
 Good decisions should be made with consideration towards [stakeholders](sixth/Business/Units/nd/Stakeholders.md).
 
-[Go home](/)
+[Business](/Business)

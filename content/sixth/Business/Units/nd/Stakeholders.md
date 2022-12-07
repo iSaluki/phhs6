@@ -80,4 +80,4 @@ Stakeholder needs should be considered when making decisions. This can help to a
 
 Decision-making is continued [here](sixth/Business/Units/nd/DecisionMaking.md)
 
-[Go home](/)
+[Business](/Business)

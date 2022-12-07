@@ -23,4 +23,4 @@ Whilst the income of the consumer is a large factor impacting whether they would
 
 It is worth considering wider, more general economic factors as well, such as interest rates. Many people will not buy something that costs £24,000 out of pocket, so they will need to borrow money from a bank. High interest rates will increase the long-term cost of borrowing money, and will reduce the probability of someone spending their money on a non-essential item like a nice car. Even if somebody does have a high enough income to afford a new car—they may not wish to do so if they have concerns over the security of their job or the future of the economy.
 
-[Go home](/)
+[Business](/Business)

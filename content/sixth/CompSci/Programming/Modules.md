@@ -53,4 +53,4 @@ And here is the output:
 >
 > Make sure you've saved both files in the same folder, otherwise this won't work. Additionally, you can save the file you want to import in your Python path or environment, with the core libraries. (Or add your modules folder to your PATH variable)
 
-[Go home](/)
+[Computer Science](/ComputerScience)

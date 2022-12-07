@@ -65,4 +65,4 @@ So 15% of the capacity is unused, meaning that the business is not as efficient 
 - A high level of capacity utilisation is required is a business has a high break-even output due to significant fixed costs of production.
 
 
-[Go home](/)
+[Business](/Business)

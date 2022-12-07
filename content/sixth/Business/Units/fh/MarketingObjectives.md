@@ -146,4 +146,4 @@ Sampling involves the gathering of data from a sample of respondents, the result
 **Highly geared—thee business is financed by loans
 
 
-[Go home](/)
+[Business](/Business)

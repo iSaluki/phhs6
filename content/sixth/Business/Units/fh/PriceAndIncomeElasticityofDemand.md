@@ -82,4 +82,4 @@ Price elasticity of demand measures the responsiveness of demand to a change in 
 
 
 
-[Go home](/)
+[Business](/Business)

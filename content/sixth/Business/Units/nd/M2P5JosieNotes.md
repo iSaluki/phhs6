@@ -26,4 +26,4 @@ Capacity intensity – product relies on using capacity resources
 3)	D
 4)	A
 
-[Go home](/)
+[Business](/Business)

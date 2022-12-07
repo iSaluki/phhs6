@@ -115,4 +115,4 @@ Many other ways do exist—such as decreasing price to increase sales volume and
 
 
 
-[Go home](/)
+[Business](/Business)

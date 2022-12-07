@@ -7,4 +7,4 @@ tags:
 Work on Anki.
 
 
-[Go home](/)
+[Business](/Business)

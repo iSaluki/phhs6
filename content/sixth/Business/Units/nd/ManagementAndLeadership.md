@@ -47,4 +47,4 @@ The extremes of the spectrum are Manager-centered leadership and subordinate cen
 
 To compare, see [Leadership or Management](sixth/Business/Units/nd/LeadershipOrManagement.md)
 
-[Go home](/)
+[Business](/Business)

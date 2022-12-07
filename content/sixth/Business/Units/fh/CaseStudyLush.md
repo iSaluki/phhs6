@@ -36,4 +36,4 @@ However, the risk that some customers will be excluded may be a worthwhile risk 
 Lush achieves high profits through their market segmentation planning by finding quality selling points, such as fresh and natural ingredients, which they then use to make their high markup a reasonable purchase for their target market, which consists of people who are willing to spend more to get a product that ticks these boxes. Because Lush is operating in a fairly niche market, they don't have  a huge amount of competition either, which allows for them to take more risks when it comes to new products, and allows them to continue growing their market share.
 
 
-[Go home](/)
+[Business](/Business)

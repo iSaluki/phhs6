@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c2b1331286bc250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/CompSci/Programming/ProgrammingChallenges.md"
               }
             }
           },
@@ -302,8 +314,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4608fb98b403df21",
+  "active": "4c2b1331286bc250",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/sixth/CompSci/Theory/DecimalPoints.md",
     "content/utilities.md",
     "content/SchoolWork.md",
@@ -312,7 +325,6 @@
     "content/Biology.md",
     "content/sixth/Biology/Cells/UsingALightMicroscope.md",
     "content/sixth/Biology/Cells/UnitScales.md",
-    "content/sixth/Biology/Cells/TypesOfMicroscope.md",
-    "content/sixth/Biology/Cells/ProkaryoticCells.md"
+    "content/sixth/Biology/Cells/TypesOfMicroscope.md"
   ]
 }

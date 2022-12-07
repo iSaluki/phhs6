@@ -10,4 +10,4 @@ I host several utilities that are freely available to use.
 [Link Shortener](https://short.sethmb.xyz/) - Shorten long links
 
 
-**Status monitoring for all services is provided at [status page](https://status.sethmb.xyz)
+**Status monitoring for all services is provided at [status page](https://status.sethmb.xyz)**

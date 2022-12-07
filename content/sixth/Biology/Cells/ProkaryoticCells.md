@@ -42,4 +42,4 @@ Microscopy stain to help identify different bacteria.
 
 
 
-[Go home](/)
+[Biology](/Biology)

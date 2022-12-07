@@ -11,8 +11,7 @@ Consider a binary number as 1001 . 1010
 the first part, 1001 is equivalent to 9 
 whilst the second part is equal to 0.625 (0.5 + 0.125), making the whole number 9.625
 
-Image showing conversion table
-[TODO]()
+
 
 ## Converting denary to binary
 

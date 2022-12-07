@@ -8,3 +8,6 @@ I host several utilities that are freely available to use.
 [PrivateBin](https://paste.sethmb.xyz/) - Private pastebin alternative.
 
 [Link Shortener](https://short.sethmb.xyz/) - Shorten long links
+
+
+**Status monitoring for all services is provided at [status page](https://status.sethmb.xyz)

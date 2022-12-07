@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
+                "file": "content/utilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
+                "file": "content/utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
+                "file": "content/utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md"
+                "file": "content/utilities.md"
               }
             }
           },
@@ -256,8 +256,8 @@
   },
   "active": "45d396cd4d21600e",
   "lastOpenFiles": [
-    "content/utilities.md",
     "content/sixth/Business/Units/fh/CaseStudyLush.md",
+    "content/utilities.md",
     "content/_index.md",
     "content/sixth/Business/Units/nd/CaseStudyPerfectPaper.md",
     "content/privacy.md",

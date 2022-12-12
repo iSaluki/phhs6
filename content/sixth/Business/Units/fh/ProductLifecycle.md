@@ -1,0 +1,17 @@
+---
+title: "Product Lifecycle"
+tags:
+- business
+---
+
+1) convenience goods
+2) speciality goods
+3) 70% of new products fail within 3 years because entering the market is the most difficult part of a product lifecycle. In order to enter the market, the product needs successful marketing and to meet the needs or wants of the consumers in order to gain enough recurring sales for the product to be deemed profitable. If the product cannot break through this initial barrier, then it will end up being a drag for the businesses revenue and will have to be discontinued. Also, there are some products that may not be intended to last more than 3 years. Many craze products such as Loom Bands and Fidget Spinners didn't need to last 3 years to make the companies producing them a huge amount of money. So it isn't vital for some products to last 3 years, whilst some more expensive products may need to last for a long time to be seen as successful, such as a watch. If the company stops selling them after 6 months then they seem like a low value product.
+
+![[sixth/Business/Units/fh/img/Pasted image 20221212110441.png]]
+4) A 
+
+
+
+
+[Business](/Business)

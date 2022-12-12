@@ -8,187 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7250a0b60e7da041",
+            "id": "346d9592e1e358ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/LeanManagement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e95579baf49bca04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/fh/SegmentationTargetingAndPositioning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2f704997996ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/fh/NicheAndMassMarketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f263f2683d57e768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/fh/TargetMarket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91e5864d53aa2968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/CompSci/Theory/TypesOfSoftware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f3ac1f5f0b75a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7954046b6e5611bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/nd/TechnologyOperations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68419d7c25560ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/privacy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebcbe24333e0597d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d396cd4d21600e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/utilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4578802f533c53a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Biology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ca3e796db265cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Business.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e8c3c3937ad59eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/ComputerScience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4608fb98b403df21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c2b1331286bc250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,6 +64,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "55678ab21ef9ef02",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/img/Pasted image 20221212110441.png"
+              }
+            }
           }
         ]
       }
@@ -254,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Circulatory/NeedForTransportSystems.md"
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md"
               }
             }
           },
@@ -314,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c2b1331286bc250",
+  "active": "346d9592e1e358ed",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/img/Pasted image 20221212110441.png",
+    "content/sixth/Business/Units/fh/ProductLifecycle.md",
+    "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+    "content/sixth/Biology/Cells/ProkaryoticCells.md",
+    "content/sixth/Biology/Circulatory/NeedForTransportSystems.md",
     "content/sixth/CompSci/Programming/Subroutines.md",
     "content/sixth/CompSci/Programming/Programming.md",
     "content/sixth/CompSci/Programming/StateMachines.md",
     "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
-    "content/sixth/CompSci/Programming/Planning.md",
-    "content/_index.md",
-    "content/sixth/CompSci/Theory/DecimalPoints.md",
-    "content/utilities.md",
-    "content/SchoolWork.md",
-    "content/ComputerScience.md"
+    "content/sixth/CompSci/Programming/Planning.md"
   ]
 }

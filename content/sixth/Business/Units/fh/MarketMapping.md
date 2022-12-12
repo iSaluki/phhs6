@@ -29,6 +29,6 @@ Allows us to understand how a product or brand is perceived relative to a compet
 3) Everybody wants to be very fashionable, and many are willing to pay high prices for it. The demand for this quadrant is much more diverse than the demand for other quadrants, so there is room for more businesses in the top right quadrant.
 4) An advantage of setting up a business in the middle pricing levels with functional clothing would be the fairly unrivalled marketplace. There are no other businesses in this market, meaning that there is room for them to pull customers from the nearest competitors. Assuming that demand does exist for a business in this market segment, the business would likely have an easy time entering the market. 
 
-[Product Lifecycle](Business/Units/fh/ProductLifecycle)
+[Product Lifecycle](/Business/Units/fh/ProductLifecycle)
 
 [Business](/Business)

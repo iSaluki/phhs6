@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md"
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "346d9592e1e358ed",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/MarketMapping.md",
     "content/sixth/Business/Units/fh/ProductLifecycle.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20221212110441.png",
     "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
@@ -165,7 +166,6 @@
     "content/sixth/CompSci/Programming/Subroutines.md",
     "content/sixth/CompSci/Programming/Programming.md",
     "content/sixth/CompSci/Programming/StateMachines.md",
-    "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
-    "content/sixth/CompSci/Programming/Planning.md"
+    "content/sixth/CompSci/Programming/ProgrammingChallenges.md"
   ]
 }

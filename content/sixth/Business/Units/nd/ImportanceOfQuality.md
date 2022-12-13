@@ -43,9 +43,9 @@ Just having a high quality product may not be enough. People won't be happy abou
 
 Quality Control → Inspecting finished products for any faults and removing them
 
-Quality assurance → An approach which recognises the contribution made by everyone in the organisation
+Quality assurance → Designing a process in such a way that defects do not happen
 
-Total Quality Management → Designing a process in such a way that defects do not happen
+Total Quality Management → An approoach which recognises the contribution made by everyone in the organisation.
 
 Quality Standards → A system of monitoring achievement in relation to certain targets.
 

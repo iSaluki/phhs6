@@ -11,6 +11,10 @@ My biology work is not done here primarily, so it is copied up after being done 
 
 This content is provided by me, free of charge, to you. As this content typically originates from my lessons, I may not own the rights to everything, including text and images, that may be used on this site—and therefore cannot make a blanket statement on whether you may reuse any content. If you wish to use any content from my website for anything other than strictly educational use, then please contact me first.
 
+
+The accuracy of the information on the site cannot be fully guaranteed. I do my best but as I am learning these subjects some inaccuracies are inevitable. If you notice something, please let me know or submit a correction on GitHub. 
+
+
 # Subjects
 
 I have attached a link to all work for each subject below.

@@ -42,6 +42,23 @@ Just having a high quality product may not be enough. People won't be happy abou
 ## Worksheet
 
 Quality Control => Inspecting finished products for any faults and removing them
-Quality assurance =>
+Quality assurance => An approach which recognises the contribution made by everyone in the organisation
+Total Quality Management => Designing a process in such a way that defects do not happen
+Quality Standards => A system of monitoring achievement in relation to certain targets.
+
+### Not benefits of improving quality
+- better skills for employees
+
+### 3 ways in which better quality may help a business to be more profitable
+
+1) Better reputation means more repeat customers and word of mouth marketing
+2) Higher quality products will likely last longer, meaning that they may provide better value to customers than the competition
+3) People are willing to pay a higher price for a quality product, meaning markups could be increased
+
+### Briefly explain why a business might have an increase in the number of fault goods being returned
+
+If a fault has occurred somewhere in the production process and has not been picked up by any quality management processes, then they may have batches of products that are faulty and do not meet the expectations of their customers. This may result in many customers being unsatisfied with the product and will likely lead to a spike in returns. 
+
+It is also possible that an external factor to the production process may be causing issues, such as careless handling of the products in logistics, which could cause damage to perfectly fine units and require the business to replace them.
 
 [Business](/Business)

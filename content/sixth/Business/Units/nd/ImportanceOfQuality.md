@@ -45,7 +45,7 @@ Quality Control → Inspecting finished products for any faults and removing the
 
 Quality assurance → Designing a process in such a way that defects do not happen
 
-Total Quality Management → An approoach which recognises the contribution made by everyone in the organisation.
+Total Quality Management → An approach which recognises the contribution made by everyone in the organisation.
 
 Quality Standards → A system of monitoring achievement in relation to certain targets.
 

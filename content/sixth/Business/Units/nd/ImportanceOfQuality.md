@@ -64,4 +64,6 @@ If a fault has occurred somewhere in the production process and has not been pic
 
 It is also possible that an external factor to the production process may be causing issues, such as careless handling of the products in logistics, which could cause damage to perfectly fine units and require the business to replace them.
 
+**Other options:** New staff, problems with raw materials, faulty machinery etc
+
 [Business](/Business)

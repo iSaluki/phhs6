@@ -1,5 +1,5 @@
 ---
-title: "Quality"
+title: "Importance of Quality"
 tags:
 - business
 ---

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Quality.md",
+                "file": "content/sixth/Business/Units/nd/ImportanceOfQuality.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Quality.md",
+                "file": "content/sixth/Business/Units/nd/ImportanceOfQuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Quality.md",
+                "file": "content/sixth/Business/Units/nd/ImportanceOfQuality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Quality.md"
+                "file": "content/sixth/Business/Units/nd/ImportanceOfQuality.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "2a6a0b95be6d625c",
   "lastOpenFiles": [
     "content/_index.md",
-    "content/sixth/Business/Units/nd/Quality.md",
+    "content/sixth/Business/Units/nd/ImportanceOfQuality.md",
     "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
     "content/sixth/Business/Units/fh/ProductLifecycle.md",
     "Business/Units/fh/ProductLifecycle.md",

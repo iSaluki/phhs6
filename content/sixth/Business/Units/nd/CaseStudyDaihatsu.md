@@ -25,7 +25,9 @@ Effectively, businesses in industries where overall capacity utilisation is fall
 - Consider demand falling for short term
 
 🌟 Not necessarily
+
 🌟🌟 Really? Marketing, reduce capacity
+
 🌟🌟🌟 Why is this a problem?
 
 [Business](/Business)

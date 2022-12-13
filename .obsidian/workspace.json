@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "486221a1dd138120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "file": "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md",
+                "file": "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MarketMapping.md"
+                "file": "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md"
               }
             }
           },
@@ -155,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "346d9592e1e358ed",
+  "active": "486221a1dd138120",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/ProductLifecycle.md",
+    "Business/Units/fh/ProductLifecycle.md",
+    "content/sixth/Business/Units/fh/MarketMapping.md",
     "content/sixth/Business/Units/fh/ProfitMeasurement.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
-    "content/sixth/Business/Units/fh/ProductLifecycle.md",
     "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/BusinessOrganisation.md",
     "content/sixth/Business/Units/fh/CaseStudyLush.md",
-    "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md",
-    "content/sixth/Business/Units/fh/MarketMapping.md",
-    "content/sixth/Business/Units/fh/img/Pasted image 20221212110441.png"
+    "content/sixth/Business/Units/fh/CaseStudyThatsEntertainment.md"
   ]
 }

@@ -30,4 +30,6 @@ tags:
 
 **Decline:** Falling sales, market saturation. More competitors leave. Decline in profits and overall weaker cash flow. 
 
+**Extension:** Lower price, change the packaging. 
+
 [Business](/Business)

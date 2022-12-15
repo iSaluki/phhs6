@@ -38,4 +38,15 @@ tags:
 	- Memory Read: The contents in the specified address are copied to the data bus.
 	- Memory Write: The contents of the bus data bus are copied to the specified address.
 
+## Registers
+
+- Program Counters: Holds the address of the next instruction to execute.
+- Current Instruction Register: Holds the current instruction being executed.
+- Memory Address Register: Holds the data address of the register from which data is read, or to which data is to be written.
+- Memory or Data Register: Temporarily stores the data being read from or written to the memory.
+- Status Register: Holds the bits that are set or cleared based on the results of an instruction.
+
+
+
+
 [Computer Science](/ComputerScience)

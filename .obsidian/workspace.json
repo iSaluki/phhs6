@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyLush.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a16b013dcf3c187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md"
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md"
               }
             }
           },
@@ -204,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6416be4aa5204f9e",
+  "active": "4a16b013dcf3c187",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/img/Pasted image 20221215095730.png",
+    "content/sixth/Business/Units/fh/ProductLifecycle.md",
+    "content/sixth/Business/Units/fh/Untitled.md",
+    "content/sixth/Business/Units/fh/CaseStudyLush.md",
+    "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
     "content/sixth/Biology/Cells/MeiosisQuestions.md",
     "content/sixth/Business/Units/nd/ImportanceOfQuality.md",
     "content/_index.md",
     "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
-    "content/sixth/Business/Units/fh/ProductLifecycle.md",
-    "Business/Units/fh/ProductLifecycle.md",
-    "content/sixth/Business/Units/fh/MarketMapping.md",
-    "content/sixth/Business/Units/fh/ProfitMeasurement.md",
-    "content/sixth/Business/Units/fh/PublicSector.md",
-    "content/sixth/Business/Units/fh/CaseStudyMiyagiMotors.md"
+    "Business/Units/fh/ProductLifecycle.md"
   ]
 }

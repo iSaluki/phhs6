@@ -14,6 +14,20 @@ tags:
 5) 
 
 
+---
 
+**A theoretical model which describes the stages a product goes through over its life.**
+
+![[sixth/Business/Units/fh/img/Pasted image 20221215095730.png]]
+
+**Development:** Absorbs significant resources. May not be successful.
+
+**Introduction:** New product launches. Low level of sales. Usually a negative cash flow. Heavy promotion needed.
+
+**Growth:** Fast growing sales. Cash flow may become positive. Market grows, competition enters. Unit costs begin to fall with economies of scale.
+
+**Maturity:** Slower sales. Intense competition. Fight for market share. Cash flow very high, positive. Weaker competitors leave the market.
+
+**Decline:** Falling sales, market saturation. More competitors leave. Decline in profits and overall weaker cash flow. 
 
 [Business](/Business)

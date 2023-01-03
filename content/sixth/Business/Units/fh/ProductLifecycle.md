@@ -126,5 +126,14 @@ The Boston Matrix
 - Low share of a slowly growing market
 - Not gowing anywhere and no real potential 
 
+### Strategy
+
+- Phase out or sell off (divest)
+- Not worth investing in
+- Any profit made has to be re-invested just to maintain market share
+- Uses up more time and resources that can be justified
+- Divest or, at most, focus on a defendable niche
+
+
 
 [Business](/Business)

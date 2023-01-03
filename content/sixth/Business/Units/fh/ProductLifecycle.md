@@ -32,4 +32,37 @@ tags:
 
 **Extension:** Lower price, change the packaging. 
 
+
+---
+
+Consumer and industrial products
+
+
+Over the stages of the product lifecycle, we measure sales over time.
+
+Stages are as follows:
+- Introduction
+- Growth 
+- Maturity
+- Decline
+
+
+## Product Portfolio Analysis
+
+Product portfolio analysis assesses the position of each product or brand in a firm's portfolio to help determine the right marketing strategy for each.
+
+
+- Boston Consulting Group developed this as a tool of portfolio analysis
+- It can be applied to the portfolio of products produced by a firm or the portfolio of businesses owned by a firm. 
+- Portfolio is a collection of businesses or products that make up a business.
+
+Firms should analyse their portfolio of products, categorised as:
+
+- Question Marks
+- Stars
+- Cash cows
+- Dogs
+
+- The ideal would be a balanced portfolio, likley with products in every category.
+
 [Business](/Business)

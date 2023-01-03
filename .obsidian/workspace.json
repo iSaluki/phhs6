@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md"
+                "file": "content/sixth/Business/Units/fh/ProductLifecycle.md"
               }
             }
           },
@@ -228,10 +228,21 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "f7aeada7d1b987d2",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+    "content/_index.md",
     "content/templates/Pasted image 20221215104812.png",
     "content/sixth/CompSci/Theory/img/Pasted image 20221215104812.png",
     "content/sixth/Business/Units/fh/ProductLifecycle.md",

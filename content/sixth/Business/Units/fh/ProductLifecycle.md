@@ -118,7 +118,13 @@ The Boston Matrix
 - Use profits from cash cows to invest in new products
 
 
- 
+## Dogs
+
+- Dogs are either
+    - Products that have failed
+    - Products that are in the decline phase of their life cycle
+- Low share of a slowly growing market
+- Not gowing anywhere and no real potential 
 
 
 [Business](/Business)

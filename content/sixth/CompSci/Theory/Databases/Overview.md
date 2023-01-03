@@ -25,6 +25,10 @@ tags:
 Because of this, it would make more sense to describe a database as an "informationbase".
 
 
+> Knowledge is power.
+
+
+
 
 
 

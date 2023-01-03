@@ -71,6 +71,29 @@ The Product Lifecycle
 The Boston Matrix
 - is concerned with the firms overall cashflow
 
+## Question Marks
+
+- Low share of a rapidly growing market
+- Cash flow is negative
+- Have potential but the future is uncertain
+- Could become either a star or a dog
+
+### Strategy
+
+- Invest to increase market share
+- Substaintial investment to achieve growth at the expense of powerful competitors
+- Invest in promotion and other aspects of marketing
+- Build selectively
+
+## Stars
+
+- High share of rapidly growing market
+- Position of leadership in a high growth market
+- The product/business is relatively strong and the market is growing
+- Require high marketing spending
+- Net cash inflow is neutral or at best modestly positive
+
+ 
 
 
 [Business](/Business)

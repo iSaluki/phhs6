@@ -93,6 +93,31 @@ The Boston Matrix
 - Require high marketing spending
 - Net cash inflow is neutral or at best modestly positive
 
+### Strategy
+
+- Investment to sustain growth
+- Build sales and/or market share
+- Spend to keep competition at bay
+
+## Cash cows
+
+- High share of a slowly growing market
+- Mature stage in the product lifecycle
+- Mature, successful product
+- Dominant share
+- Little potential for growth 
+- Large positive cash inflow
+
+### Strategy
+
+- Defend market share
+- Aim for short term profits
+- Little need for investment
+- Little potential for further growth
+- Reduce investment in order to maximise short term cash flow and profits
+- Use profits from cash cows to invest in new products
+
+
  
 
 

@@ -134,6 +134,12 @@ The Boston Matrix
 - Uses up more time and resources that can be justified
 - Divest or, at most, focus on a defendable niche
 
+## How valuable is the Boston Matrix Model?
+
+- A useful tool for analysing product portfolio decisions
+- But it is only a snapshot of the current position
+- Has little or no predictive value
+- Focus on market share and market growth ignores issues such as developing a sustainable competitive advantage.
 
 
 [Business](/Business)

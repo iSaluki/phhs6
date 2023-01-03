@@ -65,4 +65,12 @@ Firms should analyse their portfolio of products, categorised as:
 
 - The ideal would be a balanced portfolio, likley with products in every category.
 
+The Product Lifecycle
+- is concerned with individual products
+
+The Boston Matrix
+- is concerned with the firms overall cashflow
+
+
+
 [Business](/Business)

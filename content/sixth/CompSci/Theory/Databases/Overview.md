@@ -49,6 +49,22 @@ Because of this, it would make more sense to describe a database as an "informat
 - Keeping the data secure.
     - Authenticating users and only showing them data they're allowed to see.
 
+
+---
+
+## Legalities
+
+- The law says that data must be secure and accurate
+    - Data Protection Act (DPA)
+    - General Data Protection Regulation (GDPR)
+
+- We must ensure that they stay accurate, not just because the law says so. 
+    - If you move house, it is important that your bank knows this.
+    - If I delete a supplier from my system, what about products that they sold us and that we sold onto our customers?
+
+
+
+
 [Computer Science](/ComputerScience)
 
 

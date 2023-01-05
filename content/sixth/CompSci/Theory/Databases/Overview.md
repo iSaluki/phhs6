@@ -85,6 +85,27 @@ A website may wish to track visitors to the site and store this information in a
 If a restaurant serves 60 different dishes, there will likely be dishes that are more popular than others. If every time somebody orders something it is recorded in a database, then it would be possible for the restaurant to ensure that they always have the correct ingredients avaliable to provide customers with their favourite dinner dishes on Thursdays. Additionally, it would allow the restaurant to review the performance of different dishes and remove less popular ones from their menu. Another datapoint that the restaurant could get from collecting this information is populatirty based on time and day. They could look at when the most orders are coming in and ensure that they always have enough staff on shift on a Saturday morning whilst also making sure that on a Monday morning they have a much more minimal staff, optimising both costs and customer experience.
 
 
+### The Law
+
+1) Describe the nature of content and purpose
+2) Assess the necessity and compliance measures
+3) Identify and evaluate potential risks to data subjects
+4) Identify any additional actions that could mitigate those risks
+
+### Database Management Systems
+
+- Provides additional security
+- Sharing of data and multi user transaction processing becomes possible
+
+- Allow remote access of data
+    - Enables applications and employees to work across the world
+
+- Greatly simplified bulk operations and queries
+    - Runs queries and operations much faster due to a dedicated design
+
+
+- DBMS are more complex than flat files - a standard user cannot directly interface with it.
+
 [Computer Science](/ComputerScience)
 
 

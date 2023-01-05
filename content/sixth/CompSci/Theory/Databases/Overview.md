@@ -62,7 +62,11 @@ Because of this, it would make more sense to describe a database as an "informat
     - If you move house, it is important that your bank knows this.
     - If I delete a supplier from my system, what about products that they sold us and that we sold onto our customers?
 
+Responsibility for the safety of information relies partially on the organisation to set and enforce policies, but the individual can be liable if they go against their organisation's policies. 
 
+If someone has information stored about you, then they are legally required to give it all to you upon request within a reasonable amount of time. Some organisations are exempt from this, such as the police and various security services. Information may be withheld if the usecase of the requester is suspected to be malicious, however this becomes more complex as anyone you have data on still has their rights. 
+
+Orphaned data is information that has been disconnected from linked data points. So if you have a product from a supplier and you delete the supplier from your database, then the product has no supplier. This means that the product would be orphaned.
 
 
 [Computer Science](/ComputerScience)

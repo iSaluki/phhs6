@@ -114,7 +114,7 @@ General purpose registers are named R0-R12
 Immediate addressing:
 - The operand is the data
 - LDR R1, #42 = Load 42 into register 1
-- # specifies a decimal value
+- Hash specifies a decimal value
 
 Direct addressing:
 - The operand is the address of the data
@@ -122,6 +122,11 @@ Direct addressing:
 - This can be a main memory address or one of the registers
 
 Other forms of addressing do exist, but are not relevant for A Level.
+
+Assembly instructions are provided in an exam, you do not need to learn them.
+
+
+
 
 
 [Computer Science](/ComputerScience)

@@ -73,4 +73,8 @@ Heinz is the supplier of baked beans and ketchup. However ketchup and baked bean
 
 ![Relationship Types](/content/sixth/compsci/theory/databases/img/relationshiptypes.png)
 
+> [!caution]
+> Avoid any relationship except one-to-many.
+
+
 [Computer Science](/ComputerScience)

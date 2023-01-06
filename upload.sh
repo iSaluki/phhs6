@@ -1,4 +1,4 @@
 git add .
-git commit -m "Automated content update"
+git commit -m "$*"
 git push
 echo "Pushed to GitHub"

@@ -104,5 +104,14 @@ You could measure low quality by looking at:
 - Quality checks at the end of production
 - Mystery Shoppers
 
+For Quality Assurance see the QA doc via search.
+
+## Benefits to improving quality
+
+- If a business improves the quality of their processes ir the products and services offered it may:
+
+    - Motivate the employees to be working with better machinery or systems
+    - reduce the cost from waste and reworking faulty goods
+    - less time wasted sorting customer complaints
 
 [Business](/Business)

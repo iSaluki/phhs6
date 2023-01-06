@@ -50,6 +50,11 @@ tags:
 - Memory or Data Register: Temporarily stores the data being read from or written to the memory.
 - Status Register: Holds the bits that are set or cleared based on the results of an instruction.
 
+---
+
+Stored program concept: Machine code instructions stored in main memory are fetched and executed serially.
+
+General purpose registers are named R0-R12
 
 
 

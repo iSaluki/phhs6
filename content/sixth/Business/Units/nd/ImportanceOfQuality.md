@@ -114,4 +114,10 @@ For Quality Assurance see the QA doc via search.
     - reduce the cost from waste and reworking faulty goods
     - less time wasted sorting customer complaints
 
+## Difficulties of improving quality
+
+- Once a quality assurance system has been implemented it will need to be checked regularly to make sure employees are filling in the paperwork and following new principles.
+- New quality procedures may require an entire company culture shift which will take time.
+- Can be expensive at the start especially if better machinery has been purchased.
+
 [Business](/Business)

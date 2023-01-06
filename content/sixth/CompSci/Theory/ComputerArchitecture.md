@@ -56,6 +56,27 @@ Stored program concept: Machine code instructions stored in main memory are fetc
 
 General purpose registers are named R0-R12
 
+## Memory Unit
+
+- A memory unit consits of a number of partitions
+- Each partition consists of data and and address
+
+## Read Operation
+
+- To read the contents from any location, the registers MAR (memory address register) and MDR (memory data register) are used.
+- A read signal is sent by the processor to the memory. The contents are then copied to the MDR.
+
+## Write Operation
+
+- To write data into a particular address, the data is first written to the MDR.
+- The address is then written to the MAR.
+- A write signal is sent by the processor to the memory unit through the control bus and the location is written to with the data in the MDR.
+
+## Processor ALU & CU
+
+- The processor contains ALU (Arithmetic Logic Unit) and CU (Control Unit).
+- The ALU is responsible for arithmetic functions such as addition, subtraction, multiplication etc and logic operations such as AND, OR, NOT etc.
+- The Accumulator (ACC) is the register that stores the result of arithmetic and logical operations performed by a processor.
 
 
 [Computer Science](/ComputerScience)

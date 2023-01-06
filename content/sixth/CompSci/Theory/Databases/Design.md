@@ -26,7 +26,8 @@ tags:
 
 **Example:** *A school has classes that are taught by a single teacher and attended by one or more students. Each class is taught in a single room. Students can study more than one subject but teachers can only teach one subject.*
 
-> Identify the entities. 
+> Identify the entities.
+ 
     - What is an entity is a discussion, not a given. Things that the database needs to track are entities.
     - Some entities may be physical - such as a teacher - whilst some are just concepts - such as a subject.
 
@@ -35,5 +36,8 @@ tags:
 
 The school may want additional entities, such as reports, registers, books, invoices etc. It simply depends upon the use case for the database and what the school wishes to track/do with the databse.
 
+Some entities may not be needed. So for instance a school would not be required in this database as all data is stored solely for the school - if multiple schools needed to use this database then the school entity might make sense. So we can exclude **school** from our entity list.
+
+Next, we take **all** of the entities and think about how they are related to **all other** entities.
 
 [Computer Science](/ComputerScience)

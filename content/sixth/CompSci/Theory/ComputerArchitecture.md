@@ -125,7 +125,21 @@ Other forms of addressing do exist, but are not relevant for A Level.
 
 Assembly instructions are provided in an exam, you do not need to learn them.
 
+## RISC vs CISC
 
+RISC:
+
+- complex instruction set processors have more and more of the commands at assembly level
+- they can interpret high level languages more directly
+- they run complex algorithms more effectively
+- this leads to more complex chip designs and higher energy use but simpler code conversion
+
+CISC:
+
+- reduced instruction set processors can't directly translate the high level instructions
+- this leads to more lines of code at the assembly level
+- they are more simply designed processors and run simple commands faster
+- RISC processors can use pipelining, simple commands can be run simultaneously
 
 
 

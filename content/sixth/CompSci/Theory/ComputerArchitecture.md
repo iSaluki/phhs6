@@ -78,5 +78,28 @@ General purpose registers are named R0-R12
 - The ALU is responsible for arithmetic functions such as addition, subtraction, multiplication etc and logic operations such as AND, OR, NOT etc.
 - The Accumulator (ACC) is the register that stores the result of arithmetic and logical operations performed by a processor.
 
+## Processor: CU
+
+- The control unit (CU) is responsible for controlling the memory, processor and input-output devices. 
+- It contains the CIR (Current Instruction Register) and PC (Program Counter).
+- The CIR contains the current instruction carried out by the processor.
+- The PC contains the location of the instruction that is to be executed next.
+- The control unit reads the instruction from the memory, decodes it and sends control signals to the memory and I/O devices.
+
+## I/O Controller
+
+- Each device has its own controller whic his connected to a control bus. I/O controller is responsible for receiving the requests from the processor and sending control signals to the device specified for that operation. 
+
+- it consists of:
+    - An interface to connect it to the system or I/O bus.
+    - a set of data, command and satus registers/
+    - an interface 
+
+## Assembly Language
+
+- Assembly is a low level programming languae equivalent to machine code or binary instructions on a 1:1 basis.
+- It uses some word like structures to represent the instructions given to the CPU.
+- Mainly used in embedded systems because it is time consuming specialist work.
+
 
 [Computer Science](/ComputerScience)

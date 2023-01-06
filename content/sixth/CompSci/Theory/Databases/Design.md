@@ -75,6 +75,8 @@ Heinz is the supplier of baked beans and ketchup. However ketchup and baked bean
 
 > [!caution]
 > Avoid any relationship except one-to-many.
+> It is significantly easier to work with one-to-many and it makes your database more flexible.
+
 
 
 [Computer Science](/ComputerScience)

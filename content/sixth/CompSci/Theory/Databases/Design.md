@@ -62,4 +62,15 @@ There are 3 types of relationship possible between entities.
 - For one single item, a link exists to multiple other items. 
 - For example, a supplier may have mutliple products.
 
+Heinz is the supplier of baked beans and ketchup. However ketchup and baked beans only have 1 supplier, whilst Heinz has 2 products in this scenario.
+
+*Each product can only have 1 supplier.*
+
+#### Many-to-many
+
+- For each single instance there are links to and from multiple other instances of a different entity.
+- A subject can be taught by many teachers and teachers can teach many subjects.
+
+
+
 [Computer Science](/ComputerScience)

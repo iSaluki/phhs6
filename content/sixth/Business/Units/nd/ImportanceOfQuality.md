@@ -66,4 +66,43 @@ It is also possible that an external factor to the production process may be cau
 
 **Other options:** New staff, problems with raw materials, faulty machinery etc
 
+
+---
+
+## Quality and the Law
+
+- Products must meet a minimum standard set out by the law.
+
+This includes the likes of:
+
+- Satisfactory Quality
+- Fit for purpose
+- As described
+
+
+## Quality Control - detecting faulty output
+
+- The traditional way of managing quality and means a business will be checking and reviewing work that has already been done.
+
+Includes:
+
+- Inspection
+- Testing
+- Sampling
+
+- Quality control is mainly about "detecting" faulty output rather than preventing it
+
+- Quality control can also be a very expensive process as there may be a large number of rejects before a problem is spotted.
+
+---
+
+You could measure low quality by looking at:
+
+- Customer feedback/reviews
+- Customer surveys
+- Returns
+- Quality checks at the end of production
+- Mystery Shoppers
+
+
 [Business](/Business)

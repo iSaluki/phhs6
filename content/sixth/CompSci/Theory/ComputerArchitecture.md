@@ -100,6 +100,28 @@ General purpose registers are named R0-R12
 - Assembly is a low level programming languae equivalent to machine code or binary instructions on a 1:1 basis.
 - It uses some word like structures to represent the instructions given to the CPU.
 - Mainly used in embedded systems because it is time consuming specialist work.
+- Assemblers translate it into machine code.
+
+- Different CPUs have different different machine and assembly codes.
+- Assembly operations are split into an opcode and an operand - LDR 2A
+
+- Opcodes are instructions. Ie, LDR = Load
+- Operands are locations or data values. Ie,  2A = 42 in Hexadecimal
+
+
+### Assembly Languge Addressing
+
+Immediate addressing:
+- The operand is the data
+- LDR R1, #42 = Load 42 into register 1
+- # specifies a decimal value
+
+Direct addressing:
+- The operand is the address of the data
+- LDR R0, 103 = Load the data at memory address 103 to register 0
+- This can be a main memory address or one of the registers
+
+Other forms of addressing do exist, but are not relevant for A Level.
 
 
 [Computer Science](/ComputerScience)

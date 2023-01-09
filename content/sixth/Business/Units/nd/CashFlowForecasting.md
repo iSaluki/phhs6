@@ -33,5 +33,19 @@ Cash flow is important.
 - dividends paid to shareholders
 - repayment of loans
 
+### Why produce a cashflow forecast?
+
+*Efficient businesses produce accurate cashflow forecasts.*
+
+- Advanced warning of cash shortages
+- Make sure that the business can afford to pay suppliers and employees
+- Spot problems with customer payments
+- As an important part of financial control
+- Provide reassurance to investors and lenders that the business is being managed properly
+
+**Terminology:** Overdraft Facility ⇾ A service provided by a bank to allow a business to go into negative balances and later pay it off with interest.
+
+Example cashflow forecast:
+![[sixth/Business/Units/nd/img/cashflow-forecast-example-2340931153.png]]
 
 [Business](/Business)

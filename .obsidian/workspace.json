@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67dc6fcb9a7bb37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/fh/MarketingBranding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf3b0023d231c6f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "content/sixth/Business/Units/nd/CashFlowForecasting.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +20,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -191,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf3b0023d231c6f5",
+  "active": "441229ee22ccc1fe",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
+    "content/sixth/Business/Units/nd/CashFlowForecasting.md",
+    "content/private/callouts.md",
     "Business.md",
     "content/sixth/Business/Units/nd/Untitled.md",
     "content/sixth/Business/Units/fh/MarketingBranding.md",
-    "content/sixth/Business/Units/nd/CashFlowForecasting.md",
-    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
     "content/sixth/Business/Units/fh/ProductLifecycle.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/_index.md",
-    "content/templates/Pasted image 20221215104812.png",
-    "content/sixth/CompSci/Theory/img/Pasted image 20221215104812.png"
+    "content/templates/Pasted image 20221215104812.png"
   ]
 }

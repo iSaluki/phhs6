@@ -48,4 +48,40 @@ Cash flow is important.
 Example cashflow forecast:
 ![[sixth/Business/Units/nd/img/cashflow-forecast-example-2340931153.png]]
 
+> [!EXAMPLE] Interpreting the table
+>
+> Closing balance for one month is the opening balance for the next.
+
+- They key to effective cashflow forecasting is reliable information
+- A good cashflow forecast is:
+	- Updated regularly
+	- Makes sensible assumptions
+	- Allows for unexpected changes
+
+---
+## Worksheet
+
+1) Cash flow values
+
+A = 3500 ✓
+B = 8000 ✓
+C = -(4000) ✓
+D = 8000 ✓
+
+2) Calculate net cash flow
+
+**Untrusted data below**
+```
+
+ 35000 - 34000= £1500 NOV CLOSE
+4000 NOV OPEN
+
+(£500 + £36000) - 34000 = £3500 DEC CLOSE
+1500 DEC OPEN
+
+(31500+36000)-(34000+34000) = -£500 NET CASH FLOW
+```
+
+
+
 [Business](/Business)

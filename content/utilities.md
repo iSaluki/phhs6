@@ -1,6 +1,10 @@
 ---
 title: "Utilities"
 ---
+
+🕸️**You've found a ghost! This page is no longer maintained.**
+
+
 I host several utilities that are freely available to use.
 
 [SpeedTest](https://speed.sethmb.xyz) (server location: 🇱🇺Luxembourg)

@@ -30,7 +30,5 @@ I have attached a link to all work for each subject below.
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 
 
-I also provide several [utilities](/utilities)
-
 If you notice an issue with the site or need help reach out to me on Mastodon. (Find the link below)
 

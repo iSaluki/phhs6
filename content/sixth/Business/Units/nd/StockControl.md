@@ -53,21 +53,21 @@ The time between the reorder level and the restock is the **lead time**. This is
 1) Minimum stock level: 20
 2) Reorder level: 30
 3) Weekly Sales: 10 
-4) Lead time: 2 weeks
+4) Lead time: 1 week
 5) Holding buffer stock gives them the ability to handle any increased demands or supply chain disruptions without impacting their customers. This will lead to an overall higher quality service provided by the business, and likely a better reputation.
 
 ### Business B
 
-1) Minimum stock level: 400
+1) Maximum stock level: 1500
 2) Reorder Quantity: 1100 units
-3) About 75 units per week
+3) About 110 units per week
 4) Lead time: About 3 weeks
-5) If demand declines or the stock is perishable they will face the risk of wasting stock, which will result in a negative impact on revenue and cash flow. It is important that the business does everything it can to avoid this.
+5) If demand declines or the stock is perishable, they will face the risk of wasting stock, which will result in a negative impact on revenue and cash flow. It is important that the business does everything it can to avoid this.
 
 ### Business C
 
-1) Daily sales until day 220: about 100/day
-2) Lead time: 30 days
+1) Daily sales until day 220: about 80/day
+2) Lead time: 40 days
 3) An unexpected increase in demand has caused them to enter their buffer stock and hit a stock level of 0 before the resupply order could arrive. 
 4) To prevent this, they could have tried to predict this increase in demand and order more units in the previous order. They could also have seen units were selling faster than usual, and ordered new units early or simply maintained a higher buffer stock level to give them more time to deal with high demand. 
 

@@ -91,6 +91,10 @@ So *House* and *Alarm* (with a one-to-one relationship) could be replaced with a
 
 
 
+Normalisation is required to ensure that data is stored in the most proper way. So for any one data point, there is only one way it should be stored.
 
+If the same type of information is stored more than once - ie, product details for an order, then this is a **repeating group**. It should NOT be stored in the same entity as the order. So you would make a new entity to store the repeating group.
+
+An instance of the repeating group entity will be created for every new line required.
 
 [Computer Science](/ComputerScience)

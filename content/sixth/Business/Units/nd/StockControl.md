@@ -69,7 +69,7 @@ The time between the reorder level and the restock is the **lead time**. This is
 1) Daily sales until day 220: about 80/day
 2) Lead time: 40 days
 3) An unexpected increase in demand has caused them to enter their buffer stock and hit a stock level of 0 before the resupply order could arrive. 
-4) To prevent this, they could have tried to predict this increase in demand and order more units in the previous order. They could also have seen units were selling faster than usual, and ordered new units early or simply maintained a higher buffer stock level to give them more time to deal with high demand. 
+4) To prevent this, they could have tried to predict this increase in demand and order more units in the previous order. They could also have seen units were selling faster than usual, and ordered new units early or simply maintained a higher buffer stock level to give them more time to deal with high demand.
 
 
 

@@ -77,6 +77,20 @@ Heinz is the supplier of baked beans and ketchup. However ketchup and baked bean
 > Avoid any relationship except one-to-many.
 > It is significantly easier to work with one-to-many and it makes your database more flexible.
 
+---
+
+Many-to-many relationships are difficult to model.
+
+So we break up the relationship and make a link entity
+
+So instead of having a many-to-many link between *subject* and *teacher*, we have a one-to-many relationship between *teacher* and *subject teacher* and *subject* and *subject teacher*. This reduces wasted space to 0 in our model and also makes queries easier to manage.
+
+With a one-to-one relationship there is exactly one instance of each entity for each instance of another entity. Although this is OK and does provide the possibility to expand the system in future, it might make sense to combine the two.
+
+So *House* and *Alarm* (with a one-to-one relationship) could be replaced with a single entity called *Alarm Installation*.
+
+
+
 
 
 [Computer Science](/ComputerScience)

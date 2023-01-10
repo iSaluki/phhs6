@@ -2,7 +2,7 @@
 title: "Utilities"
 ---
 
-🕸️**You've found a ghost! This page is no longer maintained.**
+🕸️**You've found a ghost! This page no longer exists.**
 
 
 I host several utilities that are freely available to use.

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "441229ee22ccc1fe",
+            "id": "2edcc53e0d7a8bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CashFlowForecasting.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CashFlowForecasting.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CashFlowForecasting.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CashFlowForecasting.md"
+                "file": "content/sixth/Business/Units/nd/StockControl.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,13 +167,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "441229ee22ccc1fe",
+  "active": "2edcc53e0d7a8bf4",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
-    "content/sixth/Business/Units/nd/CashFlowForecasting.md",
     "content/private/callouts.md",
+    "content/sixth/Business/Units/nd/StockControl.md",
+    "content/sixth/Business/Units/nd/CashFlowForecasting.md",
+    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
     "Business.md",
-    "content/sixth/Business/Units/nd/Untitled.md",
     "content/sixth/Business/Units/fh/MarketingBranding.md",
     "content/sixth/Business/Units/fh/ProductLifecycle.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",

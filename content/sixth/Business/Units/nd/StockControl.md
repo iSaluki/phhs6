@@ -31,7 +31,19 @@ Leading to:
 - Avoids production interruptions and inefficiencies 
 - Resilience—protection from supply chain disruptions
 - Quality-having a product available maintains customer relations and perception of quality
-- 
+
+
+> [!tip] Inventory Ideals
+>
+> Make sure you have *enough* stock, but not too much. Optimise your workflow without negatively impacting your business's cashflow.
+
+## Inventory Control Charts
+
+![[sixth/Business/Units/nd/img/th-1145081636.jpg]]
+*Bar Gate Stock Graph*
+
+
+
 
 
 

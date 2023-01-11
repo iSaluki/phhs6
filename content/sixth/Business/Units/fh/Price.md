@@ -23,7 +23,7 @@ tags:
 - [Product Life Cycle](sixth/Business/Units/fh/ProductLifecycle)
 - Unit Costs
 - Sales Forecasting- [similar](sixth/Business/Units/nd/CashFlowForecasting)
-- [Elasticity of Demand](content/sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand)
+- [Elasticity of Demand](sixth/Business/Units/fh/PriceAndIncomeElasticityofDemand)
 
 
 ## Methods, strategies, and tactics
@@ -65,10 +65,27 @@ Pricing tactics: Adopted in the short run to suit particular situations. Limited
 
 ## Price Skimming
 
-- Setting a high price to maximise profit
-- Works well for products that create excitement amongst "early adopters"
+- Setting a high price to maximize profit
+- Works well for products that create excitement amongst “early adopters”
 - Frequently used in the technology industry
 - Product is sold to different market segments at different times, allowing for high initial profits
+	- Will maximize profit per unit to achieve a quick recovery of development costs
+
+## Price Penetration
+
+- Setting a low introductory price
+- Opposite of price skimming
+- Aim is to
+	- Gain market share quickly
+	- Build customer usage and loyalty
+	- Build sales of high-priced related items (“hook and bait” approach)
+- Price can be increased once a target market share is reached
+
+Hook & Bait pricing: Selling a product for a very low price, but it requires another product to work. For example, a printer requires ink—so a company may sell a printer for a low price but then sell ink at a high price to recoup their money through people having to buy new ink.
+
+> [!question] Dynamic Pricing 
+>
+> Dynamic pricing is a pricing strategy in which businesses set flexible prices for products or services based on current market demands.
 
 
 [Business](/Business)

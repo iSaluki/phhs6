@@ -28,11 +28,11 @@ tags:
 
 ## Methods, strategies, and tactics
 
-Pricing method: The method used to calculate the actual price set
+**Pricing method**: The method used to calculate the actual price set
 
-Pricing strategies: Adopted over the medium to long term to achieve marketing objectives. Have a significant impact on the marketing strategy.
+**Pricing strategies**: Adopted over the medium to long term to achieve marketing objectives. Have a significant impact on the marketing strategy.
 
-Pricing tactics: Adopted in the short run to suit particular situations. Limited impact beyond the product itself.
+**Pricing tactics**: Adopted in the short run to suit particular situations. Limited impact beyond the product itself.
 
 > [!note] Competitors significantly influence pricing
 >
@@ -81,11 +81,16 @@ Pricing tactics: Adopted in the short run to suit particular situations. Limited
 	- Build sales of high-priced related items (“hook and bait” approach)
 - Price can be increased once a target market share is reached
 
-Hook & Bait pricing: Selling a product for a very low price, but it requires another product to work. For example, a printer requires ink—so a company may sell a printer for a low price but then sell ink at a high price to recoup their money through people having to buy new ink.
+**Hook & Bait pricing**: Selling a product for a very low price, but it requires another product to work. For example, a printer requires ink—so a company may sell a printer for a low price but then sell ink at a high price to recoup their money through people having to buy new ink.
 
 > [!question] Dynamic Pricing 
 >
 > Dynamic pricing is a pricing strategy in which businesses set flexible prices for products or services based on current market demands.
+
+
+Amazon utilizes dynamic pricing, changing their prices on average every *10 minutes*.
+
+
 
 
 [Business](/Business)

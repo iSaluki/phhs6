@@ -98,4 +98,39 @@ If the same type of information is stored more than once - ie, product details f
 An instance of the repeating group entity will be created for every new line required.
 
 
+---
+
+## Data Dictionary
+
+- Once we know what the entities are, we need to identify their attributes.
+- This means working out what information we need to store about each entity and what data type we need to store this as.
+- We would also need to consider, at this stage, what validation rules would be needed for each attribute.
+
+### Primary Key Fields
+
+- For each instance of an entity we need some way of identifying it
+	- Each pupil needs an ID
+	- Each car needs an ID
+	- etc
+- The information we use to identify a single instance of the entity must be unique
+- Sometimes there exists some attribute that fulfils this requirement.
+	- The VIN on a car for example
+- But often, and sometimes even if an attribute could be used, we want to make our own unique ID.
+
+- The ID value when seen in the entity that is identifying is called the **Primary key**.
+- When used in another entity, it is used to link two things together and is called a **Foreign key**.
+
+
+- Sometimes we can't use a single attribute to uniquely identify an instance of an entity.
+- In this case we might need to use two or more attributes.
+- This is called a **Composite Key** (sometimes a *Compound Key*).
+
+- A key can be a primary key **and** a foreign key.
+
+
+
+
+
+
+
 [Computer Science](/ComputerScience)

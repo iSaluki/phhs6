@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/private/setup.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/setup.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/setup.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/private/setup.md"
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "127c781c308f5c2b",
   "lastOpenFiles": [
+    "content/private/setup.md",
     "content/private/philosophy.md",
     "content/private/private-note.md",
     "content/private/search.md",
@@ -177,7 +178,6 @@
     "content/private/showcase.md",
     "content/private/editing.md",
     "content/utilities.md",
-    "content/_index.md",
-    "tags/biology.md"
+    "content/_index.md"
   ]
 }

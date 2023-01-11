@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Price.md",
+                "file": "content/private/setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Price.md",
+                "file": "content/private/setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Price.md",
+                "file": "content/private/setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Price.md"
+                "file": "content/private/setup.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "127c781c308f5c2b",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "content/private/philosophy.md",
+    "content/private/private-note.md",
+    "content/private/search.md",
     "content/sixth/Business/Units/fh/Price.md",
+    "content/private/callouts.md",
     "content/private/showcase.md",
     "content/private/editing.md",
     "content/utilities.md",
     "content/_index.md",
-    "tags/biology.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/sixth/Business/Units/nd/StockControl.md",
-    "content/sixth/Business/Units/nd/CashFlowForecasting.md"
+    "tags/biology.md"
   ]
 }

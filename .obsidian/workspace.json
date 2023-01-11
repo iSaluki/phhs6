@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2edcc53e0d7a8bf4",
+            "id": "127c781c308f5c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/utilities.md",
+                "file": "content/sixth/Business/Units/fh/Price.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/utilities.md",
+                "file": "content/sixth/Business/Units/fh/Price.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/utilities.md",
+                "file": "content/sixth/Business/Units/fh/Price.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/utilities.md"
+                "file": "content/sixth/Business/Units/fh/Price.md"
               }
             }
           },
@@ -167,8 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2edcc53e0d7a8bf4",
+  "active": "127c781c308f5c2b",
   "lastOpenFiles": [
+    "content/utilities.md",
+    "content/sixth/Business/Units/fh/Price.md",
     "content/_index.md",
     "tags/biology.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
@@ -176,8 +178,6 @@
     "content/private/callouts.md",
     "content/sixth/Business/Units/nd/CashFlowForecasting.md",
     "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
-    "Business.md",
-    "content/sixth/Business/Units/fh/MarketingBranding.md",
-    "content/sixth/Business/Units/fh/ProductLifecycle.md"
+    "Business.md"
   ]
 }

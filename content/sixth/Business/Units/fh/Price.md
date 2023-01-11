@@ -12,7 +12,7 @@ tags:
 - Markup Target
 - Overhead costs
 - Brand
-- Quality
+- Quality (mainly perception of quality)
 - Image
 - Stage in lifecycle
 
@@ -33,5 +33,42 @@ Pricing method: The method used to calculate the actual price set
 Pricing strategies: Adopted over the medium to long term to achieve marketing objectives. Have a significant impact on the marketing strategy.
 
 Pricing tactics: Adopted in the short run to suit particular situations. Limited impact beyond the product itself.
+
+> [!note] Competitors significantly influence pricing
+>
+> Price leaders set the pricing for a market - these tend to be the big businesses. Whilst smaller businesses tend to be price followers, who simply follow prices set by the leaders.
+
+**Price takers:** Have no option but to charge the ruling market price
+**Price makers:** Able to fix their own price
+**Price leaders:** Market leaders whose price changes are followed by rivals
+**Price followers:** Follow the price-changing lead of the market leader
+
+> [!quote] Mark up 
+>
+> Widely used in retail, the amount that you add to the price on top of your production costs.
+
+**Loss Leaders:** A product or service sold at a loss to encourage people to enter the ecosystem of a product or service.
+
+## Benefits and drawbacks to using cost to influence price
+
+### Benefits
+
+- Easy to calculate
+- Price increases can be justified when costs rise
+- Managers can be confident each product is being sold at profit
+
+### Drawbacks
+
+- Ignores price elasticity of demand
+- May not take account of competition
+- Profit is lost if price is set below the cost of production
+
+## Price Skimming
+
+- Setting a high price to maximise profit
+- Works well for products that create excitement amongst "early adopters"
+- Frequently used in the technology industry
+- Product is sold to different market segments at different times, allowing for high initial profits
+
 
 [Business](/Business)

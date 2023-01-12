@@ -58,7 +58,7 @@ General purpose registers are named R0-R12
 
 ## Memory Unit
 
-- A memory unit consits of a number of partitions
+- A memory unit consists of a number of partitions
 - Each partition consists of data and and address
 
 ## Read Operation
@@ -88,28 +88,28 @@ General purpose registers are named R0-R12
 
 ## I/O Controller
 
-- Each device has its own controller whic his connected to a control bus. I/O controller is responsible for receiving the requests from the processor and sending control signals to the device specified for that operation. 
+- Each device has its own controller which is connected to a control bus. I/O controller is responsible for receiving the requests from the processor and sending control signals to the device specified for that operation. 
 
 - it consists of:
     - An interface to connect it to the system or I/O bus.
-    - a set of data, command and satus registers/
+    - a set of data, command and status registers/
     - an interface 
 
 ## Assembly Language
 
-- Assembly is a low level programming languae equivalent to machine code or binary instructions on a 1:1 basis.
+- Assembly is a low level programming language equivalent to machine code or binary instructions on a 1:1 basis.
 - It uses some word like structures to represent the instructions given to the CPU.
 - Mainly used in embedded systems because it is time consuming specialist work.
 - Assemblers translate it into machine code.
 
 - Different CPUs have different different machine and assembly codes.
-- Assembly operations are split into an opcode and an operand - LDR 2A
+- Assembly operations are split into an opcode and an operand—LDR 2A
 
 - Opcodes are instructions. Ie, LDR = Load
 - Operands are locations or data values. Ie,  2A = 42 in Hexadecimal
 
 
-### Assembly Languge Addressing
+### Assembly Language Addressing
 
 Immediate addressing:
 - The operand is the data
@@ -141,6 +141,36 @@ CISC:
 - they are more simply designed processors and run simple commands faster
 - RISC processors can use pipelining, simple commands can be run simultaneously
 
+---
+
+## Control Bus Signals
+
+- The different control signals transmitted by the control bus are:
+- Clock: Synchronise operations of the computer
+- Memory Read: The contents in the specified address is copied to the data bus
+- Memory Write: The contents of the data bus is copied to the specified address
+- Bus Request: A device requests to use the data bus, so it can perform a read/write operation
+- Bus Grant: Signal from the processor indicating that the device is granted access to use the data bus.
+- Interrupt Request: An interrupt is a signal sent by a device requesting access to the processor.
+
+### CBS questions
+
+a) 9D needs reading. 
+- Increment PC
+- MAR 9D
+- Bus request sent to request a read operation.
+- Control Unit approves read operation.
+- Bus Grant returned to authorize bus usage.
+- Memory Read performed to copy the contents of address 9D into the data bus.
+- Data saved to the MDR (memory data register)
+
+b) To write the data 76 to address 99, you would need to:
+- Increment PC
+- Bus request for write operation
+- Control Unit approves write operation.
+- Bus Grant returned to approve write operation
+- Memory Write to store the literal #76 in the address 99
+- Data bus moves data to address and saves it
 
 
 

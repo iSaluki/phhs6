@@ -26,6 +26,33 @@ Each party in a distribution channel is called an *intermediary*.
 - Retailers can order smaller amounts of product from wholesalers.
 - A wholesaler makes money by buying at a lower price from the producer and adding their profit margin onto the price paid by the retailer.
 
+### Agents
+
+- Specialist type of distributor
+- Does not hold stock
+- Tend to operate in the tertiary sector (services)
+	- Travel
+	- Insurance
+	- Publishing
+- Earn a commission based on sales achieved
+
+### Direct vs Indirect Distribution channels
+
+- Direct Distribution
+	- Channel where a producer and consumer deal directly with each other without the involvement of an intermediary
+- Indirect Distribution
+	- Involves the use of intermediaries between the producer and consumer
+
+### Factors to consider
+
+- Nature of the product
+	- Perishable/fragile
+	- Technical/complex
+	- Type of product 
+	- Desired image for the product
+
+
+
 
 
 [Business](/Business)

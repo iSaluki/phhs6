@@ -127,6 +127,7 @@ An instance of the repeating group entity will be created for every new line req
 
 - A key can be a primary key **and** a foreign key.
 
+Keys are how we create relationships in a relational database.
 
 
 

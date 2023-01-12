@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "127c781c308f5c2b",
+            "id": "77ed844458384f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
+                "file": "content/sixth/Business/Units/fh/Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
+                "file": "content/sixth/Business/Units/fh/Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
+                "file": "content/sixth/Business/Units/fh/Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Databases/Design.md"
+                "file": "content/sixth/Business/Units/fh/Distribution.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "127c781c308f5c2b",
+  "active": "77ed844458384f3e",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Databases/Design.md",
     "content/private/setup.md",
     "content/private/philosophy.md",
     "content/private/private-note.md",
@@ -177,7 +178,6 @@
     "content/private/callouts.md",
     "content/private/showcase.md",
     "content/private/editing.md",
-    "content/utilities.md",
-    "content/_index.md"
+    "content/utilities.md"
   ]
 }

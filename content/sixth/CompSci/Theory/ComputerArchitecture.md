@@ -194,6 +194,17 @@ b) To write the data 76 to address 99, you would need to:
 **MDR:** The instruction at that particular location is copied to the MDR temporarily
 **CIR:** Stores the currently processing instruction
 
+## Interrupts
+
+- Interrupts allow the computer to carry out many tasks at the same time
+- When the interrupt is serviced, the status of the current job is saved. The contents of registers PC and CIR are saved onto the system stack.
+- Once the interrupt is serviced using the interrupt service routine, the current job is serviced according to its status when it was saved before the interrupt service.
+
+### Vectored Interrupt Mechanism
+
+- Each interrupt is associated with a vector, which points to the code associated with that interrupt
+- When an interrupt occurs, the current values of the registers are saved to a stack memory structure and the processor identifies the type of interrupt.
+- Then the processor points to the vector and processes the interrupt service routine. This technique is called vectored interrupt mechanism.
 
 
 

@@ -212,5 +212,27 @@ b) To write the data 76 to address 99, you would need to:
 - The processor may save the status of the current interrupt processing and proceed to service the new interrupt.
 - Another methodology that can be used is priorities.  In this methodology, we prioritise the most important interrupts first.
 
+---
+## End of Topic
+
+1) What are the three types of bus and their functions? 
+Data bus -> Transports data between components
+Control bus -> Carries control signals and instructions
+Address bus -> Allows referencing of memory locations
+
+2) How are memory locations addressed? Each memory location has a unique ID which allows for it to be referenced through a memory address bus.
+3) The ALU is responsible for various arithmetic and logical functions within the processor. 
+4) The control unit controls the memory and peripheral devices through control signals sent over the control bus (lots of control). It also receives interrupts over the bus.
+5) List different registers
+- CIR - Current Instruction Register
+- PC - Program Counter
+- MBR - Memory Buffer Register
+- MDR - Memory Data Register
+- MAR - Memory Address Register
+- SR - Status Register
+- ACC - Accumulator
+
+
+
 
 [Computer Science](/ComputerScience)

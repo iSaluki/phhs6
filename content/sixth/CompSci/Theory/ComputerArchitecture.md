@@ -206,6 +206,11 @@ b) To write the data 76 to address 99, you would need to:
 - When an interrupt occurs, the current values of the registers are saved to a stack memory structure and the processor identifies the type of interrupt.
 - Then the processor points to the vector and processes the interrupt service routine. This technique is called vectored interrupt mechanism.
 
+### Interrupted Interrupt
+
+- Sometimes, when an interrupt is being serviced, another interrupt occurs.
+- The processor may save the status of the current interrupt processing and proceed to service the new interrupt.
+- Another methodology that can be used is priorities.  In this methodology, we prioritise the most important interrupts first.
 
 
 [Computer Science](/ComputerScience)

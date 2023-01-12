@@ -172,6 +172,29 @@ b) To write the data 76 to address 99, you would need to:
 - Memory Write to store the literal #76 in the address 99
 - Data bus moves data to address and saves it
 
+## Fetch-Decode-Execute cycle
+
+### Fetch
+- The program counter contains the location of the instruction that is to be executed next. This address is copied to the MAR.
+- The instruction is fetched from the memory and copied to the MDR.
+- Then the contents of the MDR is copied into the CIR.
+- The value in the PC is incremented by 1 and the instruction in the next memory location is processed.
+
+### Decode
+- The instructions are decoded so that it can be executed.
+
+### Execute
+
+- The processor sends appropriate control signals to the memory unit and input-output devices in the computer system according to the decoded instruction.
+
+## Registers (RECAP)
+
+**PC:** Program counter contains the allocation of the instruction which has to be fetched.
+**MAR:** Using the address bus, the contents of the PC is copied to the MAR
+**MDR:** The instruction at that particular location is copied to the MDR temporarily
+**CIR:** Stores the currently processing instruction
+
+
 
 
 [Computer Science](/ComputerScience)

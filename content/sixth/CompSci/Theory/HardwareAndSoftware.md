@@ -53,7 +53,7 @@ The closer to the chip, the faster the memory, however the more expensive the me
 ## Read-Only Memory (ROM)
 
 - Read only memory is a permanent memory that is used to store the instructions that are executed once a computer is switched ON. This set of instructions is called a boot process.
-- This is responsible for initialising the hardware and operating system soon after the power is switched ON.
+- This is responsible for initializing the hardware and operating system soon after the power is switched ON.
 - The contents of ROM are not erased, even when the power is switched OFF.
 - The contents of ROM can only be read and cannot be changed.
 - ROM is made by interconnecting several transistors. It is an example of non-volatile memory.
@@ -93,16 +93,16 @@ The closer to the chip, the faster the memory, however the more expensive the me
 ## HDD vs SSD
 
 - SSD have faster speeds but cost more
-- A combination of both can be used, with frequently needed data store on an SSD and less frequently loaded data stored on a HDD.
+- A combination of both can be used, with frequently needed data store on an SSD and less frequently loaded data stored on an HDD.
 
 ## Optical Storage Systems
 
 - CD, DVD, Blu-ray discs use optics to store data.
 - The surface of CDs and DVDs are made of light-sensitive organic dyes or metal alloys.
 - Data is read and written using a laser light.
-- DVDs (4.7GB) can store large amounts of data compared to CDs (800MB).
-- Blu-ray discs use blue laser light and can hold up to 50GB. Used to store music, movies and games.
-- the time taken to transfer information to these devices is comparatively higher than HDD.
+- DVDs (4.7 GB) can store large amounts of data compared to CDs (800 MB).
+- Blu-ray discs use blue laser light and can hold up to 50 GB. Used to store music, movies, and games.
+- The time taken to transfer information to these devices is comparatively higher than HDD.
 
 - After data is stored, it cannot be overwritten. Some do support being overwritten, however it is very limited.
 - The clear plastic layer on the surface allows the laser light to pass through.
@@ -111,6 +111,21 @@ The closer to the chip, the faster the memory, however the more expensive the me
 ![[sixth/CompSci/Theory/img/th-1967184248.jpg]]
 
 
+## Types of memory access
+
+- Memory can be accessed sequentially or directly. Different devices work in different ways.
+
+### Sequential Memory Access
+
+- Allows user to access data one by one in a sequence.
+- Sequential memory access is slower than direct memory access.
+- Eg, film reel
+
+### Direct (Random) Memory Access
+
+- Any storage location can be accessed at any moment—such as a DVD.
+
+![[sixth/CompSci/Theory/img/th-858488670.jpg]]
 
 
 

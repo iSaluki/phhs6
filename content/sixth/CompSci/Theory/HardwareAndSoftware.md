@@ -90,6 +90,25 @@ The closer to the chip, the faster the memory, however the more expensive the me
 - This type of memory is used in USB devices to transfer information from one device to another.
 - Data stored in millions of transistors within the chip.
 
+## HDD vs SSD
+
+- SSD have faster speeds but cost more
+- A combination of both can be used, with frequently needed data store on an SSD and less frequently loaded data stored on a HDD.
+
+## Optical Storage Systems
+
+- CD, DVD, Blu-ray discs use optics to store data.
+- The surface of CDs and DVDs are made of light-sensitive organic dyes or metal alloys.
+- Data is read and written using a laser light.
+- DVDs (4.7GB) can store large amounts of data compared to CDs (800MB).
+- Blu-ray discs use blue laser light and can hold up to 50GB. Used to store music, movies and games.
+- the time taken to transfer information to these devices is comparatively higher than HDD.
+
+- After data is stored, it cannot be overwritten. Some do support being overwritten, however it is very limited.
+- The clear plastic layer on the surface allows the laser light to pass through.
+- The colour changes in the dye layer when light falls on it.
+
+![[sixth/CompSci/Theory/img/th-1967184248.jpg]]
 
 
 

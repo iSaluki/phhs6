@@ -21,7 +21,6 @@ Therefore, the importance of quality is paramount to the business's competitiven
 
 If they deliver a faulty product to a client, then it means that the business's reputation will be at risk. If somebody decides to post the faulty product on social media, it could have the potential to seriously damage the company's business.
 
-
-
+By delivering consistent quality to their customers, they can also create themselves a reputation where they are seen as a higher quality brand, which will give people a higher perceived value and lead to them being able to charge greater prices for their products.
 
 [Business](/Business)

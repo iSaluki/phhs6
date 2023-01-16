@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
+                "file": "content/sixth/Business/Units/nd/StockControl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md"
+                "file": "content/sixth/Business/Units/nd/StockControl.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "e18a9e2b025811d3",
   "lastOpenFiles": [
+    "content/private/callouts.md",
+    "content/sixth/Business/Units/nd/StockControl.md",
+    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
     "content/sixth/CompSci/Theory/HardwareAndSoftware.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/private/search.md",
     "content/sixth/Business/Units/fh/PricingConsolidation.md",
     "content/sixth/Biology/Cells/UnitScales.md",
     "Business.md",
-    "content/sixth/Business/Units/fh/Distribution.md",
-    "content/private/callouts.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/private/setup.md"
+    "content/sixth/Business/Units/fh/Distribution.md"
   ]
 }

@@ -23,4 +23,6 @@ If they deliver a faulty product to a client, then it means that the business's 
 
 By delivering consistent quality to their customers, they can also create themselves a reputation where they are seen as a higher quality brand, which will give people a higher perceived value and lead to them being able to charge greater prices for their products.
 
+
+
 [Business](/Business)

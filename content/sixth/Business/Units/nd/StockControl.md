@@ -70,7 +70,21 @@ The time between the reorder level and the restock is the **lead time**. This is
 2) Lead time: 40 days
 3) An unexpected increase in demand has caused them to enter their buffer stock and hit a stock level of 0 before the resupply order could arrive. 
 4) To prevent this, they could have tried to predict this increase in demand and order more units in the previous order. They could also have seen units were selling faster than usual, and ordered new units early or simply maintained a higher buffer stock level to give them more time to deal with high demand.
+---
 
+## Cost of Holding Stock
+
+**Cost of storage:** Paying to hold all the stock, warehouses etc
+
+**Interest costs:** Money that could have been gained from interest by not holding stock.
+
+**Obsolescence Risk:** The longer the inventory is held, the more likely the product is to become outdated and worth less.
+
+**Stock out costs:** A stock out happens if a business runs out of inventory. This results in lower customer reputation and loss of sales.
+
+> [!EXAMPLE] Why use inventory control charts?
+>
+> The overall objective of inventory control is to maintain inventory levels so that the total costs of holding inventories is minimised.
 
 
 

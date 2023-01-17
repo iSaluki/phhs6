@@ -86,7 +86,32 @@ The time between the reorder level and the restock is the **lead time**. This is
 >
 > The overall objective of inventory control is to maintain inventory levels so that the total costs of holding inventories is minimised.
 
+## Factors that make an effective supplier
 
+### Price
+
+- Often considered the most important
+
+### Quality
+
+- Consistently high quality
+
+### Reliability
+
+- Delivers the correct product on time
+- Goods and services work as described
+
+### Communication
+
+- Easy to communicate with supplier
+
+### Financially secure
+
+- Long-term trading relationship requires supplier to stay in business, also more likely to offer better trade terms/credit.
+
+### Capacity
+
+- Ability to handle increased volume of supply
 
 
 [Business](/Business)

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e18a9e2b025811d3",
+            "id": "dec0083787268b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/StockControl.md",
+                "file": "content/sixth/Business/Units/fh/Promotion.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/StockControl.md",
+                "file": "content/sixth/Business/Units/fh/Promotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/StockControl.md",
+                "file": "content/sixth/Business/Units/fh/Promotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/StockControl.md"
+                "file": "content/sixth/Business/Units/fh/Promotion.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e18a9e2b025811d3",
+  "active": "dec0083787268b5c",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "Untitled.canvas",
     "content/sixth/Business/Units/nd/StockControl.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
     "content/sixth/CompSci/Theory/HardwareAndSoftware.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/private/search.md",
     "content/sixth/Business/Units/fh/PricingConsolidation.md",
     "content/sixth/Biology/Cells/UnitScales.md",
-    "Business.md",
-    "content/sixth/Business/Units/fh/Distribution.md"
+    "Business.md"
   ]
 }

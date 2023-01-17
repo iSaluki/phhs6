@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7622aa92bca07a2e",
+        "id": "4e8d0e9434f96fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "dec0083787268b5c",
+            "id": "f8e8fadbfd5ee06f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Promotion.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Promotion.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Promotion.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/Promotion.md"
+                "file": "content/sixth/CompSci/Theory/Databases/Design.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dec0083787268b5c",
+  "active": "f8e8fadbfd5ee06f",
   "lastOpenFiles": [
+    "content/private/callouts.md",
+    "content/sixth/CompSci/Theory/Databases/Design.md",
+    "content/sixth/Business/Units/fh/Promotion.md",
     "Untitled.canvas",
     "content/sixth/Business/Units/nd/StockControl.md",
-    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
     "content/sixth/CompSci/Theory/HardwareAndSoftware.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/private/search.md",
-    "content/sixth/Business/Units/fh/PricingConsolidation.md",
-    "content/sixth/Biology/Cells/UnitScales.md",
-    "Business.md"
+    "content/sixth/Business/Units/fh/PricingConsolidation.md"
   ]
 }

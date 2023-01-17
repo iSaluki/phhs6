@@ -45,7 +45,13 @@ Public relations activities are those that create goodwill toward an individual,
 
 ## Direct Marketing
 
-Promtoional material directed through mail, email, social media or phone to individuals or businesses.
+Promotional material directed through mail, email, social media or phone to individuals or businesses.
+
+
+### Technological Impact on Direct Marketing
+
+- Cookies and various digital tracking systems allow highly targeted advertising
+- Viral marketing
 
 
 

@@ -29,20 +29,20 @@ tags:
 > Identify the entities.
  
 - What is an entity is a discussion, not a given. Things that the database needs to track are entities.
-- Some entities may be physical - such as a teacher - whilst some are just concepts - such as a subject.
+- Some entities may be physical—such as a teacher—whilst some are just concepts—such as a subject.
 
 
 **Entities:** school, classes, teacher, room, students, subject
 
-The school may want additional entities, such as reports, registers, books, invoices etc. It simply depends upon the use case for the database and what the school wishes to track/do with the databse.
+The school may want additional entities, such as reports, registers, books, invoices etc. It simply depends upon the use case for the database and what the school wishes to track/do with the database.
 
-Some entities may not be needed. So for instance a school would not be required in this database as all data is stored solely for the school - if multiple schools needed to use this database then the school entity might make sense. So we can exclude **school** from our entity list.
+Some entities may not be needed. So for instance a school would not be required in this database as all data is stored solely for the school—if multiple schools needed to use this database then the school entity might make sense. So we can exclude **school** from our entity list.
 
 Next, we take **all** of the entities and think about how they are related to **all other** entities.
 
 ### Naming conventions
 
-Entities should be named in a uniform way. The convention is to be consistent and people typically name everything in the singular. 
+Entities should be named in a uniform way. The convention is to be consistent, and people typically name everything in the singular. 
 
 So we would store *classes* as *class* and *students* as *student*.
 
@@ -68,8 +68,8 @@ Heinz is the supplier of baked beans and ketchup. However ketchup and baked bean
 
 #### Many-to-many
 
-- For each single instance there are links to and from multiple other instances of a different entity.
-- A subject can be taught by many teachers and teachers can teach many subjects.
+- For each single instance, there are links to and from multiple other instances of a different entity.
+- A subject can be taught by many teachers, and teachers can teach many subjects.
 
 ![Relationship Types](/content/sixth/CompSci/Theory/Databases/img/relationshiptypes.png)
 
@@ -85,13 +85,13 @@ So we break up the relationship and make a link entity
 
 So instead of having a many-to-many link between *subject* and *teacher*, we have a one-to-many relationship between *teacher* and *subject teacher* and *subject* and *subject teacher*. This reduces wasted space to 0 in our model and also makes queries easier to manage.
 
-With a one-to-one relationship there is exactly one instance of each entity for each instance of another entity. Although this is OK and does provide the possibility to expand the system in future, it might make sense to combine the two.
+With a one-to-one relationship, there is exactly one instance of each entity for each instance of another entity. Although this is OK and does provide the possibility to expand the system in future, it might make sense to combine the two.
 
 So *House* and *Alarm* (with a one-to-one relationship) could be replaced with a single entity called *Alarm Installation*.
 
 
 
-Normalisation is required to ensure that data is stored in the most proper way. So for any one data point, there is only one way it should be stored.
+Normalization is required to ensure that data is stored in the most proper way. So for any one data point, there is only one way it should be stored.
 
 If the same type of information is stored more than once - ie, product details for an order, then this is a **repeating group**. It should NOT be stored in the same entity as the order. So you would make a new entity to store the repeating group.
 
@@ -129,7 +129,18 @@ An instance of the repeating group entity will be created for every new line req
 
 Keys are how we create relationships in a relational database.
 
+## Normalization
 
+- We've identified the entities and the data that we think should be stored in them.
+- Normalization is the process of ensuring that the data is stored in the most efficient way possible.
+- When we're finished, the data is said to be in Third Normal Form.
+	- First and Second Normal form are not relevant.
+
+> [!tip] Important
+>
+> A database is in third normal form if every attribute in every entity is dependant on the key, the whole key, and nothing but the key.
+
+*Reference to the key is primary or composite key.*
 
 
 

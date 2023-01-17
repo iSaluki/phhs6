@@ -150,6 +150,8 @@ Keys are how we create relationships in a relational database.
 - All data is atomic
 	- Atomic meaning that no attribute contains more than one piece of information
 
+A name is not atomic because it contains at least 2 pieces of information "FirstName" and "LastName". Storing it just as "Name" would be possible, but would greatly complicate things later on. 
 
+It is also possible to break information into more pieces of information than necessary. For example, if your address was “23 Chester Close"” you might try and break it down into "23" and "Chester Close". However as it is the first line of their address, it is a single piece of information. This does depend upon use case of course, because if you just want to find people living on a certain street, then you might wish to collect street names as seperate entities.
 
 [Computer Science](/ComputerScience)

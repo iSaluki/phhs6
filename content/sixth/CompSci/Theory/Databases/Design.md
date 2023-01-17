@@ -142,6 +142,13 @@ Keys are how we create relationships in a relational database.
 
 *Reference to the key is primary or composite key.*
 
+### Third Normal Form
+
+- We make sure that each entity only has attributes that depend on the whole key.
+- Remove any repeating groups.
+- We make sure that we have no many-to-many relationships.
+- All data is atomic
+	- Atomic meaning that no attribute contains more than one piece of information
 
 
 

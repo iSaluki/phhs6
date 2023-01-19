@@ -174,6 +174,12 @@ It is also possible to break information into more pieces of information than ne
 		- Having had the anomaly mentioned above I now have two addresses for the same customer
 		- How would I determine which one is correct?
 
+- To improve database performance
+	- Reduce storage requirements
+		- No duplication means less data
+	- Increase operation speed (lookup, update, delete)
+		- No duplication or redundancy makes operations simpler and use less resources
+
 
 
 [Computer Science](/ComputerScience)

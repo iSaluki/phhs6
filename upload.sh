@@ -1,4 +1,4 @@
 git add .
 git commit -m "$*"
 git push
-echo "Pushed to GitHub"
+echo "Updated information pushed to GitHub with commit message", $*

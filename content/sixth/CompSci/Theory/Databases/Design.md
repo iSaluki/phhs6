@@ -163,9 +163,16 @@ It is also possible to break information into more pieces of information than ne
 		- Link back to the customer entity with a foreign key
 - Eliminate redundancy
 	- Storing the same information twice but in different forms
-		- Storing an engine power in horse-power and torques
+		- Storing an engine power in horsepower and torques
 		- Storing a length in meters and feet
-
+- Eliminate anomalies (insertion, update or delete)
+	- If there are no duplications, we can't get anomalies
+		- I have a customer's address stored twice in two entities
+		- When I update this information I only update one instance
+- Eliminate inconsistencies
+	- An inconsistency is the result of an anomaly.
+		- Having had the anomaly mentioned above I now have two addresses for the same customer
+		- How would I determine which one is correct?
 
 
 

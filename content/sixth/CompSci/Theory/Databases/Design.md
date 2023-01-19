@@ -154,4 +154,19 @@ A name is not atomic because it contains at least 2 pieces of information "First
 
 It is also possible to break information into more pieces of information than necessary. For example, if your address was “23 Chester Close"” you might try and break it down into "23" and "Chester Close". However as it is the first line of their address, it is a single piece of information. This does depend upon use case of course, because if you just want to find people living on a certain street, then you might wish to collect street names as seperate entities.
 
+## Reasons for normalization
+
+- Eliminate duplication
+	- Make sure each piece of information is only stored once
+		- Only store the customer details once
+		- Don't store the same details in another table
+		- Link back to the customer entity with a foreign key
+- Eliminate redundancy
+	- Storing the same information twice but in different forms
+		- Storing an engine power in horse-power and torques
+		- Storing a length in meters and feet
+
+
+
+
 [Computer Science](/ComputerScience)

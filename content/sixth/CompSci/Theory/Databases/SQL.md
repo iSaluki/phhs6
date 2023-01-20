@@ -21,7 +21,7 @@ tags:
 >
 > **1st generation:** Binary/machine code
 > **2nd generation:** Assembly
-> **3rd generation:** Python/C/Java etc
+> **3rd generation:** Python/C/Java etc (most languages are here)
 > **4th generation:** SQL, HTML
 
 4th generation languages expect you to describe a problem, and the language will deal with finding the solution to solve the problem. Whereas 3rd generation languages require you to describe the solution to a problem.
@@ -36,7 +36,21 @@ When you move from the design phase to the actual database phase, some terminolo
 | Attribute    | Field or column      |
 | Instance     | Record, tuple or row |
 
+The most commonly used words for each term are: *table, field and record*. Some people may use other terms.
+
 Any terminology not listed in the above table will stay the same regardless.
+
+## Using SQL
+
+- SQL has two subsets of the language
+	- A data definition language or DDL
+		- This is a subset of SQL that is concerned with making and managing the database
+			- Creating, modifying and deleting databases and tables
+			- Creating users and assigning their rights
+	- A data manipulation language or DML
+		- This is the other subset of SQL that is concerned with managing the data in the database
+			- Adding, modifying and deleting individual records
+			- Searching for data according to specific criteria
 
 
 

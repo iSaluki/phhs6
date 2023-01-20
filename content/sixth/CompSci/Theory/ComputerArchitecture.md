@@ -232,6 +232,37 @@ Address bus -> Allows referencing of memory locations
 - SR - Status Register
 - ACC - Accumulator
 
+---
+
+## Processing Speed
+
+- Depends on the speed of the CPU, memory and bus speed.
+
+### CPU Performance
+- Four impacting factors are:
+	- Cores
+	- Clock rate
+	- Cache size 
+	- Processor type
+
+### Cores
+
+- A CPU consists of multiple processing units. Each processing unit is known as a *core*.
+- A core consists of a processor (ALU and CU) and registers.
+- Computers may be dual, quad or higher core counts.
+- As the number of cores increases, the computer has more power to execute multiple programs at once.
+
+### Cores Linked
+
+- As more cores are used, communication channels between cores increase exponentially.
+- These communication channels drain some performance from each core, as every core must communicate with every other core.
+
+### Clock Rate
+
+- Clock rate indicates the number of instructions processed by a CPU in a second.
+- It is measured in megahertz (MHz) or gigahertz (GHz)
+- A 4GHz processor handles around 4 billion instructions a second
+- A faster CPU requires more power and produces more heat
 
 
 

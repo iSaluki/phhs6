@@ -265,5 +265,118 @@ Address bus -> Allows referencing of memory locations
 - A faster CPU requires more power and produces more heat
 
 
+### Overclocking
+
+- The speed of a computer can be overridden by the BIOS,
+- Increasing the clock speed of your CPU is called over-clocking
+- There are circuitry limitations regarding the speed. If a computer is forced to work at a higher speed, more than its limit, the instructions might not get executed completely. This leads to data corruption and overheating.
+
+### Cache
+
+- Cache is a small memory part located closer to CPU when compared to RAM
+- Cache temporarirly holds the data and instructions that the CPU is likely to use more frequently
+- To reduce the access time, the control unit checks cache first before requesting any instructions from RAM or main memory.
+- Cache is located directly on the CPU chip.
+
+- Due to the presence of cache, the speed of CPU increases.
+
+### Cache Types
+
+Level 1:
+- 8KB to 64KB
+- On the CPU chip
+- Fastest access time
+- Smallest cache in the CPU
+Level 2:
+- Bigger than L1
+- Between CPU and RAM
+- Slightly slower than L1
+Level 3:
+- Further from the CPU but still closer than the RAM
+- More storage than L2 cache
+
+L1 and L2 cache are dedicated to each core, however L3 cache is shared between all cores.
+
+### Cache Size
+
+- It is important to note that cache occupies only a small space compared to RAM
+- Cache is also expensive when compared to RAM.
+- L3 cache is typically around 4MB
+
+### Data Word Size
+
+- Each word has its own specific address
+- In case of read and write operation it is important for us to know the address of the memory location.
+- The larger the data word size, the more RAM you can use, the more operations you can handle at once, the larger the number of available opcodes on the instruction set etc
+- Typical sizes: 32-bit,64-bit,128-bit
+
+### Embedded Systems
+
+- Programmed during manufacturing stage
+- Users operate these using interfaces such as buttons or touch screens
+- The software cannot be modified, it is typically bult into the physical chip
+
+## Input devices
+
+### 2D Scanners
+
+- Read head moves over the page, detects light and converts dark and light patches into a digital image.
+
+### 3D Scanners
+
+- Similar to a 2D scanner, but also using lasers and building a three dimensional model of the object—creating an asset that can be used in games, movies or any other purpose.
+
+### Barcode Reader
+
+- Read by a laser
+- Light reflected back into the sensor
+- Light and dark areas can be distinguished
+- This is then used to distinguish between different products and communicate what product is being purchased to a PoS system.
+
+### QR Codes
+
+- A binary pattern encoded into an image
+- QR Codes are up to 7000 digits whereas normal barcodes can only store 30 digits
+- With Internet access, QR codes can be scanned anywhere.
+- They are widely used for advertising products on public transport in public areas.
+
+### Digital Cameras
+
+- Microprocessor automatically adjusts shutter speeds, focus the image, operate the flash, adjust the aperture etc etc
+
+
+### Microphone, Keyboard and Mouse
+
+- Not noted, basic.
+
+### Voice Recognition System
+
+- Used in security systems
+- It has software to compare the wave pattern of the sound from the user to the wave pattern stored in its memory.
+- If the two wave patterns match, then the user is identifies.
+
+- Breaks different sounds into *phonemes*.
+
+### Radio Frequency Identification (RFID)
+
+- A technology to identify and track tags attached to items such as cars, animals, bank cards etc
+- Identified using electromagnetic fields without a line of sight
+- Consists of a transponder and an antenna
+
+#### Passive tags
+
+- Powered by the energy from the RFID reader's radio waves.
+- Cheaper compared to active tags
+- Used when reader is less than one meter away
+
+#### Active tags
+- Powered by batteries and can send signals at a greater distance from the reader.
+- Used for tracking catds etc
+
+
+### Sensors
+
+- Read physical information and produce a digital output that cna be used by a computer
+
 
 [Computer Science](/ComputerScience)

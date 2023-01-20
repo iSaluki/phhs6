@@ -380,7 +380,7 @@ L1 and L2 cache are dedicated to each core, however L3 cache is shared between a
 
 ## Output
 
-### Inkject Printer
+### Inkjet Printer
 
 - Sprays ink onto a page to convert a digital file to a physical document.
 

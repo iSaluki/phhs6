@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bab631f6c2c0ba36",
+            "id": "3018479a5fa7677f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md",
+                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/ComputerArchitecture.md"
+                "file": "content/sixth/Business/Units/nd/SupplyChain.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bab631f6c2c0ba36",
+  "active": "3018479a5fa7677f",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Databases/Overview.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
@@ -177,7 +178,6 @@
     "content/sixth/Business/Units/fh/Promotion.md",
     "Untitled.canvas",
     "content/sixth/Business/Units/nd/StockControl.md",
-    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md",
-    "content/sixth/CompSci/Theory/HardwareAndSoftware.md"
+    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md"
   ]
 }

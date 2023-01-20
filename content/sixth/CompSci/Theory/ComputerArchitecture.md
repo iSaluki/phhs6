@@ -378,5 +378,32 @@ L1 and L2 cache are dedicated to each core, however L3 cache is shared between a
 
 - Read physical information and produce a digital output that cna be used by a computer
 
+## Output
+
+### Inkject Printer
+
+- Sprays ink onto a page to convert a digital file to a physical document.
+
+#### Piezoelectric
+
+- A crystal at the back of the ink reservoir is given an electric charge and a vibration is created.
+- This vibration forces the ink to be ejected onto the paper.
+
+#### Thermal Bubble
+
+- Tiny resistors produce localised heat that vaporises ink.
+
+
+### Laser Printer
+
+- Uses powder instead of ink.
+- Uses static electricity to print.
+- Prints the whole page in one go.
+- Carries large print jobs out at higher speeds than inkjet.
+
+### 3D Printers
+
+- Layer plastics on a base in a specific way to result in a model being produced.
+
 
 [Computer Science](/ComputerScience)

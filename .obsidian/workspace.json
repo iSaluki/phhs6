@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9390b47c32341844",
+            "id": "259744c604070f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Cells/StemCells.md",
+                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Cells/StemCells.md",
+                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Cells/StemCells.md",
+                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Cells/StemCells.md"
+                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9390b47c32341844",
+  "active": "259744c604070f4a",
   "lastOpenFiles": [
+    "content/sixth/Biology/Cells/StemCells.md",
     "content/sixth/Biology/Disease/PlantDiseases.md",
     "content/sixth/Biology/Disease/CommunicableDiseases.md",
     "static/icon.png",
@@ -177,7 +178,6 @@
     "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Databases/Overview.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/private/callouts.md",
-    "content/sixth/CoreMaths/Trigonometry.md"
+    "content/private/callouts.md"
   ]
 }

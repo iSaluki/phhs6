@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "259744c604070f4a",
+            "id": "edd08757f83708b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/sixth/Business/Units/fh/ExtendedMarketingMix.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "259744c604070f4a",
+  "active": "edd08757f83708b3",
   "lastOpenFiles": [
+    "content/private/jeffbezos/Pasted image 20230123105551.png",
+    "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
+    "content/privacy.md",
     "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
     "content/sixth/Biology/Cells/StemCells.md",
     "content/sixth/Biology/Disease/PlantDiseases.md",
     "content/sixth/Biology/Disease/CommunicableDiseases.md",
     "static/icon.png",
     "content/sixth/Business/Units/nd/SupplyChain.md",
-    "content/sixth/CompSci/Theory/ComputerArchitecture.md",
-    "content/sixth/CompSci/Theory/Databases/SQL.md",
-    "content/sixth/CompSci/Theory/Databases/Overview.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md"
+    "content/sixth/CompSci/Theory/ComputerArchitecture.md"
   ]
 }

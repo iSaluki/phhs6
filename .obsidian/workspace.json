@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md"
+                "file": "content/privacy.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "259744c604070f4a",
   "lastOpenFiles": [
+    "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
     "content/sixth/Biology/Cells/StemCells.md",
     "content/sixth/Biology/Disease/PlantDiseases.md",
     "content/sixth/Biology/Disease/CommunicableDiseases.md",
@@ -177,7 +178,6 @@
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Databases/Overview.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/private/callouts.md"
+    "content/sixth/CompSci/Theory/Databases/Design.md"
   ]
 }

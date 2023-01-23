@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3018479a5fa7677f",
+            "id": "aeecbae7e67931bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
+                "file": "content/sixth/Biology/Disease/PlantDiseases.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
+                "file": "content/sixth/Biology/Disease/PlantDiseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SupplyChain.md",
+                "file": "content/sixth/Biology/Disease/PlantDiseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SupplyChain.md"
+                "file": "content/sixth/Biology/Disease/PlantDiseases.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3018479a5fa7677f",
+  "active": "aeecbae7e67931bd",
   "lastOpenFiles": [
+    "content/sixth/Biology/Disease/CommunicableDiseases.md",
+    "static/icon.png",
+    "content/sixth/Business/Units/nd/SupplyChain.md",
     "content/sixth/CompSci/Theory/ComputerArchitecture.md",
     "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Databases/Overview.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
     "content/private/callouts.md",
     "content/sixth/CoreMaths/Trigonometry.md",
-    "content/sixth/Business/Units/fh/Promotion.md",
-    "Untitled.canvas",
-    "content/sixth/Business/Units/nd/StockControl.md",
-    "content/sixth/Business/Units/nd/CaseStudyPassionForQuality.md"
+    "content/sixth/Business/Units/fh/Promotion.md"
   ]
 }

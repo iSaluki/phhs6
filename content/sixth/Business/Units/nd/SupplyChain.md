@@ -61,8 +61,29 @@ A good supply chain should:
 - Unsuitable supply chains
 
 
+## Speed of response and dependability
 
+- Speed of response
+	- To meet customers needs within a set time period
+	- Ability to make changes to products to reflect changing consumer tastes
+		- This will only be achievable if inventory levels are low a d suppliers can change order sizes and components quickly
+	- Dependability
+		- A business operating a just in time system will be reliant on suppliers to deliver the right quantity and quality on time to ensure supply meets demand.
 
+## How to make supply meet demand
+
+- Lots of stock/capacity
+- Outsource
+- Temporary Labour
+- Produce to order
+
+## Practice exercise 1
+
+1) c
+2) c
+3) d
+4) b
+5) A business trying to use mass customisation might face issues relating to lead times, as suppliers may struggle to deliver products on time when changes have to be made on a per unit basis. 
 
 
 

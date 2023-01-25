@@ -85,6 +85,11 @@ A good supply chain should:
 4) b
 5) A business trying to use mass customisation might face issues relating to lead times, as suppliers may struggle to deliver products on time when changes have to be made on a per unit basis. 
 
+---
+
+A strategic supplier is a supplier that is essential for the running of a business, whereas a commodity supplier is not completely essential.
+
+
 
 
 [Business](/Business)

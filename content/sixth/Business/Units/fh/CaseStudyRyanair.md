@@ -17,4 +17,8 @@ tags:
 8) Price elasticity of demand on flights is something that changes. If you are booking a flight 6 months in advance, you are not under pressure to book there and then, so in order to secure a sale, a company such as Ryanair can do this best by offering a lower price to you. However, if you are looking to book a ticket the same week or even same day, then you are just looking for a flight that will take you to the correct place. Ryanair knows this, and is aware that in these cases people will be much more likely to pay a higher price for a ticket than the people who book early, meaning that they can easily push prices up and increase their margin for the final 30% of tickets sold. In other words, Ryanair goes from being one option among many for the early birds, to the only option for people booking late - therefore it is much easier for Ryanair to sell a ticket to the late person than it is for them to sell a ticket to the early one. 
 9) Digital marketing is a new strategy that allows for guaranteed reach and much quicker more reactive marketing. If used correctly, it can funnel traffic from major social networks onto the Ryanair website, and it can be used to specifically target individuals who are looking for flights to certain areas. Because of this degree of accuracy that digital marketing offers, Ryanair will be able to get much better value for money on marketing campaigns. Moving to a more technologically based market.
 
+---
+## Hwk: Evaluate the potential difficulties faced by Ryanair in trying to change its marketing mix in order to widen its appeal.
+
+
 [Business](/Business)

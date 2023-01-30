@@ -1,5 +1,5 @@
 ---
-title:"Binary Algebra"
+title:"Boolean Algebra"
 tags:
 - compsci
 - theory

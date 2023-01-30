@@ -57,7 +57,12 @@ NAND
 
 ![[sixth/CompSci/Theory/img/Pasted image 20230130105833.png]]
 
+## Expanding full adders
 
+- Full adders can be expanded to adders of any number of bits. 
+- *n* full adders shall be combined to form an *n-bit* adder.
+
+![[sixth/CompSci/Theory/img/Pasted image 20230130111135.png]]
 
 
 

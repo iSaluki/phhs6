@@ -40,7 +40,7 @@ NAND
 - Two output bits are required to denote the sum and the carry.
 - The output Sum(S) is 1 when both inputs A and B have different values.
 
-![[Pasted image 20230130104834.png]]
+![[sixth/CompSci/Theory/img/Pasted image 20230130104834.png]]
 
 - S is true under two conditions:
 	- A is false and B is true
@@ -49,13 +49,13 @@ NAND
 
 - The output carry is only 1 when A and B are also true
 
-![[Pasted image 20230130105236.png]]
+![[sixth/CompSci/Theory/img/Pasted image 20230130105236.png]]
 
 ## Full Adder 
 
-![[Pasted image 20230130105758.png]]
+![[sixth/CompSci/Theory/img/Pasted image 20230130105758.png]]
 
-![[Pasted image 20230130105833.png]]
+![[sixth/CompSci/Theory/img/Pasted image 20230130105833.png]]
 
 
 

@@ -49,3 +49,10 @@ NAND
 
 - The output carry is only 1 when A and B are also true
 
+![[Pasted image 20230130105236.png]]
+
+## Full Adder 
+
+![[Pasted image 20230130105758.png]]
+
+![[Pasted image 20230130105833.png]]

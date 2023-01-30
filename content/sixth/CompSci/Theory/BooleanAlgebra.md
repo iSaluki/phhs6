@@ -64,6 +64,17 @@ NAND
 
 ![[sixth/CompSci/Theory/img/Pasted image 20230130111135.png]]
 
+## Combinational vs Sequential Circuits
+
+### Combinational circuit
+
+- The output is dependent on the combination of inputs.
+
+### Sequential Circuit
+
+- The output is not only dependent on the present state of input variables, but also on the past state of output variables.
+- To store the past state of input variables, we need a memory unit in the circuit.
+
 
 
 [Computer Science](/ComputerScience)

@@ -1,5 +1,5 @@
 ---
-title:"Boolean Algebra"
+title: "Boolean Algebra"
 tags:
 - compsci
 - theory
@@ -56,3 +56,9 @@ NAND
 ![[Pasted image 20230130105758.png]]
 
 ![[Pasted image 20230130105833.png]]
+
+
+
+
+
+[Computer Science](/ComputerScience)

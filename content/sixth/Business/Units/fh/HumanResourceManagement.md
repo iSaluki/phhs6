@@ -30,6 +30,36 @@ A **HR objective** is a specific goal or target of relating to the management an
 
 **Think PESTLE.**
 
+## Hard HRM
+
+- Employees are viewed as another resource that does not add significant value to the business.
+- Employees are directed and controlled closely
+- Work is often highly competitive
+- Little opportunity for creativity
+
+### Benefits
+
+- Quick staff replacement
+- Training costs are minimal
+- Fewer errors due to tighter control
+
+### Drawbacks
+
+- High staff turnover
+- Low level of motivation
+- Appraisal systems are judgemental
+
+
+## Soft HRM
+
+- Employees are seen as a highly valuable asset
+- Empowerment and training
+- Appraisals are developmental and aimd to supporting employees
+- Manager acts as a facilitator to help an employee to do their job properly
+
+
+### Benefits
+
 
 
 

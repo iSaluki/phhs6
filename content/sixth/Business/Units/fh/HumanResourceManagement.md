@@ -28,6 +28,7 @@ A **HR objective** is a specific goal or target of relating to the management an
 - Developing corporate culture
 
 
+**Think PESTLE.**
 
 
 

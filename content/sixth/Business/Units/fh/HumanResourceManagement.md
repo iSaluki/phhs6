@@ -60,6 +60,15 @@ A **HR objective** is a specific goal or target of relating to the management an
 
 ### Benefits
 
+- Competitive advantage
+- Reduced labour turnover
+- Increased staff loyalty
+
+### Drawbacks
+
+- Reliance upon consultation and discussion
+- Opportunity cost
+- Assumption that all employees actually wish to become involved in the business
 
 
 

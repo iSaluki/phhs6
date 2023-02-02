@@ -40,6 +40,16 @@ tags:
 	- Important changes might be lost
 	- Clocks must be effectively synchronised
 
+### Serialisation
+
+- Only allow the DBMS to process one transaction at a time.
+- Each transaction is processed in the order they arrive.
+- Disadvantages
+	- Performance
+		- If lots of transactions occur in a short time period then a long queue can build up and it may be some time before the changes are made.
+
+
+
 
 
 [Computer Science](/ComputerScience)

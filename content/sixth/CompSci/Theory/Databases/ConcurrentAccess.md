@@ -29,5 +29,17 @@ tags:
 		- Process A tried to lock record 2 but cannot because it is locked by Process B. Process B tried to lock record 1 but cannot because it is locked by Process A. Both processes wait for the record to become unlocked, causing the program to hang.
 			- If a process crashes, then when should records be unlocked? Will they be unlocked?
 
+### Timestamp Ordering
+
+- Each record in the system has a timestamp that indicates the last time it was updated.
+- All changes are similarly timestamped to show when they were issued.
+- Rules to determine if the transaction can proceed:
+	- If a change arrives that has a timestamp before the current record timestamp, it is discarded.
+	- If a read is requested that has a timestamp before the current record timestamp, it is discarded.
+- Disadvantages
+	- Important changes might be lost
+	- Clocks must be effectively synchronised
+
+
 
 [Computer Science](/ComputerScience)

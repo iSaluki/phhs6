@@ -27,6 +27,7 @@ tags:
 		- Process A locks record 1
 		- Process B locks record 2
 		- Process A tried to lock record 2 but cannot because it is locked by Process B. Process B tried to lock record 1 but cannot because it is locked by Process A. Both processes wait for the record to become unlocked, causing the program to hang.
-	
+			- If a process crashes, then when should records be unlocked? Will they be unlocked?
+
 
 [Computer Science](/ComputerScience)

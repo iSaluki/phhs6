@@ -48,6 +48,16 @@ tags:
 	- Performance
 		- If lots of transactions occur in a short time period then a long queue can build up and it may be some time before the changes are made.
 
+### Commitment Ordering
+
+- A minor tweak to serialisation.
+- Each update is given a priority.
+	- Stock updates should happen before stock queries for example.
+- The system can also be made aware of invalid sequences of updates and programmed to avoid these.
+	- For example, a stock check might be given a high priority. Other stock updates that have a lower priority  but that happened before the stock stock check may exist and be blocked.
+- Disadvantages
+	- Performance
+
 
 
 

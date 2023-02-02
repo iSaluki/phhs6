@@ -71,8 +71,4 @@ A **HR objective** is a specific goal or target of relating to the management an
 - Assumption that all employees actually wish to become involved in the business
 
 
-
-
-
-
 [Business](/Business)

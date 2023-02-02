@@ -71,7 +71,7 @@ Heinz is the supplier of baked beans and ketchup. However ketchup and baked bean
 - For each single instance, there are links to and from multiple other instances of a different entity.
 - A subject can be taught by many teachers, and teachers can teach many subjects.
 
-![Relationship Types](/content/sixth/CompSci/Theory/Databases/img/relationshiptypes.png)
+![Relationship Types](sixth/CompSci/Theory/Databases/img/relationshiptypes.png)
 
 > [!caution]
 > Avoid any relationship except one-to-many.

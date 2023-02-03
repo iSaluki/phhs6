@@ -92,4 +92,25 @@ NAND
 
 ![[sixth/CompSci/Theory/img/Pasted image 20230203134912.png]]
 
+## Sequential Circuits - Clock
+
+- For synchronous sequential circuits, we require a clock signal.
+- A clock is a type of sequential circuit that changes state at regular intervals.
+- A clock signal synchronises the components in sequential circuit. A positive-edge triggering clock signal is given below. The output responds to the changes in the input only at the positive edge of the clock pulse.
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203135721.png]]
+
+### Falling Edge
+
+- Alternatively, a negative-edge triggering sequential circuit can also be designed.
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203135958.png]]
+
+## D flip-flop
+
+**Requires the clock pulse.**
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203140109.png]]
+
+
 [Computer Science](/ComputerScience)

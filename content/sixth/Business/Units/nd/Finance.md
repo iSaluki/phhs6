@@ -48,6 +48,27 @@ gross profit margin = gross profit / sales revenue x 100
 NOTE: Irrelevant to notes, practice.
 
 367.8 / 597.5 * 100 = 61.6
+
+15825000
+13550000
+
+13550000 / 15825000 x 100 = 85.6%
+
+
+**Buy and Save**
+gpm: 4089/64826 * 100 = 6.3%
+opm: 2188/64826 * 100 = 3.4%
+pfty: 120/64826 * 100 = 0.19%
+
+**Trolleyworld**
+gpm: 1206/18116 * 100 = 6.7%
+opm: 949/18116 * 100 = 5.2%
+pfty: 647/18116*100 = 3.6%
+
+Trolleyworld wins!
+
+Trolleyworld go from 3.6% to 4.2%, meaning a change of +0.8%
+
 ```
 
 
@@ -56,6 +77,7 @@ NOTE: Irrelevant to notes, practice.
 - Higher prices
 - Reduce Costs
 - Sell a greater volume of goods
+
 
 
 

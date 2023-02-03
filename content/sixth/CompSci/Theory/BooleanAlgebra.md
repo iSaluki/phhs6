@@ -75,6 +75,21 @@ NAND
 - The output is not only dependent on the present state of input variables, but also on the past state of output variables.
 - To store the past state of input variables, we need a memory unit in the circuit.
 
+---
 
+## Recall
+
+- Two bits in, 1 bit out and 1 carry out (half) - A AND B in -> S AND C out
+- Two bits in, 1 bit out and 1 carry out (full) - A AND B AND C in -> S AND C out
+
+
+1) AND
+2) NOR
+
+## SR Latch
+
+- The circuit diagram and truth table for an SR latch.
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203134912.png]]
 
 [Computer Science](/ComputerScience)

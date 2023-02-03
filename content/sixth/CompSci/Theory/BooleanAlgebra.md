@@ -112,5 +112,20 @@ NAND
 
 ![[sixth/CompSci/Theory/img/Pasted image 20230203140109.png]]
 
+- The input and output waveforms of a positive-edge triggered D flip-flop are given.
+- The output Q follows the input D at the positive edges of the clock pulse.
+- Assume the value of Q is 0 initially.
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203140538.png]]
+
+D = Delay
+
+## JK Flip Flops
+
+- The input J acts as the set input and K acts as the reset input. When both J and K are equal to 1, the value of Q is switched. 
+
+![[sixth/CompSci/Theory/img/Pasted image 20230203141813.png]]
+
+
 
 [Computer Science](/ComputerScience)

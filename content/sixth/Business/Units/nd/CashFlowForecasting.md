@@ -82,6 +82,19 @@ D = 8000 ✓
 (31500+36000)-(34000+34000) = -£500 NET CASH FLOW
 ```
 
+---
 
+## Liquidity
+
+Liquidity is how close an asset is to cash.
+
+- Cash is the most liquid asset 
+- A building is fairly illiquid, as the process to convert it into cash is lengthy
+
+## Cash flow is important
+
+- Cash flow is dynamic and unpredictable 
+- Cash flow is **the main cause of business failure**. 
+	- They try and grow too quickly and run out of  working capital, they might be profitable, but if they run out of cash they can't pay the bills.
 
 [Business](/Business)

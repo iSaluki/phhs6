@@ -97,4 +97,25 @@ Liquidity is how close an asset is to cash.
 - Cash flow is **the main cause of business failure**. 
 	- They try and grow too quickly and run out of  working capital, they might be profitable, but if they run out of cash they can't pay the bills.
 
+Non-exhaustive lists:
+
+- Cash Inflows
+	- Cash sales
+	- Receipts from trade debtors
+	- Sales of fixed assets
+	- Interest on bank balances
+	- Grants
+	- Loans from banks
+	- Share capital investments
+- Cash outflows
+	- Payments to suppliers 
+	- Wages and salaries
+	- Payments for fixed assets
+	- Tax on profits
+	- Interest on loans & overdrafts
+	- Dividends paid to shareholders
+	- Repayment of loans
+
+
+
 [Business](/Business)

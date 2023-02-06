@@ -70,5 +70,37 @@ A **HR objective** is a specific goal or target of relating to the management an
 - Opportunity cost
 - Assumption that all employees actually wish to become involved in the business
 
+---
 
+## Common HR Objectives
+
+- Employee Engagement
+	- Engaged employees will identify with your goals
+	- Will stay loyal
+	- Excited to take on new challenges
+	- Disengaged staff will simply work the hours that they are contracted to work
+- Talent Development
+	- Identification and development of potential future business leaders
+	- Speeding up the career progression of people with high potential
+	- Graduate fast-tracks
+	- 360 degree appraisal programmes
+- Training
+	- Improve knowledge & skills of employees
+	- Improves engagement & performance
+	- Expensive
+	- Time consuming
+- Diversity
+	- Widen variety of skills, ideas and experiences
+	- Diversity needs to exist at each and every level of the business
+	- Positions should always be filled based on ability
+	- Senior management positions are particularly poorly represented by employees from minority groups
+	- Change in corporate culture may be nescessary
+	- Better understanding of target market
+	- More attractive employer
+- Alignment of Values
+	- A firm's core values outline the way a business behaves and influences the decisions that they make. It becomes a central point of reference for everyone within the organisation.
+	- However, if the views of employees run contrary to that of the business, there is likely to be conflict and a firm's corporate objectives are unlikely to be achieved.
+	- It is important for training and communication to be developed to promote the core values of the firm and for all deccision making to reinforce this ideal so that  the business builds up a clear identity of what it stands for amongst all of their stakeholders.
+- Skills, Numbers and Locations
+	
 [Business](/Business)

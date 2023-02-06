@@ -79,6 +79,7 @@ A **HR objective** is a specific goal or target of relating to the management an
 	- Will stay loyal
 	- Excited to take on new challenges
 	- Disengaged staff will simply work the hours that they are contracted to work
+	- Maintaining good employee/employer relations
 - Talent Development
 	- Identification and development of potential future business leaders
 	- Speeding up the career progression of people with high potential
@@ -102,5 +103,9 @@ A **HR objective** is a specific goal or target of relating to the management an
 	- However, if the views of employees run contrary to that of the business, there is likely to be conflict and a firm's corporate objectives are unlikely to be achieved.
 	- It is important for training and communication to be developed to promote the core values of the firm and for all deccision making to reinforce this ideal so that  the business builds up a clear identity of what it stands for amongst all of their stakeholders.
 - Skills, Numbers and Locations
-	
+	- Ensuring that the number of employees with the correct skills, in the right location is correct is integral to smooth business operation. 
+	- HR will need to adapt with any changes to the business, such as expansion or new technology to ensure that this goal is always as close to being met as possible.
+
+
+
 [Business](/Business)

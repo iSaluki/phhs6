@@ -84,6 +84,8 @@ D = 8000 ✓
 
 ---
 
+# Recap
+
 ## Liquidity
 
 Liquidity is how close an asset is to cash.
@@ -115,6 +117,10 @@ Non-exhaustive lists:
 	- Interest on loans & overdrafts
 	- Dividends paid to shareholders
 	- Repayment of loans
+
+- **Cash is king** - it is the lifeblood of the business
+- If a business runs out of cash it will almost definitely fail
+- Few businesses have near unlimited cash, so careful management is required
 
 
 

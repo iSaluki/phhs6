@@ -92,6 +92,24 @@ Receivables - Amounts owed by customers
 Payables - amounts owed to suppliers
 Inventories - Cash tied up in raw materials, work in progress and finished goods
 
+### Managing amounts owed by customers
+
+- Credit control
+	- Policies on how much credit to give and repayment terms and conditions
+	- Measures to control doubtful debtors
+	- Credit checking
+- Selling off debts to debt factors
+- Cash discounts for prompt payment
+- Improved record keeping - eg accurate and timely invoicing
+
+### Debt factoring
+
+- The selling of debtors (money owned to the business) to a third party
+- This generates cash
+- It guarantees the firm a percentage of the money owed to it
+- But it will reduce income and profit margin made on sales
+- Cost involved in factoring can be high
+
 
 
 [Business](/Business)

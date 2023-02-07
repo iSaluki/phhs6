@@ -28,6 +28,44 @@ e) 1600 ✓
 f) 2600 ✓
 g) 4200 ✓
 
+## Cash flow problems
+
+- When a business does not have enough cash to pay its liabilities
+
+### Common issues
+
+- Sales prove lower than expected
+	- Easy to be over-optimistic about sales potential
+	- Market research may have had gaps
+- Customers do not pay up on time
+	- A notorious problem for businesses, particularly small ones
+- Costs prove higher than expected
+	- Perhaps because purchase prices turn out higher
+	- Maybe also because the business is inefficient
+- Imprudent cost assumptions
+	- A common problem for a start-up
+	- Unexpected costs always arise - often significant
+
+### Causes of cash flow problems
+
+- Too much capacity
+- Excess inventories held
+- Allowing customers too much credit and too long to pay
+- Overtrading - growing business too fast
+- Unexpected changes in the business
+- Seasonal demand
+
+### Terminologies
+
+Suppliers:
+- are creditors - you owe them
+- payables
+
+Customers:
+- are debtors - they owe you
+- receiveables
+
+To optimise cash flow, a business will look to speed up payments from customers and slow down payments to suppliers.
 
 
 

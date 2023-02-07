@@ -49,9 +49,22 @@ g) 4200 ✓
 ### Causes of cash flow problems
 
 - Too much capacity
+	- Spending too much on fixed assets
+	- Very low liquidity on fixed assets
+	- Worse if short term finance is used
 - Excess inventories held
+	- Excess stocks tie cash up
+	- Increased risk that stocks become obsolete
 - Allowing customers too much credit and too long to pay
+	- "Trade debtors"
+	- Offer credit = grow sales
+	- Late payment is a common problem
+	- Worse still, debt may go bad
 - Overtrading - growing business too fast
+	- Where a business expands too quickly, putting pressure on short-term finance
+	- Classic example - retail chains
+		- Keen to open new outlets
+		- Have to pay lots in advance
 - Unexpected changes in the business
 - Seasonal demand
 
@@ -68,7 +81,16 @@ Customers:
 To optimise cash flow, a business will look to speed up payments from customers and slow down payments to suppliers.
 
 
+### Managing cash flow problems
 
+- Choose the right source of finance
+- Make and action reliable cash flow forecasting
+- Manage working capital effectively
+
+
+Receivables - Amounts owed by customers
+Payables - amounts owed to suppliers
+Inventories - Cash tied up in raw materials, work in progress and finished goods
 
 
 

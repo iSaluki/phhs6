@@ -13,7 +13,7 @@ tags:
 - Pressure inside thorax decreases below atmospheric pressure
 - Air is **forced** into the lungs
 
-![[sixth/Biology/ExchangeSurfaces/img/Pasted image 20221019122809.png]]
+![[Pasted image 20221019122809.png]]
 
 ## Exhalation/Expiration
 - Diaphragm relaxes
@@ -24,7 +24,7 @@ tags:
 - Pressure inside thorax increases above atmospheric pressure
 - Air is **forced** out of the lungs
 
-![[sixth/Biology/ExchangeSurfaces/img/Pasted image 20221019123051.png]]
+![[Pasted image 20221019123051.png]]
 
 | Feature             | Inhalation           | Exhalation                   |
 |---------------------|----------------------|------------------------------|

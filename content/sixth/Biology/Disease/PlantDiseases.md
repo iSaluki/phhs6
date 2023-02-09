@@ -31,7 +31,7 @@ tags:
 **Transmission Type:** Indirect
 **Transmission Factors:** Plants in soil, soil conditions
 
-![[sixth/Biology/Disease/img/Pasted image 20230123100332.png]]
+![[Pasted image 20230123100332.png]]
 
 ### Tobacco Mosaic Virus (TMV)
 
@@ -41,7 +41,7 @@ tags:
 **Transmission Type:** Direct & Indirect
 **Transmission Factors:** Climate, contact frequency
 
-![[sixth/Biology/Disease/img/Pasted image 20230123100526.png]]
+![[Pasted image 20230123100526.png]]
 
 ### Potato/tomato late blight
 
@@ -51,7 +51,7 @@ tags:
 **Transmission Type:** Indirect
 **Transmission Factors:** Wind, rainfall
 
-![[sixth/Biology/Disease/img/Pasted image 20230123100411.png]]
+![[Pasted image 20230123100411.png]]
 
 ### Black Sigatoka
 
@@ -61,7 +61,7 @@ tags:
 **Transmission Type:** Direct & Indirect
 **Transmission Factors:** Wind, Rain
 
-![[sixth/Biology/Disease/img/Pasted image 20230123100434.png]]
+![[Pasted image 20230123100434.png]]
 
 ## Global Transmission Factors
 

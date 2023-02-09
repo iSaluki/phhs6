@@ -8,7 +8,7 @@ tags:
 
 Specimens can be dyed/stained.
 
-![[sixth/Biology/Cells/img/Pasted image 20220921104632.png]]
+![[Pasted image 20220921104632.png]]
 
 ## Staining
 

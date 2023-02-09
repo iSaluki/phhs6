@@ -20,7 +20,7 @@ tags:
 >
 > - Some dyes interfere with cell parts
 
-![[sixth/Biology/Cells/img/Pasted image 20221019111849.png]]
+![[Pasted image 20221019111849.png]]
 
 ## Laser Scanning (Confocal) Microscope
 - Uses light
@@ -38,7 +38,7 @@ tags:
 > - Resolution limited by wavelength of light
 > - Dyes can interfere with cell function
 
-![[sixth/Biology/Cells/img/Pasted image 20221019112257.png]]
+![[Pasted image 20221019112257.png]]
 
 
 ## Atomic Force Microscope
@@ -57,7 +57,7 @@ tags:
 >
 > - Can't see inside cells, surface only
 
-![[sixth/Biology/Cells/img/Pasted image 20221019114841.png]]
+![[Pasted image 20221019114841.png]]
 
 ## Transmission Electron Microscope (TEM)
 - Magnification up to x2000000
@@ -75,7 +75,7 @@ tags:
 > - Prone to artifacts
 > - Samples will be killed
 
-![[sixth/Biology/Cells/img/Pasted image 20221019114937.png]]
+![[Pasted image 20221019114937.png]]
 
 ## Scanning Electron Microscope (SEM)
 - Magnification between `x15` and `x200000`
@@ -96,7 +96,7 @@ tags:
 > - Salt stains are dangerous
 > - Requires training
 
-![[sixth/Biology/Cells/img/Pasted image 20221019115017.png]]
+![[Pasted image 20221019115017.png]]
 
 
 [Biology](/Biology)

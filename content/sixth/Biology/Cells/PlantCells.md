@@ -6,8 +6,8 @@ tags:
 - cells
 ---
 
-See Chloroplasts, Vacuole and Cell Wall from [Organelles](sixth/Biology/Cells/Organelles)
+See Chloroplasts, Vacuole and Cell Wall from [Organelles](Organelles.md)
 
-Cells are typically viewed under [Light Microscopes](sixth/Biology/Cells/UsingALightMicroscope)
+Cells are typically viewed under [Light Microscopes](UsingALightMicroscope.md)
 
 [Biology](/Biology)

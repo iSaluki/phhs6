@@ -6,7 +6,7 @@ tags:
 
 ## Diagram of Heart Structure
 
-![[sixth/Biology/Circulatory/img/Pasted image 20221111111303.png]]
+![[Pasted image 20221111111303.png]]
 
 ## Cardiac Cycle
 *AV = Atrioventricular*
@@ -32,7 +32,7 @@ tags:
 	- "dub": SL valves closing as ventricles contract
 
 ## Control of the Cardiac Cycle
-![[sixth/Biology/Circulatory/img/Pasted image 20221111105956.png]]
+![[Pasted image 20221111105956.png]]
 
 - sinoatrial node (SAN)
 	- located in the right atrium

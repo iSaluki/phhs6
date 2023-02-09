@@ -16,7 +16,7 @@ A phospholipid has a hydrophilic head and 2 hydrophobic tails.
 
 The hydrophilic heads are in contact with the cytoplasm or the extracellular fluids, and the hydrophilic tails stay away from water in the centre of the membrane.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019115534.png]]
+![[Pasted image 20221019115534.png]]
 
 
 ## Membrane Proteins
@@ -40,7 +40,7 @@ The hydrophilic heads are in contact with the cytoplasm or the extracellular flu
 - passive & active transport
 - involves shape changing
 
-![[sixth/Biology/Cells/img/Pasted image 20221019115621.png]]
+![[Pasted image 20221019115621.png]]
 
 ## More depth on Plasma Membrane Composition
 
@@ -48,7 +48,7 @@ Phospholipids can have slightly different tails. Their tails are made from fatty
 
 The purpose of  a kinked tail is increased membrane stability. It separates phospholipids out and prevents them from becoming too tightly packed.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019120603.png]]
+![[Pasted image 20221019120603.png]]
 
 Cholesterol fits in with the phospholipids and helps to regulate the fluidity of the membrane. It does this by increasing fluidity at low temperatures by keeping the phospholipids apart and preventing a cease in motion. At higher temperatures, they have the opposite effect and reduce the fluidity of the membrane by holding the phospholipids in place and stopping them from moving too much.
 

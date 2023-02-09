@@ -14,9 +14,9 @@ tags:
 - The most common organism for infection
 - Not all bacteria are pathogens, most do not cause disease
 - Bacteria are typically classified using their basic shape and cell wall
-![[sixth/Biology/Disease/img/Pasted image 20230123094409.png]]
+![[Pasted image 20230123094409.png]]
 
-![[sixth/Biology/Disease/img/Pasted image 20230123094400.png]]
+![[Pasted image 20230123094400.png]]
 
 
 ## Virus
@@ -38,7 +38,7 @@ tags:
 - assembly of virus particles
 - Lysis of host cell and new bacteriophages released
 
-![[sixth/Biology/Disease/img/Pasted image 20230123094606.png]]
+![[Pasted image 20230123094606.png]]
 
 ## Protoctista / Protista
 
@@ -46,7 +46,7 @@ tags:
 - Exist as single organisms and as colonies
 - A small percentage are pathogenic, they can affect animals and plants (ie, malaria)
 - Often protista require a vector to transfer the disease (eg, mosquitos for malaria)
-![[sixth/Biology/Disease/img/Pasted image 20230123094908.png]]
+![[Pasted image 20230123094908.png]]
 
 ## Fungi
 
@@ -56,7 +56,7 @@ tags:
 - When fungi infect plants, they often target the leaves, preventing photosynthesis
 - Fungi produce many millions of spores that rapidly infect other organisms
 
-![[sixth/Biology/Disease/img/Pasted image 20230123094817.png]]
+![[Pasted image 20230123094817.png]]
 
 ## Damage to Tissues
 

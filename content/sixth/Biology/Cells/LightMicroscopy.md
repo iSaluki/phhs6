@@ -10,7 +10,7 @@ Any objects closer than 200nm will appear as one object under the best light mic
 
 2 objects can only be seen if light is able to pass between them.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019103647.png]]
+![[Pasted image 20221019103647.png]]
 
 ## Sectioning
 
@@ -20,7 +20,7 @@ Any objects closer than 200nm will appear as one object under the best light mic
 
 When studying a section, structures may be seen differently depending on how the section was taken relative to the structure. So a mitochondria may have been cut vertically whilst you are looking for one cut horizontally. It is important to account for this.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019104036.png]]
+![[Pasted image 20221019104036.png]]
 
 ## Microscope Terminology
 
@@ -28,6 +28,6 @@ Artifacts are damaged specimens caused by mechanical or chemical damage during s
 
 Here are a few examples of artifacts that could be misidentified as different objects.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019104244.png]]
+![[Pasted image 20221019104244.png]]
 
 [Biology](/Biology)

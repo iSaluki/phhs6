@@ -19,7 +19,7 @@ Cell theory is the basic foundation on which our understanding of cells is built
 
 **Robert Brown** - 1833
 
-- Discovered the [nucleus](sixth/Biology/Cells/Organelles#nucleus) in plant cells
+- Discovered the [nucleus](Organelles.md#nucleus) in plant cells
 
 **Matthias Schleiden** - 1838
 

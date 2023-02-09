@@ -5,7 +5,7 @@ tags:
 - biology
 - cells
 ---
-![[sixth/Biology/Cells/img/Pasted image 20220908112443.png]]
+![[Pasted image 20220908112443.png]]
 
 
 

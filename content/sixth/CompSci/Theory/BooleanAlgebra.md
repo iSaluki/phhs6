@@ -3,6 +3,7 @@ title: "Boolean Algebra"
 tags:
 - compsci
 - theory
+- boolean
 ---
 
 NOT

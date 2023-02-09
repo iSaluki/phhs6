@@ -8,7 +8,7 @@ tags:
 
 
 a) A communicable disease is a disease that can be spread between organisms via a vector.
-b) ![[sixth/Biology/Disease/img/pie-chart.png]]
+b) ![[pie-chart.png]]
 
 c) 23% = 13 million
 11.5% = 6.5 million

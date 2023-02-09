@@ -11,7 +11,7 @@ tags:
 - Undifferentiated means that it currently performs no function in the body
 - Division of stem cells can cause tumours and cancers (in rare cases)
 
-![[sixth/Biology/Disease/img/Pasted image 20230123101802.png]]
+![[Pasted image 20230123101802.png]]
 
 ## Stem Cell Potency
 

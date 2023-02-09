@@ -4,7 +4,7 @@ tags:
 - biology
 ---
 
-![[sixth/Biology/ExchangeSurfaces/img/Pasted image 20221019121354.png]]
+![[Pasted image 20221019121354.png]]
 Alveoli are the sole site of gaseous exchange.
 
 ## Adaptations for gaseous exchange
@@ -20,7 +20,7 @@ Alveoli are the sole site of gaseous exchange.
 
 ## Alveoli
 
-![[sixth/Biology/ExchangeSurfaces/img/Pasted image 20221019121914.png]]
+![[Pasted image 20221019121914.png]]
 Blue blood is arriving to be oxygenated and red blood is leaving after being oxygenated.
 
 Alveoli have thin walls and provide large surface areas for gas exchange.

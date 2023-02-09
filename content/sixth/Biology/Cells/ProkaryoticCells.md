@@ -3,7 +3,7 @@ title: "Prokaryotic Cells"
 tags:
 - biology
 ---
-![[sixth/Biology/Cells/img/Pasted image 20221019105229.png]]
+![[Pasted image 20221019105229.png]]
 
 
 | **Feature**               | **Prokaryotic**        | **Eukaryotic**                                                     |
@@ -30,7 +30,7 @@ Evidence includes mitochondria and chloroplasts dividing like bacteria; have ind
 ## Gram Staining
 Microscopy stain to help identify different bacteria.
 
-![[sixth/Biology/Cells/img/Pasted image 20221019110126.png]]
+![[Pasted image 20221019110126.png]]
 
 ### Gram Positive Bacteria
 - Colour: blue

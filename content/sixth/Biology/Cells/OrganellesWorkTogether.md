@@ -16,7 +16,7 @@ An example process of how organelles in a cell would work together to produce in
 7) In the Gologi, the insulin is packaged and modified to be ready for use in the body
 8) Vesicles pinched off from Golgi pass to plasma membrane.
 9) Vesicles and the plasma membrane fuse and excrete insulin into the cell's surroundings via exocytosis.
-![[sixth/Biology/Cells/img/Pasted image 20221019104936.png]]
+![[Pasted image 20221019104936.png]]
 
 
 

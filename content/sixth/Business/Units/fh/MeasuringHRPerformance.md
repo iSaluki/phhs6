@@ -42,3 +42,11 @@ Total days worked by workforce over the period
 
 x 100
 
+#### Worked example
+
+Working days : 4000
+Unauthorised Absence: 560
+
+560/4000 x 100 = 14%
+∴ Absenteeism = 14%
+

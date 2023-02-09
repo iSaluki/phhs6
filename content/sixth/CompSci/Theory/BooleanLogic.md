@@ -34,7 +34,18 @@ Order for gates:
 Big Noonoo Xtreme Apetite Orange
 Bring Now, eXtremely Angry Otters
 Behold Newly eX Assistant Orthodontists
+Before
+
+**If you want to prioritise OR over AND then brackets are required.**
+
+### Commutive Laws
 
 
+- The order of the operands does not matter
+
+
+### Associative Laws
+
+- When all the operators are the same, it does not matter what order they are applied in.
 
 [Computer Science](/ComputerScience)

@@ -13,6 +13,27 @@ tags:
 - An integrated circuit is usually made of a single type of gate only
 
 
+### Set representation
+
+
+![[sixth/CompSci/Theory/img/Pasted image 20230209115049.png]]
+
+### Order
+
+> Bidmas for logic gates
+
+
+Order for gates:
+
+- Brackets
+- NOT
+- XOR
+- AND
+- OR
+
+Big Noonoo Xtreme Apetite Orange
+Bring Now, eXtremely Angry Otters
+Behold Newly eX Assistant Orthodontists
 
 
 

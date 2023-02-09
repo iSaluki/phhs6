@@ -34,7 +34,6 @@ Order for gates:
 Big Noonoo Xtreme Apetite Orange
 Bring Now, eXtremely Angry Otters
 Behold Newly eX Assistant Orthodontists
-Before
 
 **If you want to prioritise OR over AND then brackets are required.**
 
@@ -47,5 +46,23 @@ Before
 ### Associative Laws
 
 - When all the operators are the same, it does not matter what order they are applied in.
+
+### Simplifying boolean expressions
+
+- Simplifying means rewriting the expression in a way that uses fewer logic gates but keeping the exact same functionality.
+
+A+(-)A=1 - A OR NOT A IS TRUE
+A+A=A
+A.0 = 0
+A.1 = A
+A.A = A
+A.(-)A=0
+(-)(-)A=A
+
+1) A
+2) B
+3) A.B
+4) D.F+G+A.(-)B
+5) 
 
 [Computer Science](/ComputerScience)

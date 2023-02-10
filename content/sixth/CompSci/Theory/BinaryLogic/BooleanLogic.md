@@ -123,4 +123,8 @@ A.(B+C+D)+A.
 ![[sixth/CompSci/Theory/img/Pasted image 20230210123806.png]]
 ![[sixth/CompSci/Theory/img/Pasted image 20230210123833.png]]
 
+Therefore, N
+T A OR B is the same as NOT A AND NOT B
+
+
 [Computer Science](/ComputerScience)

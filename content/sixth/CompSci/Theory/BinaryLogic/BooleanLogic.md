@@ -114,7 +114,13 @@ C.(D+B) = (C.D) + (C+B)
 C.D.(B+A.E) = (C.D.B) + (C.D.A) + (C.D.E)
 A.(B+C+D)+A.
 
+### DeMorgan's Laws
 
+- Two **most important** laws.
 
+### DeMorgan's First Law
+
+![[sixth/CompSci/Theory/img/Pasted image 20230210123806.png]]
+![[sixth/CompSci/Theory/img/Pasted image 20230210123833.png]]
 
 [Computer Science](/ComputerScience)

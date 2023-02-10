@@ -108,5 +108,19 @@ Also known as: **factoring**
 
 - In algebraic expressions you will have seen that sometimes an expression can be simplified by adding brackets, the same is true for boolean algebra.
 
+#### Practice
+
+C.(D+B) = (C.D) + (C+B)
+C.D.(B+A.E) = (C.D.B) + (C.D.A) + (C.D.E)
+A.(B+C+D)+A.
+
+```latex
+\begin{document}
+Hello world!
+\end{document}
+```
+
+
+
 
 [Computer Science](/ComputerScience)

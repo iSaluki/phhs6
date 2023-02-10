@@ -64,5 +64,40 @@ A.(-)A=0
 3) A.B
 4) D.F+G+A.(-)B
 5) 
+---
+A AND NOT A IS FALSE
+
+This is correct because A is TRUE and NOT A is FALSE. So an AND operation on a TRUE and FALSE will result in FALSE due to one of the inputs being FALSE.
+
+## Boolean Laws (continued)
+
+### Absorption Laws
+
+If a term is ANDed or ORed to itself, then it is equivalent.
+
+A + A.B = A
+A.(A+B) =A
+
+
+
+### Practice
+
+C + C.D = C
+D + C.D.B = D
+A.(C+A) = A
+D.F + D.1 = D.
+E.F.(E.F+D) = E.F
+A.A+A.1+B.-B = A
+
+### Distributive Laws
+
+Like mathematical algebra, you should expand brackets where needed.
+
+It is also possible to expand brackets in Boolean algebra expressions when an expression is ANDed with an expression enclosed in brackets.
+
+A.(B+C) = (A.B) + (A.C)
+(A+B).(C+D) = (A.C) + (A.D) + (B.C) + (B.D)
+
+
 
 [Computer Science](/ComputerScience)

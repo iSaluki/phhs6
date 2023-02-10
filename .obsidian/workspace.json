@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
+                "file": "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
+                "file": "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
+                "file": "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md"
+                "file": "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md"
               }
             }
           },
@@ -167,11 +167,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12f04770a927872b",
+  "active": "edd08757f83708b3",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
     "content/sixth/Business/Units/nd/Labour.md",
     "content/sixth/Business/Units/fh/HumanResourceManagement.md",
-    "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
     "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
     "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
     "content/sixth/Business/Units/fh/ExternalEnvironment.md",

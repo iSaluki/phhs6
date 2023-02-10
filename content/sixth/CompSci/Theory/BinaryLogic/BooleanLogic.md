@@ -114,12 +114,6 @@ C.(D+B) = (C.D) + (C+B)
 C.D.(B+A.E) = (C.D.B) + (C.D.A) + (C.D.E)
 A.(B+C+D)+A.
 
-```latex
-\begin{document}
-Hello world!
-\end{document}
-```
-
 
 
 

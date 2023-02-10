@@ -76,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,15 +170,15 @@
   },
   "active": "edd08757f83708b3",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/Labour.md",
+    "content/sixth/Business/Units/fh/HumanResourceManagement.md",
+    "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
     "content/sixth/CompSci/Theory/BooleanLogic.md",
     "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
     "content/sixth/Business/Units/fh/ExternalEnvironment.md",
     "content/sixth/Business/Units/fh/EconomicGrowth.md",
     "content/private/jeffbezos/Pasted image 20230123105551.png",
     "content/privacy.md",
-    "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
-    "content/sixth/Biology/Cells/StemCells.md",
-    "content/sixth/Biology/Disease/PlantDiseases.md",
-    "content/sixth/Biology/Disease/CommunicableDiseases.md"
+    "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md"
   ]
 }

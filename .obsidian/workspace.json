@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/BooleanLogic.md",
+                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/BooleanLogic.md",
+                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/BooleanLogic.md",
+                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/BooleanLogic.md"
+                "file": "content/sixth/Business/Units/fh/MeasuringHRPerformance.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "edd08757f83708b3",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/BooleanLogic.md",
     "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
     "content/sixth/Business/Units/fh/ExternalEnvironment.md",
     "content/sixth/Business/Units/fh/EconomicGrowth.md",
@@ -177,7 +178,6 @@
     "content/sixth/Biology/Cells/SpecialisedAnimalTissues.md",
     "content/sixth/Biology/Cells/StemCells.md",
     "content/sixth/Biology/Disease/PlantDiseases.md",
-    "content/sixth/Biology/Disease/CommunicableDiseases.md",
-    "static/icon.png"
+    "content/sixth/Biology/Disease/CommunicableDiseases.md"
   ]
 }

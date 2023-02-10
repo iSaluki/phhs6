@@ -65,6 +65,8 @@ A.(-)A=0
 4) D.F+G+A.(-)B
 5) 
 ---
+#### Starter
+
 A AND NOT A IS FALSE
 
 This is correct because A is TRUE and NOT A is FALSE. So an AND operation on a TRUE and FALSE will result in FALSE due to one of the inputs being FALSE.
@@ -73,14 +75,14 @@ This is correct because A is TRUE and NOT A is FALSE. So an AND operation on a T
 
 ### Absorption Laws
 
-If a term is ANDed or ORed to itself, then it is equivalent.
+- If a term is ANDed or ORed to itself, then it is equivalent.
 
 A + A.B = A
 A.(A+B) =A
 
 
 
-### Practice
+#### Practice
 
 C + C.D = C
 D + C.D.B = D
@@ -91,13 +93,20 @@ A.A+A.1+B.-B = A
 
 ### Distributive Laws
 
-Like mathematical algebra, you should expand brackets where needed.
+- Like mathematical algebra, you should expand brackets where needed.
 
-It is also possible to expand brackets in Boolean algebra expressions when an expression is ANDed with an expression enclosed in brackets.
+- It is also possible to expand brackets in Boolean algebra expressions when an expression is ANDed with an expression enclosed in brackets.
+
+- This can often help to simplify an expression (though sometimes it might not—just because you can expand brackets does not mean it is always right to do so.)
 
 A.(B+C) = (A.B) + (A.C)
 (A+B).(C+D) = (A.C) + (A.D) + (B.C) + (B.D)
 
+### Inverse Distributive Laws
+
+Also known as: **factoring**
+
+- In algebraic expressions you will have seen that sometimes an expression can be simplified by adding brackets, the same is true for boolean algebra.
 
 
 [Computer Science](/ComputerScience)

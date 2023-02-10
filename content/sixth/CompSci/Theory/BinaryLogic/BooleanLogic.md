@@ -121,10 +121,17 @@ A.(B+C+D)+A.
 ### DeMorgan's First Law
 
 ![[sixth/CompSci/Theory/img/Pasted image 20230210123806.png]]
+*Law 1 and Law 2 in a Venn diagram*
 ![[sixth/CompSci/Theory/img/Pasted image 20230210123833.png]]
 
 Therefore, N
 T A OR B is the same as NOT A AND NOT B
 
+
+### De Morgan's Second Law
+
+Essentially the inverse of the first law.
+
+Therefore, NOT A AND B is the same as NOT A OR NOT B
 
 [Computer Science](/ComputerScience)

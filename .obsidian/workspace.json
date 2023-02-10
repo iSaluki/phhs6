@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,12 +167,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edd08757f83708b3",
+  "active": "12f04770a927872b",
   "lastOpenFiles": [
     "content/sixth/Business/Units/nd/Labour.md",
     "content/sixth/Business/Units/fh/HumanResourceManagement.md",
     "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
-    "content/sixth/CompSci/Theory/BooleanLogic.md",
+    "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
     "content/sixth/Business/Units/fh/ExtendedMarketingMix.md",
     "content/sixth/Business/Units/fh/ExternalEnvironment.md",
     "content/sixth/Business/Units/fh/EconomicGrowth.md",

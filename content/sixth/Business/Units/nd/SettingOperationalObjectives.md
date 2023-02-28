@@ -45,7 +45,7 @@ Capacity is a dynamic concept, which may change based on certain factors. For ex
 
 Capacity utilisation is **the proportion of a business' capacity that is actually being used over a specific period.
 
-Capacityy utilisation can be calculated using the formula:
+Capacity utilisation can be calculated using the formula:
 
 #### Actual level of output / Maximum possible output x 100
 

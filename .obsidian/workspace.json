@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0808b1e8beac1969",
+            "id": "fe8a7ccade0c8513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/OrganisationalStructures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dfd8aaf26745a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BreakEvenAnalysis.md"
+                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dfd8aaf26745a7c",
+  "active": "fe8a7ccade0c8513",
   "lastOpenFiles": [
-    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
+    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/Untitled.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/Business/Units/fh/OrganisationalStructures.md"

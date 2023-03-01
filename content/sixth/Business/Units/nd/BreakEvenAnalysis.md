@@ -155,7 +155,12 @@ Planned output 25k
 (Break even is 20k, Planned output is 25k, 25k-20k=5k)
 
 ### Q3
+*Referencing graph*
 
+1) 4 units
+2) 0 units
+3) £76 - £56 = £26
+4) 
 
 
 

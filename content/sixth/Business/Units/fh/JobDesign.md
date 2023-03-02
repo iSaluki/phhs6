@@ -29,8 +29,18 @@ tags:
 - Retention of staff
 - Absenteeism
 
-## Hackman and Oldham - Job Characteristics Model
+## Hackman and Oldham—Job Characteristics Model
 
 - Employees will work much harder and better when they are rewarded for the work they do and when that work provides them with satisfaction. They will perform even better when they can see the relevance of the tasks.
+
+
+- Based on the belief that the **task itself is key** to motivation.
+	- Skill variety -> The more variation in tasks and their required skills, the more engagement will be gained from employees
+	- Task Identity -> A clear beginning and end to the task, with a clear overall description of the ask.
+	- Task Significance -> Whether the job or task has  a significant impact- either to the individual, the business or society overall. If the job is important then it has meaning so it is more engaging to the employee.
+	- Autonomy -> How much freedom is given to an individual to accomplish their tasks. What freedoms are they given over how they complete the task, when they complete the task and what decisions they can make.
+	- Job Feedback -> Employees are kept in the loop when it comes to their performance. They are told whether or not they are doing their job well, and if they are not they are given constructive criticism on how they can improve.
+
+
 
 [Business](/Business)

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe8a7ccade0c8513",
+            "id": "084c7efb07f7ba5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+                "file": "content/sixth/Business/Units/fh/JobDesign.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+                "file": "content/sixth/Business/Units/fh/JobDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+                "file": "content/sixth/Business/Units/fh/JobDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md"
+                "file": "content/sixth/Business/Units/fh/JobDesign.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8a7ccade0c8513",
+  "active": "084c7efb07f7ba5f",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
-    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
     "content/private/callouts.md",
+    "content/sixth/Business/Units/fh/JobDesign.md",
+    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
     "content/sixth/Business/Units/nd/Untitled.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/Business/Units/fh/OrganisationalStructures.md"

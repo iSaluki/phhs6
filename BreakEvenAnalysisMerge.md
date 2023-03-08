@@ -1,3 +1,9 @@
+---
+title: "Break Even Analysis"
+tags:
+- business
+---
+
 ## Break Even Analysis ##
 
 Breakeven tells you the number you have to produce and sell before you make a profit.
@@ -45,7 +51,7 @@ B.E = 40,000/ 6
  
  
  
- 
+ [Business](/Business)
  
  
  

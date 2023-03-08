@@ -1,3 +1,10 @@
+---
+title: "Human Resources Flow"
+tags:
+- business
+---
+
+
 ## Human Resource Flow ##
 
 the flow of employees through an organisation 
@@ -42,3 +49,5 @@ Tge 3 key elements of the human resource plan are:
 - increase wages
 - improve working conditions
 - lower tuiton fees for dentistry school
+
+[Business](/Business)

@@ -1,3 +1,9 @@
+---
+title: "Organic Fruit and Veg Business"
+tags:
+- business
+---
+
 ## Organic Fruit and Veg Business ##
 
 *calculate the marginal cost of producing one box of vegetables*
@@ -58,7 +64,7 @@ profit = 22500 - £20650 = £1850
 FIXED COSTS = £15900 - £1850 = £14050
 
 
-
+[Business](/Business)
 
 
 

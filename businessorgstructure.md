@@ -1,4 +1,11 @@
-## Business Organisational Structure ##
+---
+title: "Business Organisational Structure"
+tags:
+- business
+---
+
+
+## Business Organisational Structure
 
 an organisational structure shows how people and management are organised in business.
 
@@ -33,3 +40,6 @@ FLAT
 - AKA organistic, wide structure
 - flat hierarchy, wide s.o.c
 - delegation encouraged
+
+
+[Business](/Business)

@@ -22,7 +22,7 @@ Ventricle walls relax -> atrioventricular valves open
 
 ## Tachycardic ECG trace
 
-![[content/sixth/Biology/Circulatory/img/tachycardiac.png]]
+![[sixth/Biology/Circulatory/img/tachycardiac.png]]
 
 ## Effect of tachycardia on blood flow from heart
 

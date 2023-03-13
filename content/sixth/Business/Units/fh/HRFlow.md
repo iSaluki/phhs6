@@ -53,7 +53,7 @@ The 3 key elements of the human resource plan are:
 
 ---
 
-## Recap
+### Recap
 
 - Human Resource Flows
 	- Inflow—recruitment, induction
@@ -68,5 +68,15 @@ The 3 key elements of the human resource plan are:
 - Existing employees leave and need replacing
 - Business needs new employees with new skills
 - Business is relocating
+
+### Changes in employment patterns
+
+- More people working from home
+- More people working flexible hours
+- More part-time workers
+- Greater number of women looking to work
+- Ageing population
+- People rarely remain in the same job for life
+- Technology is enabling "teleworking".
 
 [Business](/Business)

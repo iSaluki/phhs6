@@ -48,6 +48,18 @@ Tge 3 key elements of the human resource plan are:
 
 - increase wages
 - improve working conditions
-- lower tuiton fees for dentistry school
+- lower tuition fees for dentistry school
+
+
+---
+
+## Recap
+
+- Human Resource Flows
+	- Inflow—recruitment, induction
+	- Internal flow—promotions, training, transfers, redeployment, demotions, reward appraisal
+	- Outflow—resignation, retirement, redundancy, dismissal
+- Human Resource Plan
+- 
 
 [Business](/Business)

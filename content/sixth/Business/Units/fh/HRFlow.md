@@ -77,6 +77,27 @@ The 3 key elements of the human resource plan are:
 - Greater number of women looking to work
 - Ageing population
 - People rarely remain in the same job for life
-- Technology is enabling "teleworking".
+- Technology is enabling “teleworking”.
+- More jobs exist in the tertiary sector now
+
+###  Workforce Planning
+
+- The workforce plan establishes what vacancies exist
+- Managers produce a job description and job specification for each post
+- Job description
+	- Detailed explanation of the roles and responsibilities of the post advertised
+	- Most applicants will ask for this before applying for the job
+	- Refers to the post available rather than the person
+
+### The Recruitment Process
+
+- Define requirements
+	- Job description
+	- Job specification
+- Attract potential employees
+	- Job advertising
+- Select the right people
+	- Job Interview
+	- Ability/Aptitude tests
 
 [Business](/Business)

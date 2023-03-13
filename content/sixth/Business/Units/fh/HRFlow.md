@@ -129,6 +129,15 @@ The 3 key elements of the human resource plan are:
 	- Recruitment agencies
 	- Headhunting
 	- Personal recommendation
+	- Advantages
+		- Outside people bring in new ideas
+		- Larger pool of workers from which to find best candidate
+		- People have a wider range of experience
+	- Disadvantages
+		- Longer process
+		- More expensive process due to advertisements and interviews required
+		- Selection process may not be effective enough to reveal best candidate
+
 
 
 [Business](/Business)

@@ -93,11 +93,30 @@ The 3 key elements of the human resource plan are:
 
 - Define requirements
 	- Job description
+		- Job title
+		- Reporting responsibilities
+		- Subordinates
+		- Main purpose
+		- Main tasks
+		- Employment conditions
 	- Job specification
 - Attract potential employees
 	- Job advertising
 - Select the right people
 	- Job Interview
 	- Ability/Aptitude tests
+
+
+### Recruitment Methods
+
+- Internal recruitment
+	- Jobs given to staff already employed by business
+	- Involves promotion and reorganisation
+- External recruitment
+	- Job centres
+	- Job advertisements
+	- Recruitment agencies
+	- Headhunting
+	- Personal recommendation
 
 [Business](/Business)

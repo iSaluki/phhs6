@@ -13,17 +13,17 @@ including:
 - the internal flow—what happens to them within the organisation
 - the outflow—when they eventually leave the organisation
 
-* The Inflow *
+### The Inflow
 
 Involves decisions about recruitment, selection and induction of new employees
 
-*The Internal Flow *
+### The Internal Flow
 
 Involves decisions about transfers, redeployment, promotions and demotions, training and development, evaluating employees' performance and rewarding them.
 The internal flow must be managed to ensure employees' skills and competencies are developed to meet organisational needs, while at the same time satisfying 
 employees' own career aspirations.
 
-* The Outflow *
+### The Outflow
 
 Involves decisions about when and how employees leave an organisation, including retirement, redundancy and dismissal.
 
@@ -34,7 +34,7 @@ The 3 key elements of the human resource plan are:
 - analysing present labour supply
 - balancing projected labour demand and supply
 
-* Stages in HRP *
+### Stages in HRP
 
 1) assessing the current workforce
 2) assessing the workforce needed in the future

@@ -112,11 +112,23 @@ The 3 key elements of the human resource plan are:
 - Internal recruitment
 	- Jobs given to staff already employed by business
 	- Involves promotion and reorganisation
+	- Advantages
+		- Cheaper
+		- Quicker
+		- People who know the business
+		- Motivates existing employees
+	- Disadvantages
+		- Business already knows strengths and weaknesses of candidates
+		- Limits number of potential applicants
+		- No new ideas from outside
+		- May cause resentment amongst candidates not appointed
+		- Creates another vacancy which needs to be filled
 - External recruitment
 	- Job centres
 	- Job advertisements
 	- Recruitment agencies
 	- Headhunting
 	- Personal recommendation
+
 
 [Business](/Business)

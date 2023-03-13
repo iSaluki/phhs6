@@ -32,7 +32,7 @@ tags:
 	- If appropriate look for a solution
 
 - Possible causes of variances
-	- Actions of competitiors
+	- Actions of competitors
 	- Internal inefficiency 
 	- Action of suppliers
 	- Changes in the economy
@@ -56,11 +56,11 @@ A budget is a **financial plan** for the future concerning the revenues and cost
 
 Budgets for sales/revenues and **expenditure** are prepared in advance and then compared with the actual performance to establish any **variances**.
 
-**Managers** are responsible for controllable costs within their budgets and are required to take remedial action if **adverse** variances arise and they are considered excessive.
+**Managers** are responsible for controllable costs within their budgets and are required to take remedial action if **favourable or adverse** variances arise, and they are considered excessive.
 
 There are many management uses for budgets. For example, budgets are used to:
 - Control income and expenditure (the **traditional** use)
-- Establish priorities and set **performance** in numerical terms
+- Establish priorities and set **targets** in numerical terms
 - Provide direction and co-ordination, so that business **objectives** can be turned into practical reality.
 - Assign responsibilities to budget holders (managers) and allocate **resources**.
 - Communicate targets from management to **employees**.
@@ -68,9 +68,9 @@ There are many management uses for budgets. For example, budgets are used to:
 
 #### Q2
 
-1) 
-2) Budget Variances
-3) 
+1) Variance Analysis
+2) Sales Revenue Budget
+3) Financial Forecast
 4) Adverse Variances
 
 
@@ -78,16 +78,18 @@ There are many management uses for budgets. For example, budgets are used to:
 
 1) False
 2) True
-3) False
+3) True
 
 
 #### Q4
 
 Sales discrepancy: £50,000
-Expenditure discrepancy: £11,000
+Expenditure discrepancy: -£11,000
 Profit budget: £255,000
 Actual profit: £294,000
-Profit discrepancy: -£39,000
+Profit discrepancy: -£39,000£255,000
+Actual profit: £294,000
+Profit discrepancy: £39,000
 
 #### Q5
 

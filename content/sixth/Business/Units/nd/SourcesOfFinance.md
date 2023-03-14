@@ -106,6 +106,30 @@ tags:
 	- Loss of control of original owners
 
 
+### Asset Disposal 
+
+- Selling an asset that is not vital to the core business to raise capital quickly
+
+- Advantages
+	- Quickly reduce the responsibility of the business
+	- Quickly gain working capital
+- Disadvantages
+	- Sacrifices part of the business
+	- May reduce ability to compete in future
+	- May reduce the size of your portfolio
+
+### Working Capital
+
+- Money that already exists within the business
+
+- Advantages
+	- The money is already avaliable 
+	- No agreements or repayments needed
+	- Quick
+- Disadvantages
+	- Requires the cash to already exist within the buisness
+	- Isn't guaranteed
+
 
 
 
@@ -163,7 +187,28 @@ tags:
 	- Possible high finance costs
 	- Excessive influence
 
+### Debentures
 
+- Long term loans made to a business
+- Fixed interest rate (%)
+- Repayable on a selected date
+
+- Advantages
+	- Very explicit, guidelines and times need meeting
+	- Fixed repayments 
+- Disadvantages
+	- Finance must be returned by a certain date 
+
+### Debt Factoring
+
+- Selling debts to a debt factoring company for a percentage of the full amount 
+
+- Advantages
+	- Quick return
+	- Works with potential bad customers, not repaying their debts to you
+- Disadvantages
+	- You don't get the full amount back
+	- Might damage reputation with customers
 
 
 [Business](/Business)

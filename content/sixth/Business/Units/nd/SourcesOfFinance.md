@@ -123,11 +123,11 @@ tags:
 - Money that already exists within the business
 
 - Advantages
-	- The money is already avaliable 
+	- The money is already available 
 	- No agreements or repayments needed
 	- Quick
 - Disadvantages
-	- Requires the cash to already exist within the buisness
+	- Requires the cash to already exist within the business
 	- Isn't guaranteed
 
 

@@ -26,10 +26,43 @@ External recruitment would lead to new people appearing higher up in the store's
 	- Employers approach the agency for shortlists of potential candidates
 - Recruitment agencies charge a fee for the service
 	- Main fee is to the employer
-	- Usually a percentage of employee's wages and salary in the first 6-12 months
+	- Usually a percentage of employee's wages and salary in the first 6–12 months
 	- Often an expensive option
+- Some agencies specialise in particular employment areas
 
 
+## What  to consider when advertising
 
+- Type of job
+	- Senior management jobs merit adverts in the national newspapers and/or specialist management magazines
+	- Many semi-skilled jobs need only be advertised locally to get sufficient candidates
+- Cost of advertising
+	- National newspapers and television cost significantly more than local newspapers
+- Readership and circulation
+	- How many relevant people does the publication reach?
+
+## The Shortlist
+
+- Long list => Total pool of applicants
+- Shortlist => Small number of suitable applications that meet the job criteria
+- Should be drawn up by 2 people working independently
+- Import not to only include "perfect" or "ideal" candidates
+
+### Selection Tests
+
+- Formats
+	- Aptitude tests
+	- Intelligence tests
+	- Personality tests
+- Why
+	- Basic interview can be unreliable as applicants can perform well at interview but not have qualities or skills needed for the job
+
+## References
+
+- Written character statements from people who know the applicant well
+- An important safety check
+- A chance to learn more about the strengths and weaknesses of an applicant
+- Final check that all information given by candidate is correct
+- Good honest reference from an independent source can also reveal good or bad incidences from candidate's past or particular traits that may have been missed.
 
 [Business](/Business)

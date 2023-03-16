@@ -65,4 +65,11 @@ External recruitment would lead to new people appearing higher up in the store's
 - Final check that all information given by candidate is correct
 - Good honest reference from an independent source can also reveal good or bad incidences from candidate's past or particular traits that may have been missed.
 
+---
+
+**Motivation** → The will or desire to do something
+
+
+
+
 [Business](/Business)

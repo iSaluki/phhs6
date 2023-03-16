@@ -63,6 +63,24 @@ Broadcast address x.x.x.255
 
 ![[sixth/CompSci/Theory/Networking/img/Pasted image 20230316105337.png]]
 
+## Classless Addressing
+
+- In classless addressing, an IP address has an 8-bit suffix that specifies the number of bits allocated for network ID.
+- For example, if the 8-bit suffix represents the number 14 and the remaining 18 bits represent the host ID.
+- For example, 172.45.9.3/14 is represented in binary as given. 
+
+## Subnet masking
+
+- A subnet mask is used to identify the two parts of an IP address.
+- For example, a subnet mask 255.0.0.0 represents a network ID of 8 bits and a host ID of 24 bits. This is equivalent to a suffix /8 in classless addressing. (CIDR)
+- When AND operation is performed between an IP address and its subnet mask, its network ID is obtained.
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230316110106.png]]
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230316110304.png]]
+
+
+
 
 
 [Computer Science](/ComputerScience)

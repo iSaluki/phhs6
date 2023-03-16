@@ -55,7 +55,13 @@ Broadcast address x.x.x.255
 - fc00:bbbb:bbbb:bb01::34:4e8e
 
 
+## Classful Addressing
 
+- Initially, a network consisted of different classes
+- Each class has a different structure of addressing
+- Consider a large organisation; it will require class A addressing. In a single network, 2^24 hosts can be used. In total, only 2^7 such organisations can be addressed.
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230316105337.png]]
 
 
 

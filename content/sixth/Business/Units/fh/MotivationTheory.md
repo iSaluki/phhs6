@@ -43,7 +43,7 @@ tags:
 	- Annual salary paid monthly
 - Bonuses
 	- Paid when certain targets have been achieved
-- Comission
+- Commission
 	- Staff paid according to the number or value of products they sell
 - Fringe benefits
 	- Often known as perks, additional benefits to working at the business.
@@ -68,5 +68,33 @@ tags:
 	- Providing a safe, clean, comfortable environment to work in
 - Team working
 	- Provide opportunities to work in teams
+
+## Motivational Theorists
+
+### Taylor
+
+- Scientific management
+- Everybody is motivated by money
+
+### Mayo
+
+- Human relations management
+- Hawthorne effect
+
+### Maslow
+
+- Hierarchy of needs
+
+### Herzberg
+
+- Two-factor theory
+- Motivators
+- Hygiene or maintenance factors
+
+### McGregor
+
+- McGregor theories X and Y
+
+
 
 [Business](/Business)

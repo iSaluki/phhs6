@@ -35,6 +35,38 @@ tags:
 - Company gets a better reputation
 - Lower training and recruitment costs
 
+## Main financial incentives at work
 
+- Wages
+	- Paid per hour worked
+- Salaries
+	- Annual salary paid monthly
+- Bonuses
+	- Paid when certain targets have been achieved
+- Comission
+	- Staff paid according to the number or value of products they sell
+- Fringe benefits
+	- Often known as perks, additional benefits to working at the business.
+		- Free meals
+		- Company car
+		- Private health insurance
+		- etc
+
+## Main non-financial incentives to support motivation
+
+- Empowerment
+	- Delegating responsibility to employees
+- Praise
+	- Recognition for good work
+- Promotion
+	- Promoting staff to a position of higher responsibility
+- Job Enrichment
+	- Giving staff more challenging and interesting tasks
+- Job Enlargement
+	- Giving employees more tasks of similar levels of complexity
+- Working environment
+	- Providing a safe, clean, comfortable environment to work in
+- Team working
+	- Provide opportunities to work in teams
 
 [Business](/Business)

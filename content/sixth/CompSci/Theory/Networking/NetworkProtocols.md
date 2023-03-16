@@ -80,6 +80,37 @@ Broadcast address x.x.x.255
 ![[sixth/CompSci/Theory/Networking/img/Pasted image 20230316110304.png]]
 
 
+## Public and private
+
+### Private
+- These addresses need not be registered on the internet registry.
+- Private addressing for internal networks saves unique IPv4 addresses that can be used for routers and web servers that connect to the internet daily.
+
+### Public
+
+- Some public IP addresses are also identified using domin names.
+- A DNS server translates the domain name to an IP address.
+
+## Static and Dynamic addressing
+
+
+### Static Addressing
+
+- Static IP addresses are assigned by the network administrator. When the device is in use, this address remains unused.
+
+### Dynamic IP Addressing
+
+- An IP addressing can be used when the device is not used.
+- The protocol responsible for this is dynamic host control protocol (DHCP)
+
+## Dynamic Host Control Protocol (DHCP)
+
+- DHCP also provides subnet masks and other automatic configuration details. This eliminates the problem of manual configuration.
+- Takes care of frequent changes in an IP address
+- Allocates private addresses within an internal network
+
+
+
 
 
 

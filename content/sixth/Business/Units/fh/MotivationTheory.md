@@ -93,7 +93,22 @@ tags:
 
 ### McGregor
 
-- McGregor theories X and Y
+- McGregor's theories X and Y
+
+### Drucker
+
+- Importance of objectives
+
+### Peters
+
+- Involving employees
+- Recognising champions
+
+## Maslow's Hierarchy of Needs
+
+- Five levels of human needs which employees need to have fulfilled at work
+- Only once a lower level of need has been fully met, a worker would be motivated by the opportunity of having the next need up in the hierarchy satisfied
+- A business should therefore offer different incentives to workers in order to help them fulfil each need in turn and progress up the hierarchy
 
 
 

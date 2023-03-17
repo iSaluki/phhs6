@@ -114,7 +114,6 @@ tags:
 
 ### Physiological
 
-- Wages
 - Food
 - Rest/sleep
 
@@ -141,6 +140,31 @@ tags:
 
 - Advancement
 - Empowerment+
+
+## Taylor's Scientific Management Activity Worksheet
+
+- Frederick Winslow Taylor 
+- Taylorism
+- Motivated by pay
+- Science can be used to increase efficiency
+- Workers given one task to master
+- “In the past, the man has been first. In the future, the system must be first.”
+- “One best way” to do a task
+
+
+### Key concepts of scientific management theory
+
+- Standardised approach to optimising work for a more efficient workforce
+- Time and motion study analysing tasks & finding the quickest way of completing tasks
+- Workers did not have to be skilled just highly productive at one job
+- After finding the “one best way” employees then need to be motivated to work in that way
+- This could be done by increased pay for productive workers & firing ineffective workers -> Piece rate pay
+
+### Time and motion study
+
+- "Speedee system" at McDonald's 
+- Tasks broken down into small jobs
+
 
 
 [Business](/Business)

@@ -112,6 +112,35 @@ tags:
 
 ![[sixth/Business/Units/fh/img/Pasted image 20230317104534.png]]
 
+### Physiological
+
+- Wages
+- Food
+- Rest/sleep
+
+### Safety
+
+- Safe working environment 
+- Warmth
+- Job Security
+- Praise
+- Training
+
+### Love/Belonging
+
+- Teamwork
+- Friendship
+
+### Self Esteem
+
+- Empowerment
+- Respect By Others
+- Recognition
+
+### Self-actualization
+
+- Advancement
+- Empowerment+
 
 
 [Business](/Business)

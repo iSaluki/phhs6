@@ -110,6 +110,50 @@ Broadcast address x.x.x.255
 - Allocates private addresses within an internal network
 
 
+- Broadcast to all DHCP servers requesting an IP
+- A DHCP server offers an IP for a particular duration
+- Broadcasts a message confirming the request for IP
+- DHCP server that offered the IP address sends an acknowledgement and assigns the DHCP client the IP address.
+
+## Port Numbers
+
+- A port number is a 16-bit number attached to the  IP address that is used to identify a process or application on a computer
+- Using this number, an application running in the client system is accessed.
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230317121301.png]]
+
+*I am familiar with ports, so some information has been omitted.*
+
+## NAT—Network Address Translation
+
+- A network address translator provides external access to a privately addressed network as shown in the figure.
+- 1 public IP is shared between all private IPs.
+- Adds a layer of security 
+- Private IP addresses are not available to external servers
+- Router tracks requests and reassigns them to the appropriate host
+- Port numbers are assigned with a specific time frame
+
+## Port Forwarding
+
+- Port forwarding is an application of NAT where port mappings are explicitly defined, allowing you to talk to services behind non-standard ports.
+
+
+## TCP/IP 
+
+- TCP/IP is a suite of communication protocols used to interconnect network devices of different manufacturers on the internet.
+
+- Source -> Sender of the message
+- Destination -> Receiver of the message
+- Packet sequence -> The order of the message in which it should be reassembled
+- Data -> Contents of the message
+- Error checking -> Bits to make sure that the message has been received correctly
+
+## User Datagram Protocol (UDP)
+
+- A protocol similar to TCP but operates at a faster rate
+- UDP: message is sent in the form of chunks or called datagrams
+- TCP: message is sent as segments
+- Used for gaming and video calling over the internet
 
 
 

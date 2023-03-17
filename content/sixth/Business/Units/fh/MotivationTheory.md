@@ -110,6 +110,8 @@ tags:
 - Only once a lower level of need has been fully met, a worker would be motivated by the opportunity of having the next need up in the hierarchy satisfied
 - A business should therefore offer different incentives to workers in order to help them fulfil each need in turn and progress up the hierarchy
 
+![[sixth/Business/Units/fh/img/Pasted image 20230317104534.png]]
+
 
 
 [Business](/Business)

@@ -148,12 +148,39 @@ Broadcast address x.x.x.255
 - Data -> Contents of the message
 - Error checking -> Bits to make sure that the message has been received correctly
 
+
 ## User Datagram Protocol (UDP)
 
 - A protocol similar to TCP but operates at a faster rate
 - UDP: message is sent in the form of chunks or called datagrams
 - TCP: message is sent as segments
 - Used for gaming and video calling over the internet
+
+## HTTP
+
+### CRUD
+
+C -> Create -> POST
+R -> Read -> GET
+U -> Update -> PUT
+D -> Delete -> DELETE
+
+## Email Communications: SMTP, POP3, IMAP
+
+### SMTP
+
+- Send emails
+
+### POP3
+
+- Retrieve mail from server
+- Delete mail from server
+
+### IMAP
+
+- Retrieve message from server
+- Leave mail on the remote server
+
 
 
 

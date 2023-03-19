@@ -12,4 +12,8 @@ The Eden Project produced a large, detailed budget based on information that the
 
 As they managed to ensure their budgeting was accurate, they reduced the budget variance, meaning that they didn't need to take drastic actions to ensure that they had enough money to complete the project.
 
+Although their budget did have variances in it, they quickly disclosed these to the Millennium Commission which agreed to cover some of the additional costs of the project. Had detailed budgeting guidance not been given, then it might not have been possible for additional funding to be released, because the required sums of money were in the millions, they needed to justify the expenditure properly.
+
+Sales were much higher than expected, meaning that funds could be gained to finalise the project without the need for investments from third-party organisations.
+
 [Business](/Business)

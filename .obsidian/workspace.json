@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/JobDesign.md",
+                "file": "content/sixth/Business/Units/nd/EdenProjectQ6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/JobDesign.md",
+                "file": "content/sixth/Business/Units/nd/EdenProjectQ6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/JobDesign.md",
+                "file": "content/sixth/Business/Units/nd/EdenProjectQ6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/JobDesign.md"
+                "file": "content/sixth/Business/Units/nd/EdenProjectQ6.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "084c7efb07f7ba5f",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "content/sixth/Business/Units/nd/Untitled.canvas",
+    "content/sixth/Business/Units/nd/EdenProjectQ6.md",
     "content/sixth/Business/Units/fh/JobDesign.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
     "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
     "content/sixth/Business/Units/nd/Untitled.md",

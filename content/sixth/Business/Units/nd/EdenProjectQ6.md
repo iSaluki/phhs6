@@ -16,7 +16,7 @@ Although their budget did have variances in it, they quickly disclosed these to 
 
 Sales were much higher than expected, meaning that funds could be gained to finalise the project without the need for investments from third-party organisations.
 
-Whilst the project would probably still have been *possible* without a comprehensive budget, they would likely have struggled with gaining and managing finances much more, leading to reduced efficiency. With only a 16% increase from the expected budget to the actual budget, The Eden Project was successful in their budget management with an incredibly good capital budget for a project of that size.
+Whilst the project would probably still have been *possible* without a comprehensive budget, they would likely have struggled with gaining and managing finances much more, leading to reduced efficiency. With only a 16% increase from the expected budget to the actual budget, The Eden Project was successful in their budget management with an incredibly good capital budget management for a project of that size.
 
 
 

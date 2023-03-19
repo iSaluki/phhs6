@@ -3,16 +3,13 @@ title: "Home"
 description: "Landing page"
 ---
 
-Welcome to my digital garden! 🍓
-
-This site is primarily used to host school work for sixth form, however may host anything that I end up using it for—including possible blog posts and experiments.
+This site hosts various work I do openly, with the intention of creating an easily accessible, free knowledgebase.
 
 My biology work is not done here primarily, so it is copied up after being done in batches. This may result in significant delays.
 
- If you wish to use any content from my website for anything other than strictly educational use, then please contact me first - I don't have absolute rights to everything here.
+Content on this site may not all be owned or produced by me, and is hosted here under fair use. If you have the rights to any content here and wish to have it altered or removed, then please contact me to request this.
 
-
-The accuracy of the information on the site cannot be fully guaranteed. I do my best but as I am learning these subjects some inaccuracies are inevitable. If you notice something, please let me know or submit a correction on GitHub. 
+The accuracy of the information on the site cannot be fully guaranteed. I do my best but as I am learning these subjects some inaccuracies are inevitable. If you notice something, please let me know or submit a correction on GitHub. I will appreciate any feedback.
 
 
 # Subjects

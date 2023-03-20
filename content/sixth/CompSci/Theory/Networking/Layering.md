@@ -43,7 +43,13 @@ tags:
 ### Link Layer
 
 - Link layer deals with the physical connectivity between sender and receiver.
-- The Network Interface Card (NIC) of any device is uniquely identified using it's MAC address.
+- The Network Interface Card (NIC) of any device is uniquely identified using its MAC address.
 - Link layer adds the MAC address of the sender and the receiver to the network address.
 - Now the data is streamed to the correct hardware device.
 - This layer is also responsible for error detection, hardware addressing, media access control and defining physical layer standards.
+
+## Encapsulation of data
+
+- Each layer of the TCP/IP stack adds information to the data. This is called encapsulation.
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230320101342.png]]

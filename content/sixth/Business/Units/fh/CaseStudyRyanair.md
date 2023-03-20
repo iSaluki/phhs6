@@ -2,6 +2,7 @@
 title: "Case Study: Ryanair"
 tags:
 - business
+- casestudy
 ---
 
 2) The physical environment that Ryanair provides are cut right back to reduce the costs on Ryanair. Whilst this does offer customers very competitive prices. Many customers will expect additional service to be provided, however Ryanair either does not provide these at all or uses them as an opportunity to charge an additional fee.

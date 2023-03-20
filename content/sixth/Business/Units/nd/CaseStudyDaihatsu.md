@@ -3,6 +3,7 @@ title: "Case Study: Daihatsu"
 tags:
 - business
 - homework
+- casestudy
 ---
 
 ## To what extent is cutting prices a good way for any business to respond to a fall in the overall capacity utilization in its industry? (16m)

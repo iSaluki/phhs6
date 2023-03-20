@@ -3,6 +3,7 @@ title: "Case Study: Passion For Quality"
 tags:
 - business
 - homework
+- casestudy
 ---
 
 ## Analyse why Sarah wants to introduce a system of quality assurance into the business? (9m)

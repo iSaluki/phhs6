@@ -2,6 +2,7 @@
 title: "Case Study: New Frontiers Travel launch new pick n mix service aimed at rejuvenating the package holiday market"
 tags:
 - business
+- casestudy
 ---
 
 1) New Frontiers Travel have not made any changes to their offerings for a while, however the market in which the exist has evolved significantly. With the rise of the internet new businesses have opened up to provide customers with more convenience and flexibility than what New Frontiers can offer. With increased internet access and usage potential customers have been increasingly looking for more competitive options or booking their holidays themselves, because the people offering travel and accommodation have also moved onto the internet. For a company like New Frontiers, this means that their business model is not going to hold up as it is, and they need to make modifications to their strategy to adapt to this new business landscape. 

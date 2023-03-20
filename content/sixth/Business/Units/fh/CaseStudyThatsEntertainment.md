@@ -2,6 +2,7 @@
 title: "Case Study: That's Entertainment"
 tags:
 - business
+- casestudy
 ---
 
 

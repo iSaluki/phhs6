@@ -2,6 +2,7 @@
 title: "Case Study: Kentmere Paper Mill"
 tags:
 - business
+- casestudy
 ---
 
 ## Analyse the ways in which the Operations Manager could increase capacity utilisation at KPM in the next year (9 marks)

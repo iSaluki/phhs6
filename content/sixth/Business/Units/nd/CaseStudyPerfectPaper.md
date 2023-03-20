@@ -3,6 +3,7 @@ title: "Case Study: Perfect Paper Plc"
 tags:
 - business
 - homework
+- casestudy
 ---
 
 ## With reference to the Tannenbaum Schmidt continuum and Blake Mouton Grid, analyze what type of manager Jayne is. (9m)

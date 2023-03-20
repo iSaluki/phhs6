@@ -2,6 +2,7 @@
 title: "Case Study: Miyagi Motors"
 tags:
 - business
+- casestudy
 ---
 ## Prep
 ### Demographic

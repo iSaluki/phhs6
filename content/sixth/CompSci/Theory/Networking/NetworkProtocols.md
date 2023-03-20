@@ -182,6 +182,22 @@ D -> Delete -> DELETE
 - Leave mail on the remote server
 
 
+## SSH (Secure Shell Protocol)
+
+- Remotely access a terminal on another computer through a text interface
+- SSH is used by network administrators and developers
+
+- Typically runs on port 22
+
+## FTP (File Transfer Protocol)
+
+- FTP defines the set of rules for transferring large files on the Internet
+- The files required for a website are organised on a web server using this protocol.
+- Users may have private access to upload the files. Other users may be given access to download these files.
+
+## VoIP (Voice over Internet Protocol)
+
+- A set of protocols that enable you to make voice calls over the internet using UDP.
 
 
 

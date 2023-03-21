@@ -226,7 +226,7 @@ Hygiene factors should be met before motivational factors.
 | Relationships      | 🗸              |                     | Create connections between people              |
 | Policies           | 🗸              |                     | Fair policies to keep things in order          |
 | Meaningful Work    | 🗸              |                     | Making an impact                               |
-| Recognition        |                | 🗸                   | Being seen to make a difference                |
+| Recognition        |🗸                |                    | Being seen to make a difference                |
 
 #### Assessment of the importance of hygiene factors in terms of employee satisfaction
 

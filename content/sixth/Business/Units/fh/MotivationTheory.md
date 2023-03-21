@@ -180,8 +180,62 @@ tags:
 
 - Pay workers based on productivity (ie, piece rate)
 
+## Taylor in the modern world
+
+- Amazon was heavily criticised for their piece rate approach in their warehouses.
+- They have made some improvements, but are still not regarded as a good employer.
 
 
+## Herzberg's Theory of Motivation
+
+- Believed in a two-factor theory
+
+### Worksheet
+
+#### Summary of the Two Factor theory of motivation
+
+- Hygiene Factors
+	- Won't make employees work harder
+	- Causes dissatisfaction is not present
+	- Examples
+		- Job Security
+		- Status
+		- Relationships
+		- Salary
+		- Conditions
+		- Policies
+- Motivation Factors
+	- Make employees work harder if present
+	- Increases satisfaction
+	- Examples
+		- Growth
+		- Advancement
+		- Varied work
+		- Recognition
+
+
+Hygiene factors should be met before motivational factors.
+
+#### Hygiene or Motivational Factor
+
+|                    | Hygiene Factor | Motivational Factor | Explain                                        |
+|--------------------|----------------|---------------------|------------------------------------------------|
+| Fair pay           | 🗸              |                     | Needed to ensure people feel respected         |
+| Growth             |                | 🗸                   | Helps people to feel like they are progressing |
+| Career Advancement |                | 🗸                   | Feel like they are moving up in the hierarchy  |
+| Relationships      | 🗸              |                     | Create connections between people              |
+| Policies           | 🗸              |                     | Fair policies to keep things in order          |
+| Meaningful Work    | 🗸              |                     | Making an impact                               |
+| Recognition        |                | 🗸                   | Being seen to make a difference                |
+
+#### Assessment of the importance of hygiene factors in terms of employee satisfaction
+
+- Without hygiene factors, employees cannot be properly satisfied at work because they are looking to meet minimum expectations of the job
+- With hygiene factors, employees will feel like the job is at least meeting the bare minimum
+
+#### Suggest whether hygiene factors are more important than the motivational factors
+
+- Motivational factors have the largest observable difference, however hygiene factors are required for the employees 
 
 
 [Business](/Business)

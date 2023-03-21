@@ -235,7 +235,11 @@ Hygiene factors should be met before motivational factors.
 
 #### Suggest whether hygiene factors are more important than the motivational factors
 
-- Motivational factors have the largest observable difference, however hygiene factors are required for the employees 
+Motivational factors have the largest observable difference, however hygiene factors are required for the employees to feel like their basic requirements are being met. It is no good employees having loads of benefits if they are still isolated from each other in grey cubicles all day, because they will never have the relationship aspect of hygiene.
+
+#### Argument as to whether Herzberg's two theory motivational factor works
+
+...
 
 
 [Business](/Business)

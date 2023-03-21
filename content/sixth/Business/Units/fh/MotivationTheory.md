@@ -150,6 +150,7 @@ tags:
 - Workers given one task to master
 - “In the past, the man has been first. In the future, the system must be first.”
 - “One best way” to do a task
+- Managers maintain close control and supervision
 
 
 ### Key concepts of scientific management theory
@@ -158,12 +159,28 @@ tags:
 - Time and motion study analysing tasks & finding the quickest way of completing tasks
 - Workers did not have to be skilled just highly productive at one job
 - After finding the “one best way” employees then need to be motivated to work in that way
-- This could be done by increased pay for productive workers & firing ineffective workers -> Piece rate pay
+- This could be done by increased pay for productive workers & firing ineffective workers → Piece rate pay
 
-### Time and motion study
 
-- "Speedee system" at McDonald's 
-- Tasks broken down into small jobs
+## Taylor's Approach to Management
+
+### Work Study
+
+- Identify the most efficient methods of production
+
+### Identify
+
+- Spot the most efficient worker and identify why they are so good
+
+### Train
+
+- Train the remaining workers to work like the best
+
+### Reward
+
+- Pay workers based on productivity (ie, piece rate)
+
+
 
 
 

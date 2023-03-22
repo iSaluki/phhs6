@@ -20,10 +20,12 @@ Ventricle walls start to contract -> Walls of atria contract
 
 Ventricle walls relax -> atrioventricular valves open
 
+ = CEAB
+
 ## Tachycardic ECG trace
 
 ![[sixth/Biology/Circulatory/img/tachycardiac.png]]
-
+✔
 ## Effect of tachycardia on blood flow from heart
 
 - More blood will exit the heart over any specific period of time

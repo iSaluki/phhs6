@@ -293,4 +293,6 @@ Mayo's social factors are definitely an important piece in the puzzle of motivat
 
 Taylorism focuses mainly on the financial side of things and ensures that employees are paid competitively.  However, Taylorism treats employees more mechanically like a machine whereas Mayo's social factors focus more heavily on the human aspect and allow employees to establish more meaningful links between each other. Therefore, I would personally prefer Mayo's social factors, but I would understand why others may choose Taylorism.
 
+
+
 [Business](/Business)

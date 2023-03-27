@@ -52,4 +52,5 @@ They were able to gain share capital by selling shares to venture capitalists, a
 
 
 
+
 [Business](/Business)

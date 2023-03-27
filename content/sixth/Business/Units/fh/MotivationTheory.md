@@ -241,5 +241,38 @@ Motivational factors have the largest observable difference, however hygiene fac
 
 ...
 
+---
+
+## Mayo's Human Relations School
+
+### Mayo's Theory of motivation
+
+- Motivation was much more complex than being solely influenced than money
+- Initially believes physical factors made an impact on employee motivation
+
+- Performed the Hawthorne Experiment
+
+### What made him change this mind?
+
+- Hawthorne Experiment
+	- Seperated workers into two teams
+	- Altered working conditions of both teams
+		- Increased a physical factor such as light in one team, reduced in another
+		- Analysed results
+	- Found that employee motivation improved or stayed the same in worse physical environments.
+
+- Conclusion
+	- Social factors made an impact on motivation much more than physical factors
+	- Participants productivity increased when they felt valued and appreciated
+	- Positive relationships betwene managers and employees were found to be key
+
+
+
+### 3 pros and 3 cons of the human relations theory of motivation
+
+
+### Do you agree with this theory of motivation? 
+
+### Personally, do you prefer Taylorism or Mayo's social factors?
 
 [Business](/Business)

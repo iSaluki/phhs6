@@ -266,13 +266,31 @@ Motivational factors have the largest observable difference, however hygiene fac
 	- Participants productivity increased when they felt valued and appreciated
 	- Positive relationships betwene managers and employees were found to be key
 
+- Hawthorne's social factors lead to the creation of Human Resources. 
+- Term "Hawthorne Effect" used to describe how relations with managers increases result in productivity increases
+	- Some dispute the size of the impact
 
 
 ### 3 pros and 3 cons of the human relations theory of motivation
 
 
+- Pros
+	- Encourages positive workplace relationships
+	- Individual needs of employees are noticed
+	- Social factors help to increase the morale, retention, motivation and productivity of employees
+- Cons
+	- Unscientific approach and original findings lack sufficient supportive evidence
+	- Ignores the potential impact of conflict
+	- Oversimplifies human behaviour
+		- Assumes a satisfied worker will automatically be a productive worker
+
+
 ### Do you agree with this theory of motivation? 
 
+Mayo's social factors are definitely an important piece in the puzzle of motivation theory. Alone, they would not be enough to motivate employees, but I believe that if they are combined with several other approaches such as Herzberg's hygiene and motivation factors and Taylorism. The combination of these different theories would enable the spread of benefits to the employees to cover a wide enough range of needs that everyone should be sufficiently motivated to work at what is *at least* an acceptable level. 
+
 ### Personally, do you prefer Taylorism or Mayo's social factors?
+
+Taylorism focuses mainly on the financial side of things and ensures that employees are paid competitively.  However, Taylorism treats employees more mechanically like a machine whereas Mayo's social factors focus more heavily on the human aspect and allow employees to establish more meaningful links between each other. Therefore, I would personally prefer Mayo's social factors, but I would understand why others may choose Taylorism.
 
 [Business](/Business)

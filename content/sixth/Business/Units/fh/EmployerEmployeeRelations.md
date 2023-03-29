@@ -39,9 +39,36 @@ tags:
 
 ### Drawbacks
 
-- Time-consuming and potentially slows decision making
+- Time-consuming and potentially slows decision-making
 - Conflicts between employer and employee interests may be a block to essential change
 - Managers may feel their authority is being undermined
+
+## Trade Unions
+
+### Main Role
+
+- Protect and improve the real incomes of their members
+- Provide or improve job security
+- Protect workers against unfair dismissal and other issues relating to employment legislation
+- Lobby for better working conditions
+- Offer a range of work-related services including support for people claiming compensation for injuries sustained in a job
+
+### Two main functions of a trade union
+
+#### Represent
+
+- To represent and protect the interest of the employees
+
+#### Negotiate
+
+- Negotiate on behalf of employees with employer
+
+### Advantages for an employer having a good relationship with a trade union
+
+- Negotiating with trade unions saves time and cost rather than dealing with all employees individually
+- Unions are part of the communication process between the business and employees
+- Employee morale and motivation may be improved if they know that their interests are being protected by a union
+- The trade union can be a supportive partner in helping a business undergo significant change
 
 
 

@@ -39,7 +39,12 @@ tags:
 - A USB device has four pins
 - Two pins are responsible for connecting wires, which carry the power and ground connection
 - The two other pins connect the wires that transfer data
-- Hence te cable used to connect two USB ports is a four-wire shielded cable.
+- Hence the cable used to connect two USB ports is a four-wire shielded cable.
+
+- USB devices are detected by a computer due to a small change in voltage from the device being connected.
+- Computer determines the specifications of the USB device
+- Computer loads the appropriate driver to communicate with the device
+
 
 
 [Computer Science](/ComputerScience)

@@ -60,7 +60,8 @@ The higher the baud rate the faster the data is sent/received.
 
 ### Bandwidth
 
-- The network may cease to operate or incur additional charges if bandwidth limits are exceeded over a period. 
+- The amount of data that can be transmitted through a communication channel.
+- Bandwidth = upper frequency - lower frequency
 
 ### Bit rate
 
@@ -68,16 +69,21 @@ The higher the baud rate the faster the data is sent/received.
 
 ### Baud rate
 
-- Higher baud rate results in higher speeds
+- Higher baud rate results in higher speeds.
+- The baud rate is the number of times per second that the electronic state of a channel can change.
+
+- Bit rate = baud rate x number of bits per signal
 
 ### Simplex
 
 - Faster but less reliable
+- Simplex is one way transmission
 
 ### Duplex
 
 - Slightly slower but more reliable
-
+- Data can flow in both directions at once
+- 
 
 ## ADSL—Why do you never get advertised speeds?
 

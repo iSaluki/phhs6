@@ -31,7 +31,7 @@ Context hooks: Vital contextual information: i.e., “lowest cost”, “competi
 Evaluation hook: all businesses
 Context hooks: motivation, managers, employees
 
-"To what extent"
+“To what extent”
 
 
 2x PeCAn PiE paragraphs:
@@ -41,6 +41,6 @@ Context hooks: motivation, managers, employees
 	- Ongoing evaluation: This leads to them retaining their reputation as a fast mobile phone supplier, meaning that customers will be more likely to buy from them in future. In addition, employees get the benefit of being paid extra for hard work, rather than a standard rate regardless.
 - Point included evaluation: Taylorism focuses on people being motivated by money, and allows for a company like Nari to focus more heavily upon meeting numerical targets. It enables the production of [...]
 
-
+**Focus:** Continuous evaluation
 
 [Business](/Business)

@@ -13,6 +13,11 @@ tags:
 - If a loop is entered, move down a row
 - Follow the program based on the values in the trace table once relevant
 
+> [!info] Feedback
+>
+>Mostly done on test
+
+
 
 
 

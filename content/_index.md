@@ -3,7 +3,7 @@ title: "Home"
 description: "Landing page"
 ---
 
-This site hosts various work I do openly, with the intention of creating an easily accessible, free knowledgebase.
+This site hosts various work I do openly, with the intention of creating an easily accessible, free knowledgebase. Although please do keep in mind that this site is primarily intended for my personal use.
 
 My biology work is not done here primarily, so it is copied up after being done in batches. This may result in significant delays.
 

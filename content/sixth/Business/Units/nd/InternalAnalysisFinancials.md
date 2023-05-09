@@ -50,5 +50,7 @@ OT → External
 - Sole trader, private limited company, public limited company
 - Gross profit, gross profit margin, net profit, net profit margin
 
+![[sixth/Business/Units/nd/img/Pasted image 20230509100900.png]]
+*Example income statement*
 
 [Business](/Business)

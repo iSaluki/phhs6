@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08211dac17b44207",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png"
+              }
+            }
           }
         ]
       }
@@ -156,8 +166,10 @@
   },
   "active": "1a534fd30292baba",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/ExamFeedback.md",
+    "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
+    "content/2023-05-09.md",
+    "content/sixth/CompSci/Theory/ExamFeedback.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/private/callouts.md",

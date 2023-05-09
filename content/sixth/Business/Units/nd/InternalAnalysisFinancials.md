@@ -43,5 +43,12 @@ OT → External
 	- Income statements
 	- Balance sheets
 
+## Income Statements
+
+- Profit and loss accounts
+- Historical record of the income and expenditure over a period of time (typically the preceding year or quarter)
+- Sole trader, private limited company, public limited company
+- Gross profit, gross profit margin, net profit, net profit margin
+
 
 [Business](/Business)

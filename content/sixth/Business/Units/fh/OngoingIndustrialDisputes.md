@@ -35,6 +35,7 @@ tags:
 
 - Amazon are ignoring the employees
 - Poor conditions & pay
+- Loss of benefits (ie, shares)
 - An algorithm measures a secret performance metric which workers are held to
 
 #### Who is striking?

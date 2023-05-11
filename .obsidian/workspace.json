@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md"
+                "file": "content/sixth/CompSci/Theory/Networking/DataTransmission.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "1a534fd30292baba",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
+    "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelations.md",
     "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",

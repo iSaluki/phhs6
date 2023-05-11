@@ -45,6 +45,51 @@ tags:
 - Computer determines the specifications of the USB device
 - Computer loads the appropriate driver to communicate with the device
 
+---
+
+### Error-checking methods
+
+- When data is transmitted through a channel, it could get corrupted or changed by electric fields or dirty equipment
+- Hence, it is very important to implement error checking method sin computer technology.
+- These methods are used to detect and correct errors:
+	- Automatic Repeat Request (ARQ)
+	- Parity Checking
+	- Majority Voting
+	- Checksum
+	- Echo check
+	- Check digits
+
+
+### Automatic Repeat Request (ARQ)
+
+- In Automatic Repeat Request, ACKNOWLEDGEMENT and TIMEOUT ensure that error-free messages are received at the destination.
+- ACK is a message sent by the receiver to confirm that they have received the data correctly.
+- TIMEOUT is the time allowed to elapse before an ACK is received
+- If the ACK is not received within the TIMEOUT, the message is automatically resent.
+
+### Parity Checking
+
+- Parity checking uses a parity bit in each byte of data. This bit is allocated before transmission. 
+- An even parity has an even number of bits 1s in a byte. An odd parity has an odd number of bit 1s in a byte.
+- Systems may use even or odd parity.
+- The sender and receiver make an agreement prior to the transmission about the type of parity.
+
+- To find the exact location of the bit changed, a block of data is sent. The parity is checked both horizontally and vertically. 
+
+### Checksum
+
+- A value called a checksum is attached to the end of the block of data. This value can indicate transmission errors.
+- Checksum = the sum of all the digits, if the sum of all digits is less than or equal to 255
+- Else, the following algorithm is used:
+	- Divide the sum X by 256
+	- Round down to the nearest whole number, Y
+	- Multiply Y by 256 and denote this number as Z
+	- Checksum = X-Z
+
+- The sender transmits the block of data with checksum
+- When received at the receiver end, the checksum of the block of data is calculated.
+- If the calculated checksum is equal to the checksum  transmitted by sender, then there are no transmission errors
+- If both the checksums are not equal, the sender is requested to resend the data.
 
 
 [Computer Science](/ComputerScience)

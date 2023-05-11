@@ -221,6 +221,57 @@ NEU, NAHT, and others
 - Arbitrator makes a firm decision on a case based on the evidence presented by both sides
 - Arbitration is voluntary, so both sides must agree that they will attend it, and that they will respect the decision of the arbitrator
 
+---
+
+## Improving employer-employee relations worksheet
+
+1) Good employer-employee relations aims to reduce **conflict** through improved **communication** and employees **views** being listened to and taken into account when decisions are being made. Employer-employee relations focuses on these two groups working **together** to achieve the same **objectives**. This is, of course, easier said than done and its success will often depend on the business's **culture**.
+2) Good employer-employee relations lead to:
+   LESS staff turnover
+   MORE Labour productivity
+   MORE motivation
+   LESS industrial action
+   MORE ideas from employees
+   MORE mutual trust
+   LESS absenteeism
+   MORE employee retention
+   
+   
+3) Trade Unions - A group which represent the views of their members. Usually organised by profession/industry. - Through collective bargaining they will represent their member's views and negotiate with employers on issues such as working conditions, pay, redundancies and unfair dismissal. They may carry out industrial action eg, calling a strike.
+   
+   Works councils - Committees including employees (who have been elected by their co-workers) and management who discuss issues which affect the business as a whole. - This provides a forum for employees to communicate with management. 
+   
+   ACAS - A publicly funded organisation which offers free and impartial advice to both employees and employers - Aims to resolve disputes between employees and employers and support good relationships through methods such as mediation, conciliation and arbitration.
+
+4) Benefits and drawbacks to employee involvement in decision making
+   
+   Benefits:
+   
+   - Greater employee satisfaction leads to greater support from employees
+   - Employees will raise issues that affect them before they lead to external parties being required
+
+Drawbacks:
+- Employees may hinder the decision making efficacy of the business
+- Managers may be overwhelmed with requests
+
+
+5) To what extent do you agree/disagree with...
+   - Employee involvement in decision making is a good thing
+	   - Agree
+		   - By involving employees, decisions that affect them can be discussed with them before being finalised, giving them a feeling of control over their situation.
+- Trade unions are something that management should fear.
+	- Slightly agree
+		- Trade unions shouldn't be an employers best friend, they are there to support the employees above all else. An employer should not be scared of them to the extent that they won't cooperate with them, but employers should try to keep unions on a good standing with themselves.
+- Employee representation is the most important thing a business can do to motivate its employees
+	- Slightly agree
+		- Individual employees will be motivated by different offerings, some may wish to be excluded from the decision making process entirely. However, by providing the option for employees to become involved, motivation can be boosted for a sizeable portion of the workforce. 
+
+
+
+
+
+
+
 
 
 [Business](/Business)

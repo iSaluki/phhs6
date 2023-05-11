@@ -92,4 +92,19 @@ tags:
 - If both the checksums are not equal, the sender is requested to resend the data.
 
 
+### Echo check
+
+- In this the data received is sent back to the sender 
+- The sender compares the two sets of data for transmission errors
+- This method is not very reliable because it cannot be decided in which transmission the data was corrupted.
+- An error-free echo check would prove that no data has changed or been corrupted.
+
+### Check digits
+
+- Check digits is another method that is used to detect errors.
+- In this method, an additional digit is added to the end of a string of numbers
+- This bit is calculated using a standard algorithm and is called a check digit
+
+
+
 [Computer Science](/ComputerScience)

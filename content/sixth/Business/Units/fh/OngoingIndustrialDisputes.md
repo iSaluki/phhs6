@@ -177,8 +177,50 @@ NEU, NAHT, and others
 - Look at actual pay changes
 - Negotiate a deal with precise terms to try and satisfy both parties
 
-### Civil Servants
+---
 
-####
+## Avoiding Industrial Disputes
+
+- Regular consultations with trade unions
+	- Pick up problems before they escalate
+- A staff forum or joint working group to pass on information and collect ideas from workers and consult with workers
+- An employee consultative body to discuss major issues as they arise
+- Team and group meetings and feedback sessions
+
+- Regular communication and honest discussion is important
+
+### Works Councils
+
+- A group of people from management and the workforce that meet to discuss company-wide issues.
+- Complementary to the role of trade unions, not a replacement
+- Struggles to perform tasks such as bargaining over wages
+
+## Settling disputes using ACAS
+
+- Advisory, Conciliation and Arbitration Service
+	- Conciliation
+	- Mediation
+	- Arbitration
+
+### Mediation
+
+- Two or more individuals or groups reach a solution that's acceptable to everyone
+- Involves an independent/impartial party
+
+### Conciliation
+
+- Used when an employee is making or could make a specific complaint against their employer to an employment tribunal
+- Conciliator has no authority 
+- Both parties work together to try and prevent the need to go to an employment tribunal
+
+### Arbitration
+
+- An alternative to a court of law
+- Held in private rather than in public
+- An impartial outsider being asked to make a decision on a dispute
+- Arbitrator makes a firm decision on a case based on the evidence presented by both sides
+- Arbitration is voluntary, so both sides must agree that they will attend it, and that they will respect the decision of the arbitrator
+
+
 
 [Business](/Business)

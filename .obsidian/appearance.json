@@ -1,4 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "Sanctum"
+  "cssTheme": "Solarized",
+  "textFontFamily": "FreeSans"
 }

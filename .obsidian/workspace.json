@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md"
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md"
               }
             }
           }
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "1a534fd30292baba",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
-    "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
+    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+    "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
+    "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelations.md",
     "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",

@@ -49,6 +49,9 @@ Total equity: Capital raised from share sales + retained profit
 - Other long-term liabilities
 
 
+> [!note] Net position
+>
+> Net assets = Total assets (value £) - Total liabilities (value £)
 
 
 

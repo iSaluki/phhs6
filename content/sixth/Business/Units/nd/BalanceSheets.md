@@ -57,8 +57,11 @@ Total equity: Capital raised from share sales + retained profit
 ### Other formulae
 
 Total assets = current assets + non-current assets
+
 Total liabilities = current liabilities + non-current liabilities
+
 Working capital = current assets – current liabilities
+
 Total equity = share capital + reserves
 
 

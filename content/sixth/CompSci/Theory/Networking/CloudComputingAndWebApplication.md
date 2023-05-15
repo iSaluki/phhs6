@@ -68,6 +68,98 @@ tags:
 
 - A webpage is a document that can be viewed in web browsers.
 
+## Back-end/server-side
+
+- A server-side script is processed on the server when a user requests information
+- The processed script returns the result to the user's request
+- Widely used in websites and apps that store a large amount of information
+- SQL, PHP, Python, Ruby, Java and many more are used as backend languages
+- The validation of data is also carried out on the server-side by comparing the data entered by the user with the existing data in the server.
+- Hackers may try to enter malicious JavaScript in the front-end.
+
+Functions of server-side processing are:
+- Processing client's queries
+- Provides data security
+- Encryption of data
+- Updating server database
+
+### Application Programming Interface (API)
+
+- API is a set of protocols that governs how two applications interact with each other
+- Websites often embed functions such as maps, spreadsheets etc
+- Websites typically do not create these functions independently
+- Instead, an API is used to include these functionalities within a website
+- For example, Google has an API, which various websites use to include their address in the "contact us" menu
+- A web application that uses API from various sources is called a mashup.
+
+- API also defines the protocols that will be used in the web service.
+- An example of such a protocol is a WebSocket which creates a connection between two computers
+	- It provides a bidirectional communication channel between client and webserver over a single line.
+
+### WebSocket protocol
+
+- Firstly, the client sends a handshake request
+- Then, the server responds with a bidirectional channel on a single socket
+- Both client and server can send messages to each other simultaneously. In HTTP, the webpage need not be refreshed. The connection closes when one of them ends it.
+
+- The packets are also accepted without the usual security checks. As a result, this protocol helps us achieve fast and real-time communication.
+- This is widely used in online gaming and instant communication.
+- When this protocol is used, fewer webservers are required, saving transmission time, bandwidth, cost of hardware and cost of mobile communication.
+
+### Thick vs thin client computing
+
+- The term thickness refers to the independent processing and storage of a client in a client-server model.
+
+#### Thick client 
+
+- A thick client processes most of its data and requires little help from the server
+
+###### Pros
+
+- Operates without server connection
+- Robust and reliable
+- Used for powerful software applications
+
+##### Cons
+
+- Expensive to install as it requires highly specialised computers at the client side.
+- Software has to be installed at each client computer and maintained regularly.
+- Data is distributed, so data integrity issues may arise.
+
+#### Thin client
+
+- A thin client is highly dependent on the server for data processing and storage
+- Without a server, the functionality of a thin client will be affected
+- The thinnest client that requires a server for most of its operations will only require minimum processing power and no storage.
+- This type of client system is often referred to as a dumb terminal.
+
+
+##### Pros
+
+- Easy and inexpensive to set up
+- Easy to update and maintain the client systems
+- Data is secured at a centralised location
+
+###### Cons
+
+- Client computers are affected when a server malfunctions
+- Setting up a highly efficient server is expensive
+- Highly reliable network connections are required
+- When the number of client computers increased, the performance of this model may be affected
+
+
+### CRUD
+
+- CRUD stands for Create, Retrieve, Update, Delete
+- CRUD explains the main functions of a database. Without the four functions denoted by CRUD, it is not possible to have a complete database.
+- It also specifies how data is obtained and presented to the user.
+
+### REST
+
+- Representational State Transfer
+- REST is a system design concept in which the HTTP request methods are used to interact with a database server through a webserver.
+- The client does not know how the data is received and processed by the database.
+- In this type of system, client and server systems can be developed independently. 
 
 
 

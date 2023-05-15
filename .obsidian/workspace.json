@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md"
+                "file": "content/sixth/Business/Units/nd/BalanceSheets.md"
               }
             }
           }
@@ -156,19 +156,21 @@
   },
   "active": "1a534fd30292baba",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
+    "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
+    "content/sixth/Business/Units/nd/ExamTechniqueAndRevision.md",
+    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
+    "content/sixth/Business/Units/nd/BalanceSheets.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
     "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
     "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelations.md",
-    "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/2023-05-09.md",
     "content/sixth/CompSci/Theory/ExamFeedback.md",
     "content/_index.md",
     "content/private/callouts.md",
-    "content/sixth/Business/Units/nd/ExamTechniqueAndRevision.md",
     "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
     "content/sixth/Business/Units/fh/CaseStudyMichellesStressfulJob.md",
     "content/sixth/CompSci/Theory/Security.md",
@@ -181,8 +183,6 @@
     "content/sixth/Business/Units/nd/Untitled.canvas",
     "content/sixth/Business/Units/fh/JobDesign.md",
     "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
-    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
-    "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
-    "content/sixth/Business/Units/fh/OrganisationalStructures.md"
+    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md"
   ]
 }

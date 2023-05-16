@@ -46,6 +46,12 @@ See [Hierarchy of Objectives](sixth/Business/Units/fh/BusinessObjectives)
 - For all stakeholders, not just shareholders and managers
 
 
+#### Frequent criticisms of mission statements
+
+- Not always supported by actions of the business
+- Often too vague or general
+- Could just be for good PR
+
 
 
 [Business](/Business)

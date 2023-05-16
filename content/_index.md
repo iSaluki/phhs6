@@ -11,6 +11,10 @@ Content on this site may not all be owned or produced by me, and is hosted here 
 
 The accuracy of the information on the site cannot be fully guaranteed. I do my best but as I am learning these subjects some inaccuracies are inevitable. If you notice something, please let me know or submit a correction on GitHub. I will appreciate any feedback.
 
+> [!tip] Want to support me? 
+>
+> Check out my [business site](https://sethmb.co.uk/)
+
 
 # Subjects
 

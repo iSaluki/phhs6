@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
+                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hierarchy objectives ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
+                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BalanceSheets.md",
+                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/BalanceSheets.md"
+                "file": "content/sixth/Business/Units/fh/BusinessMission.md"
               }
             }
           }
@@ -156,14 +157,16 @@
   },
   "active": "1a534fd30292baba",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "content/sixth/Business/Units/fh/BusinessObjectives.md",
+    "content/sixth/Business/Units/fh/BusinessMission.md",
+    "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
     "content/sixth/Business/Units/nd/ExamTechniqueAndRevision.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
-    "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
     "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelations.md",
@@ -181,8 +184,6 @@
     "content/sixth/CompSci/Theory/Networking/Layering.md",
     "content/sixth/Business/Units/nd/EdenProjectQ6.md",
     "content/sixth/Business/Units/nd/Untitled.canvas",
-    "content/sixth/Business/Units/fh/JobDesign.md",
-    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
-    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md"
+    "content/sixth/Business/Units/fh/JobDesign.md"
   ]
 }

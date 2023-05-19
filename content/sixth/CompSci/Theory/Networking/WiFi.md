@@ -63,6 +63,29 @@ tags:
 
 - If the expected number is returned, there are no errors. If different numbers are returned, the packet will be resent.
 
+# Wireless Connectivity
+
+- A wireless network uses radio signals to connect devices
+
+## Radio Transmission 
+
+- Radio signals are identified using their frequency
+- Wi-Fi uses 2.4GHz  and 5GHz
+- The range of this signal is up to 20 metres. This range can vary with the thickness of a wall as the signal needs to pass through it.
+
+### WiFi
+
+- A computer requires a wireless network adaptor to connect to a wireless network
+- A computer a long with a network interface controller is referred to as a station.
+- All stations within a WAP share the same channel and are tuned to the frequency of a channel to receive transmissions.
+
+### 2.4GHz waveband
+
+- This waveband can be separated into different channels
+- A channel is a communication link to send and receive data
+- Many channels are adjacent to each other
+- Adjacent channels may cause interference which leads to data corruption.
+- There are typically only 4 “clear” bands on 2.4GHz
 
 
 

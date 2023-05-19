@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/CompSci/Theory/Networking/WiFi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/CompSci/Theory/Networking/WiFi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/CompSci/Theory/Networking/WiFi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md"
+                "file": "content/sixth/CompSci/Theory/Networking/WiFi.md"
               }
             }
           }
@@ -156,16 +156,17 @@
   },
   "active": "1a534fd30292baba",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+    "content/sixth/CompSci/Theory/Networking/WiFi.md",
+    "content/sixth/Business/Units/fh/BusinessMission.md",
     "content/private/callouts.md",
     "content/_index.md",
-    "content/sixth/Business/Units/fh/BusinessMission.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/CaseStudyEducsupplies.md",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
     "content/sixth/Business/Units/nd/InternalAnalysisFinancials.md",
     "content/sixth/Business/Units/nd/ExamTechniqueAndRevision.md",
     "content/sixth/Business/Units/nd/SettingOperationalObjectives.md",
-    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
     "content/sixth/Business/Units/fh/OngoingIndustrialDisputes.md",
     "content/sixth/Business/Units/fh/EmployerEmployeeRelationsCnt.md",
@@ -182,7 +183,6 @@
     "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
     "content/sixth/CompSci/Theory/Networking/Layering.md",
     "content/sixth/Business/Units/nd/EdenProjectQ6.md",
-    "content/sixth/Business/Units/nd/Untitled.canvas",
-    "content/sixth/Business/Units/fh/JobDesign.md"
+    "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

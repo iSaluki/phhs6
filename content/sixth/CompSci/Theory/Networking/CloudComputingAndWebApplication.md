@@ -162,5 +162,29 @@ Functions of server-side processing are:
 - In this type of system, client and server systems can be developed independently. 
 
 
+### JSON and XML
+
+- JSON and XML are methods used to format data objects transferred across servers and web applications.
+- When a user places a GET request, the values in the table are returned
+
+#### JSON
+
+- Based on objects and values, easy to read
+- Less number of lines of code generated
+- The syntax is simpler
+- Arrays are supported
+- Data is clearly defined and easier to parse
+- Due to limited number of data types, JSON is not suitable for all applications
+
+#### XML
+
+- Use markup tags to make it comparatively easier to read
+- Comparatively more lines of code
+- Complicated syntax, harder to make
+- Data is extracted from tags, harder to parse
+- Wide range of available data types
+
+
+
 
 [Computer Science](/ComputerScience)

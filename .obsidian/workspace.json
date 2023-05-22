@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessMission.md"
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md"
               }
             }
           }
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "1a534fd30292baba",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/BusinessMission.md",
+    "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
     "content/sixth/CompSci/Theory/Networking/WiFi.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
-    "content/sixth/Business/Units/fh/BusinessMission.md",
     "content/private/callouts.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
@@ -182,7 +183,6 @@
     "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
     "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
     "content/sixth/CompSci/Theory/Networking/Layering.md",
-    "content/sixth/Business/Units/nd/EdenProjectQ6.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

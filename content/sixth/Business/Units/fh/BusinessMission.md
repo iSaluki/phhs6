@@ -52,6 +52,23 @@ See [Hierarchy of Objectives](sixth/Business/Units/fh/BusinessObjectives)
 - Often too vague or general
 - Could just be for good PR
 
+---
+
+### Internal influences on objectives and decisions
+
+- Business ownership – profit or non-profit?
+- The relative power of stakeholders
+- Ethics - decisions made on ethical grounds might reject the most profitable options
+- Business culture – "the way we do things around here"
+- Resource Constraints – everyday decisions about deploying limited resources 
+
+### External influences on objectives and decisions
+
+- Pressure for short-termism – businesses focus on short-term profit objectives rather than long-term performance objectives due to shareholders demand for return on investment
+- Private limited companies have an easier time focusing on long-term goals than public limited companies, because Ltds typically have closer relationships with their shareholders
+
+
+
 
 
 [Business](/Business)

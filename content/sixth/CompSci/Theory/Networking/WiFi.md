@@ -50,7 +50,7 @@ tags:
 - In CSMA/CD the sender senses the channel before sending data frames. The data frames are only sent if the channel is sensed to be silent. 
 
 - In case two senders transmit at the same time, collision occurs and the data corrupts. 
-- In CSMA, the problem wit hthe scenario is solved as the senders receive a corrupted form of data frame sent by them. 
+- In CSMA, the problem with the scenario is solved as the senders receive a corrupted form of data frame sent by them. 
 - Then the senders wait for a random amount of time and resend the data
 - As the waiting time is different for both senders, data collision is avoided
 
@@ -73,7 +73,7 @@ tags:
 - Wi-Fi uses 2.4GHz  and 5GHz
 - The range of this signal is up to 20 metres. This range can vary with the thickness of a wall as the signal needs to pass through it.
 
-### WiFi
+### Wi-Fi
 
 - A computer requires a wireless network adaptor to connect to a wireless network
 - A computer a long with a network interface controller is referred to as a station.

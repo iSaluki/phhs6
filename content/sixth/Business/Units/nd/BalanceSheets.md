@@ -64,7 +64,12 @@ Working capital = current assets – current liabilities
 
 Total equity = share capital + reserves
 
+### Working Capital
 
+- Also called net working capital
+- Is a measure of a company's liquidity and short-term financial health
+- The difference between a company's current assets and current liabilities
+- A positive NWC indicates that a company can fund its current operations and may be able to invest in future activities and growth.
 
 
 

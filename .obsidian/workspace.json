@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cd49bd4997ec53",
+  "active": "bb470c9ade26e11f",
   "lastOpenFiles": [
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "content/_index.md",

@@ -117,12 +117,17 @@ const resultToHTML = ({ url, title, content }) => {
 const redir = (id, term) => {
   const shouldTrim = PRODUCTION && SEARCH_ENABLED
   const baseURLPrefix = shouldTrim ? "" : BASE_URL.replace(/\/$/g, "")
-  const urlString = `${baseURLPrefix}${id}#:~:text=${encodeURIComponent(term)}/`
+  const urlString = `${baseURLPrefix}${id}#:~:text=${encodeURIComponent(term)}`
   window.Million.navigate(
     new URL(urlString),
     ".singlePage",
   )
   closeSearch()
+  plausible("Search", {
+    props: {
+      term
+    }
+  })
 }
 
 function openSearch() {

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/EnzymeReactions.md",
+                "file": "content/sixth/Biology/Enzymes/Effectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/EnzymeReactions.md",
+                "file": "content/sixth/Biology/Enzymes/Effectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/EnzymeReactions.md",
+                "file": "content/sixth/Biology/Enzymes/Effectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/EnzymeReactions.md"
+                "file": "content/sixth/Biology/Enzymes/Effectors.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   "lastOpenFiles": [
     "content/sixth/Biology/Enzymes/Enzymes.md",
     "content/sixth/Biology/Enzymes/EnzymeReactions.md",
+    "content/sixth/Biology/Enzymes/Effectors.md",
     "content/sixth/Business/Units/nd/FinancialRatios.md",
     "layouts/partials/toc.html~",
     "layouts/partials/head.html~",
@@ -186,7 +187,6 @@
     "content/sixth/Business/Units/fh/CaseStudyMichellesStressfulJob.md",
     "content/sixth/CompSci/Theory/Security.md",
     "content/sixth/Business/Units/fh/PeCAn PiE.md",
-    "content/sixth/Business/Units/nd/TBSContinuum.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

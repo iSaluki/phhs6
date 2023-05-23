@@ -42,5 +42,13 @@ tags:
 - Combining two reactants into one product
 - Protein synthesis
 
+#### Catabolic Reactions
+
+- Breaking down 
+- Food digestion
+- Breaking one reactant into two products
+
+
+
 
 [Biology](/Biology)

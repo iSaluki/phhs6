@@ -10,12 +10,11 @@
     <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
-	<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sethmb" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+	{{partial "coffee.html"}}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
     </article>
-    <a rel="me" href="https://fosstodon.org/@saluki">Mastodon</a>
     {{partial "footerIndex.html" .}}
 </div>
 </body>

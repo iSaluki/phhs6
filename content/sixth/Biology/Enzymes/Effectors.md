@@ -38,12 +38,22 @@ tags:
 
 ### Substrate concentration and enzyme concentration
 
+
+#### Substrate
+
 - As substrate concentration increases, the number of substrate molecules/atoms/ions in an area/volume increases
 	- The same is true for enzyme concentration
 - Increased chance of successful collisions
 
 - Vmax is the maximum rate of reaction
 	- It occurs when all active sites are occupied by substrate particles.
+
+#### Enzyme
+
+- Increasing enzyme concentration increases the number of active sites available 
+- This increases the number of enzyme-substrate complexes that can be formed, increasing the rate of reaction
+- Vmax can be increased by increasing the substrate concentration and/or temperature
+
 
 
 [Biology](/Biology)

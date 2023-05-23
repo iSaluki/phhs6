@@ -73,6 +73,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
+  <script defer type="module" src="https://cdn.jsdelivr.net/npm/@micahilbery/share-on-mastodon@1.0.5/share-on-mastodon.js"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
   <script defer src="{{$popover.Permalink}}"></script>

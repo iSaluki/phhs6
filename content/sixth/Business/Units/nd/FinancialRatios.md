@@ -1,5 +1,5 @@
 ---
-titles: "Financial Ratios"
+title: "Financial Ratios"
 tags:
 - business
 ---

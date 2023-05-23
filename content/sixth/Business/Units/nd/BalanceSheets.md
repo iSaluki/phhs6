@@ -74,18 +74,6 @@ Total equity = share capital + reserves
 - Too much working capital is wasteful
 	- You are holding assets that won't make a return, invest the excess
 
-## ROCE
-
-- Return on Capital Employed
-- How to calculate
-	- ROCE (%) = (Operating Profit (or net profit)) ÷ (Total Equity + Non-Current Liabilities)) x 100
-- Bigger is better
-
-- Useful for
-	- Evaluating the overall performance of the business
-	- Providing a target return for individual projects
-	- Benchmarking performance with competitors
-
 
 
 [Business](/Business)

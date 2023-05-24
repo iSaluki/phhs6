@@ -116,7 +116,7 @@ tags:
 - Large amounts of change
 
 
-#### The "Grey Pound"
+#### The “Grey Pound”
 
 - Pensioners are better off if they retired longer ago
 - Pensions used to be more generous than they currently are
@@ -127,6 +127,21 @@ tags:
 - Despite many being furloughed
 - Many opportunities for growth have been enjoyed by some
 
+
+### What are threats?
+
+- Any external development that may hinder or prevent the business from achieving its objectives
+	- New market entrants
+	- Change in customer tastes or needs
+	- Demographic change
+	- Consolidation among buyers
+	- New regulations
+	- Economic downturn
+	- Rise of low cost production abroad
+	- Higher input prices
+	- New substitute products
+	- Competitive pressure
+	- etc etc
 
 
 

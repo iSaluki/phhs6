@@ -144,7 +144,29 @@ tags:
 	- etc etc
 
 
+### SWOT is more than a list
 
+- It is an analytical technique to support strategic decisions
+- Strategy should be devised around strengths and opportunities
+- The keywords are: match and convert
+
+#### Match and Convert
+
+- Match strengths with opportunities
+- Convert weaknesses into strengths
+
+##### Convert weaknesses into strengths
+
+- Outdated technology
+	- Acquire a competitor with leading technology
+- Skills gap
+	- Invest in training and more effective recruitment
+- Overdependence on a single product
+	- Diversify the product portfolio by entering new markets
+- Poor quality
+	- Invest in quality assurance
+
+**For every perceived threat, the same change presents an opportunity for a business.**
 
 
 

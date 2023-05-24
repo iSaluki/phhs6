@@ -168,6 +168,40 @@ tags:
 
 **For every perceived threat, the same change presents an opportunity for a business.**
 
+### IKEA Case Study
+
+#### SWOT Analysis
+
+- Strengths
+	- Growing customer base
+	- 433 stores across 25 countries
+	- Recognised brand
+	- Low-cost of storage and transport of products due to flatpak
+	- Franchise system reduces administrative burden
+	- Committed to being climate positive by 2030
+	- Prices are low
+- Weaknesses
+	- Franchisee system decentralises the business
+	- Requires work to setup their products
+		- Many people are increasingly "lazy" and do not want to build their own furniture
+		- IKEA may need to develop a solution to allow them to remain competitive
+	- Operating across countries and franchisees means that IKEA will need a lot of work to keep a consistent experience
+		- Different countries will have different demographics, looking for different items
+- Opportunities
+	- E-commerce is growing rapidly, so moving more to the internet could help IKEA's performance
+	- Diversification of products 
+	- Provide sustainable solutions
+	- Chinese market growth
+		- Enter other growing markets
+	- Advertising/marketing could accelerate growth
+		- Viral advertising could be highly effective
+	- A simpler store layout could lead to more customers coming in
+- Threats
+	- Partnership with Alibaba could disrupt relations with western countries
+	- Amazon and similar companies may outcompete them on price
+	- Legislation changes could force them to ditch their current Chinese-backed e-commerce platform in countries like the USA
+	- Competitors could rapidly arise in developing countries and other regions where IKEA does not currently operate
+	- Lower quality products could discourage potential customers
 
 
 [Business](/Business)

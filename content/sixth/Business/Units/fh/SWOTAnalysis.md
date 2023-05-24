@@ -93,6 +93,42 @@ tags:
 - Unmotivated staff
 - etc etc
 
+---
+
+### What are opportunities?
+
+- An opportunity is any feature of the external environment which creates positive potential for the business to achieve its objectives.
+	- Technological innovation
+	- New demand
+	- Market growth
+	- Demographic change
+	- Social or lifestyle change
+	- Government spending programmes
+	- Higher economic growth
+	- Trade liberalism
+	- Diversification opportunity
+	- Deregulation of the market
+	- etc etc
+
+#### Emerging Markets
+
+- Developing countries (Pakistan, India etc)
+- Large amounts of change
+
+
+#### The "Grey Pound"
+
+- Pensioners are better off if they retired longer ago
+- Pensions used to be more generous than they currently are
+- Some OAPs have lots of disposable income
+
+#### COVID-19 Pandemic
+
+- Despite many being furloughed
+- Many opportunities for growth have been enjoyed by some
+
+
+
 
 
 

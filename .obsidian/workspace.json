@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md"
+                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md"
               }
             }
           }
@@ -156,8 +156,13 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Biology/Enzymes/Inhibitors.md",
+    "content/_index.md",
+    "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+    "layouts/partials/coffee.html",
+    "layouts/shortcodes/htmlsnippet.html",
+    "layouts/shortcodes",
     "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
+    "content/sixth/Biology/Enzymes/Inhibitors.md",
     "content/sixth/Biology/Enzymes/Effectors.md",
     "content/sixth/Biology/Enzymes/Enzymes.md",
     "content/sixth/Biology/Enzymes/EnzymeReactions.md",
@@ -167,8 +172,6 @@
     "data/config.yaml~",
     "content/sixth/Biology/Enzymes",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
-    "content/sixth/Business/Units/fh/SWOTAnalysis.md",
-    "content/_index.md",
     "content/sixth/Business/Units/fh/BusinessMission.md",
     "content/sixth/CompSci/Theory/Networking/WiFi.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
@@ -186,7 +189,6 @@
     "content/2023-05-09.md",
     "content/sixth/CompSci/Theory/ExamFeedback.md",
     "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
-    "content/sixth/Business/Units/fh/CaseStudyMichellesStressfulJob.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

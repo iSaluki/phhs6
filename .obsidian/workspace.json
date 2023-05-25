@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md"
+                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md"
               }
             }
           }
@@ -166,13 +166,13 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
-    "content/sixth/CompSci/Theory/Networking/Layering.md",
-    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
-    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
-    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
-    "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
+    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
+    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
+    "content/sixth/CompSci/Theory/Networking/Layering.md",
+    "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
+    "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/Business/Units/fh/HRFlow.md",

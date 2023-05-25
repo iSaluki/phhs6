@@ -186,5 +186,5 @@ Functions of server-side processing are:
 
 
 
-[Networking](sixth/CompSci/Theory/Networking)
+[Networking](sixth/CompSci/Theory/Networking/Networking)
 [Computer Science](/ComputerScience)

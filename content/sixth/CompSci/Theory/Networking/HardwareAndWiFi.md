@@ -140,5 +140,8 @@ tags:
 - A routing table contains information about the topology of the network. Using this information, a router forwards the packets to the next router using certain algorithms.
 - In case a router is not available, the data packet is sent through another router.
 
-[Networking](sixth/CompSci/Theory/Networking)
+
+
+
+[Networking](sixth/CompSci/Theory/Networking/Networking)
 [Computer Science](/ComputerScience)

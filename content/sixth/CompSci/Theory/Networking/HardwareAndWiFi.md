@@ -112,6 +112,33 @@ tags:
 
 - In the example given, nodes A and C communicate with B (WAP) but are unable to communicate with each other.
 
+### Security in Wi-Fi systems
 
+- Wireless networks are preferred for their ease of installation
+- Security of data cannot be assured in this network
+- Any device with a Wi-Fi facility will be able to receive data packets in that range of 20m.
+- Therefore, it is important to secure data using encryption techniques.
 
+#### WPA 2
+
+- Uses AES to secure data.
+- Password protection is enabled on the network.
+- An SSID (Service Set Identifier) is used to identify an individual network (not WPA specific), disabling broadcasting can improve security.
+
+### Circuit Switching
+
+- This type of connection is used in traditional telephone networks. This type of switching does not allow other data packets to be transmitted during a connection session.
+- In case of circuit failure, the communication is disrupted. These disadvantages are overcome in packet switching.
+
+- An advantage of this is that data packets are sent serially. 
+- Bandwidth is wasted if it isn't being used
+- Sender and transmitter must talk at the same rate
+- If it breaks, a whole line needs replacing
+
+### Packet Switching
+
+- A routing table contains information about the topology of the network. Using this information, a router forwards the packets to the next router using certain algorithms.
+- In case a router is not available, the data packet is sent through another router.
+
+[Networking](sixth/CompSci/Theory/Networking)
 [Computer Science](/ComputerScience)

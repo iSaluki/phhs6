@@ -53,3 +53,7 @@ tags:
 - Each layer of the TCP/IP stack adds information to the data. This is called encapsulation.
 
 ![[sixth/CompSci/Theory/Networking/img/Pasted image 20230320101342.png]]
+
+
+[Networking](sixth/CompSci/Theory/Networking)
+[Computer Science](/Computer Science)

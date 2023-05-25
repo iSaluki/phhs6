@@ -1,5 +1,5 @@
 ---
-title: "WiFi"
+title: "Hardware and Wi-Fi"
 tags:
 - compsci
 - theory
@@ -86,6 +86,31 @@ tags:
 - Many channels are adjacent to each other
 - Adjacent channels may cause interference which leads to data corruption.
 - There are typically only 4 “clear” bands on 2.4GHz
+
+### Performance of Wi-Fi systems
+
+- A Wi-Fi access point shares its bandwidth among several devices. This might lead to poor performance.
+- Performance of this system depends on the number of users and usage data.
+
+### CSMA/CA in Wireless Networks
+
+- Wireless networks use CSMA/CA (Carrier Sense Multiple Access/Collision Avoidance) to allow nodes to transmit data at high speed and avoiding the collision of data frames at the same time.
+- Wireless stations are not capable of transmitting and receiving at the same time and hence, if a collision occurs during a transmission, it cannot be detected.
+
+- When a wireless node tries to send a data frame, it checks whether the channel is idle or not using CSMA/CA.
+- If the channel is idle, the data is sent. If the channel is busy, the node waits a random amount of time before checking the channel again. The mechanism is called a back-off mechanism and reduces the chances of collision.
+- The data frame is sent when the channel is sensed to be free.
+- After receiving the data frame, an acknowledgement is sent back to confirm that the data is received without any errors.
+- If the acknowledgement is not received within a specified amount of time, the data frame is sent again by the user.
+
+#### Hidden Nodes Problem
+
+- Hidden nodes problem is a scenario in which a node can communicate with the wireless access point, but cannot communicate directly with other nodes that are communicating with the access point.
+- As a result, multiple nodes may send data to the access point at the same time leading to interference 
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png]]
+
+- In the example given, nodes A and C communicate with B (WAP) but are unable to communicate with each other.
 
 
 

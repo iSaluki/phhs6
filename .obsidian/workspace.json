@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1f98f028d8c6a139",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png"
               }
             }
           }
@@ -77,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 444.5
   },
   "right": {
     "id": "dbab4fe2733f4002",
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+                "file": "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/SWOTAnalysis.md"
+                "file": "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md"
               }
             }
           }
@@ -156,8 +166,10 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
+    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+    "content/_index.md",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
@@ -188,7 +200,6 @@
     "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/2023-05-09.md",
     "content/sixth/CompSci/Theory/ExamFeedback.md",
-    "content/sixth/Business/Units/fh/CaseStudyNewFrontiersTravel.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

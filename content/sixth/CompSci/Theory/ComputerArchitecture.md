@@ -406,4 +406,4 @@ L1 and L2 cache are dedicated to each core, however L3 cache is shared between a
 - Layer plastics on a base in a specific way to result in a model being produced.
 
 
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

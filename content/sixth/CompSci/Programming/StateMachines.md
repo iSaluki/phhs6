@@ -118,4 +118,4 @@ Whereas a formal language is like a formula in maths or science and programming 
 
 Typically, an algorithm will use a formal language (or will be much closer to formal than natural). A recipe is an example of an algorithm that can be represented using natural languages, with a more formal structure. A recipe can be misinterpreted, a program cannot.
 
-[Computer Science](/ComputerScience)
+[Programming](sixth/CompSci/Programming/ProgrammingMaster)

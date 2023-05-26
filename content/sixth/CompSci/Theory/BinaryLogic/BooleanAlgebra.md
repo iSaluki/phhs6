@@ -129,4 +129,4 @@ D = Delay
 
 
 
-[Computer Science](/ComputerScience)
+[Binary Logic](sixth/CompSci/Theory/BinaryLogic/BinaryLogic)

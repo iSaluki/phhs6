@@ -66,4 +66,4 @@ Examples:
 >
 >Something can be or contain multiple types. So a statement may contain an expression which may then contain a value.
 
-[Computer Science](/ComputerScience)
+[Programming](sixth/CompSci/Programming/ProgrammingMaster)

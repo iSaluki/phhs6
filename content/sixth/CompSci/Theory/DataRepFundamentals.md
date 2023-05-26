@@ -135,4 +135,4 @@ A Δ B
 
 [Storing this as binary](sixth/CompSci/Theory/NumberBases)
 
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

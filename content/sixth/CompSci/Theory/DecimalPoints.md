@@ -229,4 +229,4 @@ An underflow error occurs when a number is too small for your register to hold. 
 
 
 
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

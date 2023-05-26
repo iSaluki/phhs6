@@ -51,5 +51,4 @@ It added more characters, but still couldn't fit every character needed for ever
 - It would not have been possible with older computer systems due to memory limitations.
 
 
-
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

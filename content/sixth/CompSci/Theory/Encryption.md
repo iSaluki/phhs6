@@ -107,4 +107,4 @@ Another, more complex tree, as an example:
 
 
 
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

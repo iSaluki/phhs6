@@ -1,5 +1,5 @@
 ---
-title: "Programming"
+title: "Programming Theory"
 tags:
 - compsci
 ---
@@ -138,4 +138,4 @@ You can go back through phases if an issue arises.
 
 
 
-[Computer Science](/ComputerScience)
+[Programming](sixth/CompSci/Programming/ProgrammingMaster)

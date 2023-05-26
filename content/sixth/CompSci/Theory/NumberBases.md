@@ -229,4 +229,4 @@ Sign and magnitude are combined to make a binary number that can be positive (+)
 
 When dealing with Two's Complement, the overflow bit should always be discarded.
 
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

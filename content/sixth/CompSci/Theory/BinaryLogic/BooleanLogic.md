@@ -134,4 +134,4 @@ Essentially the inverse of the first law.
 
 Therefore, NOT A AND B is the same as NOT A OR NOT B
 
-[Computer Science](/ComputerScience)
+[Binary Logic](sixth/CompSci/Theory/BinaryLogic/BinaryLogic)

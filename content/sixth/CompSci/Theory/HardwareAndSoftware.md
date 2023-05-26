@@ -129,5 +129,4 @@ The closer to the chip, the faster the memory, however the more expensive the me
 
 
 
-
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)

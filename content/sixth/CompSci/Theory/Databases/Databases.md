@@ -1,2 +1,2 @@
-[Computer Science](/ComputerScience)
+[Theory](sixth/CompSci/Theory/Theory)
 

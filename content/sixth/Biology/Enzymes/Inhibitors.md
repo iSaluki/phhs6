@@ -57,4 +57,4 @@ An **inhibitor** is any substance that slows down the rate of an enzyme controll
 
 
 
-[Biology](/Biology)
+[Enzymes](sixth/Biology/Enzymes/Enzymes)

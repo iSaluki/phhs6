@@ -32,4 +32,4 @@ tags:
 10) Why does meiosis have twice as many stages as mitosis?
 Meiosis requires two cell divisions to occur as it needs to make modifications to genetic material, whereas mitosis produces genetically identical cells. Meiosis needs to cross over chromosome segments to produce 4 genetically **different** haploid cells that have some genetic material from each parent.
 
-[Biology](/Biology)
+[Cells](sixth/Biology/Cells/Cells)

@@ -48,4 +48,4 @@ Total magnification = 100 (10x10)
 Therefore each epu = **10µm** (1000µm / 100 = 10µm)
 
 
-[Biology](/Biology)
+[Cells](sixth/Biology/Cells/Cells)

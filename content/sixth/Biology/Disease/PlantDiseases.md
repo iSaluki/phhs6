@@ -78,4 +78,4 @@ tags:
 
 
 
-[Biology](/Biology)
+[Disease](sixth/Biology/Disease/Disease)

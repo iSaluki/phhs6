@@ -99,4 +99,4 @@ tags:
 ![[Pasted image 20221019115017.png]]
 
 
-[Biology](/Biology)
+[Cells](sixth/Biology/Cells/Cells)

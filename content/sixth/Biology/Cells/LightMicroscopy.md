@@ -30,4 +30,4 @@ Here are a few examples of artifacts that could be misidentified as different ob
 
 ![[Pasted image 20221019104244.png]]
 
-[Biology](/Biology)
+[Cells](sixth/Biology/Cells/Cells)

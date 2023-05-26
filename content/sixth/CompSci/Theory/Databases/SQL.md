@@ -76,4 +76,4 @@ DDL commands will typically need to be tested on staging environments thoroughly
 - The DBMS interfaces directly with the data (stored on a HDD or other secondary storage device.)
 
 
-[Computer Science](/ComputerScience)
+[Databases](sixth/CompSci/Theory/Databases/Databases)

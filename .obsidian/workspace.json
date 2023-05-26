@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/sixth/CompSci/Theory/Databases/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md"
+                "file": "content/sixth/CompSci/Theory/Databases/Overview.md"
               }
             }
           }
@@ -179,15 +179,20 @@
   },
   "active": "e087e795acd1ea36",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
-    "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
-    "content/sixth/CompSci/Theory/Networking/Networking.md",
-    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
-    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
-    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
-    "content/sixth/CompSci/Theory/Networking/Layering.md",
-    "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
+    "content/sixth/CompSci/Theory/Databases/SQL.md",
+    "content/sixth/CompSci/Theory/Databases/Design.md",
+    "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
+    "content/sixth/CompSci/Theory/Databases/Databases.md",
+    "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
     "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
+    "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
+    "content/sixth/CompSci/Theory/Networking/Layering.md",
+    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
+    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
+    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+    "content/sixth/CompSci/Theory/Networking/Networking.md",
+    "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/HRFlow.md",
     "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
@@ -205,15 +210,10 @@
     "content/sixth/Biology/Enzymes/Effectors.md",
     "content/sixth/Biology/Enzymes/Enzymes.md",
     "content/sixth/Biology/Enzymes/EnzymeReactions.md",
-    "content/sixth/Business/Units/nd/FinancialRatios.md",
     "layouts/partials/toc.html~",
     "layouts/partials/head.html~",
     "data/config.yaml~",
     "content/sixth/Biology/Enzymes",
-    "content/sixth/Business/Units/nd/BalanceSheets.md",
-    "content/sixth/Business/Units/fh/BusinessMission.md",
-    "content/private/callouts.md",
-    "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]

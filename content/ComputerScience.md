@@ -3,4 +3,4 @@ title: "Computer Science"
 ---
 **This is a node page. It contains no content and exists solely for organisational purposes.**
 
-[School Work](/SchoolWork)
+[Home](/)

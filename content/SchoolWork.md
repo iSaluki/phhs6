@@ -1,6 +1,9 @@
 ---
 title: "School Work"
 ---
-Page anchor for school work
+
+🕸️**You've found a ghost! This page no longer exists.**
+
+👻
 
 [Home](/)

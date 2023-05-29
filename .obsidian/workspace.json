@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -179,8 +179,11 @@
   },
   "active": "e087e795acd1ea36",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
+    "content/private/setup.md",
+    "content/_index.md",
     "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
+    "layouts/partials/donate.html",
+    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
@@ -202,14 +205,12 @@
     "content/sixth/Business/Units/fh/MarketingBranding.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
-    "content/_index.md",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
     "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
     "content/sixth/Biology/Enzymes/Inhibitors.md",
     "content/sixth/Biology/Enzymes/Effectors.md",
-    "content/sixth/Biology/Enzymes/Enzymes.md",
     "layouts/partials/toc.html~",
     "layouts/partials/head.html~",
     "data/config.yaml~",

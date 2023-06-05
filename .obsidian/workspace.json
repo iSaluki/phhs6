@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
+                "file": "content/sixth/Business/Units/nd/Gearing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 381.5
   },
   "right": {
     "id": "dbab4fe2733f4002",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
+                "file": "content/sixth/Business/Units/nd/Gearing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
+                "file": "content/sixth/Business/Units/nd/Gearing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md"
+                "file": "content/sixth/Business/Units/nd/Gearing.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/OrganicFVBuis.md",
+    "content/sixth/Business/Units/nd/Gearing.md",
+    "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
+    "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605115309.png",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605102340.png",
     "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
-    "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/private/setup.md",
     "content/_index.md",
@@ -187,7 +190,6 @@
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
-    "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
     "layouts/partials/toc.html~",
     "layouts/partials/head.html~",
     "data/config.yaml~",

@@ -22,6 +22,9 @@ tags:
 
 #### Domain levels
 
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230605115309.png]]
+
 ##### root
 - right at the top
 

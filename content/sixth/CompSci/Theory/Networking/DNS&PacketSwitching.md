@@ -60,7 +60,16 @@ and uk is the top level domain
 	- www
 www.ionos.com
 
+### Internet Registrars
 
+- The companies that hold domain name rights and can register a domain for you
+- Registrars are accredited by a governing entity
+- Internet registrars are responsible for storing the details of domain names along with the companies they are registered to.
+
+
+### Transport over the internet
+
+![[sixth/CompSci/Theory/Networking/img/Pasted image 20230605102340.png]]
 
 
 

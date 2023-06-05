@@ -46,7 +46,7 @@ As the rights to content hosted here are not as straightforward as me being able
 
 ### Can I use this to revise?
 
-Yes, go for it. However if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [Anki](https://ankiweb.net)).
+Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [Anki](https://ankiweb.net)).
 
 ### How easy is to make my own website like this?
 

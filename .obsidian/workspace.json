@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e087e795acd1ea36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f98f028d8c6a139",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md"
               }
             }
           }
@@ -177,17 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e087e795acd1ea36",
+  "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
+    "content/sixth/CompSci/Theory/Networking/DNS&PacketSwitching.md",
+    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/private/setup.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
     "layouts/partials/donate.html",
     "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
-    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
-    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
     "content/sixth/CompSci/Theory/Networking/Layering.md",
     "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
     "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
@@ -210,7 +188,6 @@
     "layouts/shortcodes",
     "content/sixth/Biology/Enzymes/Co-factorsCo-Enzymesandprostheticgroups.md",
     "content/sixth/Biology/Enzymes/Inhibitors.md",
-    "content/sixth/Biology/Enzymes/Effectors.md",
     "layouts/partials/toc.html~",
     "layouts/partials/head.html~",
     "data/config.yaml~",

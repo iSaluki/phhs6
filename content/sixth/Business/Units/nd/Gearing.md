@@ -23,7 +23,14 @@ Debt/Equity * 100
 - Lower is safer, but earnings are unlikely to spike
 - The best choice depends on the business
 
+### Gearing ratio (%)
 
+Non-current liabilities / Total equity + non-current liabilities * 100
+
+#### Evaluating
+- If ratio is 50% or above, normally said to be high
+- Gearing of less than 20% normally said to be low
+- But levels of acceptable gearing depend upon the business and industry
 
 
 

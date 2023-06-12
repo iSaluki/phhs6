@@ -32,7 +32,11 @@ Non-current liabilities / Total equity + non-current liabilities * 100
 - Gearing of less than 20% normally said to be low
 - But levels of acceptable gearing depend upon the business and industry
 
+---
 
+1) 50%
+2) 20%
+3) 
 
 
 

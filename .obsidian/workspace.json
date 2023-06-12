@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Gearing.md",
+                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Gearing.md",
+                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Gearing.md",
+                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/Gearing.md"
+                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md"
               }
             }
           }
@@ -156,8 +156,12 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/OrganicFVBuis.md",
+    "content/sixth/Business/Units/fh/RealIncome.md",
+    "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
+    "content/sixth/Business/Units/nd/Finance.md",
+    "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Gearing.md",
+    "content/sixth/Business/Units/nd/OrganicFVBuis.md",
     "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605115309.png",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605102340.png",
@@ -182,11 +186,7 @@
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/HRFlow.md",
     "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
-    "content/sixth/Business/Units/fh/Promotion.md",
-    "content/sixth/Business/Units/fh/Price.md",
-    "content/sixth/Business/Units/fh/MarketingBranding.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
-    "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",

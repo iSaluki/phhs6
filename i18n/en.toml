@@ -35,7 +35,7 @@ other = "Light Mode"
 other = "Dark Mode"
 
 [edit_source]
-other = "Edit Source"
+other = "Edit"
 
 [interactive_graph]
 other = "Interactive Graph"
@@ -56,10 +56,10 @@ other = "Recent Notes"
 other = "first 3 {{ .notes }}"
 
 [search_for_something]
-other = "Enter a keyword or page name..."
+other = "Enter a snippet of the content you are looking for..."
 
 [toc]
 other = "Table of Contents"
 
 [copyright]
-other = "Made by {{ .name }}, © 2022-{{ .year }}, using Quartz. Some content is provided by third-parties."
+other = "Made by {{ .name }},© 2022-{{ .year }}"

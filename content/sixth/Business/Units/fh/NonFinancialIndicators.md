@@ -36,6 +36,20 @@ tags:
 - Customer retention rate
 - Brand reputation and awareness
 
+### Other relevant non-financial measures
+
+- Environmental performance
+- Compliance regulation
+- Health & safety record
+- Social media reach
+
+### Making connections between financial and non-financial measures
+
+- Financial measures and non-financial measures are closely linked. 
+	- If you want to improve your operating profit margins, taking non-financial measures to improve employee satisfaction could aid in achieving this goal
+	- Improved product quality may cost no extra money, but could allow the goods to be sold at a higher price and more quickly.
+
+
 
 
 [Business](/Business)

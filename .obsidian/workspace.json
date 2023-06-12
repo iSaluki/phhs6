@@ -156,6 +156,7 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "i18n/en.toml~",
     "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
     "content/sixth/Business/Units/nd/Finance.md",
@@ -185,7 +186,6 @@
     "content/sixth/CompSci/Theory/Databases/Overview.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/HRFlow.md",
-    "content/sixth/Business/Units/fh/MeasuringHRPerformance.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",

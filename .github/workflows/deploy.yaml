@@ -29,7 +29,7 @@ jobs:
 
       - name: Build
         with:
-          ${{secrets.OPERAND_SECRET}}
+          operand_secret: ${{secrets.OPERAND_SECRET}}
         run: hugo --minify
 
       - name: Deploy

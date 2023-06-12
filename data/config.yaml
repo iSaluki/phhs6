@@ -13,7 +13,7 @@ enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/iSaluki/phhs6/tree/hugo/content/
 enableSemanticSearch: true
-operandApiKey: "{{secrets.OPERAND_SECRET}}"
+operandApiKey: "{{secrets.operand_secret}}"
 description:
   A website hosting lots of content related to me
 page_title:

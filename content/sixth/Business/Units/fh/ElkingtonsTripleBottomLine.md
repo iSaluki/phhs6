@@ -1,5 +1,5 @@
 ---
-title:"Elkington's Triple Bottom Line (Profit, People, Planet)"
+title: "Elkington's Triple Bottom Line (Profit, People, Planet)"
 tags:
 - business
 ---

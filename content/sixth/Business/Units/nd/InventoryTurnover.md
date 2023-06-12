@@ -32,6 +32,20 @@ Receivables (days) = Trade receivables / revenue (sales) x 365
 
 Payables (days) = Trade payables / cost of sales x 365
 
+### Evaluating inventory turnover
+
+- Varies between industries
+- Holding more inventory may improve customer service
+- Seasonal fluctuations in demand during the year may not be reflected in the calculations
+- Inventory turnover is not relevant to most service businesses
+
+### How can inventory turnover be increased?
+
+- Sell-off or dispose of slow-moving or obsolete inventory
+- Introduce lean production techniques to reduce amounts of inventory held
+- Rationalise the product range made or sold
+- Negotiate “sale or return” arrangements with suppliers – so inventory can be returned if it does not sell
+
 
 
 

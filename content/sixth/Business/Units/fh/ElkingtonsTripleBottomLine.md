@@ -30,6 +30,18 @@ tags:
 	- Measures extent to which business is socially responsible 
 	- Hard to calculate & report reliably & consistently
 
+### Mini case study: Novo Nordisk
+
+- Profit
+	- Novo Nordisk is already highly profitable so does not need to work heavily in this area
+	- Primary objective is to develop and market treatments
+- People
+	- Novo Nordisk Foundation has the majority of the voting power in their shareholder structure
+	- Develop/provide life saving medications
+- Planet
+	- Commit to 100% renewable production sites
+	- Investing in research
+	- Zero environmental impact by 2030
 
 
 

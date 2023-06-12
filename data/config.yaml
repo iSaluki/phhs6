@@ -12,12 +12,12 @@ enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/iSaluki/phhs6/tree/hugo/content/
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+enableSemanticSearch: true
+operandApiKey: "{{secrets.OPERAND_SECRET}}"
 description:
   A website hosting lots of content related to me
 page_title:
-  "📚 Seth MB"
+  "📚 Seth"
 links:
   - link_name: Github
     link: https://github.com/isaluki

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/NonFinancialIndicators.md"
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
     "i18n/en.toml~",
-    "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
+    "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+    "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/nd/Finance.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Gearing.md",
@@ -185,7 +186,6 @@
     "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Databases/Overview.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
-    "content/sixth/Business/Units/fh/HRFlow.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",

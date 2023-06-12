@@ -62,4 +62,4 @@ other = "Enter a snippet of the content you are looking for..."
 other = "Table of Contents"
 
 [copyright]
-other = "Made by {{ .name }},© 2022-{{ .year }}"
+other = "©{{ .name }} 2022-{{ .year }}"

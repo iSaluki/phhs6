@@ -46,6 +46,36 @@ Payables (days) = Trade payables / cost of sales x 365
 - Rationalise the product range made or sold
 - Negotiate “sale or return” arrangements with suppliers – so inventory can be returned if it does not sell
 
+### Limitations of Ratio Analysis
+
+- One data set is not enough
+- Unknown reliability of data
+	- Window dressing
+- Based on the past
+- Comparability
+
+### Why might ratio data not be entirely reliable?
+
+- Financial information involves making subjective judgements
+- Different businesses have different accounting policies
+- Potential for manipulation of accounting information (window dressing)
+
+### What ratios don't show
+
+- Competitive advantages (brand strength etc)
+- Quality
+- Ethical reputation
+- Future prospects
+- Changes in the external environment
+
+
+### Ratios Summary
+
+- Very useful analytical tools
+- Widely used and understood
+- Identify issues but don't solve problems
+- Part of a range of indicators of business problems
+
 
 
 

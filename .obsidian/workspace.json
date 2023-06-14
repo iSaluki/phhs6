@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md"
+                "file": "content/privacy.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "layouts/partials/head.html~",
     "content/_index.md",
-    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
     "content/private/callouts.md",
     "content/sixth/Business/Units/nd/InventoryTurnover.md",

@@ -51,6 +51,12 @@ tags:
 - Encourages CSR reporting
 - Supports the measurement of environmental impact and the extent of sustainability 
 
+### Drawbacks & Criticisms of the triple bottom line
+
+- Not very useful as an overall measure of business performance
+- Hard to reliably and consistently measure people & planet bottom-lines
+- No legal requirement to report it so take-up has been poor
+
 
 
 [Business](/Business)

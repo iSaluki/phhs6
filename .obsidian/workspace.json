@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md"
+                "file": "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
     "content/_index.md",
-    "content/private/callouts.md",
+    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/InventoryTurnover.md",
     "content/sixth/Business/Units/nd/FinancialRatios.md",
     "data/config.yaml~",
@@ -187,7 +188,6 @@
     "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
     "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",

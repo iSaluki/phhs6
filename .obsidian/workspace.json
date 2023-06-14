@@ -156,6 +156,7 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "layouts/partials/head.html~",
     "content/_index.md",
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
@@ -187,14 +188,12 @@
     "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
-    "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
     "layouts/partials/toc.html~",
-    "layouts/partials/head.html~",
     "content/sixth/Biology/Enzymes",
     "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/sixth/Business/Units/nd/Untitled.canvas"

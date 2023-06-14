@@ -29,6 +29,21 @@ Vision & strategy:
 
 **KPI** - Key Performance Indicator
 
+### Advantages of the Balanced Scorecard
+
+- Broader view of business performance
+- Links performance measurement to long-term mission and vision
+- Involves everyone in the business (not just financial stakeholders)
+- Highly flexible - KPIs chosen by the business
+
+### Drawbacks of the Balanced Scorecard
+
+- Danger of too many KPIs
+- Need to have balance between the four perspectives - not easy
+- Senior management may still be too concerned with financial performance
+- Needs to be updated regularly to be useful
+
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ROCE",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md"
+                "file": "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md"
               }
             }
           }
@@ -157,9 +156,11 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/FinancialRatios.md",
-    "content/sixth/Business/Units/nd/InventoryTurnover.md",
+    "content/_index.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+    "content/sixth/Business/Units/nd/InventoryTurnover.md",
+    "content/sixth/Business/Units/nd/FinancialRatios.md",
     "data/config.yaml~",
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230612110839.png",
@@ -175,7 +176,6 @@
     "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/private/setup.md",
-    "content/_index.md",
     "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
     "layouts/partials/donate.html",
     "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
@@ -188,7 +188,6 @@
     "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
     "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/sixth/CompSci/Theory/Databases/SQL.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",

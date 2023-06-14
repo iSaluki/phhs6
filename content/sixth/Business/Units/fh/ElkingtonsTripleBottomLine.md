@@ -43,6 +43,14 @@ tags:
 	- Investing in research
 	- Zero environmental impact by 2030
 
+---
+
+### Benefits & Value of the triple bottom line
+
+- Encourages businesses to think beyond narrow measure of performance (profit)
+- Encourages CSR reporting
+- Supports the measurement of environmental impact and the extent of sustainability 
+
 
 
 [Business](/Business)

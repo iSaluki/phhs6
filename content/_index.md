@@ -34,6 +34,10 @@ To support my work here and elsewhere, and encourage me to continue to work in t
 
 {{< htmlsnippet "layouts/partials/donate.html" >}}
 
+> [!tip] Come and have a chat 
+>
+> I also host a [community forum](https://community.sethmb.xyz)
+
 ## FAQ
 
 ### Does this website cover the whole A level spec for each subject?

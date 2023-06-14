@@ -27,6 +27,9 @@ Vision & strategy:
 - Internal Processes
 - Organisational capacity
 
+**KPI** - Key Performance Indicator
+
+
 
 
 [Business](/Business)

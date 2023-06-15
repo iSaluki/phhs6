@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md"
               }
             }
           }
@@ -154,9 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cd49bd4997ec53",
+  "active": "7ff67098b3c72483",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
+    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+    "content/privacy.md",
     "layouts/partials/head.html~",
     "content/_index.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
@@ -172,7 +175,6 @@
     "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Gearing.md",
     "content/sixth/Business/Units/nd/OrganicFVBuis.md",
-    "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605115309.png",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605102340.png",
     "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
@@ -187,7 +189,6 @@
     "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
     "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
-    "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
     "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
     "layouts/partials/coffee.html",

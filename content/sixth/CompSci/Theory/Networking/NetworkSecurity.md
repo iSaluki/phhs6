@@ -66,5 +66,23 @@ tags:
 - Unlike viruses and worms, trojans do not self-replicate
 
 
+##### Malware: Preventative Measures
+
+- Malware can be prevented by installing antivirus software and avoiding software from unknown sources. Must be updated regularly to avoid becoming vulnerable to new attacks.
+- Backing up a system in an off-site mode will help to retrieve the corrupted data is attacked by malware.
+- Updating the operating system and browser also helps in fixing security vulnerabilities. Browsers identify harmful sites.
+
+##### Phishing
+
+- A user might receive emails to gain personal banking details which could be misused
+- The emails look as though they are sent by their bank
+- The user clicks on a link and enters their personal information into a fake banking website, giving the attacker their credentials
+
+- Not always easily identifiable, some are much better than others
+- It is always important to check the URL and email address before interacting
+- Many email providers filter out a lot of phishing emails using automatic filters
+
+
+
 
 [Networking](sixth/CompSci/Theory/Networking/Networking)

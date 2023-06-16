@@ -82,6 +82,42 @@ tags:
 - It is always important to check the URL and email address before interacting
 - Many email providers filter out a lot of phishing emails using automatic filters
 
+### Denial of Service (DoS)
+
+- Denial of service attacks prevent a user from accessing part of a network such as an Internet server.
+- A user can be prevented from accessing websites, emails and banking applications.
+- Aims to overwhelm the server, does not really work against modern hardware.
+
+
+### Data interception and theft
+
+- Data packets travelling across a network can be intercepted and read by a third-party
+- This can be prevented by ensuring the communications are encrypted with a secure algorithm
+- Packet sniffing software such as Wireshark can be used to examine packets moving across a network that you are currently connected to. 
+- Some protocols such as VoIP can be reconstructed through this method
+- Sometimes it is legitimate to use this software to analyse network trends and detect intrusion attempts. This is done by organisations.
+- In wireless LAN, this is done by using special Wi-Fi adapters
+- It is easy for an attacker to intrude a wireless signal as this can be done from a range of 300m
+- It is important to encrypt data using WPA (Wi-Fi protected access) that uses a key of at least 128 bits.
+- Keys are often regenerated for each packet to avoid intrusion.
+
+### Brute force attack
+
+- An attacker tries many passwords with the hope that he will guess it correctly.
+- The attacker tries all the possible passwords systematically until the correct one is found. 
+- Short passwords can be easily determined
+
+#### Preventative measures
+
+- A brute force attack is delayed by using a CAPTCHA
+- This requires a user to answer a different question between successive attempts
+- Users are advised to use long, alphanumeric passwords as a measure to improve security.
+
+### SQL injection
+
+- SQL injection is a type of attack in which an attacker executes a malicious SQL statement in a web server's database
+- An example would be typing `DROP *` into a search box (destructive) or something like `SELECT *` to return the information
+
 
 
 

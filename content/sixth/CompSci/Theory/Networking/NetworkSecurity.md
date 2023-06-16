@@ -106,7 +106,6 @@ tags:
 - An attacker tries many passwords with the hope that he will guess it correctly.
 - The attacker tries all the possible passwords systematically until the correct one is found. 
 - Short passwords can be easily determined
-
 #### Preventative measures
 
 - A brute force attack is delayed by using a CAPTCHA
@@ -116,7 +115,42 @@ tags:
 ### SQL injection
 
 - SQL injection is a type of attack in which an attacker executes a malicious SQL statement in a web server's database
+- Hence, an unauthenticated user may gain access to sensitive information 
 - An example would be typing `DROP *` into a search box (destructive) or something like `SELECT *` to return the information
+
+### Pharming
+
+- Pharming is a type of attack in which malicious code is installed on the user's computer or the web server that they access without their knowledge
+- This would then redirect the user to a fake website
+
+#### Preventative measures
+
+- A user should ensure that a proper SSL connection is active as this will highlight an issue
+- Ensure relevant anti-spyware software is running 
+- Check that the URL matches what is expected
+
+### Unpatched software
+
+- Software applications are constantly upgraded by developers to improve security
+- Users receive patches that update the software
+- Unpatched software may expose you to unnecessary risk
+
+### Shoulder Surfing
+
+- Shoulder surfing is an attack where the password or pin numbers of a user are obtained by the attacker just by observing them.
+
+
+### Blagging
+
+- The attacker creates a situation to trick the user into providing sensitive information or perform actions that are not usually permitted.
+
+
+### Buffer overflow attack
+
+- Malware uses a buffer overflow attack to write values to memory locations that are larger than it can handle
+- As a result, neighbouring locations are overwritten
+- In this way, an attacker gains access to locations they do not have
+- Now the processor thinks that there are new instructions to execute, and will perform actions as definied by attackers. 
 
 
 

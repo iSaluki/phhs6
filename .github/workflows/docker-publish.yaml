@@ -40,3 +40,14 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
+    steps:
+      [...]
+      - name: Commit and push to the production branch
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "actions: publish to production repo"
+          branch: production
+          repository: public/
+
+

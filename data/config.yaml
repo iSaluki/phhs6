@@ -15,9 +15,9 @@ GitHubLink: https://github.com/iSaluki/phhs6/tree/hugo/content/
 enableSemanticSearch: false
 operandApiKey: "{{secrets.operand_secret}}"
 description:
-  A website hosting lots of content related to me
+  A website hosting school work
 page_title:
-  "📚 Seth"
+  "📚 Seth MB"
 links:
-  - link_name: Github
+  - link_name: Source Code
     link: https://github.com/isaluki

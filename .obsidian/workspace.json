@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/sixth/CompSci/Theory/Networking/Networking.md"
               }
             }
           }
@@ -156,8 +156,18 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "content/sixth/CompSci/Theory/Databases/Databases.md",
+    "content/sixth/CompSci/Theory/BinaryLogic/BinaryLogic.md",
+    "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
+    "content/sixth/Biology/Immune/Copyup.md",
+    "content/sixth/Biology/ExchangeSurfaces/ExchangeSurfaces.md",
+    "content/sixth/Biology/Enzymes/Enzymes.md",
+    "content/sixth/Biology/Disease/Disease.md",
+    "content/sixth/Biology/Circulatory/Circulatory.md",
+    "content/sixth/Biology/Cells/Cells.md",
+    "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/privacy.md",
+    "content/private/callouts.md",
     "content/_index.md",
     "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
@@ -180,7 +190,6 @@
     "public/sixth/CompSci/Theory/img/Pasted image 20230203140109.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203140538.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203135721.png",
-    "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
     "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
     "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
@@ -193,14 +202,6 @@
     "content/sixth/Business/Units/nd/Finance.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Gearing.md",
-    "content/sixth/Business/Units/nd/OrganicFVBuis.md",
-    "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
-    "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
-    "content/private/setup.md",
-    "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
-    "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
-    "content/sixth/CompSci/Theory/Networking/Networking.md",
-    "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

@@ -23,7 +23,7 @@ You can find all my subject work below
 
 ### 💰[Business Studies](/tags/business)
 
-You may also wish to search by [🏷️ tags](/tags)
+You may also wish to search with [🏷️ tags](/tags)
 
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 

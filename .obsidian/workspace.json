@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md"
+                "file": "content/privacy.md"
               }
             }
           }
@@ -156,47 +156,51 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
+    "content/private/callouts.md",
+    "content/privacy.md",
+    "content/_index.md",
     "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/images",
+    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
+    "resources/_gen/assets/scss/styles/clipboard.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "public/icon.png",
+    "public/sixth/CompSci/Theory/img/th-1967184248.jpg",
+    "public/sixth/CompSci/Theory/img/th-858488670.jpg",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230210123833.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230210123806.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230209115049.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230203141813.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230203140109.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230203140538.png",
+    "public/sixth/CompSci/Theory/img/Pasted image 20230203135721.png",
+    "content/sixth/Biology/Biodiversity/Biodiversity.md",
+    "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
+    "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
     "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
-    "content/privacy.md",
-    "layouts/partials/head.html~",
-    "content/_index.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
-    "content/private/callouts.md",
     "content/sixth/Business/Units/nd/InventoryTurnover.md",
     "content/sixth/Business/Units/nd/FinancialRatios.md",
-    "data/config.yaml~",
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
-    "content/sixth/Business/Units/fh/img/Pasted image 20230612110839.png",
-    "i18n/en.toml~",
     "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/nd/Finance.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Gearing.md",
     "content/sixth/Business/Units/nd/OrganicFVBuis.md",
-    "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605115309.png",
-    "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230605102340.png",
     "content/sixth/CompSci/Theory/Networking/NetworksQs.md",
     "content/sixth/CompSci/Theory/Networking/CloudComputingAndWebApplication.md",
     "content/private/setup.md",
     "content/sixth/Business/Units/fh/CaseStudyBlackFriday.md",
-    "layouts/partials/donate.html",
     "content/sixth/Business/Units/fh/EconomicGrowthAndBusinessCycle.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
     "content/sixth/CompSci/Theory/Networking/DataTransmission.md",
-    "content/sixth/CompSci/Theory/Networking/Layering.md",
-    "content/sixth/CompSci/Theory/Networking/NetworkProtocols.md",
-    "content/sixth/CompSci/Theory/Networking/HardwareAndWiFi.md",
-    "content/sixth/CompSci/Theory/Networking/img/Pasted image 20230525110546.png",
-    "content/sixth/Business/Units/fh/img/Pasted image 20230525094811.png",
-    "layouts/partials/coffee.html",
-    "layouts/shortcodes/htmlsnippet.html",
-    "layouts/shortcodes",
-    "layouts/partials/toc.html~",
-    "content/sixth/Biology/Enzymes",
-    "content/sixth/Business/Units/nd/img/Pasted image 20230509100900.png",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

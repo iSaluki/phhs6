@@ -56,3 +56,4 @@ Yes, go for it. However, if something doesn't look right, challenge it. I would 
 
 Fairly straightforward. I recommend having a look at [Quartz](https://github.com/jackyzha0/quartz) for more details, this is the same tool I am using here. You probably want (but don't need) a custom domain, and you likely want [Obsidian](https://obsidian.md) . If you would like some help with setup, feel free to reach out to me and I will give you a hand.
 
+secondary test

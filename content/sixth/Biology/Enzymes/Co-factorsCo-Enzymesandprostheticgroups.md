@@ -7,7 +7,5 @@ tags:
 
 
 
-#todo
-
 
 [Enzymes](sixth/Biology/Enzymes/Enzymes)

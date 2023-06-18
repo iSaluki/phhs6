@@ -52,4 +52,6 @@ As the rights to content hosted here are not as straightforward as me being able
 
 Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [Anki](https://ankiweb.net)). *I cannot guarantee the accuracy of any information provided here.*
 
+### The website doesn't look like it is in sync with GitHub. Why?
 
+GitHub changes are made in real time, however we only update the live website every hour (at 1 minute past the hour, UTC). This can lead to some discrepancies appearing temporarily. 

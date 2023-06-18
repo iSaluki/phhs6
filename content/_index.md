@@ -50,10 +50,6 @@ As the rights to content hosted here are not as straightforward as me being able
 
 ### Can I use this to revise?
 
-Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [Anki](https://ankiweb.net)).
+Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [Anki](https://ankiweb.net)). *I cannot guarantee the accuracy of any information provided here.*
 
-### How easy is to make my own website like this?
 
-Fairly straightforward. I recommend having a look at [Quartz](https://github.com/jackyzha0/quartz) for more details, this is the same tool I am using here. You probably want (but don't need) a custom domain, and you likely want [Obsidian](https://obsidian.md) . If you would like some help with setup, feel free to reach out to me and I will give you a hand.
-
-secondary test

@@ -55,7 +55,7 @@ Yes, go for it. However, if something doesn't look right, challenge it. I would 
 
 ### The website doesn't look like it is in sync with GitHub. Why?
 
-GitHub changes are made in real time, however we only update the live website every hour. This can lead to some discrepancies appearing temporarily. 
+GitHub changes are made in real time, however we only update the live website every hour. This can lead to some temporary discrepancies between the website and the source.
 
 ### Do you track me?
 

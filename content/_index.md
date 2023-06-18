@@ -37,7 +37,7 @@ To support my work here and elsewhere, and encourage me to continue to work in t
 
 > [!tip] Come and have a chat 
 >
-> I also host a [community forum](https://community.sethmb.xyz/public)
+> I also host a [✉️ community forum](https://community.sethmb.xyz/public)
 
 ## FAQ
 

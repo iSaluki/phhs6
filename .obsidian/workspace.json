@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/Networking.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/Networking.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Networking/Networking.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/BinaryLogic/BinaryLogic.md",
     "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
@@ -201,7 +202,6 @@
     "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/nd/Finance.md",
     "content/sixth/Business/Units/fh/PublicSector.md",
-    "content/sixth/Business/Units/nd/Gearing.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

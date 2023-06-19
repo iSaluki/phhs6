@@ -8,7 +8,7 @@ tags:
 ![[sixth/Biology/Classification/img/Pasted image 20230619105006.png]]
 
 - The organisation of living things into groups according to their similarities
-- This is the **phylogenetic hierarchy**
+- This is the **[phylogenetic hierarchy](sixth/Biology/Classification/Phylogeny)**
 
 ### Domain (below kingdom)
 

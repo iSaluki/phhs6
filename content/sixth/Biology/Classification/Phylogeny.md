@@ -9,5 +9,14 @@ tags:
 - Any 2 living organisms have a common ancestor at some point in the past.
 - The more recent the common ancestor, the more closely related they are.
 
+- Natural classification places similar species in a group
+- Any two living organisms have a common ancestor
+- When species started to evolve differently there are branch points or nodes on the tree
+- More recent common ancestors mean closer relations.
+
+### Example tree
+
+![[sixth/Biology/Classification/img/Pasted image 20230619110541.png]]
+
 
 [Classification](sixth/Biology/Classification/Classification)

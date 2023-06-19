@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Classification/Phylogeny.md",
+                "file": "content/sixth/Biology/Classification/Variation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Classification/Phylogeny.md",
+                "file": "content/sixth/Biology/Classification/Variation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Classification/Phylogeny.md",
+                "file": "content/sixth/Biology/Classification/Variation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Classification/Phylogeny.md"
+                "file": "content/sixth/Biology/Classification/Variation.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Biology/Classification/Phylogeny.md",
+    "content/sixth/Biology/Classification/Variation.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619110541.png",
     "content/sixth/Biology/Classification/Hierarchies.md",
-    "content/sixth/Biology/Classification/Phylogeny.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619105006.png",
     "content/sixth/Biology/Classification/img",
     "content/sixth/Biology/Classification/Classification.md",
@@ -194,7 +195,6 @@
     "public/sixth/CompSci/Theory/img/Pasted image 20230209115049.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203141813.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203140109.png",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230203140538.png",
     "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
     "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
     "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",

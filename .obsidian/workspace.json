@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/sixth/Biology/Classification/Hierarchies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/sixth/Biology/Classification/Hierarchies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/sixth/Biology/Classification/Hierarchies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md"
+                "file": "content/sixth/Biology/Classification/Hierarchies.md"
               }
             }
           }
@@ -156,10 +156,16 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Biology/Classification/img/Pasted image 20230619105006.png",
+    "content/sixth/Biology/Classification/img",
+    "content/sixth/Biology/Classification/Classification.md",
+    "content/sixth/Biology/Classification/Hierarchies.md",
+    "content/sixth/Biology/Disease/Disease.md",
+    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+    "content/sixth/Biology/Classification",
     "content/_index.md",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
-    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/BinaryLogic/BinaryLogic.md",
@@ -167,7 +173,6 @@
     "content/sixth/Biology/Immune/Copyup.md",
     "content/sixth/Biology/ExchangeSurfaces/ExchangeSurfaces.md",
     "content/sixth/Biology/Enzymes/Enzymes.md",
-    "content/sixth/Biology/Disease/Disease.md",
     "content/sixth/Biology/Circulatory/Circulatory.md",
     "content/sixth/Biology/Cells/Cells.md",
     "content/sixth/Biology/Biodiversity/Biodiversity.md",
@@ -179,8 +184,6 @@
     "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/images",
-    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
-    "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "public/icon.png",
     "public/sixth/CompSci/Theory/img/th-1967184248.jpg",
     "public/sixth/CompSci/Theory/img/th-858488670.jpg",
@@ -199,8 +202,6 @@
     "content/sixth/Business/Units/nd/InventoryTurnover.md",
     "content/sixth/Business/Units/nd/FinancialRatios.md",
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
-    "content/sixth/Business/Units/fh/RealIncome.md",
-    "content/sixth/Business/Units/nd/Finance.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

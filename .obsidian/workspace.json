@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "layouts/shortcodes/htmlsnippet.html",
+    "layouts/shortcodes",
+    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "content/_index.md",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
@@ -170,7 +173,6 @@
     "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/privacy.md",
     "content/private/callouts.md",
-    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
@@ -180,7 +182,6 @@
     "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/code-title.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
-    "resources/_gen/assets/scss/styles/clipboard.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "public/icon.png",
     "public/sixth/CompSci/Theory/img/th-1967184248.jpg",
     "public/sixth/CompSci/Theory/img/th-858488670.jpg",
@@ -201,7 +202,6 @@
     "content/sixth/Business/Units/fh/NonFinancialIndicators.md",
     "content/sixth/Business/Units/fh/RealIncome.md",
     "content/sixth/Business/Units/nd/Finance.md",
-    "content/sixth/Business/Units/fh/PublicSector.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

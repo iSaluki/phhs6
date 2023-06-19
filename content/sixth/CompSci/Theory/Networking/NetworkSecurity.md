@@ -209,7 +209,24 @@ tags:
 - During the next visit, certain features of the website are loaded from this cache, speeding up access
 - A proxy server hides the IP address of a user, enhancing security
 
+#### Authentication
 
+- Authentication is used to provide access to trusted parties. The security is further strengthened using encryption.
+- To login to systems each user is provided with sets of usernames and passwords
+- The various sets of usernames and passwords are stored in a security file. If the user provides the correct set of usernames and passwords they are granted access. If they do not match, their access is refused.
+- Some systems may ask the user to enter only certain characters of the password to shield from potential keyloggers.
+
+
+##### Biometric Authentication
+
+- Biometrics refers to the authentication techniques that rely on measurable physical characteristics.
+- Some examples of such characteristics are fingerprint scans, retina scans, and face and voice recognition. 
+
+
+#### Security protocols
+
+- SSL and TLS are two protocols that ensure communication between the user and the webserver is encrypted.
+- Browsers typically display a padlock when this kind of connection is active. 
 
 
 

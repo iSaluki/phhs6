@@ -228,6 +228,9 @@ tags:
 - SSL and TLS are two protocols that ensure communication between the user and the webserver is encrypted.
 - Browsers typically display a padlock when this kind of connection is active. 
 
+- TLS is the newest protocol
+
+
 
 
 [Networking](sixth/CompSci/Theory/Networking/Networking)

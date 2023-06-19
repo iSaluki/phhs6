@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Classification/Variation.md",
+                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Classification/Variation.md",
+                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Classification/Variation.md",
+                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Classification/Variation.md"
+                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "7ff67098b3c72483",
   "lastOpenFiles": [
-    "content/sixth/Biology/Classification/Phylogeny.md",
+    "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
+    "content/sixth/Business/Units/nd/BalanceSheets.md",
+    "content/sixth/Business/Units/nd/TechnologyOperations.md",
     "content/sixth/Biology/Classification/Variation.md",
+    "content/sixth/Biology/Classification/Phylogeny.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619110541.png",
     "content/sixth/Biology/Classification/Hierarchies.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619105006.png",
@@ -199,9 +202,6 @@
     "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
     "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
-    "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
-    "content/sixth/Business/Units/nd/InventoryTurnover.md",
-    "content/sixth/Business/Units/nd/FinancialRatios.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

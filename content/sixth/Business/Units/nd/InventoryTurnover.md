@@ -109,6 +109,32 @@ Payables (days) = Trade payables / cost of sales x 365
    - Direct comparisons of ratios – works within an industry
    - Historial comparisons - look at trends between companies
 
+3) Explain three reasons why comparisons of ratios may provide misleading results.
+   
+   - It is possible to manipulate figures by using ratios that place a business in a more favourable light (window dressing)
+	   - The business may choose to try and show their best side in financial reports to increase the chance of people investing in the business and to protect themselves from fear amongst shareholders. 
+- Not all ratios are always relevant to all situations
+	- It makes sense for specific businesses and industries to use certain formulae, however for other businesses that formulae may not provide any valuable insight into the state of the business.
+- Data may contain inaccuracies or be interpreted wrong
+	- It is possible that a figure was written down wrong or a formula was followed improperly, leading to untrue statistics being used in a financial report. Whilst this is unlikely as these reports should be checked, it is still definitely a possibility. 
+
+4) Identify two external factors that can affect company performance. Using a particular ratio, show how it might be affected by the two external factors that you have identified.
+   
+   - Inflation
+   - A change in foreign policy (tariffs/customs)
+   
+   - Inventory turnover may reduce if there are frequent delays at customs
+   - If inflation rose, then people might have to ration their usage of your products
+
+5) Analyse how changes in a car manufacturer's corporate objectives might influence the ways in which a car manufacturer uses ratio analysis.
+   
+   
+   If a corporate objective goes from being breaking even to maximizing profit, then switching from current ratio to receivable days might have a positive impact on the business.
+
+
+
+
+   
 
 
 [Business](/Business)

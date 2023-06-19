@@ -150,8 +150,28 @@ tags:
 - Malware uses a buffer overflow attack to write values to memory locations that are larger than it can handle
 - As a result, neighbouring locations are overwritten
 - In this way, an attacker gains access to locations they do not have
-- Now the processor thinks that there are new instructions to execute, and will perform actions as definied by attackers. 
+- Now the processor thinks that there are new instructions to execute, and will perform actions as defined by attackers. 
 
+
+### Preventing Network Threats
+
+> “One single vulnerability is all an attacker needs. - Window Snyder”
+
+
+#### Penetration Testing
+
+- Penetration testing is a testing method to analyse a computer system or network for possible vulnerabilities that an attacker may take advantage of.
+- Penetration testing can be automated by software and involves the following steps:
+	- Identifying a vulnerability in the system
+	- Setting up an attack to check the vulnerability
+	- Carrying out the attack
+	- Testing the ability of the system to recover any lost or corrupted data after the attack
+
+#### Firewalls
+
+- Hardware and/or software placed between the user's computer and an external network, such as the internet, to filter data in and out of the computer.
+- Firewalls are installed on servers, computers, or routers depending upon the network requirements
+- A hardware firewall is a computer that consists of two network interface cards, one connected to the internal network and the other connected to the external network.
 
 
 

@@ -8,7 +8,7 @@ title: "Privacy Policy"
 
 **What data we collect**
 
-*Matamo* is used to collect basic analytical data on site visitors—this data is used solely for optimising the website. No personally identifiable data is collected. This is set to respect Do Not Track requests from your browser, so enabling Do Not Track will automatically opt you out of data collection. You are also welcome to block scripts from *me.sethmb.xyz/analytics* from being loaded should you wish to ensure no communication occurs.
+No client side tracking is present on this site. Some analytics are collected by the webserver and some by Cloudflare.
 
 
 Whilst the source code for the site is hosted on GitHub and the static site is built by GitHub Actions, it is not hosted by GitHub. I am privately hosting the site with [Frantech Solutions](https://frantech.ca), who are strongly committed to privacy.

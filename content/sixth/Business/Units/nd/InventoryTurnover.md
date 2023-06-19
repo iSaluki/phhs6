@@ -107,7 +107,7 @@ Payables (days) = Trade payables / cost of sales x 365
 2) State two types of comparison used in ratio analysis
    
    - Direct comparisons of ratios – works within an industry
-   - Historial comparisons - look at trends between companies
+   - Historical comparisons – look at trends between companies
 
 3) Explain three reasons why comparisons of ratios may provide misleading results.
    
@@ -129,7 +129,7 @@ Payables (days) = Trade payables / cost of sales x 365
 5) Analyse how changes in a car manufacturer's corporate objectives might influence the ways in which a car manufacturer uses ratio analysis.
    
    
-   If a corporate objective goes from being breaking even to maximizing profit, then switching from current ratio to receivable days might have a positive impact on the business.
+   If a corporate objective goes from being breaking even to maximising profit, then switching from current ratio to receivable days might have a positive impact on the business.
 
 
 

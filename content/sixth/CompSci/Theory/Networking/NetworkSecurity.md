@@ -172,6 +172,44 @@ tags:
 - Hardware and/or software placed between the user's computer and an external network, such as the internet, to filter data in and out of the computer.
 - Firewalls are installed on servers, computers, or routers depending upon the network requirements
 - A hardware firewall is a computer that consists of two network interface cards, one connected to the internal network and the other connected to the external network.
+- Checks whether the incoming and outgoing data meet the set of requirements imposed by the network administrator.
+
+- Preventing malware and hackers from accessing the internal network.
+- Prevent Denial of Service attacks.
+- A user is notified when the software in a system tries to access an external source. 
+- When a firewall is software based, it is usually integrated into the operating system.
+
+#### Packet filtering or static filtering
+
+- A firewall examines the source and destination IP address in a packet
+- Only the data packets with permitted IP addresses are allowed
+- Packets may be filtered based on the protocol being used o the port number it is trying to access
+- If data fails to meet these requirements a warning is issued or the data is dropped and not allowed to pass through
+
+#### Stateful inspection or dynamic filtering
+
+- The process of filtering data packets by examining the payload is called stateful inspection or packet filtering
+- Based on the recent conversations, packets will be filtered
+- A data packet is rejected if it does not form a part of a registered communication.
+
+#### Limitations of firewalls
+
+- The use of modems by an internal computer to bypass a firewall cannot be prevented
+- Does not take care of password strength and carelessness of an internal user.
+- Firewalls can also be disabled in stand-alone computers according to a user's choice, the computer is not safe
+- In an organisation, it is important for a network manager to control the firewall.
+
+#### Proxy server
+
+- A proxy server installed between a user's computer and the web server acts as a firewall.
+
+- Access to certain websites can be blocked
+- Response time for a web browser's request can be reduced by using a cache
+- During the first visit to a website, its home page is stored in a proxy server cache
+- During the next visit, certain features of the website are loaded from this cache, speeding up access
+- A proxy server hides the IP address of a user, enhancing security
+
+
 
 
 

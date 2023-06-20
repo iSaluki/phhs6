@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+    "content/sixth/Business/Units/fh/CoreCompetencies.md",
+    "content/_index.md",
     "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
     "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
     "content/sixth/Business/Units/nd/InventoryTurnover.md",
@@ -173,7 +175,6 @@
     "content/sixth/Biology/Disease/Disease.md",
     "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "content/sixth/Biology/Classification",
-    "content/_index.md",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
     "content/sixth/CompSci/Theory/Networking/Networking.md",
@@ -187,7 +188,6 @@
     "content/sixth/Biology/Cells/Cells.md",
     "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/privacy.md",
-    "content/private/callouts.md",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",

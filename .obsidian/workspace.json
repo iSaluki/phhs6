@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CoreCompetencies.md"
+                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/status.md",
     "content/sixth/Business/Units/fh/CoreCompetencies.md",
+    "content/sixth/Business/Units/fh/CaseStudyBT.md",
+    "content/status.md",
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "content/_index.md",
     "content/private/callouts.md",
@@ -187,7 +188,6 @@
     "content/sixth/Biology/Immune/Copyup.md",
     "content/sixth/Biology/ExchangeSurfaces/ExchangeSurfaces.md",
     "content/sixth/Biology/Enzymes/Enzymes.md",
-    "content/sixth/Biology/Circulatory/Circulatory.md",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",

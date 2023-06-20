@@ -26,4 +26,5 @@ If a quality meets all three conditions, then it is a core competency.
 - Focus on the core competencies
 
 
+
 [Business](/Business)

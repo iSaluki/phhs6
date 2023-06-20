@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InventoryTurnover.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+    "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+    "content/sixth/Business/Units/nd/InventoryTurnover.md",
     "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
     "content/sixth/Business/Units/nd/TechnologyOperations.md",
@@ -198,10 +202,6 @@
     "public/sixth/CompSci/Theory/img/Pasted image 20230209115049.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203141813.png",
     "public/sixth/CompSci/Theory/img/Pasted image 20230203140109.png",
-    "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
-    "content/sixth/Business/Units/fh/CaseStudyAirbus.md",
-    "content/sixth/CompSci/Theory/Networking/DNSAndPacketSwitching.md",
-    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

@@ -11,6 +11,7 @@ Content on this site may not all be owned or produced by me, and is hosted here 
 
 The accuracy of the information on the site cannot be fully guaranteed. I do my best but as I am learning these subjects some inaccuracies are inevitable and may not be corrected. If you notice something, please let me know or submit a correction on GitHub. I will appreciate any feedback.
 
+Lots of computer science content such as code is not hosted here, but may appear on source control occasionally. If there is demand for algorithms or code to be explained here, then I may consider including it in future.
 
 
 # Subjects

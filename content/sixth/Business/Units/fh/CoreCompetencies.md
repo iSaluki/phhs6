@@ -12,6 +12,18 @@ The concept was developed by Prahalad & Hamel
 
 When linked to [SWOT Analysis](sixth/Business/Units/fh/SWOTAnalysis), core competencies are a strength
 
+### The Three Key Conditions
+
+If a quality meets all three conditions, then it is a core competency.
+
+- Does it provide consumer benefits?
+- Is it easy for competitors to imitate? (NO)
+- Can it be leveraged widely to many products and markets?
+
+### Prahalad & Hamel's suggest
+
+- Outsource areas that you don't specialise in 
+- Focus on the core competencies
 
 
 [Business](/Business)

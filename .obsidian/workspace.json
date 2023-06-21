@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
+                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
+                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md",
+                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CaseStudyBT.md"
+                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md"
               }
             }
           }
@@ -156,8 +156,27 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/CoreCompetencies.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621103419.png",
+    "content/sixth/Biology/Classification/VariationStandardDeviation.md",
+    "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621103200.png",
+    "content/sixth/Biology/Classification/ConvergentDivergentEvoluton.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621102820.png",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621102628.png",
+    "content/utilities.md",
+    "content/sixth/Biology/Classification/TypesOfAdaptation.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621101955.png",
+    "content/sixth/Biology/Classification/ComparativeBiochemistry.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621101235.png",
+    "content/sixth/Biology/Classification/EvolutionaryEmbryology.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621100941.png",
+    "content/sixth/Biology/Classification/ComparativeAnatomy.md",
+    "content/sixth/Biology/Classification/Phylogeny.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621100618.png",
+    "content/sixth/Biology/Classification/ProblemWithTheFossilRecord.md",
+    "content/sixth/Biology/Classification/EvolutionaryTimeline.md",
     "content/sixth/Business/Units/fh/CaseStudyBT.md",
+    "content/sixth/Business/Units/fh/CoreCompetencies.md",
     "content/status.md",
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "content/_index.md",
@@ -170,24 +189,12 @@
     "content/sixth/Business/Units/nd/BalanceSheets.md",
     "content/sixth/Business/Units/nd/TechnologyOperations.md",
     "content/sixth/Biology/Classification/Variation.md",
-    "content/sixth/Biology/Classification/Phylogeny.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619110541.png",
-    "content/sixth/Biology/Classification/Hierarchies.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619105006.png",
     "content/sixth/Biology/Classification/img",
-    "content/sixth/Biology/Classification/Classification.md",
-    "content/sixth/Biology/Disease/Disease.md",
-    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
     "content/sixth/Biology/Classification",
     "layouts/shortcodes/htmlsnippet.html",
     "layouts/shortcodes",
-    "content/sixth/CompSci/Theory/Networking/Networking.md",
-    "content/sixth/CompSci/Theory/Databases/Databases.md",
-    "content/sixth/CompSci/Theory/BinaryLogic/BinaryLogic.md",
-    "content/sixth/CompSci/Theory/BinaryLogic/BooleanLogic.md",
-    "content/sixth/Biology/Immune/Copyup.md",
-    "content/sixth/Biology/ExchangeSurfaces/ExchangeSurfaces.md",
-    "content/sixth/Biology/Enzymes/Enzymes.md",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
@@ -195,13 +202,6 @@
     "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/images",
     "public/icon.png",
-    "public/sixth/CompSci/Theory/img/th-1967184248.jpg",
-    "public/sixth/CompSci/Theory/img/th-858488670.jpg",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230210123833.png",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230210123806.png",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230209115049.png",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230203141813.png",
-    "public/sixth/CompSci/Theory/img/Pasted image 20230203140109.png",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

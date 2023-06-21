@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
+                "file": "content/sixth/Biology/Classification/DarwinsTheory.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
+                "file": "content/sixth/Biology/Classification/DarwinsTheory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
+                "file": "content/sixth/Biology/Classification/DarwinsTheory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Classification/SpearmanRankCorrelation.md"
+                "file": "content/sixth/Biology/Classification/DarwinsTheory.md"
               }
             }
           }
@@ -156,9 +157,16 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Biology/Classification/img/Pasted image 20230621104959.png",
+    "sixth/Business/Units/nd/CapitalStructure.md",
+    "content/sixth/Biology/Classification/DarwinsTheory.md",
+    "sixth/Business/Units/nd",
+    "sixth/Business/Units",
+    "sixth/Business",
+    "sixth",
+    "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230621103419.png",
     "content/sixth/Biology/Classification/VariationStandardDeviation.md",
-    "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230621103200.png",
     "content/sixth/Biology/Classification/ConvergentDivergentEvoluton.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230621102820.png",
@@ -187,8 +195,6 @@
     "content/sixth/Business/Units/nd/InventoryTurnover.md",
     "content/sixth/Business/Units/nd/BreakEvenAnalysis.md",
     "content/sixth/Business/Units/nd/BalanceSheets.md",
-    "content/sixth/Business/Units/nd/TechnologyOperations.md",
-    "content/sixth/Biology/Classification/Variation.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230619110541.png",
     "content/sixth/Biology/Classification/img/Pasted image 20230619105006.png",
     "content/sixth/Biology/Classification/img",
@@ -197,11 +203,6 @@
     "layouts/shortcodes",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
-    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
-    "resources/_gen/assets/scss/styles/darkmode.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
-    "resources/_gen/assets/scss/styles/custom.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
-    "resources/_gen/images",
-    "public/icon.png",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

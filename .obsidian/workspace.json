@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
+                "file": "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
+                "file": "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
+                "file": "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md"
+                "file": "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
     "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
+    "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
+    "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
     "content/sixth/Biology/Biodiversity/Sampling.md",
     "content/sixth/Biology/Biodiversity/img/Pasted image 20230624131155.png",
     "content/sixth/Biology/Biodiversity/img/Pasted image 20230624131029.png",
@@ -196,7 +197,6 @@
     "content/sixth/Business/Units/fh/SWOTAnalysis.md",
     "content/_index.md",
     "content/private/callouts.md",
-    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
     "content/sixth/Biology/Classification/img",
     "content/sixth/Biology/Classification",
     "layouts/shortcodes/htmlsnippet.html",

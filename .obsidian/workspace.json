@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/Sampling.md",
+                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/Sampling.md",
+                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/Sampling.md",
+                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/Sampling.md"
+                "file": "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md"
               }
             }
           }
@@ -156,8 +156,15 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Biology/Biodiversity/Biodiversity.md",
+    "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
+    "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
     "content/sixth/Biology/Biodiversity/Sampling.md",
+    "content/sixth/Biology/Biodiversity/img/Pasted image 20230624131155.png",
+    "content/sixth/Biology/Biodiversity/img/Pasted image 20230624131029.png",
+    "content/sixth/Biology/Biodiversity/img/Pasted image 20230624130853.png",
+    "content/sixth/Biology/Biodiversity/img/Pasted image 20230624130753.png",
+    "content/sixth/Biology/Biodiversity/img/Pasted image 20230624130610.png",
+    "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/sixth/Biology/Biodiversity/img/Pasted image 20230624125953.png",
     "content/sixth/Biology/Biodiversity/img/Pasted image 20230624125401.png",
     "content/sixth/Biology/Biodiversity/img/Pasted image 20230624124956.png",
@@ -174,15 +181,10 @@
     "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
     "content/sixth/Biology/Classification/img/Pasted image 20230621103419.png",
     "content/sixth/Biology/Classification/VariationStandardDeviation.md",
-    "content/sixth/Biology/Classification/img/Pasted image 20230621103200.png",
     "content/sixth/Biology/Classification/ConvergentDivergentEvoluton.md",
-    "content/sixth/Biology/Classification/img/Pasted image 20230621102820.png",
-    "content/sixth/Biology/Classification/img/Pasted image 20230621102628.png",
     "content/utilities.md",
     "content/sixth/Biology/Classification/TypesOfAdaptation.md",
-    "content/sixth/Biology/Classification/img/Pasted image 20230621101955.png",
     "content/sixth/Biology/Classification/ComparativeBiochemistry.md",
-    "content/sixth/Biology/Classification/img/Pasted image 20230621101235.png",
     "content/sixth/Biology/Classification/EvolutionaryEmbryology.md",
     "content/sixth/Biology/Classification/ComparativeAnatomy.md",
     "content/sixth/Biology/Classification/Phylogeny.md",
@@ -195,8 +197,6 @@
     "content/_index.md",
     "content/private/callouts.md",
     "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
-    "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
-    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
     "content/sixth/Biology/Classification/img",
     "content/sixth/Biology/Classification",
     "layouts/shortcodes/htmlsnippet.html",

@@ -31,5 +31,13 @@ tags:
 	- F—frequent
 	- O—occasional
 	- R—rare
+
+
 - Density = mean number of individuals per unit area
+- Frequency = number or % of sampling units in which a species occurs
+- % cover: number of quadrat squares occupied by a species 
+- Point frame quadrat: each plant that touches a pin is counted
+![[sixth/Biology/Biodiversity/img/Pasted image 20230624125953.png]]
+
+
 [Biodiversity](sixth/Biology/Biodiversity/Biodiversity)

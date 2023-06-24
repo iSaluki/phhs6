@@ -230,6 +230,58 @@ tags:
 
 - TLS is the newest protocol
 
+---
+
+
+#### Encryption
+
+- Encoding a message in such a way that only allows authorised users to decipher it.
+- When an unauthorised user receives an encrypted message, they cannot decipher it.
+- Public/Private key encryption is typically used here.
+
+#### Symmetric vs Asymmetric Ciphers
+
+- Symmetric ciphers use the same method in different directions to encrypt/decrypt
+- Asymmetric ciphers use clock arithmetic to perform a one way function.
+
+
+#### Keys
+
+##### Private keys
+
+- Only kept by the intended recipient 
+- Used to decrypt the message
+- Never transmitted
+
+##### Public keys
+
+- Available to all users
+
+
+#### Encryption using keys
+
+- A key making algorithm is responsible for generating public and private keys of the receiver.
+- The public key can be found in a directory.
+- Sender encrypts the message using a public key in this directory.
+- Receiver receives this data and decrypts it using the private key.
+
+#### Digital signatures
+
+- Certificates run the same hashing algorithm against packets to assure that a packet has not been altered in transit
+- A hash can be produced by the sender and then encrypted with a private key before being transmitted by the sender. 
+- If the receiver decrypts the packet and calculates a different hash, they know that something is wrong.
+- A certificate authority (CA) such as Let's Encrypt will issue a digital certificate 
+
+
+### MAC Address Filtering
+
+- The router compares the MAC address of the device requesting a connection with a list of approved devices.
+- The list of approved devices is managed by a network administrator
+- MAC address filtering is not completely secure
+- MAC addresses can be filtered 
+- A hacker could intercept packets and find the MAC address of an approved device and then imitate it.
+
+
 
 
 

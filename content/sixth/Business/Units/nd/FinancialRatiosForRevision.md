@@ -8,6 +8,8 @@ tags:
 
 Find [more papers](https://www.savemyexams.co.uk/a-level/business/aqa/-/pages/past-papers/)
 
+See the answer snippets [here](sixth/Business/Units/nd/FinancialRatiosMarkscheme)
+
 ### Payable days
 
 Payables = Trade Payables / Cost of Sales x 365

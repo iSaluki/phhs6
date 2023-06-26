@@ -4,15 +4,30 @@ tags:
 - business
 ---
 
+*Screenshots are taken from past exam papers.*
+
+Find [more papers](https://www.savemyexams.co.uk/a-level/business/aqa/-/pages/past-papers/)
+
 ### Payable days
 
 Payables = Trade Payables / Cost of Sales x 365
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626145027.png]]
+[Source paper](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-71321-QP-NOV21.PDF)
 
 
 ### Receivable days
 
 Receivables = Trade Receivables / Revenue x 365
 
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626145339.png]]
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626145416.png]]
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626145307.png]]
+
+[Source paper](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-71322-QP-NOV21.PDF)
 
 ### ROCE
 

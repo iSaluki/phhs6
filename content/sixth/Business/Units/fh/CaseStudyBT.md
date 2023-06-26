@@ -12,6 +12,6 @@ tags:
    A numerical value is absolute and fact. By measuring planet and people performances with figures, they can be certain of the actual impact that they are having on the planet.
 
 
-
+**Work on paper!**
 
 [Business](/Business)

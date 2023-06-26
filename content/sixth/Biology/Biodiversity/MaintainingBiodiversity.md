@@ -36,6 +36,16 @@ tags:
 ### The Rio Convention
 
 - Convention of Biological Diversity—strategies for sustainable development
-- United Nations framework convention on climate change - agreement to stabilise greenhouse gases.
+- United Nations framework convention on climate change—agreement to stabilise greenhouse gases.
+- United Nations Convention to combat desertification
+	- prevents transformation of fertile land to desert
+	- reduce the effects of drought
+
+### Countryside Stewardship Scheme
+
+- Enhance and conserve English landscape
+	- sustain beauty and biodiversity 
+	- improve/extend/create habitats for wildlife 
+	- restoring neglected land
 
 **This is a work in progress page, come back at 3.01pm BST for the finished page.**

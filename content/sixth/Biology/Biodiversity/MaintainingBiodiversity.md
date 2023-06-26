@@ -46,6 +46,7 @@ tags:
 - Enhance and conserve English landscape
 	- sustain beauty and biodiversity 
 	- improve/extend/create habitats for wildlife 
-	- restoring neglected land
+	- restoring neglected land, conserving archaeological/historic features
+	- improve opportunities for countryside enjoyment
+	- now replaced by the Environment Stewardship Scheme
 
-**This is a work in progress page, come back at 3.01pm BST for the finished page.**

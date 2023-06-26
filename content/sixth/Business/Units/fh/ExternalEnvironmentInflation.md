@@ -18,6 +18,17 @@ tags:
 - low inflation is also known as price stability
 
 
+### Two main causes of inflation
+
+#### Demand pull
+
+- when there is excess demand
+
+#### Cost push
+
+- when costs rise
+
+![[sixth/Business/Units/fh/img/Pasted image 20230626105441.png]]
 
 
 

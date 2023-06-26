@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
+                "file": "content/sixth/Biology/Endocrinology/Homeostasis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
+                "file": "content/sixth/Biology/Endocrinology/Homeostasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
+                "file": "content/sixth/Biology/Endocrinology/Homeostasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md"
+                "file": "content/sixth/Biology/Endocrinology/Homeostasis.md"
               }
             }
           }
@@ -156,8 +156,14 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInflation.md",
+    "content/sixth/Biology/Endocrinology/img/Pasted image 20230626141325.png",
+    "content/sixth/Biology/Endocrinology/img",
+    "content/sixth/Biology/Endocrinology/Endocrinology.md",
+    "content/sixth/Biology/Endocrinology/Homeostasis.md",
+    "content/sixth/Biology/Biodiversity/Biodiversity.md",
     "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
+    "content/sixth/Biology/Endocrinology",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInflation.md",
     "content/sixth/Business/Units/fh/CaseStudyBT.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230626105441.png",
     "content/_index.md",
@@ -193,15 +199,9 @@
     "content/sixth/Biology/Classification/TypesOfAdaptation.md",
     "content/sixth/Biology/Classification/ComparativeBiochemistry.md",
     "content/sixth/Biology/Classification/EvolutionaryEmbryology.md",
-    "content/sixth/Biology/Classification/ComparativeAnatomy.md",
-    "content/sixth/Biology/Classification/Phylogeny.md",
-    "content/sixth/Biology/Classification/ProblemWithTheFossilRecord.md",
-    "content/sixth/Biology/Classification/EvolutionaryTimeline.md",
     "content/sixth/Biology/Classification/img",
     "content/sixth/Biology/Classification",
     "layouts/shortcodes/htmlsnippet.html",
-    "layouts/shortcodes",
-    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

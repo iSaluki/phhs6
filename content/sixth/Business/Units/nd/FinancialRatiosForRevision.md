@@ -11,12 +11,17 @@ Payables = Trade Payables / Cost of Sales x 365
 
 ### Receivable days
 
-Receiveables = Trade Receivables / Revenue x 365
+Receivables = Trade Receivables / Revenue x 365
 
 
 ### ROCE
 
 ROCE (%) = Operating Profit / Total Equity + Non-current liabilities x 100
+
+- Bigger is better
+- Useful for
+	- Benchmarking
+	- Overviews
 
 ### Inventory turnover
 
@@ -26,6 +31,9 @@ Inventory Turnover = Cost of Sales / Inventories
 ### Current ratio
 
 Current ratio = current assets/ current liabilities
+
+- Determine the risk of running out of cash
+- Normally presented as a ratio, but can be shown as a decimal or a fraction
 
 ### Gearing ratio
 

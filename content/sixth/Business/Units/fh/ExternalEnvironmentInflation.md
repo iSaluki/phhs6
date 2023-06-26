@@ -34,6 +34,19 @@ tags:
 
 Inflationary case study: https://www.bbc.co.uk/news/business-12196322
 
+### Main causes of demand pull inflation
+
+- Very fast growth of demand for credit/borrowing
+- High levels of consumer spending
+
+### Deflation
+
+- A period when general price levels fall
+- Normally associated with a significant reduction in economic activity (depression/slump)
+- Can also occur if the economy is rapidly building its productive potential
+
+
+
 
 
 [Business](/Business)

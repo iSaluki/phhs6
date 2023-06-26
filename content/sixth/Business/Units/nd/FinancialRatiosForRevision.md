@@ -17,6 +17,8 @@ Payables = Trade Payables / Cost of Sales x 365
 ![[sixth/Business/Units/nd/img/Pasted image 20230626145027.png]]
 [Source paper](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-71321-QP-NOV21.PDF)
 
+[Answers](sixth/Business/Units/nd/FinancialRatiosMarkscheme#payable-days)
+
 
 ### Receivable days
 

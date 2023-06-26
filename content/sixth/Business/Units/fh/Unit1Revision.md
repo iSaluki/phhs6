@@ -142,6 +142,8 @@ Calculates the "value" of the business
 ### Demographic
 
 - Targeting the correct demographic for the product will lead to an increase in demand and perceived value, allowing you to get more sales and charge a higher price. 
-- Effective market research can result in good demographical decision making.
+- Effective market research can result in good demographic decision making.
+
+
 
 [Business](/Business)

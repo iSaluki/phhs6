@@ -17,7 +17,6 @@ Payables = Trade Payables / Cost of Sales x 365
 ![[sixth/Business/Units/nd/img/Pasted image 20230626145027.png]]
 [Source paper](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2021/november/AQA-71321-QP-NOV21.PDF)
 
-[Answers](sixth/Business/Units/nd/FinancialRatiosMarkscheme#payable-days)
 
 
 ### Receivable days
@@ -47,12 +46,19 @@ ROCE (%) = Operating Profit / Total Equity + Non-current liabilities x 100
 Inventory Turnover = Cost of Sales / Inventories
 
 
+
+
 ### Current ratio
 
 Current ratio = current assets/ current liabilities
 
 - Determine the risk of running out of cash
 - Normally presented as a ratio, but can be shown as a decimal or a fraction
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626150826.png]]
+
+[Source paper](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-71322-QP-NOV20.PDF)
+
 
 ### Gearing ratio
 
@@ -63,5 +69,6 @@ Non-current liabilities / total equity + non-current liabilities x 100
 - Above 50% is too high
 - The above is usually correct, there can be exceptions however
 
+*For question, see current ratio.*
 
 [Business](/Business)

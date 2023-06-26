@@ -13,3 +13,7 @@ Questions found in [revision questions](sixth/Business/Units/nd/FinancialRatiosF
 
 ![[sixth/Business/Units/nd/img/Pasted image 20230626150217.png]]
 ![[sixth/Business/Units/nd/img/Pasted image 20230626150253.png]]
+
+### Current Ratio and Gearing Ratio
+
+![[sixth/Business/Units/nd/img/Pasted image 20230626151007.png]]

@@ -32,4 +32,8 @@ tags:
 
 
 
+Inflationary case study: https://www.bbc.co.uk/news/business-12196322
+
+
+
 [Business](/Business)

@@ -20,6 +20,17 @@ You can also represent data from a graph as an [adjacency matrix](https://en.wik
 
 ![[sixth/CompSci/Programming/img/Pasted image 20230628115830.png]]
 
+If a graph would be symmetrical, so all weighted values are equivalent both ways (so A to B and B to A both have a value of 5), then you only need to complete half of the graph, giving you a triangular shape to your adjacency matrix.
+
+The graph below only defines one value for each route, meaning it would be symmetrical.
+
+![[sixth/CompSci/Programming/img/Pasted image 20230628120332.png]]
+
+Data can also be represented as an adjacency list, such as the one shown below.
+
+![[sixth/CompSci/Programming/img/Pasted image 20230628120204.png]]
+
+
 
 
 [Computer Science](/ComputerScience)

@@ -46,6 +46,6 @@ To be a tree, a graph must:
 - be fully connected (one structure)
 - cannot be directed or weighted
 
-
+A tree will have a root, which is designated.
 
 [Computer Science](/ComputerScience)

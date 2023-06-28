@@ -42,4 +42,6 @@ An interest rate is the cost of borrowing money or the return for investing mone
 - As a result the exchange rate goes up
 - A stronger currency will make the exports more expensive and imports cheaper.
 
+
+
 [Business](/Business)

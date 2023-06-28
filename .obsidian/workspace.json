@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md"
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md"
               }
             }
           }
@@ -156,8 +156,12 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+    "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
+    "content/sixth/Biology/Biodiversity/Sampling.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
+    "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
     "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
+    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230626151007.png",
     "content/sixth/Business/Units/nd/img/Pasted image 20230626150826.png",
     "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
@@ -174,14 +178,12 @@
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Biology/Endocrinology/Endocrinology.md",
     "content/sixth/Biology/Biodiversity/Biodiversity.md",
-    "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInflation.md",
     "content/sixth/Business/Units/fh/CaseStudyBT.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/CoreCompetencies.md",
     "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
-    "content/sixth/Biology/Biodiversity/Sampling.md",
     "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
     "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
     "content/sixth/Biology/Biodiversity/img",
@@ -197,7 +199,6 @@
     "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
     "content/sixth/Biology/Classification/VariationStandardDeviation.md",
     "content/sixth/Biology/Classification/ConvergentDivergentEvoluton.md",
-    "content/utilities.md",
     "content/sixth/Biology/Classification/img",
     "content/sixth/Biology/Classification",
     "layouts/shortcodes/htmlsnippet.html",

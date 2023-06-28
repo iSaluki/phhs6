@@ -31,6 +31,21 @@ Data can also be represented as an adjacency list, such as the one shown below.
 ![[sixth/CompSci/Programming/img/Pasted image 20230628120204.png]]
 
 
+An adjacency list makes more sense when there are few connections between vertices as it will use less space.
+
+A cycle occurs if you can move from a vertex without crossing an edge twice. 
+
+![[sixth/CompSci/Programming/img/Pasted image 20230628123235.png]]
+
+A **tree** is another kind of graph.
+
+![[sixth/CompSci/Programming/img/Pasted image 20230628123352.png]]
+
+To be a tree, a graph must:
+- have no cycles
+- be fully connected (one structure)
+- cannot be directed or weighted
+
 
 
 [Computer Science](/ComputerScience)

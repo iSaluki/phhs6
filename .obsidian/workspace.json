@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md"
+                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
+    "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/terminology.md",
     "content/sixth/Untitled.md",
@@ -166,7 +169,6 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115830.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115623.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115431.png",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
     "content/sixth/Biology/Biodiversity/Sampling.md",
     "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
@@ -193,8 +195,6 @@
     "content/sixth/Business/Units/fh/Unit1Revision.md",
     "content/sixth/Business/Units/nd/FinancialRatios.md",
     "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
-    "content/sixth/Biology/Classification/DarwinsTheory.md",
-    "sixth/Business/Units/nd/CapitalStructure.md",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",
     "sixth/Business",

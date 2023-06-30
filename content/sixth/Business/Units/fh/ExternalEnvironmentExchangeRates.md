@@ -31,5 +31,14 @@ An exchange rate is the price of one currency expressed in terms of another curr
 - Foreign direct investment into the country leads to higher demand fro currency
 
 
+---
+
+### Practice exercise 4
+
+#### What is an exchange rate?
+
+- The amount of one currency that can be purchased for another currency.
+- Free exchange rates are determined 
+
 
 [Business](/Business)

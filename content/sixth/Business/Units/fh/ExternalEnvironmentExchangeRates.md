@@ -42,7 +42,23 @@ An exchange rate is the price of one currency expressed in terms of another curr
 
 #### Explain how free exchange rates are determined.
 
+- If the demand for payments in one currency increases, then the value of that currency would increase, whilst the opposite is also true.
 
+#### State and explain three reasons why a currency might increase in value
+
+- Higher demand for exports
+	- If one country has highly desired export demands then their currency is likely to increase in value
+- Trader speculation
+	- If traders believe that the value will increase, then they will buy the currency up and that will lead to an increase in value
+- Foreign investment
+	- Foreign investments into the country leads to greater demand
+
+#### Select one of the following statements to complete the sentence...
+
+- If the value of the pound against the dollar rises, then prices of exports to America rise and prices of imports from America fall.
+- if the value of the pound against the dollar falls, then prices of export to America fall and prices of imports from America rise.
+
+#### When the exchange rate rises
 
 
 [Business](/Business)

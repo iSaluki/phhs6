@@ -156,6 +156,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "assets/styles/_light_syntax.scss",
+    "assets/styles/_callouts.scss.1",
+    "assets/styles/styles",
     "layouts/partials/head.html~",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
@@ -199,9 +202,6 @@
     "sixth/Business/Units",
     "sixth/Business",
     "sixth",
-    "content/sixth/Biology/Classification/img",
-    "content/sixth/Biology/Classification",
-    "layouts/shortcodes/htmlsnippet.html",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

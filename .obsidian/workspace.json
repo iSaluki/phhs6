@@ -156,6 +156,7 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",
     "assets/styles/styles",
@@ -201,7 +202,6 @@
     "sixth/Business/Units/nd",
     "sixth/Business/Units",
     "sixth/Business",
-    "sixth",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

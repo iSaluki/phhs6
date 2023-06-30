@@ -60,5 +60,13 @@ An exchange rate is the price of one currency expressed in terms of another curr
 
 #### When the exchange rate rises
 
+##### How might a firm ensure that its prices abroad do not rise?
+
+- They could use local suppliers as much as possible, reducing the impact as much as they can on tariffs and exchange rate fluctuations. 
+
+##### Why might a firm not always choose to take the above action?
+- It might not be viable for a firm to get a certain material locally, as it may either be much cheaper to import from an external supplier or it may be a natural resource that can only be extracted in certain regions, outside of the country.
+
+
 
 [Business](/Business)

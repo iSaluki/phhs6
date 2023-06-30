@@ -38,7 +38,11 @@ An exchange rate is the price of one currency expressed in terms of another curr
 #### What is an exchange rate?
 
 - The amount of one currency that can be purchased for another currency.
-- Free exchange rates are determined 
+
+
+#### Explain how free exchange rates are determined.
+
+
 
 
 [Business](/Business)

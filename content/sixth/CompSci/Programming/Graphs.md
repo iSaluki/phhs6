@@ -56,4 +56,37 @@ The vertexes at the end of a tree are called leaves, whilst the edges between ve
 - If the tree already has a vertex, then we have to compare the data to the previous entry. 
 - If the data comes **BEFORE** the previous vertex, we create a vertex to the **left** of the vertex. If it comes **AFTER** the previous vertex, we create a vertex to the **right** of the vertex.
 
+- A tree is typically more efficient than trying to sort your data. 
+- Usually used for smaller datasets and stored in RAM
+
+### Tree traversal
+
+#### Pre-order
+
+- Process the root of the tree first
+- Then the left branch of the tree
+- Then the right branch of the tree
+
+- Effects:
+	- copy
+
+#### In-order
+
+- Process the left branch first
+- Then the root
+- Then the right branch
+
+- Effects:
+	- sort
+
+#### Post-order
+
+- Process the left branch first
+- Then the right branch
+- Then the root
+
+- Effects:
+	- delete
+
+
 [Computer Science](/ComputerScience)

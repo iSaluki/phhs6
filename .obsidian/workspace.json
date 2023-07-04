@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grwoth",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/BusinessObjectives.md",
+    "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+    "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
     "assets/styles/custom.scss",
@@ -199,7 +201,6 @@
     "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
     "content/sixth/Biology/Biodiversity/GeneticBiodiversity.md",
     "content/sixth/Biology/Biodiversity/img",
-    "content/sixth/Business/Units/fh/Unit1Revision.md",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",
     "content/sixth/Business/Units/nd/Untitled.canvas"

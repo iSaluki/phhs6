@@ -49,6 +49,8 @@ tags:
 
 #### Quotas
 
+- Limits on the quantity of imports allowed or a limit to the value of imports permitted into a country over a specific time frame
+
 
 
 [Business](/Business)

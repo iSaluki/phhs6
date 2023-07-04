@@ -8,8 +8,8 @@ tags:
 
 Entrepreneur:
 
-- A catalyst for the creation and grwoth of a business
-- fulfill their dreams
+- A catalyst for the creation and growth of a business
+- fulfil their dreams
 - calculated risk taker
 - organise all the resources
 - find and fill gaps in the market

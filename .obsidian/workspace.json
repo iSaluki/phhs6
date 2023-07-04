@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
+                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
+                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
+                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md"
+                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md"
               }
             }
           }
@@ -156,13 +156,14 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
+    "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",
     "assets/styles/styles",
     "layouts/partials/head.html~",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
     "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/terminology.md",
@@ -201,7 +202,6 @@
     "content/sixth/Business/Units/nd/FinancialRatios.md",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",
-    "sixth/Business",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

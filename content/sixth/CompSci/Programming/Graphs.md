@@ -91,6 +91,9 @@ The vertexes at the end of a tree are called leaves, whilst the edges between ve
 - Effects:
 	- delete
 
+
+![[sixth/CompSci/Programming/img/Pasted image 20230704145502.png]]
+
 - Process is different depending upon what the program is doing
 - When moving down a tree, you effectively create subtrees, which have their own root. You use this to repeat the traversal process down the tree.
 

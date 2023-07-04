@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grwoth",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md"
+                "file": "content/privacy.md"
               }
             }
           }
@@ -157,8 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+    "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",

@@ -36,8 +36,6 @@ tags:
 
 ## Open Trade and Protectionism
 
-### Protectionism
-
 - The opposite of free/open trade
 - The main aim is to protect domestic businesses and industries from any overseas competition and prevent the outcome resulting solely from open trade
 
@@ -50,6 +48,19 @@ tags:
 #### Quotas
 
 - Limits on the quantity of imports allowed or a limit to the value of imports permitted into a country over a specific time frame
+
+#### Non-tariff barriers
+
+- Other regulations such as labelling requirements or quality standards
+- They are administrative, technical and regulatory obstacles to trade
+
+#### Export subsidies
+
+- Payments to encourage domestic production by lowering their costs
+
+#### Domestic subsidies
+
+- Domestic subsidies involve government help or state aid for domestic businesses facing financial problems
 
 
 

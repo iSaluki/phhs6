@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/nd/CapitalStructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/nd/CapitalStructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/Business/Units/nd/CapitalStructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/sixth/Business/Units/nd/CapitalStructure.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/privacy.md",
+    "content/sixth/Business/Units/nd/CapitalStructure.md",
     "content/_index.md",
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/tree.png",
@@ -163,7 +165,6 @@
     "content/private/config.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/status.md",
-    "content/privacy.md",
     "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
     "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",

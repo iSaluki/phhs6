@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Graphs.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Graphs.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Graphs.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Graphs.md"
+                "file": "content/privacy.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/tree.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "content/private/config.md",
@@ -172,7 +174,6 @@
     "assets/styles/styles",
     "layouts/partials/head.html~",
     "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
-    "content/sixth/CompSci/Programming/Graphs.md",
     "content/terminology.md",
     "content/sixth/Untitled.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
@@ -188,7 +189,6 @@
     "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
     "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230626151007.png",
-    "content/sixth/Business/Units/nd/img/Pasted image 20230626150826.png",
     "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
     "sixth/Business/Units/nd/imgPasted image 20230626144910.png.md",
     "content/sixth/Biology/Endocrinology/Homeostasis.md",
@@ -198,7 +198,6 @@
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInflation.md",
     "content/sixth/Business/Units/fh/CaseStudyBT.md",
-    "content/_index.md",
     "content/sixth/Biology/Biodiversity/img",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",

@@ -21,6 +21,7 @@ tags:
 - Social Security
 
 #### What happens if government spending is greater than taxes?
+
 - Budget deficit
 
 ### Monetary Policy
@@ -33,7 +34,20 @@ tags:
 - Their main aim is to try and keep inflation around 2%
 - Look to support stability and economic growth
 
+## Open Trade and Protectionism
 
+### Protectionism
+
+- The opposite of free/open trade
+- The main aim is to protect domestic businesses and industries from any overseas competition and prevent the outcome resulting solely from open trade
+
+#### Tariffs
+
+- A tariff or tax/duty that raises the price of imported products
+- An attempt to reduce the domestic demand for the specific imported products 
+- Intended to allow domestic suppliers to scale up
+
+#### Quotas
 
 
 

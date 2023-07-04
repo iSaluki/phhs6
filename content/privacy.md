@@ -17,7 +17,7 @@ DNS records are created and managed via [Cloudflare](https://cloudflare.com) and
 
 Google Ads are used to cover running costs of the site. If you are against the use of ads, we are okay with the use of an adblocker. Having ads shown does help us keep the lights on though. We use a very standard configuration for Google Ads so should not track you any more than the default for GAds. *If you notice Google trying to interfere with your ad-blocker, please take a screenshot and send it to me so I can try to ensure that an ad-free experience remains an option.* If you do use an adblocker, I would like to encourage you to consider making a donation on LiberaPay.
 
-**I am open to any questions or discussions regarding this policy and any changes you might want to see. Please make these via [my community site](https://community.sethmb.xyz)**
+**I am open to any questions or discussions regarding this policy and any changes you might want to see.
 
 > [!success] Corporate affiliation
 >

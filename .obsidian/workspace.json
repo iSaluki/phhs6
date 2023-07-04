@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/status.md",
+                "file": "content/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/status.md",
+                "file": "content/privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/status.md",
+                "file": "content/privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/status.md"
+                "file": "content/privacy.md"
               }
             }
           }
@@ -156,11 +156,12 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/status.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
     "content/privacy.md",
     "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
@@ -198,7 +199,6 @@
     "content/_index.md",
     "content/sixth/Business/Units/fh/CoreCompetencies.md",
     "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
-    "content/sixth/Biology/Biodiversity/FactorsAffectingBiodiversity.md",
     "content/sixth/Biology/Biodiversity/img",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",

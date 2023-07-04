@@ -50,6 +50,10 @@ A tree will have a root, which is designated.
 
 The vertexes at the end of a tree are called leaves, whilst the edges between vertexes are called branches.
 
+### Constructing a tree
 
+- We take the data in the order that it arrives in and add it to the tree
+- If the tree already has a vertex, then we have to compare the data to the previous entry. 
+- If the data comes **BEFORE** the previous vertex, we create a vertex to the **left** of the vertex. If it comes **AFTER** the previous vertex, we create a vertex to the **right** of the vertex.
 
 [Computer Science](/ComputerScience)

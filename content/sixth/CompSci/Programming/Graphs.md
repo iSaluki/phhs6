@@ -50,6 +50,9 @@ A tree will have a root, which is designated.
 
 The vertexes at the end of a tree are called leaves, whilst the edges between vertexes are called branches.
 
+## Binary Trees
+
+
 ### Constructing a tree
 
 - We take the data in the order that it arrives in and add it to the tree
@@ -87,6 +90,10 @@ The vertexes at the end of a tree are called leaves, whilst the edges between ve
 
 - Effects:
 	- delete
+
+- Process is different depending upon what the program is doing
+- When moving down a tree, you effectively create subtrees, which have their own root. You use this to repeat the traversal process down the tree.
+
 
 
 [Computer Science](/ComputerScience)

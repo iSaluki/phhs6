@@ -48,4 +48,8 @@ To be a tree, a graph must:
 
 A tree will have a root, which is designated.
 
+The vertexes at the end of a tree are called leaves, whilst the edges between vertexes are called branches.
+
+
+
 [Computer Science](/ComputerScience)

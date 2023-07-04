@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Programming/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "graphs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Programming/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/sixth/CompSci/Programming/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/sixth/CompSci/Programming/Graphs.md"
               }
             }
           }
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cd49bd4997ec53",
+  "active": "7ff67098b3c72483",
   "lastOpenFiles": [
-    "content/status.md",
+    "content/private/config.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
-    "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
+    "content/status.md",
     "content/privacy.md",
+    "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
     "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/sixth/Business/Units/fh/BusinessObjectives.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
@@ -198,7 +199,6 @@
     "content/sixth/Business/Units/fh/CaseStudyBT.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/CoreCompetencies.md",
-    "content/sixth/Biology/Biodiversity/SimpsonsDiversity.md",
     "content/sixth/Biology/Biodiversity/img",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",

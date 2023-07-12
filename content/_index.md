@@ -29,7 +29,7 @@ You may also wish to search with [🏷️ tags](/tags)
 Other, miscellaneous work may be found via the search function or the interactive graph. 
 
 
-If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://fosstodon.org/@saluki)
+If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://social.sethmb.xyz/@seth)
 
 
 To support my work here and elsewhere, and encourage me to continue to work in the open, making a donation with the button below is the best way to help out. Any amount is appreciated.

@@ -101,5 +101,19 @@ And time for the beautiful hand-drawn tree, with sorted examples.
 
 ![[sixth/CompSci/Programming/img/tree.png]]
 
+### Storing a binary tree
+
+- You could use an adjacency matrix or list, however a **linked list** is the proper method.
+
+#### Linked list
+
+- Items do not have to be next to each other in memory, unlike an array.
+- A pointer simply indicates where each item is stored in memory.
+
+![[sixth/CompSci/Programming/img/Pasted image 20230706122524.png]]
+
+
+
+
 
 [Computer Science](/ComputerScience)

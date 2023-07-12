@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graphs",
+                "query": "financial performance ratios",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md"
               }
             }
           }
@@ -156,51 +156,52 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "layouts/partials/head.html~",
-    "content/sixth/CompSci/Programming/Graphs.md",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
-    "content/sixth/Business/Units/nd/CapitalStructure.md",
-    "content/privacy.md",
-    "content/_index.md",
-    "content/sixth/CompSci/Programming/img/tree.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
-    "content/private/config.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
-    "content/status.md",
-    "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
-    "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
-    "content/sixth/Business/Units/fh/BusinessObjectives.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
-    "assets/styles/custom.scss",
-    "assets/styles/_light_syntax.scss",
-    "assets/styles/_callouts.scss.1",
-    "assets/styles/styles",
-    "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
-    "content/terminology.md",
-    "content/sixth/Untitled.md",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628123235.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628120332.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628120204.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628115830.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628115623.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628115431.png",
-    "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
-    "content/sixth/Biology/Biodiversity/Sampling.md",
-    "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
-    "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
-    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+    "content/sixth/Business/Units/fh/Unit1Revision.md",
     "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
-    "sixth/Business/Units/nd/imgPasted image 20230626144910.png.md",
-    "content/sixth/Biology/Endocrinology/Homeostasis.md",
-    "content/sixth/Biology/Endocrinology/img",
-    "content/sixth/Biology/Endocrinology/Endocrinology.md",
-    "content/sixth/Biology/Biodiversity/Biodiversity.md",
-    "content/sixth/Biology/Endocrinology",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInflation.md",
-    "content/sixth/Biology/Biodiversity/img",
+    "content/sixth/Business/Units/nd/FinancialRatios.md",
+    "content/sixth/CompSci/Theory/Networking/NetworkSecurity.md",
+    "content/sixth/Biology/Classification/DarwinsTheory.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621104959.png",
+    "sixth/Business/Units/nd/CapitalStructure.md",
     "sixth/Business/Units/nd",
     "sixth/Business/Units",
+    "sixth/Business",
+    "sixth",
+    "content/sixth/Biology/Classification/SpearmanRankCorrelation.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621103419.png",
+    "content/sixth/Biology/Classification/VariationStandardDeviation.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621103200.png",
+    "content/sixth/Biology/Classification/ConvergentDivergentEvoluton.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621102820.png",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621102628.png",
+    "content/utilities.md",
+    "content/sixth/Biology/Classification/TypesOfAdaptation.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621101955.png",
+    "content/sixth/Biology/Classification/ComparativeBiochemistry.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621101235.png",
+    "content/sixth/Biology/Classification/EvolutionaryEmbryology.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621100941.png",
+    "content/sixth/Biology/Classification/ComparativeAnatomy.md",
+    "content/sixth/Biology/Classification/Phylogeny.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230621100618.png",
+    "content/sixth/Biology/Classification/ProblemWithTheFossilRecord.md",
+    "content/sixth/Biology/Classification/EvolutionaryTimeline.md",
+    "content/sixth/Business/Units/fh/CaseStudyBT.md",
+    "content/sixth/Business/Units/fh/CoreCompetencies.md",
+    "content/status.md",
+    "content/sixth/Business/Units/fh/SWOTAnalysis.md",
+    "content/_index.md",
+    "content/private/callouts.md",
+    "content/sixth/Business/Units/fh/KaplanAndNortonsBalancedScorecardModel.md",
+    "content/sixth/Business/Units/fh/ElkingtonsTripleBottomLine.md",
+    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+    "content/sixth/Biology/Classification/img/Pasted image 20230619110541.png",
+    "content/sixth/Biology/Classification/img",
+    "content/sixth/Biology/Classification",
+    "layouts/shortcodes/htmlsnippet.html",
+    "layouts/shortcodes",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.json",
+    "resources/_gen/assets/scss/styles/syntax.scss_c25f88f67e8e33f20619c76cbf49f33c.content",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

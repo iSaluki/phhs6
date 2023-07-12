@@ -36,6 +36,15 @@ Emerging market is used to describe an economy in the process of rapid growth an
 - Inadequate protection of brand and other intellectual property
 - State subsidy of industries to make them more competitive globally
 
+### Key risks and threat of emerging markets
+
+- Political instability
+- Cultural differences / sensitivities
+- Variable approaches to financial and legal dealings
+- Corruption and bureaucracy still an issue
+- Emerging markets becoming major exporters
+- Low-cost production makes developed economies uncompetitive in some markets
+
 
 
 [Business](/Business)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md"
               }
             }
           }
@@ -156,12 +156,13 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/Business/Units/nd/CapitalStructure.md",
     "content/privacy.md",
-    "content/_index.md",
     "content/sixth/CompSci/Programming/img/tree.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "content/private/config.md",

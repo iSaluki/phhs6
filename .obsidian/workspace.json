@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Recursion.md",
+                "file": "content/snowflake.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 335.5
   },
   "right": {
     "id": "dbab4fe2733f4002",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Recursion.md",
+                "file": "content/snowflake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Recursion.md",
+                "file": "content/snowflake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Programming/Recursion.md"
+                "file": "content/snowflake.md"
               }
             }
           }
@@ -156,18 +156,20 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
-    "content/sixth/CompSci/Programming/Recursion.md",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
+    "content/snowflake.md",
+    "content/sixth/Untitled.md",
+    "content/sixth/CompSci/Programming/Graphs.md",
+    "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
+    "content/sixth/CompSci/Programming/Recursion.md",
+    "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
     "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "content/_index.md",
     "layouts/partials/head.html~",
-    "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/Business/Units/nd/CapitalStructure.md",
     "content/privacy.md",
     "content/sixth/CompSci/Programming/img/tree.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "content/private/config.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/status.md",
@@ -180,7 +182,6 @@
     "assets/styles/styles",
     "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
     "content/terminology.md",
-    "content/sixth/Untitled.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123235.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628120332.png",
@@ -197,7 +198,6 @@
     "sixth/Business/Units/nd/imgPasted image 20230626144910.png.md",
     "content/sixth/Biology/Endocrinology/Homeostasis.md",
     "content/sixth/Biology/Endocrinology/img",
-    "content/sixth/Biology/Endocrinology/Endocrinology.md",
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Biology/Biodiversity/img",
     "sixth/Business/Units/nd",

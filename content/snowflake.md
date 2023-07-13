@@ -10,7 +10,7 @@ You can use this page to manage a snowflake in your browser without having to us
 
 
 
-According to **The Tor Project** this poses no risk to you to run. Please use the "Learn more" link in the embed for details.
+According to **The Tor Project** this poses no risk to you to run. Please use the “Learn more” link in the embed for details.
 
 
 [Go home](/)

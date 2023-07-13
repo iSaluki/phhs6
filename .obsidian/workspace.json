@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/snowflake.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/snowflake.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/snowflake.md",
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/snowflake.md"
+                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/privacy.md",
     "content/snowflake.md",
+    "content/privacy.md",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/sixth/Untitled.md",
     "content/sixth/CompSci/Programming/Graphs.md",

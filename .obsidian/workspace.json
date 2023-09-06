@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md"
               }
             }
           }
@@ -156,9 +156,12 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/PESTLE.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts",
+    "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/snowflake.md",
     "content/privacy.md",
-    "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/sixth/Untitled.md",
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
@@ -195,13 +198,10 @@
     "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
     "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
     "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
-    "sixth/Business/Units/nd/imgPasted image 20230626144910.png.md",
-    "content/sixth/Biology/Endocrinology/Homeostasis.md",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Biology/Biodiversity/img",
     "sixth/Business/Units/nd",
-    "sixth/Business/Units",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

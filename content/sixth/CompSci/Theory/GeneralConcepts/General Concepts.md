@@ -36,7 +36,17 @@ description: General computing concepts
 	- A function in a memory
 	- An element in a list/array
 
+### Passing by value or by reference
 
+- When calling a subroutine we can pass it some values.
+
+- We can pass them by value.
+	- We gave the subroutine a copy of the variable.
+	- The subroutine works on its own copy, the original is left unchanged.
+- We can pass them by reference.
+	- We give the subroutine a pointer to the variable.
+	- The subroutine works on the value in the same memory location as the original value.
+	- The memory location will have the most recent value from the subroutine so when control is returned to the calling program it sees the value that subroutine finished with.
 
 
 [Computer Science](/ComputerScience)

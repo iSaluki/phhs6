@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/Business/Units/nd/PESTLE.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/snowflake.md",

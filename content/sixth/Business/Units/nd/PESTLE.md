@@ -71,6 +71,9 @@ Regardless of gender, age, religion or any protected characteristic, people are 
 - The Small Business, Enterprise and Employment Act reinforces basic employee rights such as minimum wage. This means that businesses are required to pay employees over 25 a national living wage at minimum, leading to increased costs in the business.
 - The business **has** to comply with these regulations, which may force them to cut costs elsewhere. It could also require them to pay even more than the minimum in order to compete and attract a stronger, more motivated workforce.
 
-4) 
+4) Explain two advantages to a business of legislation related to the labour market.
+
+- Employee happiness will be higher as they know they are entitled to certain rights, meaning that they don't need to worry as much about mistreatment.
+	- This will lead to higher productivity and will make the business's job of managing employees easier in the long run, because legislature defines how 
 
 [Business](/Business)

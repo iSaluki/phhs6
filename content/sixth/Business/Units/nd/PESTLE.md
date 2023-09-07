@@ -5,10 +5,15 @@ title: PESTLE
 description: Overview of the PESTLE analysis
 ---
 **P**olitical
+
 **E**conomic
+
 **S**ocial
+
 **T**echnological
+
 **L**egal
+
 **E**nvironmental
 
 ## Political/Legal
@@ -25,8 +30,47 @@ description: Overview of the PESTLE analysis
 
 ### Labour Market
 
-- Employment Rights
-- Industrial Relations
+#### Employment Rights
 
+1) National Living Wage for 23 and over: £10.42/h. At 25, you become eligible for the National Living Wage instead of the National Minimum Wage.
+2) The Equality Act of 2010's main areas are: (protection from discrimination based on): sexual orientation, age, disability, non-equal pay, race.
+3) The employment Act of 2008 aimed to reform existing laws and protect the rights of workers by more strictly enforcing basic rights such as minimum wage.
+4) The Small Business, Enterprise and Employment Bill 2015 pushes additional liabilities onto company directors as well as ensuring that public sector procurement is effective and efficient. (Makes it easier for smaller business to receive public sector contracts)
+
+
+### Pay - Right to Equality
+
+Regardless of gender, age, religion or any protected characteristic, people are entitled to equal pay for work of equal value.
+
+## Industrial Relations
+
+- Protection from unfair dismissal
+- Employers must recognise union is >50% of staff 
+- Regulation of procedures for industrial action
+- Role/powers of Employment Tribunal
+- EU—Works Councils requirements
+
+## Task
+
+1) Explain the general purpose of legislation from the point of view of a business.
+- To protect workers and consumers from unfair or unsafe practices
+- To ensure that business is conducted properly and honestly
+- To prevent exploitative or anti-competitive practices
+- Stop mergers that could give a single business a dominant market position
+
+2) Explain two advantages of business legislation in relation to competition.
+
+- Monopolies can be reduced and broken up
+	- A monopoly would allow a single business to completely dominate a market, exploiting the consumers by charging any price they want and not having to innovate. Competition regulation tries to prevent the creation of monopolies through large mergers and through a single business rising to dominate the market. Businesses can have mergers blocked and in extreme cases can be broken into smaller competing businesses by a regulator. 
+
+- Anti-competitive agreements can be blocked or removed
+	- When large companies in a market agree to conditions to not directly compete with each other, it creates an oligopoly. This is extremely damaging to the competition in the market and the choice of consumers, so regulators will take action to break these agreements up.
+
+3) Using an example, explain how legislation related to the labour market might affect strategic or functional decision-making in a business.
+
+- The Small Business, Enterprise and Employment Act reinforces basic employee rights such as minimum wage. This means that businesses are required to pay employees over 25 a national living wage at minimum, leading to increased costs in the business.
+- The business **has** to comply with these regulations, which may force them to cut costs elsewhere. It could also require them to pay even more than the minimum in order to compete and attract a stronger, more motivated workforce.
+
+4) 
 
 [Business](/Business)

@@ -48,5 +48,19 @@ description: General computing concepts
 	- The subroutine works on the value in the same memory location as the original value.
 	- The memory location will have the most recent value from the subroutine so when control is returned to the calling program it sees the value that subroutine finished with.
 
+## Data Structures
+
+### Arrays
+
+- Many programming languages have a data structure called an array.
+- An array is a single identifier with many values.
+- You reference the specific value by using the identifier and an index.
+- For example:
+	- `myArray[3]`
+- In an array all elements must be of the same data type. 
+	- Therefore, they take up the same amount of memory.
+	- Which means finding a particular element is easy.
+		- `address of array + (size of element * index)`
+
 
 [Computer Science](/ComputerScience)

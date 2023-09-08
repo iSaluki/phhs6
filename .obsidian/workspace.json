@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md"
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/PESTLE.md",
+    "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
+    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+    "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/snowflake.md",
@@ -196,8 +198,6 @@
     "content/sixth/Biology/Biodiversity/Sampling.md",
     "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
     "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
-    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
-    "content/sixth/Business/Units/nd/DunelmAndHomewaresMarket.md",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Biology/Biodiversity/img",

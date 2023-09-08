@@ -62,5 +62,39 @@ description: General computing concepts
 	- Which means finding a particular element is easy.
 		- `address of array + (size of element * index)`
 
+### Linked Lists
+
+- List elements can be any data type
+	- This makes them more flexible than arrays
+- List elements can be of any size
+	- So they can take up different amounts of memory
+- Finding a particular element means following links starting from the first item in the list until you find the item you want.
+
+- A linked list does not have to be stored continuously in RAM, whilst an array must be.
+
+### Stacks and Queues
+
+- Stacks and queues are special uses for arrays and lists
+- Stacks are LIFO
+- Queues are FIFO
+
+### The Stack Frame
+
+- Computers can only do one thing at a time.
+	- Multiprocessor systems can only do one thing on each processor.
+	- Multitasking systems give multiple tasks a small amount of attention.
+- Also they cannot keep track of more than one subroutine at a time.
+- So we push some data, which we call a stack frame, onto a call stack as each new subroutine is called.
+- It is used to restore the state of the computer to what it was before it began executing the subroutine once it has finished.
+	- We pop the last stack frame from the call stack
+	- The information in the stack frame allows us to restore all the registers.
+
+### Recursion
+
+- Put simply, recursion is when you write a subroutine in terms of itself.
+	- That means the subroutine calls itself.
+	- The call will be a sub set of the data to be processed or a partially complete result
+	- Once the subroutine has been called with a simple enough piece of data it can perform the calculation and the call stack begins to unwind.
+
 
 [Computer Science](/ComputerScience)

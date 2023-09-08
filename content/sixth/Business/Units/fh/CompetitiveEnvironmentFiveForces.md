@@ -57,6 +57,17 @@ tags:
 - If the supplier forces up the price paid for inputs, profits will be reduced
 - The more power the customer (buyer) the lower the price
 
+##### Determinants of supplier power
+
+- Uniqueness of the input supplied
+	- If the resource is essential to the buying firm and no close substitutes are available, suppliers are in a powerful position
+- Number and size of firms supplying the resources
+	- A few large suppliers can exert more power over market prices that many smaller suppliers each with a small market share
+- Competition for the input from other industries
+	- If there is great competition, the supplier will be in a stronger position
+- Cost of switching to alternative sources
+
+
 
 
 

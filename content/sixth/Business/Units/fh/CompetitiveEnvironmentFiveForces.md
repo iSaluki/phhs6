@@ -4,6 +4,7 @@ tags:
   - business
 ---
 ### Porter's Five Forces
+
 - Devised by Michael Porter
 - A framework for analysing the nature of competition within an industry
 
@@ -62,7 +63,7 @@ tags:
 - Uniqueness of the input supplied
 	- If the resource is essential to the buying firm and no close substitutes are available, suppliers are in a powerful position
 - Number and size of firms supplying the resources
-	- A few large suppliers can exert more power over market prices that many smaller suppliers each with a small market share
+	- A few large suppliers can exert more power over market prices than many smaller suppliers each with a small market share
 - Competition for the input from other industries
 	- If there is great competition, the supplier will be in a stronger position
 - Cost of switching to alternative sources

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md"
+                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+    "content/sixth/CompSci/Theory/Ethics",
+    "content/sixth/CompSci/Theory/Untitled.md",
+    "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
@@ -196,12 +199,9 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115431.png",
     "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
     "content/sixth/Biology/Biodiversity/Sampling.md",
-    "content/sixth/Biology/Biodiversity/BiodiversityOverview.md",
-    "content/sixth/Business/Units/nd/FinancialRatiosForRevision.md",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Biology/Endocrinology",
     "content/sixth/Biology/Biodiversity/img",
-    "sixth/Business/Units/nd",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

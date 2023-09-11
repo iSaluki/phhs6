@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md"
+                "file": "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/Untitled.md",
     "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",

@@ -136,5 +136,24 @@ Expected output:
 >>>
 ```
 
+### Graphs
+
+- A graph is a simplified way to represent connection data
+- The graph represents physical or logical connections
+- A graph is a form of abstraction
+
+#### Edges and Vertices
+
+- Vertices are the things being connected
+- Edges are the connections
+- Vertices are occasionally called nodes
+- Edges are occasionally called connections
+
+#### Representing a graph
+
+- Adjacency Matrix
+	- ![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png]]
+- Adjacency List
+	- ![[sixth/CompSci/theory/GeneralConcepts/img/Pasted image 20230912123652.png]]
 
 [Computer Science](/ComputerScience)

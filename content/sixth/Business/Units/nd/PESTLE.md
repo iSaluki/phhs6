@@ -110,6 +110,7 @@ Regardless of gender, age, religion or any protected characteristic, people are 
 	- FCA - Financial Services
 	- ORR - Rail Regulator
 	- OfGem - General Energy Markets
+	- & many others
 
 #### What regulators actually do
 
@@ -117,6 +118,29 @@ Regardless of gender, age, religion or any protected characteristic, people are 
 - Standards of customer service
 - Open up markets
 - The “Surrogate Competitor” – Introduce artificial competition
+
+#### Price Fixing 
+
+- Businesses may not:
+	- Agree prices with competitors
+	- Share markets or limit production to raise prices
+	- Impose minimum prices on different distributors such as shops
+	- Agree with competitors what purchase price will be offered to suppliers
+	- Cut prices below cost in order to force a smaller or weaker competitor out of the market
+
+#### Dominant Position
+
+- A market share of 50% or above indicates that you are dominant
+- Oligopolies behave similarly, however there must be few companies with high market share
+
+#### Abuses of a dominant position
+
+Whilst in a dominant position, you may not:
+
+- Impose unfair trading terms such as exclusivity
+- Excessive, predatory or discriminatory pricing
+- Refusal to supply or provide access to essential facilities
+- Tying 
 
 
 [Business](/Business)

@@ -136,6 +136,16 @@
                 "file": "content/sixth/Business/Units/nd/PESTLE.md"
               }
             }
+          },
+          {
+            "id": "549b5a6e5219b9e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }

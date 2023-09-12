@@ -99,5 +99,24 @@ Regardless of gender, age, religion or any protected characteristic, people are 
 - Merger control
 	- Investigation of mergers and take-overs between firms which could result in them dominating the market
 
+#### Regulatory Authorities
+
+- In the UK, there is the CMA (Competition and Markets Authority) who have enormous powers to force companies to cancel deals, sell parts of themselves and is tasked with moderating the UK market, keeping it competitive.
+- Most countries and blocs (such as the EU) have their own regulators.
+
+- Other regulators in the UK
+	- OfWat - Water regulation
+	- Ofcom - Telecoms & Broadcasting
+	- FCA - Financial Services
+	- ORR - Rail Regulator
+	- OfGem - General Energy Markets
+
+#### What regulators actually do
+
+- Monitor and regulate prices
+- Standards of customer service
+- Open up markets
+- The “Surrogate Competitor” – Introduce artificial competition
+
 
 [Business](/Business)

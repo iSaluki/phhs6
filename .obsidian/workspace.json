@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/PESTLE.md"
+                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md"
               }
             }
           },
@@ -164,15 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cd49bd4997ec53",
+  "active": "7ff67098b3c72483",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Ethics/img/Pasted image 20230912110616.png",
+    "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+    "content/sixth/CompSci/Theory/Ethics/img",
+    "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
-    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/Untitled.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
-    "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/snowflake.md",
@@ -206,12 +209,8 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230628120204.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115830.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628115623.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628115431.png",
-    "content/sixth/Biology/Biodiversity/MaintainingBiodiversity.md",
-    "content/sixth/Biology/Biodiversity/Sampling.md",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Biology/Endocrinology",
-    "content/sixth/Biology/Biodiversity/img",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

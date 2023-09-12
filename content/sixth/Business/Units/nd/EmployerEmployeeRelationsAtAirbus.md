@@ -28,7 +28,7 @@ tags:
    
    In Airbus's case, the managers didn't take enough action early on and it lead to strike action happening. This could not have happened without the union, meaning that employees would not have been able to be heard. So for employees, collective bargaining is both a useful and a vital tool. 
    
-   Individual bargaining *may* have occasionally been effective, but it would have created an uneven pay stratum leading to inequality within an organisation. 
+   Individual bargaining *may* have occasionally been effective, but it would have created an uneven pay stratum, leading to inequality within an organisation. 
 
 
 

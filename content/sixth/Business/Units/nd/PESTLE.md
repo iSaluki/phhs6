@@ -76,4 +76,28 @@ Regardless of gender, age, religion or any protected characteristic, people are 
 - Employee happiness will be higher as they know they are entitled to certain rights, meaning that they don't need to worry as much about mistreatment.
 	- This will lead to higher productivity and will make the business's job of managing employees easier in the long run, because legislature defines how 
 
+### Competition
+
+#### Aims of competition policy
+
+- Promote competition
+- Make markets work better
+- Improved efficiency
+- Ensures
+	- Technological innovation which promotes dynamic efficiency in different markets
+	- Effective price competition between suppliers
+	- Safeguard and promote the interests of consumers through increased choice and lower price levels.
+
+#### Main elements of competition policy
+
+- Anti-trust & cartels
+	- Elimination of agreements that restrict competition including price-fixing by firms who hold a dominant market position
+- Market liberalisation
+	- Introducing competition in previously monopolistic sectors such as energy supply, retail banking, postal services, mobile and telecommunications and air transport
+- State aid control
+	- Policy analyses state aid measures such as airline subsidies to ensure that such measures do not distort competition in the Single Market
+- Merger control
+	- Investigation of mergers and take-overs between firms which could result in them dominating the market
+
+
 [Business](/Business)

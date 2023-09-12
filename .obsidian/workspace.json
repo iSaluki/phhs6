@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md"
               }
             }
           },
@@ -164,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/Ethics/img/Pasted image 20230912110616.png",
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+    "content/sixth/CompSci/Theory/Ethics/img/Pasted image 20230912110616.png",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/Business/Units/nd/PESTLE.md",

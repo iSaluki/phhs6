@@ -95,6 +95,19 @@ description: General computing concepts
 	- That means the subroutine calls itself.
 	- The call will be a sub set of the data to be processed or a partially complete result
 	- Once the subroutine has been called with a simple enough piece of data it can perform the calculation and the call stack begins to unwind.
+- The stack grows in size with recursion, whilst a loop maintains the stack size as it creates a stack frame. Put simply, a loop is iteration, whilst recursion is not.
+
+```py
+# Example of recursion
+
+def recursion(n):
+	print(n)
+	if n > 1:
+		recursion(n//2) # On calling this line, we suspend the subroutine and add it to the stack frame
+	print(n) # Once n !> 1, we process the stack frame, causing the program to spit out the inverse of what it previously printed.
+
+recursion(1024)
+```
 
 
 [Computer Science](/ComputerScience)

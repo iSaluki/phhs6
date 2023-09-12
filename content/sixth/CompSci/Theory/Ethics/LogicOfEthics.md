@@ -42,4 +42,4 @@ Do these biases matter? How much?
 
 
 
-[Computer Science](/ComputerScience)
+[Ethics](sixth/CompSci/Theory/Ethics/Ethics)

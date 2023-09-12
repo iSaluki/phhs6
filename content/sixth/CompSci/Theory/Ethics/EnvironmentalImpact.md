@@ -37,4 +37,4 @@ tags:
 
 
 
-[Computer Science](/ComputerScience)
+[Ethics](sixth/CompSci/Theory/Ethics/Ethics)

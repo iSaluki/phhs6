@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/Ethics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md"
+                "file": "content/sixth/CompSci/Theory/Ethics/Ethics.md"
               }
             }
           },
@@ -166,14 +166,19 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+    "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
+    "content/sixth/CompSci/Theory/Ethics/Ethics.md",
+    "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
+    "content/sixth/CompSci/Theory/Databases/Databases.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+    "content/sixth/CompSci/Theory/Databases/Design.md",
     "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",
-    "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
     "content/sixth/CompSci/Theory/Ethics/img/Pasted image 20230912110616.png",
-    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
@@ -198,15 +203,10 @@
     "content/private/config.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "content/status.md",
-    "content/sixth/Business/Units/fh/FiscalAndMonetaryPolicy.md",
-    "content/sixth/Business/Units/fh/BusinessObjectives.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentExchangeRates.md",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",
     "assets/styles/styles",
-    "content/sixth/Biology/Cells/CellMembranesFluidMosaicModel.md",
-    "content/terminology.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123235.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628120332.png",

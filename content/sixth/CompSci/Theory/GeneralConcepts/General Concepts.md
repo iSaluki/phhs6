@@ -157,4 +157,4 @@ Expected output:
 	- ![[sixth/CompSci/theory/GeneralConcepts/img/Pasted image 20230912123652.png]]
 
 
-[Computer Science](/ComputerScience)
+[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

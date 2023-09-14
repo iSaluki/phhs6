@@ -154,7 +154,7 @@ Expected output:
 - Adjacency Matrix
 	- ![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png]]
 - Adjacency List
-	- ![[sixth/CompSci/theory/GeneralConcepts/img/Pasted image 20230912123652.png]]
+	- ![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png]]
 
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

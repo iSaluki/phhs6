@@ -179,4 +179,28 @@ Expected output:
 	- Are NOT directed
 	- Are connected
 
+#### Binary Trees
+
+- Binary trees are a specific kind of tree
+
+- A-level spec requires the ability to construct and traverse a binary tree in 3 ways:
+	- Pre-order
+	- In-order
+	- Post-order
+
+- Different types of traversal get used for different reasons
+- Pre-order: Copying a tree. You need to create the parent before you can create its children.
+- In-order: Sort the contents.
+- Post-order: Deleting a tree. You need to delete the children before you can delete the parent.
+
+#### Representing trees
+
+- When we represent a tree we usually use a linked list.
+- To store a binary tree we need two links for each data item:
+	- Left
+	- Right
+
+
+
+
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

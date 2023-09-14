@@ -156,5 +156,27 @@ Expected output:
 - Adjacency List
 	- ![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png]]
 
+#### Edges
+- Edges can be:
+	- Weighted
+		- Indicates some kind of cost
+			- Distance, cost, difficulty etc
+	- Directed
+		- Shows which way you can travel along an edge
+			- One way street, winner in competition etc
+- Graphs can be:
+	- Unweighted and undirected
+	- Weighted
+	- Directed
+	- Weighted and Directed
+
+#### Trees
+
+- A tree is a special kind of graph
+
+- Trees
+	- Have no cycles
+	- Are NOT directed
+	- Are connected
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

@@ -16,6 +16,16 @@ tags:
 	- Declarative: functional database (SQL) and mark-up languages (HTML)
 		- As a rule, declarative languages describe the problem and the system knows how to deal with it
 
+### Structured Programming
+
+- Code that is imperative
+	- That is, it defines a series of steps that must be performed to complete a task
+
+- Structured programming is a subset of imperative programming.
+
+- Structured programming sees the world as a sequence of tasks that can be broken down into small, easy to manage chunks 
+	- These chunks can be reused
+
 
 
 

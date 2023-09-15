@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md"
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md"
               }
             }
           },
@@ -166,8 +166,11 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
+    "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
+    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+    "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
     "content/sixth/CompSci/Theory/Ethics/Ethics.md",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
@@ -183,7 +186,6 @@
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/Business/Units/nd/PESTLE.md",
     "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
-    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/Untitled.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
@@ -201,8 +203,6 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/Business/Units/nd/CapitalStructure.md",
     "content/sixth/CompSci/Programming/img/tree.png",
-    "content/private/config.md",
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",

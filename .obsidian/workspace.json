@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
+    "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
-    "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
@@ -210,7 +211,6 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123235.png",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628120332.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628120204.png",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]

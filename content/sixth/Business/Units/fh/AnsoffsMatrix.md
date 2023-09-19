@@ -18,9 +18,18 @@ tags:
 
 - Aim: to increase market share
 - By selling more existing products to the same target customers
-- Get existing customers to 
+- Get existing customers to buy more
+
 
 - ***A growth strategy where a business aims to sell existing products into existing markets.**
+
+#### Evaluating market penetration
+
+- Business focuses on markets and products it knows well
+- Can exploit insights on what customers want
+- Unlikely to need significant new market research
+- But will strategy allow the business to achieve its growth objectives
+
 
 
 

@@ -26,7 +26,16 @@ tags:
 - Structured programming sees the world as a sequence of tasks that can be broken down into small, easy to manage chunks 
 	- These chunks can be reused
 
+### Hierarchy or Structure Charts
+
+- A structure chart shows us the calling structure of a program 
+	- Which subroutines get called from where and what information is passed and returned.
+
+![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png]]
 
 
+*By Pluke - Own work based on: Structured Chart Example.jpg by ‍Sandia National Laboratories, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16283788*
+
+u
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

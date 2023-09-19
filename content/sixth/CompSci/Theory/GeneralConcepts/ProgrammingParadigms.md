@@ -34,8 +34,19 @@ tags:
 ![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png]]
 
 
-*By Pluke - Own work based on: Structured Chart Example.jpg by ‍Sandia National Laboratories, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16283788*
+*By Pluke - Own work based on: Structured Chart Example.jpg by ‍Sandia National Laboratories, Public Domain, https://commons.wikimedia.org/w/index.php?curid=16283788 *
 
-u
+
+### Pseudo Code
+
+- Pseudo means not genuine
+- Pseudo code allows you to think like a programmer while not needing to worry about the syntax of any given programming language
+
+### Finite State Machines
+
+- FSMs allow you to plan the states for a control system and what causes the transition from one state to another and any output.
+
+
+
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

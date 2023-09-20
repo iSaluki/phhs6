@@ -45,6 +45,16 @@ title: Reading about Photosynthesis
    - Neither, all the nutrients they need can be found dissolved in the seawater. 
 5) What is an important limiting factor for the growth of green algae?
    - Nitrogen access
+6) Do seaweeds need differentiated cells? 
+   - Not always, as tissues can usually draw everything they need from the surrounding water.
+7) What makes up optimal conditions for seaweed?
+   - A correct balance of substrate, nutritional elements, temperature and light
+8) Does marine algae have any interesting nutritional information?
+   - It contains more iron than spinach or egg yolks
+9) How deep can you find red macroalgae?
+   - Down to about 30 meters, beyond which you get brown and above which you are more likely to get green
+10) Can seaweed still perform photosynthesis when exposed to air?
+    - Partially
 
    
 

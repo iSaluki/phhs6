@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/GovernmentPolicy.md",
+                "file": "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/GovernmentPolicy.md",
+                "file": "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/GovernmentPolicy.md",
+                "file": "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/GovernmentPolicy.md"
+                "file": "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md"
               }
             }
           },
@@ -166,12 +166,14 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
+    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
-    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
     "content/sixth/CompSci/Theory/Ethics/Ethics.md",
@@ -203,14 +205,12 @@
     "content/_index.md",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
-    "content/sixth/Business/Units/nd/CapitalStructure.md",
     "content/sixth/CompSci/Programming/img/tree.png",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",
     "assets/styles/styles",
     "content/sixth/CompSci/Programming/img/Pasted image 20230628123352.png",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230628123235.png",
     "content/sixth/Biology/Endocrinology/img",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]

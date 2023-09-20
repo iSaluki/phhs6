@@ -45,8 +45,31 @@ tags:
 ### Finite State Machines
 
 - FSMs allow you to plan the states for a control system and what causes the transition from one state to another and any output.
+- A Mealy machine's outputs are determined by it's state and input: you label the output on the transition.
+- A Moore machine's outputs are determined only by the current state: the output is labelled in the state.
+![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png]]
 
 
 
+### Comments
+
+- Comments should enhance the readers understanding of the code
+- You can assume the reader can already understand code in the language it is written in.
+- Avoid in line comments where possible
+- Be consistent in terms of comment use
+- Comments are especially useful for:
+	- Module headers
+	- Subroutine headers
+	- Explaining the logic behind changes
+	- Logging code changes
+
+
+### What is “Object Orientated Programming”?
+
+- Code that is imperative
+- Object oriented programming is a subset of imperative programming
+- It sees the world as a collection of objects or things
+	- You define a generalised example of a thing which includes all the programs and data that it needs to function
+	
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

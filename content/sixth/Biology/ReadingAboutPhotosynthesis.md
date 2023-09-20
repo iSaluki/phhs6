@@ -22,7 +22,7 @@ title: Reading about Photosynthesis
    To absorb as much light energy as possible. This is achieved by using a range of pigments that can absorb different frequencies of light.
 6) What is the role of the reaction centre of a photosystem?
    To pass excited electrons down the electron transport chain
-7) What happens to electrons in the reaction center?
+7) What happens to electrons in the reaction centre?
    They have their energy level increased via photon energy.
 8) How is the electron from chlorophyll p680 replaced?
    A water molecule is split 

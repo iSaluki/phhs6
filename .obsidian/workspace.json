@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
+                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
+                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
+                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Biology/ReadingAboutPhotosynthesis.md"
+                "file": "content/sixth/Business/Units/nd/SocialChanges.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
+    "content/sixth/Business/Units/nd/GovernmentPolicy.md",
+    "content/sixth/Business/Units/nd/SocialChanges.md",
     "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
+    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
-    "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
@@ -202,7 +203,6 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "content/sixth/CompSci/Programming/Recursion.md",
     "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
-    "content/sixth/Business/Units/fh/WhatIsAStartUp.md",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/CompSci/Programming/img/tree.png",

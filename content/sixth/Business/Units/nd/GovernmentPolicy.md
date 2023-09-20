@@ -74,8 +74,12 @@ title: Government Policy
 4) Taking risks is vital to developing a business because without taking any risks you cannot --
 
 
-6) Government policy offers subsidies to new enterprises to help them covers their startup costs. This leads to businesses being more likely to succeed, and entrepreneurs to be more likely to make the decision to start a business. Similarly, by providing business advisors for free, entrepreneurs without formal training or skills can consult with somebody to ensure they are making the correct decisions. 
+6) Government policy offers subsidies to new enterprises to help them covers their startup costs. This leads to businesses being more likely to succeed, and entrepreneurs to be more likely to make the decision to start a business. Similarly, by providing business advisers for free, entrepreneurs without formal training or skills can consult with somebody to ensure they are making the correct decisions. 
 7) Regulators operate in water, industrial manufacturing and telecommunications industries, as well as many others.
-8) Regulators can intervene by fining a company that has violated a regulation, creating a financial incentive for companies to follow regulations. In more extreme cases, regulators can also split companies up into smaller, competing companies to prevent monopolies or duopolies. This ensures markets do not stagnate and consumer choices are preserved. Some regulators also create artificial 
+8) Regulators can intervene by fining a company that has violated a regulation, creating a financial incentive for companies to follow regulations. In more extreme cases, regulators can also split companies up into smaller, competing companies to prevent monopolies or duopolies. This ensures markets do not stagnate, and consumer choices are preserved. Some regulators also create artificial competition by imposing tariffs and taxes to give competitors an advantage over a dominant player, forcing actual competition.
+9) Infrastructure refers to the basic resources provided in an area such as water, electricity and internet.
+
+
+
 
 [Business](/Business)

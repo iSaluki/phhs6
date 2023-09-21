@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
+                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
+                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SocialChanges.md",
+                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SocialChanges.md"
+                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "31cd49bd4997ec53",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/Business/Units/nd/SocialChanges.md",
+    "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+    "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
     "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
@@ -202,7 +203,6 @@
     "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "content/sixth/CompSci/Programming/Recursion.md",
-    "content/sixth/CompSci/Programming/ProgrammingChallenges.md",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/CompSci/Programming/img/tree.png",

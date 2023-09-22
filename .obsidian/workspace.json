@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31cd49bd4997ec53",
+            "id": "9f06bcd7405d178f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md"
+                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md"
               }
             }
           },
@@ -164,15 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31cd49bd4997ec53",
+  "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/nd/SocialChanges.md",
+    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
+    "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
     "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+    "content/sixth/Business/Units/nd/SocialChanges.md",
     "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
-    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
@@ -200,9 +202,7 @@
     "content/snowflake.md",
     "content/privacy.md",
     "content/sixth/Untitled.md",
-    "content/sixth/CompSci/Programming/Graphs.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
-    "content/sixth/CompSci/Programming/Recursion.md",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "content/sixth/CompSci/Programming/img/tree.png",

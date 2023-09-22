@@ -30,6 +30,36 @@ tags:
 - Unlikely to need significant new market research
 - But will strategy allow the business to achieve its growth objectives
 
+### Qs
+
+### Matrix for Coca-Cola
+
+#### Market Penetration
+
+- Coca-Cola Share Size 1.5l bottle
+	- This is identical to an existing product except in terms of volume, therefore they are simply trying to extend their market dominance with this product.
+
+#### Market Development
+
+
+- Coca-Cola Vanilla
+	- The product had already been developed and sold in America, but was being introduced into a new location
+
+#### Product Development
+
+- Diet Coke
+	- There is already a demand for colas, and there were changing customer demands so Coke updated their existing product to provide additional consumer choice.
+- Powerade
+	- The energy drinks market existed prior to powerade, but by entering a new product into the market Coca Cola could compete for additional market share.
+- Fanta Icy Lemon
+	- Coke listened to consumer feedback and developed a new product to be more competitive in an existing drinks market
+#### Diversification
+
+- Winnie the Pooh Roo Juice
+	- A new product, but it is just juice with a special brand.  It is competing with other children's juices in a market that Coca-Cola hasn't entered before.
+
+
+3) A business like Coca-Cola benefits from using Ansoff's Matrix because it allows them to ensure that they are growing their business into different markets whilst also retaining dominance of their existing markets. This process means that they can reduce their dependence on a single market or product by extending their product portfolio.
 
 
 

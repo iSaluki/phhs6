@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+                "file": "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/AnsoffsMatrix.md"
+                "file": "content/sixth/Business/Units/fh/BowmansStrategicClock.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/img/Pasted image 20230922144344.png",
+    "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
+    "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
     "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
@@ -177,7 +180,6 @@
     "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
-    "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
@@ -200,8 +202,6 @@
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/snowflake.md",
-    "content/privacy.md",
-    "content/sixth/Untitled.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",

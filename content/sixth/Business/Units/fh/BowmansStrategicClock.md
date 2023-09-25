@@ -37,6 +37,29 @@ tags:
 - Branding plays a key role
 - Quality is very important
 
+### Focused Differentiation
+
+- Highest price levels
+- Customers buy the product because of the high perceived value
+- Luxury brand
+
+### Risky High Margins
+
+- Very high risk
+- No extra in terms of perceived value
+- Customers will usually find a better option eventually
+- Very short term strategy
+
+### Monopoly Pricing
+
+- Only one business offering the product
+- Customers have no alternative, so pricing is easy to change for the business
+- Regulated very tightly as the market position is extremely dominant
+
+### Loss of market share
+
+- Recipe for disaster
+- Middle-range or standard price for a product with a low perceived value
 
 
 [Business](/Business)

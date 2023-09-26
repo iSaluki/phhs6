@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
+                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
+                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
+                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PortersGenericStrategies.md"
+                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md"
               }
             }
           },
@@ -166,16 +166,16 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
+    "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
+    "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230925150345.png",
     "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
-    "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20230922144344.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
-    "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
-    "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
     "content/sixth/Business/Units/nd/SocialChanges.md",
     "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
@@ -206,7 +206,6 @@
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "layouts/partials/head.html~",
     "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
-    "content/sixth/CompSci/Programming/img/tree.png",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",

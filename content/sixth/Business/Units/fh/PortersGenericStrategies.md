@@ -19,4 +19,5 @@ tags:
 - Highlights a full range of options open to a business whereas Porter only looks at a few distinct choices in terms of positioning
 
 
+
 [Business](/Business)

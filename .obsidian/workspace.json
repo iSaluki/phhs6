@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
+                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md"
+                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +165,12 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
+    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
+    "content/sixth/CompSci/Theory/Ethics/Ethics.md",
+    "content/sixth/Business/Units/nd/CarrollsCSRPyramid.md",
+    "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",
+    "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
     "content/sixth/Business/Units/nd/CorporateSocialResponsibility.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
@@ -185,13 +190,10 @@
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/General Concepts.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
-    "content/sixth/CompSci/Theory/Ethics/Ethics.md",
-    "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
     "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/Databases/Design.md",
-    "content/sixth/Business/Units/nd/ZeroHoursCaseStudy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",
@@ -202,10 +204,8 @@
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/Untitled.md",
     "content/sixth/CompSci/Theory/GeneralConcepts",
-    "content/sixth/Business/Units/fh/EmergingMarketsAndBusiness.md",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",
     "layouts/partials/head.html~",
-    "content/sixth/CompSci/Programming/img/Pasted image 20230706122524.png",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
     "assets/styles/_callouts.scss.1",

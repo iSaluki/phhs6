@@ -4,6 +4,7 @@ tags:
   - compsci
   - theory
 ---
+up
 ### Recall
 
 - A computer will one day be more intelligent than a human being

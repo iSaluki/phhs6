@@ -26,4 +26,34 @@ tags:
 - A sole trader is likely looking to make a living by selling goods or services in a single location, with only several employees
 - Public limited companies have much larger and broader objectives, as they will typically try to achieve societal changes and will operate on a larger scale with a significantly larger amount of capital.
 
+### Private and public sector organisations
+
+- Public sector organisations are run by the government
+- Private sector organisations are run by individuals
+- Public sector organisations are typically run for public benefit, such as the NHS, the fire department of the education system
+- Private sector organisations are usually run for profit (typically the case of private & public limited companies) although not always as many charities and NGOs are not run for profit but are also not considered public sector.
+
+### Ordinary share capital and market capitalisation
+
+- Ordinary share capital is money raised through selling shares
+- Market capitalisation is the total value of all of the shares for a business
+
+
+## Benefits and Drawbacks
+
+### Sole Trader
+
+- Easy to setup
+- Cheap
+- Little paperwork
+- Full control 
+
+- Unlimited liability
+
+
+### Private Limited Company
+
+- Fairly easy to setup
+- Limited liability
+
 [Business](/Business)

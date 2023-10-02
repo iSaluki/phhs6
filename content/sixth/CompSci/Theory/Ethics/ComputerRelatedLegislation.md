@@ -4,7 +4,7 @@ tags:
   - compsci
   - theory
 ---
-up
+
 ### Recall
 
 - A computer will one day be more intelligent than a human being
@@ -68,6 +68,37 @@ up
 - National security, crime, taxation and domestic purposes
 - Any data can be processed in relation to national security, prevent or detect crimes and collection of taxes
 - Data used for individual and household purposes are also exempted from this list
+
+### Copyright, Designs and Patents Act, CPDA (1988)
+
+- Under provisions of this act, intellectual property of an individual or organisation is protected from being copied, modified or distributed.
+- This act provides protection for audio, video, and software intellectual property
+- Peer-to-peer distribution of these files affects the income of copyright owners.
+- CPDA is referred to as “all rights reserved”.
+
+- Commercial software comes with a license agreement and a license key
+- License agreement defines the terms and conditions on the use of the software
+- License key is essential for accessing the software. This is incorporated to prevent the illegal distribution of software.
+
+- Although software applications are protected, algorithms are not.
+- If an advanced form of the search algorithm is found, anyone can use it without asking permission.
+
+### Creative Commons (CC)
+
+- Creative Commons, an organisation, issues licenses to owners where the holder may choose to reserve copyrights to some part of work while allowing dew parts to be copyright free.
+
+### The Regulations of Investigatory Powers Act (2000) - R.I.P.A
+
+- This act provides a framework based on which public bodies may intercept communications, get access to communications data and surveillance.
+- This act also regulates the use of undercover agents and informers.
+- Due to advancements in encryption of communications data, giving public authorities power to communications data and surveillance helps to avoid and solve crimes.
+
+- Based on this act, public authorities have powers to:
+	- Access communications data of any ISP's customer in secret in the interest of national security, detecting crimes and safeguarding economic interests of the country.
+	- Monitor people's Internet activities and perform mass surveillance of communications.
+	- May demand someone to submit the keys to access protected information.
+	- Prevent the existence of interception warrants and any data collected with them being revealed in court.
+
 
 
 [Ethics](sixth/CompSci/Theory/Ethics/Ethics)

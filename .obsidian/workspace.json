@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
+                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
+                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
+                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md"
+                "file": "content/sixth/Business/Units/fh/BusinessTypes.md"
               }
             }
           },
@@ -167,12 +167,13 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
+    "content/sixth/Business/Units/fh/BusinessTypes.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
     "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
     "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
     "content/sixth/Business/Units/nd/CarrollsCSRPyramid.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
-    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/Ethics.md",
     "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",
@@ -203,7 +204,6 @@
     "content/sixth/CompSci/Theory/Ethics/img/Pasted image 20230912110616.png",
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/Business/Units/nd/PESTLE.md",
-    "content/sixth/Business/Units/nd/EmployerEmployeeRelationsAtAirbus.md",
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "content/sixth/CompSci/Programming/img/Pasted image 20230704145502.png",

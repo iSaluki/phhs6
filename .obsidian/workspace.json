@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/TechnologicalFactors.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/TechnologicalFactors.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/TechnologicalFactors.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/TechnologicalFactors.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md"
               }
             }
           },
@@ -165,11 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ff67098b3c72483",
+  "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/TechnologicalFactors.md",
     "content/sixth/Business/Units/nd/CarrollsCSRPyramid.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
-    "content/sixth/Business/Units/nd/TechnologicalFactors.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/Business/Units/fh/BusinessTypes.md",

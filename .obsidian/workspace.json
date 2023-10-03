@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessTypes.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/BusinessTypes.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/fh/BusinessTypes.md",
+    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
     "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
     "content/sixth/Business/Units/fh/PortersGenericStrategies.md",

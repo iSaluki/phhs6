@@ -5,7 +5,7 @@ description: "Landing page"
 
 This site hosts various work I do openly, with the intention of creating an easily accessible, free knowledge base. Although please do keep in mind that this site is not intended to be used as an authoritative information source such as [📖 Wikipedia](https://wikipedia.org).
 
-My biology work is not done here primarily, so it is copied up after being done in batches. This may result in significant delays.
+My biology work is not done here primarily, so it is copied up after being done in batches. This may result in significant delays or it **not being available here**.
 
 Content on this site may not all be owned or produced by me, and is hosted here under fair use. If you have the rights to any content here and wish to have it altered or removed, then please contact me to request this.
 
@@ -26,15 +26,8 @@ You can find all my subject work below
 
 You may also wish to search with [🏷️ tags](/tags)
 
-Other, miscellaneous work may be found via the search function or the interactive graph. 
-
-
 If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://social.sethmb.xyz/@seth)
 
-
-To support my work here and elsewhere, and encourage me to continue to work in the open, making a donation with the button below is the best way to help out. Any amount is appreciated.
-
-{{< htmlsnippet "layouts/partials/donate.html" >}}
 
 ## FAQ
 

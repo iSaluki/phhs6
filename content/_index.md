@@ -31,22 +31,22 @@ If you notice an issue with the site or need help reach out to me on [👥 Masto
 
 ##  📋FAQ
 
-### Does this website cover the whole A level spec for each subject?
+### 🗺️ Does this website cover the whole A level spec for each subject?
 
 No. Nor is it intended to. Chances are that by the time I have finished studying the course, it will cover *most* of the spec *for a specific exam board* per *subject*.
 
-### Can I freely copy content from this website?
+###  🤝 Can I freely copy content from this website?
 
 As the rights to content hosted here are not as straightforward as me being able to freely give everything away, I would strongly recommend you contact me before redistributing or modifying content.
 
-### Can I use this to revise?
+### 👨‍🎓 Can I use this to revise?
 
 Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [🎴 Anki](https://ankiweb.net)). *I cannot guarantee the accuracy of any information provided here.*
 
-### The website doesn't look like it is in sync with GitHub. Why?
+### 🌐 The website doesn't look like it is in sync with GitHub. Why?
 
 GitHub changes are made in real time, however we only update the live website every hour. This can lead to some temporary discrepancies between the website and the source.
 
-### Do you track me?
+### 🕵 Do you track me?
 
 **TLDR;** Yes, but I take as many measures as possible to respect your privacy. For more details, see [🛡️ privacy](/privacy)

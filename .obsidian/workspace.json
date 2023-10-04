@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
+                "file": "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md"
+                "file": "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md"
               }
             }
           },
@@ -167,12 +167,13 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
+    "content/sixth/Business/Units/fh/BusinessTypes.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/Business/Units/nd/TechnologicalFactors.md",
     "content/sixth/Business/Units/nd/CarrollsCSRPyramid.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
-    "content/sixth/Business/Units/fh/BusinessTypes.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
     "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
@@ -198,7 +199,6 @@
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
     "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
     "content/sixth/CompSci/Theory/Databases/Databases.md",
-    "content/sixth/CompSci/Theory/Databases/Design.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",

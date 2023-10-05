@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md"
               }
             }
           },
@@ -167,7 +167,9 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/Business/Units/nd/TechnologicalFactors.md",
+    "content/_index.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
     "content/sixth/Business/Units/fh/BusinessTypes.md",
@@ -198,7 +200,6 @@
     "content/sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts.md",
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
     "content/sixth/CompSci/Theory/Databases/ConcurrentAccess.md",
-    "content/sixth/CompSci/Theory/Databases/Databases.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123506.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",

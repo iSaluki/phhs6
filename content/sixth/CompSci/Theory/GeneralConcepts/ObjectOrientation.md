@@ -76,6 +76,16 @@ del suite
 ```
 In this example of association, deleting the suite does not destroy the table or chair. This is good if the destroying the suite shouldn't get rid of the table or chair, but many would consider it inefficient if this is not the case.
 
+### Design Principles
+
+- Object orientation encourages certain principles when we are designing and coding our classes
+- Encapsulate what varies
+	- You're trying to describe how objects differ
+- Program to interfaces not implementations
+	- Make your code as generic as possible, then the classes can be reused
+	- Don't make the "School Name Student" class, make the "Student" class
+- Favour composition over inheritance
+
 
 
 

@@ -87,6 +87,36 @@ In this example of association, deleting the suite does not destroy the table or
 - Favour composition over inheritance
 
 
+### Functional Programming
+
+- Code that is declarative
+	- The program is a series of declarations
+	- There is no changing of state or mutable data
+- Functional programming is a subset of declarative programming
+- It sees the world as a collection of mathematical functions
+	- The result of a function depends only on its arguments
+
+
+#### What is a function?
+
+- A function is a mathematical expression that will always give the same output when presented with the same inputs.
+
+![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png]]
+
+
+#### Why functional programming?
+
+- It is more robust
+- It is easier to reason about
+- Less prone to errors
+- Has no side effects, even as the code base increases
+
+#### Features of functional programming
+
+- Concurrency
+- Lazy evaluation
+- Recursion
+- Data is immutable
 
 
 

@@ -43,6 +43,11 @@ As the rights to content hosted here are not as straightforward as me being able
 
 Yes, go for it. However, if something doesn't look right, challenge it. I would also strongly recommend combining this with other revision techniques, such as flash cards (see [🎴 Anki](https://ankiweb.net)). *I cannot guarantee the accuracy of any information provided here.*
 
+
+### ✅ Is this any good?
+
+[Yes.](http://news.ycombinator.com/item?id=3067434)
+
 ### 🌐 The website doesn't look like it is in sync with GitHub. Why?
 
 GitHub changes are made in real time, however we only update the live website every hour. This can lead to some temporary discrepancies between the website and the source.

@@ -92,5 +92,12 @@ Opt 2:
 >
 > Cash Flow x Discount Factor = Present Value 
 
+If NPV is positive, then the investment is worth doing.
+If NPV is negative, then the investment is not worth doing.
+
+If you have a choice between two positive NPV projects, then you want the one with the highest NPV.
+
+
+
 
 [Business](/Business)

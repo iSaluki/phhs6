@@ -79,6 +79,18 @@ Opt 2:
 
 - Discounting is the method used to reduce the future value of cash flows to reflect the risk of inflation or the investment not working out.
 
+#### The Time Value of Money
+
+- Better to receive cash now than in the future
+- Future cash flows are worth less
+- Use discount factors to bring cash flows back to their present value
+- Relevant discount factor determined by required rate of return
+
+#### Calculating the present value of a future cashflow
+
+> [!note] Formula
+>
+> Cash Flow x Discount Factor = Present Value 
 
 
 [Business](/Business)

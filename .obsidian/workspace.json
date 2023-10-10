@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md"
+                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md"
               }
             }
           },
@@ -167,19 +167,19 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/private/callouts.md",
+    "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
+    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+    "content/private/callouts.md",
     "content/sixth/Business/Units/fh/BusinessTypes.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/nd/CarrollsCSRPyramid.md",
     "content/sixth/Business/Units/nd/TechnologicalFactors.md",
-    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/CompSci/Theory/Databases/SQLAndPython.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/_index.md",
     "content/sixth/Business/Units/fh/CaseStudyFrozenWorld.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
-    "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/Business/Units/fh/BowmansStrategicClock.md",
     "content/sixth/Business/Units/fh/PortersGenericStrategies.md",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",

@@ -72,6 +72,13 @@ Opt 2:
 
 £180,000 + 20,000 = £200,000 capital cost
 
+---
+### Discounted Cash Flow (NPV)
+
+**Net present value (NPV) calculates the monetary value now of a project's future cash flows.**
+
+- Discounting is the method used to reduce the future value of cash flows to reflect the risk of inflation or the investment not working out.
+
 
 
 [Business](/Business)

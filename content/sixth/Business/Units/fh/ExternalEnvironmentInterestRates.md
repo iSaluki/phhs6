@@ -1,7 +1,7 @@
 ---
-title: "Interest Rates"
+title: Interest Rates
 tags:
-- buisness
+  - business
 ---
 
 An interest rate is the cost of borrowing money or the return for investing money.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+                "file": "content/sixth/Business/Units/fh/PEDQuestion.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/PEDQuestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/Business/Units/fh/PEDQuestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/Business/Units/fh/PEDQuestion.md"
               }
             }
           },
@@ -178,13 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0432fa9ae7cffd0d",
+  "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
     "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
     "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+    "content/sixth/Business/Units/fh/PEDQuestion.md",
+    "content/_index.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
-    "content/_index.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/private/callouts.md",
@@ -210,7 +210,6 @@
     "content/sixth/Business/Units/nd/SocialChanges.md",
     "content/sixth/Business/Units/nd/GovernmentPolicy.md",
     "content/sixth/Biology/ReadingAboutPhotosynthesis.md",
-    "content/sixth/Business/Units/fh/CompetitiveEnvironmentFiveForces.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",

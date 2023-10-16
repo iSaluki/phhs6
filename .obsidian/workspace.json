@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0432fa9ae7cffd0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f06bcd7405d178f",
+  "active": "0432fa9ae7cffd0d",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
     "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
+    "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
     "content/_index.md",

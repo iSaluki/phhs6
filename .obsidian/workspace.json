@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buisness",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md"
               }
             }
           },
@@ -178,15 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f06bcd7405d178f",
+  "active": "7ff67098b3c72483",
   "lastOpenFiles": [
-    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
     "content/sixth/Business/Units/fh/PEDQuestion.md",
-    "content/sixth/Business/Units/nd/FinancialRatios.md",
     "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
+    "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
+    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
+    "content/sixth/Business/Units/nd/FinancialRatios.md",
     "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
     "content/_index.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
@@ -209,8 +210,6 @@
     "content/sixth/Business/Units/fh/img/Pasted image 20230922144344.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
     "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/ProgrammingParadigms.md",
-    "content/sixth/Business/Units/nd/SocialChanges.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",

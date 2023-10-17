@@ -67,8 +67,15 @@ tags:
 	- Push 15 (result of multiply)
 - Stack now contains the result
 
+#### RPN as a Tree
 
+- You can also represent RPN as a tree.
+
+![[sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png]]
  
+- The tree can be reversed post order with each calculation replacing the operator.
+
+
 
 
 

@@ -106,5 +106,17 @@ If you have a choice between two positive NPV projects, then you want the one wi
 	- When the total net cash flow becomes positive, that is the end of the payback period.
 
 
+| Year | Cash Flow Detail      | Cash flow £ | Cumulative Cash Flow | Payback? |
+|------|-----------------------|-------------|----------------------|----------|
+| 0    | Investment (cash out) | (500,000)   | (500,000)            | No       |
+| 1    | Net Cash Inflows      | 100,000     | (400,000)            | No       |
+| 2    | Net Cash Inflows      | 150,000     | (250,000)            | No       |
+| 3    | Net Cash Inflows      | 175,000     | (75,000)             | No       |
+| 4    | Net Cash Inflows      | 150,000     | 75,000               | Yes      |
+
+In this case, there is an overshoot. It took 3 and a bit years to reach payback. We can tell because there is more than 0 at the end of year 4. 
+
+
+
 
 [Business](/Business)

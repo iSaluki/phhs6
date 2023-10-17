@@ -47,6 +47,16 @@ tags:
 	- So, in our example we might break this down into two stages - the first where we find the name in the database, and the second where we find the scores.
 	- The performance boost comes because we might be able to pre-process the first stage - partial evaluation of the whole expression.
 
+- This works best if one of the inputs can be fixed.
+	- At run time we might know one of the values and it will not change during this execution.
+		- Think about a date, for example.
+	- So, before we get the command, we can do the required processing that the "date" part of the operation depends on.
+- Consider the command `add 2 age`
+- We know that the function always adds 2.
+- So lets create a temporary function called `add2`.
+- When we get to this command in the code we don't run it, we run:
+	- `add2 age`
 
+	
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

@@ -97,6 +97,13 @@ If NPV is negative, then the investment is not worth doing.
 
 If you have a choice between two positive NPV projects, then you want the one with the highest NPV.
 
+### Payback Period
+
+- Identify the net cash flows for each period (eg, a year)
+- Keep a running total of the cash flows
+	- Initial investment is an outflow
+	- When does the running total move from negative to positive (outflows)
+	- When the total net cash flow becomes positive, that is the end of the payback period.
 
 
 

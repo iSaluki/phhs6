@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/InvestmentAppraisal.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
     "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
+    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/Business/Units/fh/PEDQuestion.md",
     "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
@@ -190,7 +192,6 @@
     "content/_index.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
-    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/private/callouts.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
     "content/sixth/Business/Units/fh/BusinessTypes.md",
@@ -209,7 +210,6 @@
     "content/sixth/Business/Units/fh/img/Pasted image 20230925150345.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230922144344.png",
     "content/sixth/Business/Units/fh/AnsoffsMatrix.md",
-    "content/sixth/Business/Units/fh/PortersFiveForcesCaseStudy.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",

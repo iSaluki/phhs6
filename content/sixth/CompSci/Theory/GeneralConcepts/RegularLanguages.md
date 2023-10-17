@@ -76,6 +76,13 @@ tags:
 - The tree can be reversed post order with each calculation replacing the operator.
 
 
+### Regular Expressions
+
+- A regular expression provides a way to define sequences of characters
+- The regular expression can then be used to pattern match
+	- To find examples in a bigger body of characters
+	- To determine if an input matches an allowed pattern
+- The regular expression defines the whole set
 
 
 

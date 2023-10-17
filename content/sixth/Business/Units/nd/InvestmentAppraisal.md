@@ -124,6 +124,12 @@ In this case, there is an overshoot. It took 3 and a bit years to reach payback.
 - Emphasises speed of return; good for fast moving markets
 - Straightforward to compare competing products 
 
+#### Drawbacks of payback period
 
+- Ignores cash flows after payback has been reached
+- Takes no account of the "time value of money"
+- May encourage short-term thinking
+- Ignores qualitative aspects
+- Does not actually create a decision for the investment.
 
 [Business](/Business)

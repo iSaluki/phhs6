@@ -48,6 +48,26 @@ tags:
 	-  5 7 + 3 x => 12 3 x => 36
 
 
+- Representing calculations in reverse polish makes it easier for machines to interpret.
+- In particular, calculations express in RPN take less steps to process on a computer.
+- To perform an RPN calculation, we use a stack.
+
+#### RPN and the Stack
+
+- Here's an infix notation:
+	- 5 x ( 1 + 2)
+- Represented as RPN it looks like
+	- 1 2 + 5 x
+
+- In operation
+	-  Push 1 and 2
+	- Pop 2, 1 and add.
+	- Push 3 (result of add)
+	- Pop 3,5 and multiply.
+	- Push 15 (result of multiply)
+- Stack now contains the result
+
+
  
 
 

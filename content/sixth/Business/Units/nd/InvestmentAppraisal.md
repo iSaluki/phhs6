@@ -15,64 +15,7 @@ tags:
 - Divide the average annual profit by the initial investment outlay
 - Compare with the target percentage return
 
-#### ARR worksheets
 
-£80,000 capital cost
-£26,000 per year for 5 years
-(26000x5 = 130,000)
-130,000 - 80,000 = £50,000 profit
-50,000/5 = 10,000
-
-10,000 / 80,000 x 100 = 12.5% ARR
-
-
----
-
-£130,000 capital investment
-
-Returns:
-Year 1 → £35,000
-Year 2 → £40,000
-Year 3 → £50,000
-Year 4 → £60,000
-
-(35000+40000+50000+60000 = 185,000)
-
-Average annual return: 
-£185,000 - 130,000 = £55,000
-55,000 / 4 = **£13,750**
-
-13,750/ 130,000 x 100 = **10.57% ARR**
-
----
-£50,000 capital cost
-
-Year 1 -> £30,000
-
-
-
----
-
-£130,000 capital cost
-
-Return per year:
-Year 1 -> £28,000
-Year 2 -> £33,000
-Year 3 -> £37,000
-Year 4 -> £41,000
-Year 5 -> £48,000
-
-(28000+33000+37000+41000+48000) = £18700
-187,0000- 130,000 = £174000
-174000/5 = £34,800
-34800/130,000 x 100 =  26.7% ARR (8.77% correct ans)
-
-
-Opt 2:
-
-£180,000 + 20,000 = £200,000 capital cost
-
----
 ### Discounted Cash Flow (NPV)
 
 **Net present value (NPV) calculates the monetary value now of a project's future cash flows.**
@@ -131,6 +74,14 @@ In this case, there is an overshoot. It took 3 and a bit years to reach payback.
 - May encourage short-term thinking
 - Ignores qualitative aspects
 - Does not actually create a decision for the investment.
+
+### Calculating and Interpreting ARR
+
+- Calculate the total net inflow from the project
+- Deduct the outlay (initial investment) to get the annual profit
+- Divide the total annual profit by the total number of years to get the average annual profit
+- Divide the average annual profit by the initial investment (“outlay”)
+- Compare with the target percentage return
 
 
 

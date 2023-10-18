@@ -132,4 +132,6 @@ In this case, there is an overshoot. It took 3 and a bit years to reach payback.
 - Ignores qualitative aspects
 - Does not actually create a decision for the investment.
 
+
+
 [Business](/Business)

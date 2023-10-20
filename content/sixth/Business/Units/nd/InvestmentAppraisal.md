@@ -59,6 +59,10 @@ If you have a choice between two positive NPV projects, then you want the one wi
 
 In this case, there is an overshoot. It took 3 and a bit years to reach payback. We can tell because there is more than 0 at the end of year 4. 
 
+> [!note] Formula
+>
+> Payback Period = Initial Investment / Annual Cash Flow
+
 #### Benefits of payback period
 
 - Simple and easy to calculate

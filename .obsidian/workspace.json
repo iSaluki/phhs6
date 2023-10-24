@@ -179,9 +179,10 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
     "layouts/404.shtml",
     "content/Business.md",
-    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
     "content/Biology.md",
     "content/ComputerScience.md",
     "content/privacy.md",
@@ -189,7 +190,6 @@
     "content/status.md",
     "content/terminology.md",
     "content/snowflake.md",
-    "content/_index.md",
     "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/private/JobDesign.md",
@@ -224,7 +224,6 @@
     "layouts/partials/head.html~",
     "assets/styles/custom.scss",
     "assets/styles/_light_syntax.scss",
-    "assets/styles/_callouts.scss.1",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

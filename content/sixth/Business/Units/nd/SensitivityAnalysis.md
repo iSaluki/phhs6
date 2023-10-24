@@ -15,6 +15,20 @@ Etcetera
 
 - What if assumptions are worse by 10%?
 
+### Benefits and Drawbacks
+
+#### Benefits
+
+- Identifies the most significant assumptions
+- Helps assess risk and prepare for a less favourable scenario
+- Helps make the process of business forecasting more robust
+
+#### Drawbacks
+
+- Only tests one assumption at a time (many assumptions may be linked)
+- Only as good as the data on which forecasts are based
+- A somewhat complicated concept - not understood by all managers
+
 
 
 [Business](/Business)

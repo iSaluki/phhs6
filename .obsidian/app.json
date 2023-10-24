@@ -1,6 +1,6 @@
 {
   "spellcheck": true,
-  "vimMode": false,
+  "vimMode": true,
   "spellcheckDictionary": [
     "Hackman",
     "\nHackma",

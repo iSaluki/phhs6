@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarLemon",
-      "FarHardDrive",
-      "FarUser",
-      "FarHeart",
-      "FarRegistered"
+      "LiCog",
+      "LiFileCode",
+      "LiPersonStanding",
+      "IbReturnRight",
+      "FarIdCard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -37,5 +37,13 @@
   "content/sixth/Business": "FarRegistered",
   "content/sixth/Biology": "FarLemon",
   "content/sixth/Careers": "FarUser",
-  "content/sixth/CompSci": "FarHardDrive"
+  "content/sixth/CompSci": "FarHardDrive",
+  "content/sixth": "FarBuilding",
+  "content/private": "LiLock",
+  "content": "FarIdCard",
+  "content/sixth/Business/Units": "IbReturnRight",
+  "content/sixth/Business/Units/fh": "LiPersonStanding",
+  "content/sixth/Business/Units/nd": "LiPersonStanding",
+  "content/sixth/CompSci/Programming": "LiFileCode",
+  "content/sixth/CompSci/Theory": "LiCog"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231024123227.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
     "content/sixth/CompSci/Theory/BinaryLogic/Untitled.canvas",
     "content/private/HaskellPain.md",
     "content/private/SensitivityAnalysisQs.md",
@@ -205,9 +207,7 @@
     "content/private/DecisionMakingToImproveHRperformance.md",
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
-    "content/sixth/CompSci/Theory/Ethics/Ethics.md",
     "content/private",
-    "content/sixth/Careers/WritingAPersonalStatement.md",
     "content/sixth/Careers",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",

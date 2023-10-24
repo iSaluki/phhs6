@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/Business/Units/nd/SensitivityAnalysis.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md"
               }
             }
           },
@@ -179,8 +179,14 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
+    "content/sixth/CompSci/Theory/BinaryLogic/Untitled.canvas",
+    "content/private/HaskellPain.md",
+    "content/private/SensitivityAnalysisQs.md",
+    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+    "content/_index.md",
     "layouts/404.shtml",
     "content/Business.md",
     "content/Biology.md",
@@ -200,14 +206,10 @@
     "content/sixth/CompSci/Theory/Ethics/LogicOfEthics.md",
     "content/sixth/CompSci/Theory/Ethics/EnvironmentalImpact.md",
     "content/sixth/CompSci/Theory/Ethics/Ethics.md",
-    "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/private",
     "content/sixth/Careers/WritingAPersonalStatement.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
     "content/sixth/Careers",
-    "content/sixth/CompSci/Theory/GeneralConcepts/FunctionalProgramming.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png",
-    "content/sixth/CompSci/Theory/GeneralConcepts/ObjectOrientation.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
     "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",

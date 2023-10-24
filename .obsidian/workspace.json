@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/Business.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/Business.md"
               }
             }
           },
@@ -179,8 +179,12 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/terminology.md",
+    "content/Biology.md",
+    "content/ComputerScience.md",
     "content/privacy.md",
+    "content/SchoolWork.md",
+    "content/status.md",
+    "content/terminology.md",
     "content/snowflake.md",
     "content/_index.md",
     "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md",
@@ -204,11 +208,7 @@
     "content/sixth/Business/Units/fh/PEDQuestion.md",
     "content/sixth/Business/Units/fh/IncomeElasticityOfDemand.md",
     "content/sixth/Business/Units/fh/ExternalEnvironmentInterestRates.md",
-    "content/sixth/Business/Units/nd/FinancialRatiosMarkscheme.md",
-    "content/sixth/Business/Units/nd/FinancialRatios.md",
-    "content/sixth/Business/Units/fh/PriceElasticityOfDemand.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
-    "content/private/callouts.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
     "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230925150345.png",

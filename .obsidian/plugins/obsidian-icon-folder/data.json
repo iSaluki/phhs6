@@ -6,8 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarChessRook",
-      "FarBuilding"
+      "FarLemon",
+      "FarHardDrive",
+      "FarUser",
+      "FarHeart",
+      "FarRegistered"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -30,5 +33,9 @@
     "iconsBackgroundCheckEnabled": false
   },
   "content/_index.md": "FarBuilding",
-  "content/privacy.md": "FarChessRook"
+  "content/privacy.md": "FarChessRook",
+  "content/sixth/Business": "FarRegistered",
+  "content/sixth/Biology": "FarLemon",
+  "content/sixth/Careers": "FarUser",
+  "content/sixth/CompSci": "FarHardDrive"
 }

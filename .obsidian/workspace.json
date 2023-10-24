@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/privacy.md",
+                "file": "content/terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/privacy.md"
+                "file": "content/terminology.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/privacy.md",
+    "content/snowflake.md",
+    "content/_index.md",
     "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/private/JobDesign.md",
@@ -208,7 +209,6 @@
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231010120418.png",
     "content/private/callouts.md",
     "content/sixth/Business/Units/nd/PoliticalAndLegalEssay.md",
-    "content/sixth/Business/Units/fh/BusinessTypes.md",
     "content/sixth/Business/Units/fh/img/Pasted image 20231004095859.png",
     "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230925150345.png",

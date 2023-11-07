@@ -17,7 +17,7 @@ operandApiKey: "{{secrets.operand_secret}}"
 description:
   A website hosting school work
 page_title:
-  "📚 Seth MB"
+  "📚 Seth Maurice-Brant"
 links:
   - link_name: Source Code
     link: https://github.com/isaluki

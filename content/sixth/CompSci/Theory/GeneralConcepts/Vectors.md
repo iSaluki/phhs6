@@ -24,7 +24,7 @@ tags:
 		- X is horizontal
 		- Y is vertical
 	- Word vectors
-
+		- “Male”, “Royal” → “King”
 
 
 

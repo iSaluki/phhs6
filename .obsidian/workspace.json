@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
     "content/private/BusinessFormulae.md",
     "content/_index.md",
     "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
@@ -207,7 +208,6 @@
     "content/private/JobDesign.md",
     "Untitled.md",
     "content/sixth/CompSci/Theory/TwosComplement.md",
-    "content/private/DecisionMakingToImproveHRperformance.md",
     "content/private",
     "content/sixth/Careers",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png",

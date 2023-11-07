@@ -1,0 +1,31 @@
+---
+title: Vectors
+tags:
+  - compsci
+  - theory
+  - generalconcepts
+---
+- A vector is a “point in space” reference to another “point in space”
+- They can be one, two or three dimensional
+- They have [both direction and magnitude](https://youtu.be/A05n32Bl0aY?t=28)
+
+- One-dimensional 
+	- Single direction
+		- Index of an array
+		- Position in a file (distance from start)
+		- Record in a table
+		- Distance along a line
+
+- Two-dimensional
+	- Two directions in a flat plane
+		- Direction and distance along a plane.
+		- Direction and force along a plane.
+	- Measured as X and Y
+		- X is horizontal
+		- Y is vertical
+	- Word vectors
+
+
+
+
+[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

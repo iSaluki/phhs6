@@ -26,6 +26,16 @@ tags:
 	- Word vectors
 		- “Male”, “Royal” → “King”
 
+- Three-dimensional
+	- Three directions in a space
+		- Direction and distance
+		- Direction and force
+	- Measured as X, Y and Z
+		- X is horizontal forwards/backwards
+		- Y is horizontal left/right
+		- Z is vertical up/down
+
+
 
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

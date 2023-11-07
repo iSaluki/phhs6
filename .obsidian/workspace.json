@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md"
               }
             }
           },
@@ -179,9 +179,11 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
+    "content/private/PersonalStatement.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231024123227.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/Backus-NaurForm.md",
-    "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/RegularLanguages.md",
     "content/sixth/CompSci/Theory/BinaryLogic/Untitled.canvas",
     "content/private/HaskellPain.md",
@@ -201,7 +203,6 @@
     "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md",
     "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
     "content/private/JobDesign.md",
-    "content/private/PersonalStatement.md",
     "Untitled.md",
     "content/sixth/CompSci/Theory/TwosComplement.md",
     "content/private/DecisionMakingToImproveHRperformance.md",
@@ -218,7 +219,6 @@
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
-    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230912123652.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/CompSci/Theory/Ethics",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
     "content/private/PersonalStatement.md",
@@ -190,7 +191,6 @@
     "content/private/SensitivityAnalysisQs.md",
     "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
-    "content/_index.md",
     "layouts/404.shtml",
     "content/Business.md",
     "content/Biology.md",

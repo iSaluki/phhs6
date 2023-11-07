@@ -17,6 +17,10 @@ tags:
 - Because the hash is smaller than the original data it should be clear that there are more possible sources than there are possible hashes.
 - This idea is known as the pigeonhole principle.
 
+### Check Digit
 
+- A check digit is produced by a hashing algorithm
+- It is used to confirm that the data being processed has been received correctly
+- Used extensively in data capture devices such as barcode scanners.
 
 [General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)

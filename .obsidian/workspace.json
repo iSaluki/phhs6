@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "9f06bcd7405d178f",
   "lastOpenFiles": [
-    "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
+    "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
     "content/private/BusinessFormulae.md",
     "content/_index.md",

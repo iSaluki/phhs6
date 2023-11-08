@@ -55,3 +55,11 @@ GitHub changes are made in real time, however we only update the live website ev
 ### 🕵 Do you track me?
 
 **TLDR;** Yes, but I take as many measures as possible to respect your privacy. For more details, see [🛡️ privacy](/privacy)
+
+
+---
+
+### 📰 RSS Feed
+
+Located [here](https://me.sethmb.xyz/rss/p/i/)
+

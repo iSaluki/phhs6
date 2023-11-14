@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f06bcd7405d178f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0432fa9ae7cffd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/BiologyHwkImmuneMat.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "decision making",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/BiologyHwkImmuneMat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/BiologyHwkImmuneMat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/private/BiologyHwkImmuneMat.md"
               }
             }
           },
@@ -177,14 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f06bcd7405d178f",
+  "active": "0432fa9ae7cffd0d",
   "lastOpenFiles": [
+    "content/private/BusinessMarketing.md",
+    "content/private/img/Pasted image 20231113150555.png",
+    "content/private/img/Pasted image 20231113150500.png",
+    "content/private/BiologyHwkImmuneMat.md",
+    "content/private/img/Pasted image 20231113102357.png",
+    "content/private/img",
+    "content/private/BiologyHwkGeneExpression.md",
+    "content/private/HRRevision.md",
+    "content/_index.md",
+    "content/sixth/Business/Units/fh/AuthorityAndOrganisationalDesign.md",
+    "content/sixth/Business/Units/nd/DecisionMaking.md",
+    "content/private/DecisionMakingToImproveHRperformance.md",
+    "content/private/BusinessFormulae.md",
+    "content/sixth/Business/Units/fh/PEDQuestion.md",
+    "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
+    "content/sixth/Business/Units/nd/Labour.md",
+    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+    "content/sixth/Business/Units/fh/CaseStudyRyanair.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/CheckDigitsAndHashing.md",
-    "content/private/BusinessFormulae.md",
-    "content/_index.md",
-    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/SyntaxDiagrams.md",
     "content/private/PersonalStatement.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231024123227.png",
@@ -196,18 +199,6 @@
     "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "layouts/404.shtml",
     "content/Business.md",
-    "content/Biology.md",
-    "content/ComputerScience.md",
-    "content/privacy.md",
-    "content/SchoolWork.md",
-    "content/status.md",
-    "content/terminology.md",
-    "content/snowflake.md",
-    "content/sixth/CompSci/Programming/ValuesExpressionsAndStatements.md",
-    "content/sixth/CompSci/Theory/Ethics/ComputerRelatedLegislation.md",
-    "content/private/JobDesign.md",
-    "Untitled.md",
-    "content/sixth/CompSci/Theory/TwosComplement.md",
     "content/private",
     "content/sixth/Careers",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png",
@@ -216,16 +207,12 @@
     "content/sixth/Business/Units/nd/img/Pasted image 20230926095720.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230925150345.png",
     "content/sixth/Business/Units/fh/img/Pasted image 20230922144344.png",
-    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919143234.png",
-    "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20230919095106.png",
-    "content/sixth/Business/Units/fh/img/Pasted image 20230915111019.png",
     "content/sixth/CompSci/Theory/GeneralConcepts/img",
     "content/sixth/CompSci/Theory/Ethics/img",
     "content/sixth/CompSci/Theory/Ethics",
     "content/sixth/CompSci/Theory/GeneralConcepts",
     "layouts/partials/head.html~",
     "assets/styles/custom.scss",
-    "assets/styles/_light_syntax.scss",
     "content/sixth/Business/Units/nd/Untitled.canvas"
   ]
 }

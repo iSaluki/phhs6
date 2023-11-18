@@ -5,13 +5,13 @@ title: Fedora Packaging Todolist
 
 ## In Progress
 
-### Jless
+### Jless (Rust)
 
 - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - https://jless.io/
 - Currently, this is on hold. I have packaged what I can and am waiting for PRs to be submitted/approved currently.
 
-### Lazygit
+### Lazygit (Go)
 - A simple terminal UI for git commands 
 - https://github.com/jesseduffield/lazygit
 - Just getting started, working on learning Go packaging and sorting out dependency hell - watch this space.
@@ -34,6 +34,9 @@ title: Fedora Packaging Todolist
 
 ### Icdiff (Python)
 - https://github.com/jeffkaufman/icdiff
+
+### Zellij (Rust)
+- https://github.com/zellij-org/zellij
 
 
 ## Pending Reviews

@@ -21,6 +21,11 @@ title: Fedora Packaging Todolist
 - https://github.com/mikefarah/yq
 - All missing dependencies have been submitted for review.
 
+### Zellij (Rust)
+- A terminal workspace with batteries included
+- https://github.com/zellij-org/zellij
+- In the process of packaging dependencies.
+- Waiting for PR to be merged.
 
 ## To Investigate
 
@@ -34,9 +39,6 @@ title: Fedora Packaging Todolist
 
 ### Icdiff (Python)
 - https://github.com/jeffkaufman/icdiff
-
-### Zellij (Rust)
-- https://github.com/zellij-org/zellij
 
 
 ## Pending Reviews

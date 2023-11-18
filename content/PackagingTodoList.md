@@ -16,6 +16,12 @@ title: Fedora Packaging Todolist
 - https://github.com/jesseduffield/lazygit
 - Just getting started, working on learning Go packaging and sorting out dependency hell - watch this space.
 
+### Yq (Go)
+- a lightweight and portable command-line YAML, JSON and XML processor. `yq` uses [jq](https://github.com/stedolan/jq) like syntax but works with yaml files as well as json, xml, properties, csv and tsv. It doesn't yet support everything `jq` does - but it does support the most common operations and functions, and more is being added continuously.
+- https://github.com/mikefarah/yq
+- All missing dependencies have been submitted for review.
+
+
 ## To Investigate
 
 - I haven't formally started working on any of these, but I am interested and plan to see if these are possible in future.
@@ -28,9 +34,6 @@ title: Fedora Packaging Todolist
 
 ### Icdiff (Python)
 - https://github.com/jeffkaufman/icdiff
-
-### Yq (Go)
-- https://github.com/mikefarah/yq
 
 
 ## Pending Reviews

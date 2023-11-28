@@ -62,6 +62,9 @@ tags:
 
 ### Franchises in Internal Growth
 
-
+- Spread costs: franchisees cover some of the costs and shield the franchiser from some of the risk
+- Growth can be far quicker as franchisees can be given responsibility 
+- Franchisee can handle the day to day growth and operation whilst the franchiser can build a strong brand for the business, creating a sort of symbiotic relationship between the two.
+- Franchises typically lead to far quicker internal growth, however may dilute the control of the franchiser if their contract is not watertight.
 
 [Business](/Business)

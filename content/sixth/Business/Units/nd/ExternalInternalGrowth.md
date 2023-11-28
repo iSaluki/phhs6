@@ -67,4 +67,27 @@ tags:
 - Franchisee can handle the day to day growth and operation whilst the franchiser can build a strong brand for the business, creating a sort of symbiotic relationship between the two.
 - Franchises typically lead to far quicker internal growth, however may dilute the control of the franchiser if their contract is not watertight.
 
+
+### Joint Ventures
+
+- A joint venture is a separate business entity created by two or more parties involving shared ownership, returns and risks
+- Usually in a 50:50 share but this does not have to be the case
+- Parties entering into a joint venture usually do so to benefit from complementary strengths or shared resources whilst also mitigating risks.
+
+#### Advantages
+
+-  Shared benefit from each others expertise and resources
+- Each partner might have the option to acquire the JV business
+- Reduce the risk of a growth strategy
+
+#### Disadvantages
+
+- Risk of clashing organisational structures
+- The objectives of each partner may change leading to a conflict of objectives
+- In practice there may be an imbalance in levels of expertise, investment or assets brought into the venture by different partners
+- Failure could lead to disagreement over ownership of assets
+
+
+
+
 [Business](/Business)

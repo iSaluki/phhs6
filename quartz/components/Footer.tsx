@@ -15,7 +15,8 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-        </p>
+          Content by Seth Maurice-Brant © 2021-{year}
+          </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

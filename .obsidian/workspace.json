@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/PackagingTodoList.md",
+                "file": "content/sixth/Business/Units/nd/ExternalInternalGrowth.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/PackagingTodoList.md",
+                "file": "content/sixth/Business/Units/nd/ExternalInternalGrowth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/PackagingTodoList.md",
+                "file": "content/sixth/Business/Units/nd/ExternalInternalGrowth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/PackagingTodoList.md"
+                "file": "content/sixth/Business/Units/nd/ExternalInternalGrowth.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "0432fa9ae7cffd0d",
   "lastOpenFiles": [
-    "content/private/PersonalStatement.md",
+    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
+    "content/sixth/Business/Units/nd/ExternalInternalGrowth.md",
     "content/PackagingTodoList.md",
+    "content/private/PersonalStatement.md",
     "content/private/BiologyHwkImmuneMat.md",
     "content/private/BusinessMarketing.md",
     "content/private/img/Pasted image 20231113150555.png",
@@ -185,7 +187,6 @@
     "content/sixth/Business/Units/fh/PEDQuestion.md",
     "content/sixth/Business/Units/nd/CaseStudyDaihatsu.md",
     "content/sixth/Business/Units/nd/Labour.md",
-    "content/sixth/Business/Units/nd/SensitivityAnalysis.md",
     "content/sixth/Business/Units/fh/CaseStudyRyanair.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Vectors.md",
     "content/sixth/CompSci/Theory/GeneralConcepts/Dictionaries.md",
@@ -199,7 +200,6 @@
     "content/private/SensitivityAnalysisQs.md",
     "content/sixth/Business/Units/nd/InvestmentAppraisal.md",
     "layouts/404.shtml",
-    "content/Business.md",
     "content/private",
     "content/sixth/Careers",
     "content/sixth/CompSci/Theory/GeneralConcepts/img/Pasted image 20231017145220.png",

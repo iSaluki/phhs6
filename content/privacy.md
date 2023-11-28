@@ -14,9 +14,8 @@ No client side tracking is present on this site. Some analytics are collected by
 
 DNS records are created and managed via [Cloudflare](https://cloudflare.com) and we do use Cloudflare as a proxy for this service. 
 
-{{< htmlsnippet "layouts/partials/donate.html" >}}
 
-**I am open to any questions or discussions regarding this policy and any changes you might want to see.
+**I am open to any questions or discussions regarding this policy and any changes you might want to see.**
 
 > [!success] Corporate affiliation
 >

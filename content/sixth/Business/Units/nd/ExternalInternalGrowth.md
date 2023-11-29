@@ -87,6 +87,14 @@ tags:
 - In practice there may be an imbalance in levels of expertise, investment or assets brought into the venture by different partners
 - Failure could lead to disagreement over ownership of assets
 
+#### Examples
+
+- BMW and Brilliance Auto Group
+- Microsoft and General Electric
+- Walmart and Eko
+- Verily and GlaxoSmithKline
+- Boeing and Lockheed Martin
+
 
 
 

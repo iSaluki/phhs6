@@ -44,4 +44,4 @@ Share prices are determined by what people think the value of the business is. S
 4) A private limited company does not need to publish its accounts, whereas a public limited company does. This is an advantage to setting up as a private ltd, because it means that your financial data is more secure. You will be able to protect information about your cash flow from the public, meaning that it will have a minimal impact on your business. This also enables a business to be more effective at competing with other businesses in the same market, because they will not be sharing their performance information - meaning that they have more room to outwit their competitors.
 
 
-[Business](/Business)
+‎‎

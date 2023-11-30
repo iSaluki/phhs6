@@ -80,4 +80,4 @@ Yes, people knowing that no animal testing has occured makes them feel more comf
 
 Different markets will have different problems and audiences, looking for different things. And as a business grows, it will need to update it's aims and objectives to remain competitive. It does not make sense for LEGO to aim to reduce animal testing - because they don't test on animals. Lush however has benefitted from that.
 
-[Business](/Business)
+‎‎

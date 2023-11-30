@@ -52,4 +52,4 @@ Costs are mainly fixed = higher breakeven output
 - Potentially high costs of labour turnover
 - Need for continuous investment in training
 
-[Business](/Business)
+‎‎

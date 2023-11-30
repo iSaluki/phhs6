@@ -17,4 +17,4 @@ It may not always be the best option to invest heavily in infrastructure, howeve
 
 Functional decision makers will want to operate near good infrastructure, whilst strategic decision makers may be more inclined to begin operation near upcoming infrastructure improvements in an attempt to reduce initial costs. 
 
-[Business](/Business)
+‎‎

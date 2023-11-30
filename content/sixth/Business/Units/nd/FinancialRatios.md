@@ -73,4 +73,4 @@ tags:
 
 5) ABF plc has managed their liquidity adequately. They are in a positive current ratio, which means that they are not in any immediate financial risk. They have improved their liquidity over the 4 years between the two datasets, which is a positive sign for the overall health of the business. They are however not at the ideal ratio of 1.5:1, which is realistically very hard to achieve, but they could put resources towards trying to get closer to this value than they currently are. It is financially smart to ensure that their current ratio is as good as possible to ensure that the business is capable of adapting much more dynamically to changes in the environment and to unexpected charges. 
 
-[Business](/Business)
+‎‎

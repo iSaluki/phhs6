@@ -29,4 +29,4 @@ Therefore:
 - A manager makes a decision and announces it to subordinates. There is no room for negotiation.
 
 
-[Business](/Business)
+‎‎

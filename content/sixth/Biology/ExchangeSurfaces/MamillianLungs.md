@@ -1,7 +1,8 @@
 ---
-title: "Mamillian Lungs"
+title: Mamillian Lungs
 tags:
-- biology
+  - biology
+  - exchange
 ---
 
 ![[Pasted image 20221019121354.png]]
@@ -56,4 +57,4 @@ Alveoli have thin walls and provide large surface areas for gas exchange.
 - elastic fibres: recoil after exhalation to prevent bursting
 
 
-[Exchange Surfaces](sixth/Biology/ExchangeSurfaces/ExchangeSurfaces)
+‎‎

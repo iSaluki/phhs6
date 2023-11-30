@@ -29,7 +29,7 @@ tags:
 > Identify the entities.
  
 - What is an entity is a discussion, not a given. Things that the database needs to track are entities.
-- Some entities may be physical—such as a teacher—whilst some are just concepts—such as a subject.
+- Some entities may be physicalsuch as a teacher—whilst some are just concepts—such as a subject.
 
 
 **Entities:** school, classes, teacher, room, students, subject
@@ -182,4 +182,4 @@ It is also possible to break information into more pieces of information than ne
 
 
 
-[Databases](sixth/CompSci/Theory/Databases/Databases)
+‎‎

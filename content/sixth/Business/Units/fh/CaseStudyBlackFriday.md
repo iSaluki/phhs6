@@ -18,4 +18,4 @@ However, there are risks associated with using a SWOT analysis, because whilst t
 
 
 
-[Business](/Business)
+‎‎

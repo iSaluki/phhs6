@@ -43,4 +43,4 @@ Non-current liabilities / Total equity + non-current liabilities * 100
 
 
 
-[Business](/Business)
+‎‎

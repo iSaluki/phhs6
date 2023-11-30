@@ -90,4 +90,4 @@ In this example of association, deleting the suite does not destroy the table or
 
 
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎

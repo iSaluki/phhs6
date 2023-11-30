@@ -86,4 +86,4 @@ A matrix structure is a structure where each individual is a subordinate of two 
 	- Shows more trust in employees
 
 
-[Business](/Business)
+‎‎

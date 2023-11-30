@@ -1,8 +1,9 @@
 ---
-title: "Methods of Cell Transport"
+title: Methods of Cell Transport
 tags:
-- biology
-- homework
+  - biology
+  - homework
+  - exchange
 ---
 
 ## Diffusion
@@ -30,4 +31,4 @@ Typically used for the removal of waste molecules, exocytosis is the process of 
 
 
 
-[Exchange Surfaces](sixth/Biology/ExchangeSurfaces/ExchangeSurfaces)
+‎‎

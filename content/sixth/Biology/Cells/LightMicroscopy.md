@@ -1,7 +1,8 @@
 ---
-title: "Light Microscopy"
+title: Light Microscopy
 tags:
-- biology
+  - biology
+  - cells
 ---
 
 **Maximum resolution: 200nm**
@@ -30,4 +31,4 @@ Here are a few examples of artifacts that could be misidentified as different ob
 
 ![[Pasted image 20221019104244.png]]
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

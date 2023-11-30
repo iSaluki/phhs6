@@ -24,4 +24,4 @@ Darwin concluded:
 ![[sixth/Biology/Classification/img/Pasted image 20230621104959.png]]
 *Darwin's notebook*
 
-[Classification](sixth/Biology/Classification/Classification)
+‎‎

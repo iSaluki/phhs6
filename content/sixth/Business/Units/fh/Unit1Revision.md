@@ -146,4 +146,4 @@ Calculates the "value" of the business
 
 
 
-[Business](/Business)
+‎‎

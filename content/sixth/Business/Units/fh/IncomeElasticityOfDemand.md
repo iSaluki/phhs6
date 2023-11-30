@@ -7,4 +7,4 @@ tags:
 **% change in demand divided by the % change in income**
 
 
-[Business](/Business)
+‎‎

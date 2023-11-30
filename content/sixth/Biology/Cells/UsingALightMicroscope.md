@@ -1,7 +1,8 @@
 ---
-title: "Using a Light Microscope"
+title: Using a Light Microscope
 tags:
-- biology
+  - biology
+  - cells
 ---
 
 **Maximum light microscope magnification possible:** x1500 (x15 eyepiece, x100 objective lens)
@@ -48,4 +49,4 @@ Total magnification = 100 (10x10)
 Therefore each epu = **10µm** (1000µm / 100 = 10µm)
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

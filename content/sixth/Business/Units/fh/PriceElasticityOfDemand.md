@@ -24,4 +24,4 @@ NOO - New Figure - Old Figure / Old Figure x 100
 
 
 
-[Business](/Business)
+‎‎

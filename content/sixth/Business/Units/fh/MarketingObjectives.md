@@ -105,7 +105,7 @@ Market segments can also be measured.
 Year 1: £22,000            Year 2: £25,300
 15% change
 
-2) £35,700 + 30 % = £46410
+2) 35,700 + 30 % = £46410
 25 + 20% = 30
 
 ---
@@ -146,4 +146,4 @@ Sampling involves the gathering of data from a sample of respondents, the result
 **Highly geared—thee business is financed by loans
 
 
-[Business](/Business)
+‎‎

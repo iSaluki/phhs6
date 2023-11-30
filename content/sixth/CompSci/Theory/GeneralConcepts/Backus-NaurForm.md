@@ -20,4 +20,4 @@ Sometimes just BNF.
 
 
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎

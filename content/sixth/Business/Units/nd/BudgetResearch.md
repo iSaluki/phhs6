@@ -24,4 +24,4 @@ tags:
 ![[sixth/Business/Units/nd/img/9.png]]
 
 
-[Business](/Business)
+‎‎

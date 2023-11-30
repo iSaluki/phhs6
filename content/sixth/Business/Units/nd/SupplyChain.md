@@ -92,4 +92,4 @@ A strategic supplier is a supplier that is essential for the running of a busine
 
 
 
-[Business](/Business)
+‎‎

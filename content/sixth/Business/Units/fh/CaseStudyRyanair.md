@@ -31,4 +31,4 @@ In addition, the process that Ryanair puts customers through is not intended to 
 
 Therefore, it makes a lot of sense for Ryanair to look at expanding their marketing mix. The process allows Ryanair to significantly bolster their range of offerings, meaning that more people will be attracted to their service. However, it is also important for Ryanair to not loose sight of their core customer base, because these are the people who generate most of the company's revenue, and if Ryanair makes their customers on lower priced tiers feel discriminated against or like second-class customers, then they will risk loosing both positive public relations and customers. So - Ryanair need to expand their marketing mix to improve the experience people offer, the process through which bookings are made and the physical environment provided on their flights, but they do also need to do this in a way that allows them to increases profit, without scaring away existing customers and opening a gap in the market to allow a competitor to enter.
 
-[Business](/Business)
+‎‎

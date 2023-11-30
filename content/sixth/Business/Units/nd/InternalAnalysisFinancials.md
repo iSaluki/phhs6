@@ -53,4 +53,4 @@ OT → External
 ![[sixth/Business/Units/nd/img/Pasted image 20230509100900.png]]
 *Example income statement*
 
-[Business](/Business)
+‎‎

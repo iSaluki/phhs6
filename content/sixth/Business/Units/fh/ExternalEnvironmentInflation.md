@@ -72,4 +72,4 @@ Inflationary case study: https://www.bbc.co.uk/news/business-12196322
 	- Firms that need to buy significant commodity raw materials may find profit margins squeezed if they cannot pass on increased costs to customers
 
 
-[Business](/Business)
+‎‎

@@ -106,6 +106,6 @@ If a restaurant serves 60 different dishes, there will likely be dishes that are
 
 - DBMS are more complex than flat files - a standard user cannot directly interface with it.
 
-[Databases](sixth/CompSci/Theory/Databases/Databases)
+‎‎
 
 

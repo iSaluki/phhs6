@@ -52,4 +52,4 @@ Demography is concerned with the size and composition of a population. Changes i
 5) If a business relies on borrowing money or trade credit to function, then higher interest rates will increase the amount that the business has to pay back on these borrowings. This will directly impact the costs of the business, and will possibly force the business to restructure their finances. Higher interest rates will also impact the customers that the business relies on to generate revenue, possibly forcing them to spend less or move to cheaper competitors. So when interest rates are high, it becomes important to consider costs to their customers, as if they are charging too much they may experience a sharp decrease in sales.
 
 
-[Business](/Business)
+‎‎

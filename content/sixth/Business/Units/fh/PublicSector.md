@@ -34,4 +34,4 @@ Divine chocolate ensures that they pay fair prices to the farmers in Ghana that 
 
 	In conclusion, Horbury should consider the pros and cons of each option, and take into account their current business plans and financial status before they commit to either decision. If they believe that it is worth it for them long-term, then they should become a private company. However, if they are looking to be able to raise capital quickly, then they should think twice before changing business form.
 
-[Business](/Business)
+‎‎

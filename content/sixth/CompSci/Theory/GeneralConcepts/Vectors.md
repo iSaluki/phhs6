@@ -38,4 +38,4 @@ tags:
 
 
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎

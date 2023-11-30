@@ -29,4 +29,4 @@ b) 55p + 60p + 70p = £1.85 + 80% = £3.33
 6) A loss-leader is a product that is sold at a loss in order to get customers to enter the product's ecosystem. By doing this, the company can lock you in to making future purchases with them, and they can charge an additional markup on these purchases to recoup the costs of the loss-leader.
 
 
-[Business](/Business)
+‎‎

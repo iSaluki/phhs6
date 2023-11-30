@@ -41,4 +41,4 @@ tags:
 - Characteristics that show continuous variation such as height show a normal distribution pattern
 - These characteristics are usually controlled by a number of genes (polygenic) and influenced by the environment
 
-[Classification](sixth/Biology/Classification/Classification)
+‎‎

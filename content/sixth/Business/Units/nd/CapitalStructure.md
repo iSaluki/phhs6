@@ -24,4 +24,4 @@ Debt = Finance provided to the business by external parties (BANK LOANS) (OTHER 
 - where profits and cash flows are strong; so debt can be repaid easily (unicorn businesses)
 
 
-[Business](/Business)
+‎‎

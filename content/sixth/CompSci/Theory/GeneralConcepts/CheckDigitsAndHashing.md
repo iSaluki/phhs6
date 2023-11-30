@@ -43,4 +43,4 @@ tags:
 - Encryption
 - Finding duplicate or similar data
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎

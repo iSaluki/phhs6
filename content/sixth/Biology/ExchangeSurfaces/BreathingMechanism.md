@@ -1,7 +1,8 @@
 ---
-title: "Mechanism of Breathing"
+title: Mechanism of Breathing
 tags:
-- biology
+  - biology
+  - exchange
 ---
 
 ## Inhalation/Inspiration

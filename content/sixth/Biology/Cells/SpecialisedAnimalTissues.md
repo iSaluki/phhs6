@@ -29,4 +29,4 @@ A tissue that needs to contract (shorten) to move bones, which in turn move the 
 Skeletal muscle fibres are attached to bones. They contain myofibrils of contractile proteins.
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

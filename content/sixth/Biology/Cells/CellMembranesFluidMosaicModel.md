@@ -1,7 +1,8 @@
 ---
 title: "Cell Membranes: The Fluid Mosaic Model"
 tags:
-- biology
+  - biology
+  - cells
 ---
 A cell membrane is roughly `7nm` wide
 
@@ -54,4 +55,4 @@ Cholesterol fits in with the phospholipids and helps to regulate the fluidity of
 
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

@@ -137,4 +137,4 @@ Payables (days) = Trade payables / cost of sales x 365
    
 
 
-[Business](/Business)
+‎‎

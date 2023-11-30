@@ -47,4 +47,4 @@ Soil and plants, including nursery.
 Capital budgets are frequently hard to predict, as they can be caused by equipment failure. Businesses rarely have advance warning on when something is going to break, and therefore don't know exactly how much they will be spending on repairs over one period of time 
 
 
-[Business](/Business)
+‎‎

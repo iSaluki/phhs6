@@ -1,7 +1,8 @@
 ---
-title: "Prokaryotic Cells"
+title: Prokaryotic Cells
 tags:
-- biology
+  - biology
+  - cells
 ---
 ![[Pasted image 20221019105229.png]]
 
@@ -42,4 +43,4 @@ Microscopy stain to help identify different bacteria.
 
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

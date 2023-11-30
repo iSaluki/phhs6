@@ -19,4 +19,4 @@ However, it is important for M&S to realise that by transitioning to an online m
 
 Overall, I feel that M&S have recognised the importance of adapting their business to the modern age where everyone expects online shopping, however I am concerned that if they do not prepare themselves for the challenges that come with e-commerce they may face being left in the dust. The conversion of their old clothing and homeware shops to food stores does however sound like a good idea, as the M&S food brand is strong and will be able to attract sales easily, so this will almost certainly increase their dominance in the food market. By using online stores for their clothing brand, they will likely be able to reduce costs as fewer staff members will be needed and they will only needed warehouses, rather than stores and warehouses. A cost reduction and a restructure of how they sell should give them a boost that, if handled properly, could accelerate their clothing business into the future. 
 
-[Business](/Business)
+‎‎

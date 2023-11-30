@@ -66,4 +66,4 @@ There is no obvious relationship between the two variables.
 
 Strong correlations are very definite, whereas a weak correlation means the data is quite spread.
 
-[Business](/Business)
+‎‎

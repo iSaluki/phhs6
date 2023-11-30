@@ -35,4 +35,4 @@ Simpson's Diversity = 1-0.304 = **0.696**
 
 
 
-[Biodiversity](sixth/Biology/Biodiversity/Biodiversity)
+‎‎

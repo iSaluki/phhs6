@@ -50,4 +50,4 @@ Unfortunately, low cost is associated with low quality, so Frozen World is unlik
 
 Their current position, in the current economic climate is reasonable, Frozen World are capable of making sales and are capable of growing. Low price is a double win as it not only guarantees them sales but acts as a great marketing point. As there is a dwindling number of people who are currently affluent or well off, budget supermarkets are going to be increasingly popular as people look for ways to cut costs to the bone. Frozen World's most important factor is going to be trying to maintain a consistent level of quality whilst not raising their prices. It will only take 1 or 2 slip ups for their reputation to be irreparably damaged, and this will significantly harm their ability to do business.
 
-[Business](/Business)
+‎‎

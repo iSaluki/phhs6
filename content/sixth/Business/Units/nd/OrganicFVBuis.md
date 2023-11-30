@@ -64,7 +64,7 @@ profit = 22500 - £20650 = £1850
 FIXED COSTS = £15900 - £1850 = £14050
 
 
-[Business](/Business)
+‎‎
 
 
 

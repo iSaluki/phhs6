@@ -45,4 +45,4 @@ tags:
 5) Electrical activity travels to the base of ventricles via the bundle of His.
 6) Ventricles contract from the base upwards.
 
-[Circulatory](sixth/Biology/Circulatory/Circulatory)
+‎‎

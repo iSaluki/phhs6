@@ -125,4 +125,4 @@ sample rate *  bit depth * channels
 4) VoIP uses a sampling rate of 8kHZ because it is enough for you to understand a human voice. Anything higher would be inefficient.
 5) Factors affecting audio quality: sample rate, bit depth & bit rate.
 
-[Theory](sixth/CompSci/Theory/Theory)
+‎‎

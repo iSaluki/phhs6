@@ -114,4 +114,4 @@ The time between the reorder level and the restock is the **lead time**. This is
 - Ability to handle increased volume of supply
 
 
-[Business](/Business)
+‎‎

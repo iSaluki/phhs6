@@ -76,4 +76,4 @@ Total equity = share capital + reserves
 
 
 
-[Business](/Business)
+‎‎

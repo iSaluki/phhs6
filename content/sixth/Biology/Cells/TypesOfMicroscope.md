@@ -1,7 +1,8 @@
 ---
-title: "Types of Microscope"
+title: Types of Microscope
 tags:
-- biology
+  - biology
+  - cells
 ---
 
 ## Super Resolved Fluorescence Microscope
@@ -99,4 +100,4 @@ tags:
 ![[Pasted image 20221019115017.png]]
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

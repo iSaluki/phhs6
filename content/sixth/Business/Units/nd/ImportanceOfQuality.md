@@ -120,4 +120,4 @@ For Quality Assurance see the QA doc via search.
 - New quality procedures may require an entire company culture shift which will take time.
 - Can be expensive at the start especially if better machinery has been purchased.
 
-[Business](/Business)
+‎‎

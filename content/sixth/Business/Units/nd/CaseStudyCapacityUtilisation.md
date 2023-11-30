@@ -24,4 +24,4 @@ Another issue that KPM needs to consider is that the paper industry is in declin
 In conclusion, there are many different choices KPM could make, however the increased capacity is unlikely to be a good move in the long run due to market decline.
 
 
-[Business](/Business)
+‎‎

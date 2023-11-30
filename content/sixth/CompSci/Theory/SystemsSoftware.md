@@ -210,4 +210,4 @@ Effectively two systems, one is real time and the other is mainly an interface.
 
 ![[sixth/CompSci/Theory/img/Pasted image 20221125142347.png]]
 
-[Theory](sixth/CompSci/Theory/Theory)
+‎‎

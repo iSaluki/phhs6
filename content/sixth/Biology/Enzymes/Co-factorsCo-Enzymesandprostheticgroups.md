@@ -32,4 +32,4 @@ tags:
 - Some activated by co-factors, some a change in environment (pH/temperature)
 
 
-[Enzymes](sixth/Biology/Enzymes/Enzymes)
+‎‎

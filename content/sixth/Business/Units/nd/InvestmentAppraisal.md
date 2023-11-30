@@ -89,4 +89,4 @@ In this case, there is an overshoot. It took 3 and a bit years to reach payback.
 
 
 
-[Business](/Business)
+‎‎

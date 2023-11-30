@@ -17,5 +17,5 @@ Sometimes **railroad diagrams**
 	- Anything that is a circle should be matched directly
 
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎
 

@@ -37,4 +37,4 @@ b)i) As diffusion occurs between the air in the alveoli and the blood, the amoun
 
 ii) Specialised cells line the border between the alveoli and the capillary that passes it, these are called "squamous epithelial cells" and are adapted to allow for a shorter diffusion pathway. The cells are stretched out to reduce the distance that substances have to travel between air and blood. The wall here is also only a single cell thick, further boosting the diffusion speed.
 
-[Exchange Surfaces](sixth/Biology/ExchangeSurfaces/ExchangeSurfaces)
+‎‎

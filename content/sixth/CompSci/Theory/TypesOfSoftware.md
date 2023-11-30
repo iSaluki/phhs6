@@ -38,4 +38,4 @@ Examples:
 **Differential backup:** Contains all the changed data since the last full backup. Takes a relatively short amount of time to create and restore and won't require much storage.
 
 
-[Theory](sixth/CompSci/Theory/Theory)
+‎‎

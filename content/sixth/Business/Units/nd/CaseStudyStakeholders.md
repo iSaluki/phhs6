@@ -16,4 +16,4 @@ Furthermore, the government is a powerful entity that could have a massive impac
 
 In conclusion, the shareholders are only one stakeholder group - in a business the size of Roxio's it is important that they are taking appropriate time to understand and meet the needs of all of their stakeholders. Whilst they may choose their shareholders as priority #1, they cannot be priority 1/1.
 
-[Business](/Business)
+‎‎

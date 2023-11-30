@@ -55,4 +55,4 @@ Each party in a distribution channel is called an *intermediary*.
 
 
 
-[Business](/Business)
+‎‎

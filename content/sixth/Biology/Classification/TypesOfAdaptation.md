@@ -20,4 +20,4 @@ tags:
 ![[sixth/Biology/Classification/img/Pasted image 20230621101955.png]]
 
 
-[Classification](sixth/Biology/Classification/Classification)
+‎‎

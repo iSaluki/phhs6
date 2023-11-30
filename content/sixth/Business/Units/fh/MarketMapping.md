@@ -30,4 +30,4 @@ Allows us to understand how a product or brand is perceived relative to a compet
 4) An advantage of setting up a business in the middle pricing levels with functional clothing would be the fairly unrivalled marketplace. There are no other businesses in this market, meaning that there is room for them to pull customers from the nearest competitors. Assuming that demand does exist for a business in this market segment, the business would likely have an easy time entering the market. 
 
 
-[Business](/Business)
+‎‎

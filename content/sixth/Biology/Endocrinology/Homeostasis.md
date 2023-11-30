@@ -83,5 +83,3 @@ Temperature regulation in ectotherms:
 - Change heart rate
 	- Increase or decrease
 
-
-[Endocrinology](sixth/Biology/Endocrinology/Endocrinology)

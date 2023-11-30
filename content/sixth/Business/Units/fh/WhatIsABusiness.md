@@ -28,4 +28,4 @@ They come in many [forms](sixth/Business/Units/fh/DifferentFormsOfBusiness.md)
 
 Business's begin their corporate life as a startup, more information on startups can be found [here](sixth/Business/Units/fh/WhatIsAStartUp.md)
 
-[Business](/Business)
+‎‎

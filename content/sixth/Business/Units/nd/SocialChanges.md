@@ -47,4 +47,4 @@ tags:
 - In an ageing population, the demand for certain products like skateboards will likely decline. Because of this, businesses that sell products targeted at youths will likely need to diversify their offerings to provide value to older members of society, or they will need to outcompete other players in the market to hold their revenue.
 
 
-[Business](/Business)
+‎‎

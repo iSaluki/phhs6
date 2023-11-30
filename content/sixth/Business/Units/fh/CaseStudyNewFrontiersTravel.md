@@ -12,4 +12,4 @@ The introduction of their website, NewFrontiers.com, means that they can offer t
 2) Extension strategies are an important method for bolstering the profits of New Frontiers, however they will not be the sole factor required to keep the company in business.
 
 
-[Business](/Business)
+‎‎

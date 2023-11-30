@@ -91,4 +91,4 @@ tags:
 Amazon utilizes dynamic pricing, changing their prices on average every *10 minutes*.
 
 
-[Business](/Business)
+‎‎

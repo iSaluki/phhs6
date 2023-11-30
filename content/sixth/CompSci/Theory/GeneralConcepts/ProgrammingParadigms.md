@@ -72,4 +72,4 @@ tags:
 	- You define a generalised example of a thing which includes all the programs and data that it needs to function
 	
 
-[General Concepts](sixth/CompSci/Theory/GeneralConcepts/GeneralConcepts)
+‎‎

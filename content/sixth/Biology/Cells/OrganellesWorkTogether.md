@@ -1,7 +1,8 @@
 ---
-title: "How organelles work together"
+title: How organelles work together
 tags:
-- biology
+  - biology
+  - cells
 ---
 **Exocytosis** is the process of exporting materials from the cell.
 
@@ -20,4 +21,4 @@ An example process of how organelles in a cell would work together to produce in
 
 
 
-[Cells](sixth/Biology/Cells/Cells)
+‎‎

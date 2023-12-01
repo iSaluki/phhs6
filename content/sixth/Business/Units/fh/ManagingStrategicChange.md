@@ -59,4 +59,32 @@ tags:
 - Requires careful management of the change process
 - Can have significant and distressing impact on employees
 
+#### Disruptive change
+
+- An  irreversible change to products, processes and markets; a change that alters the future completely from what it was before.
+- **Disruptive innovation** helps create new markets and disrupts existing markets.
+
+##### Examples
+
+- Media Streaming
+	- Netflix
+	- YouTube
+	- Spotify
+	- Amazon Prime
+- Grocery Retailing
+	- Ocado
+	- Graze
+	- Amazon Pantry 
+- Travel and Accomodation
+	- Expedia
+	- TripAdvisor
+	- Airbnb
+- Fashion Retail
+	- ASOS
+	- Net A Porter
+- Consumer file storage
+	- Dropbox
+	- Google Drive
+	- Microsoft OneDrive
+	- Apple iCloud
 

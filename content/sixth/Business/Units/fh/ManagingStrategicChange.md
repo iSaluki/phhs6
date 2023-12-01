@@ -20,3 +20,43 @@ tags:
 - Arise from factors outside the control of the business
 	- As a result of changes in the external environment
 
+### Forces for change
+
+
+#### Internal forces
+
+- Desire to increase profitability
+- Reorganisation to increase efficiency 
+- Conflict between departments
+- To change organisational culture
+
+
+#### External forces
+
+- Customer demand
+- Competition
+- Cost of inputs
+- Legislation and taxes
+- Political
+- Ethics and social values
+- Technological change
+
+### Incremental vs Radical Change
+
+![[sixth/Business/Units/fh/img/Pasted image 20231201111812.png]]
+
+#### Incremental 
+
+- Small adjustments made gradually
+- Usually over a long period of time
+- Changes in order to reach a particular goal
+- Does not alter working practices in any significant way
+
+#### Radical (step change)
+
+- A way to achieve the same goal but in a much shorter time
+- Has a significant effect and long-term effects on workplace practice
+- Requires careful management of the change process
+- Can have significant and distressing impact on employees
+
+

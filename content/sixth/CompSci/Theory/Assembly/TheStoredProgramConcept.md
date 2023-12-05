@@ -77,6 +77,21 @@ tags:
 	- Data can be fetched from the RAM and the results of processing can be stored here.
 	- This data can then be referred to quickly in future instructions.
 
+#### Memory Data Register (MDR)
 
+- The MDR is at the CPU end of the data bus
+- Information (data or instructions) are placed here before being sent along the Data Bus to be stored in the RAM
+- Information that has been fetched from RAM is placed here ready for the next step
 
+#### Memory Address Register (MAR)
+
+- The MAR is at the CPU end of the address bus
+- When a read or write operation is to be performed with RAM, the address that will be affected is placed here before the operation is carried out.
+
+#### Program Counter (PC)
+
+- The program counter contains the memory address of the next instruction to be performed
+- After fetching an instruction and placing it in the CIR, the control unit then increases the value in the PC.
+
+####
  

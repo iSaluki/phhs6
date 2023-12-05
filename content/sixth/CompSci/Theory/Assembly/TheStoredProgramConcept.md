@@ -93,5 +93,9 @@ tags:
 - The program counter contains the memory address of the next instruction to be performed
 - After fetching an instruction and placing it in the CIR, the control unit then increases the value in the PC.
 
-####
+#### Current Instruction Register (CIR)
+
+- The instruction that is currently being decoded/executed is stored here.
+
+
  

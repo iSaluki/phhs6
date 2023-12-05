@@ -97,5 +97,11 @@ tags:
 
 - The instruction that is currently being decoded/executed is stored here.
 
+#### Accumulator (ACC)
+
+- The accumulator is a register within the ALU
+- The results of the operations are stored here
+	- They can then be referred to in subsequent instructions
+	- For example, the ACC could store the running total of a list of numbers
 
  

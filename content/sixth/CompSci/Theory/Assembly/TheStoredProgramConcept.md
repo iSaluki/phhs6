@@ -54,3 +54,18 @@ tags:
 - Clock speeds are so high (4GHz+) that the electrical signals that pass between components don't have time to propagate from one side of the processor to the other
 
 
+### Control Unit
+
+- Oversees and directs all operations in the processor
+- The control unit is where the decode part of the FE cycle takes place
+- The binary instruction is passed through logic circuits which activate the relevant parts of the ALU
+- The control unit also makes sure the right data is referenced by the ALU
+
+
+### Arithmetic and Logic Unit (ALU)
+
+- The actual work happens here
+- Data is provided and the correct logic circuits are selected by the control unit
+- Then the circuits of the ALU do their thing to provide an answer
+
+

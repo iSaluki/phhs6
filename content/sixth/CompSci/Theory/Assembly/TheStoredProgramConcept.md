@@ -26,3 +26,31 @@ tags:
 - The CPU decodes the instruction (works out what it is supposed to do and gathers any required data)
 - The CPU then executes the instruction on the data (performs that operation)
 
+
+
+### Buses
+
+- The buses provide a pathway for instructions and data to be moved between the CPU and RAM
+
+#### Control bus
+
+- Are we trying to read from or write to RAM
+
+#### Address bus
+
+- This carries the address in the RAM that is to be read from or written to
+
+##### Data bus
+
+- The piece of data that is read from or is to be written from the RAM
+
+### Clock
+
+- The metronome that synchronises all the operations in the processor
+- When we talk about "clock speed" this is what we mean
+
+- Operations in the processor start on the tick of the click and must be finished before the next tick happens
+- This is one of the biggest barriers to faster processors
+- Clock speeds are so high (4GHz+) that the electrical signals that pass between components don't have time to propagate from one side of the processor to the other
+
+

@@ -69,3 +69,14 @@ tags:
 - Then the circuits of the ALU do their thing to provide an answer
 
 
+### Registers
+
+- A register is a small piece of RAM inside the CPU
+- Many registers have a specific role to play in the FE cycle and are referred to or written to at particular moments
+- There are also groups of "general purpose" registers.
+	- Data can be fetched from the RAM and the results of processing can be stored here.
+	- This data can then be referred to quickly in future instructions.
+
+
+
+ 

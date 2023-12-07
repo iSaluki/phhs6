@@ -29,4 +29,10 @@ tags:
 
 - All of the above indicate a need for strategic change
 
+### Implications for Change Management
+
+- Much depends on the scale and scope of the retrenchment
+- Small-scale, incremental retrenchment has only limited impact
+- Significant retrenchment is often associated with a fundamental reappraisal of the business
+
 

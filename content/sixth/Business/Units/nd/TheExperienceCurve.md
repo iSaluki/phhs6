@@ -28,3 +28,11 @@ tags:
 	- Firms should try to maximise market share
 	- External growth (such as takeovers) might work if a business can acquire firms with strong experience
 
+### Criticisms of the Experience Curve
+
+- Market leaders often become complacent - perhaps because of their "experience"
+- Experience may cause resistance to change and innovation
+- Might this cancel out cost benefits of experience?
+- A relatively old theory that is less relevant in an environment that changes so rapidly
+
+

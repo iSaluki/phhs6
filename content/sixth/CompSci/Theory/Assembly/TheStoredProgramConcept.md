@@ -104,4 +104,7 @@ tags:
 	- They can then be referred to in subsequent instructions
 	- For example, the ACC could store the running total of a list of numbers
 
- 
+### Interrupts
+
+- As interrupts occur if another program or the operating system needs to perform another operation. For example, the user presses a button, an event in a control system happens or a date/time has been reached. This will cause the current operation to be suspended and the registers of the CPU to be placed on the call stack. An interrupt service routine is then performed and when it is finished the status of the CPU is restored from the stack. Normal operation of the original task can then continue.
+

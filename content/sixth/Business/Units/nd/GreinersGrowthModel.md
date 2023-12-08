@@ -3,7 +3,7 @@ title: Greiner's Growth Model
 tags:
   - business
 ---
-- How to manage and overcome the problems of growth or retrenchment
+scord- How to manage and overcome the problems of growth or retrenchment
 
 > [!tip] Greiner's Growth Model
 >

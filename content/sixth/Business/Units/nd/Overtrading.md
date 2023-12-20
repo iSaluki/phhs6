@@ -11,3 +11,11 @@ Overtrading happens when a business expands too quickly without having the finan
 - Overtrading is, therefore, essentially a problem of growth.
 - It is particularly associated with retail businesses who attempt to grow too fast.
 
+### Overtrading is most likely to happen when
+
+- Growth is achieved by making significant capital investment in production or operations capacity before revenues are generated
+- Sales are made on credit and customers take too long to settle amounts owed
+- Significant growth in inventories is required in order to trade from the expanding capacity
+- A long-term contract requires a business to incur substantial costs before payments are made by customers under the contract
+
+

@@ -2,6 +2,7 @@
 title: The Experience Curve
 tags:
   - business
+  - growth
 ---
 - As businesses grow, they gain experience
 - That experience may provide an advantage over the competition

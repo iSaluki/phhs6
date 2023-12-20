@@ -2,6 +2,7 @@
 title: Integration
 tags:
   - business
+  - growth
 ---
 ![[sixth/Business/Units/nd/img/Pasted image 20231205134030.png]]
 

@@ -2,6 +2,7 @@
 title: Synergies
 tags:
   - business
+  - growth
 ---
 Synergy happens when the value of two businesses brought together is greater than the sum of the value of the two individual businesses. 1+1 > 2
 
@@ -16,3 +17,4 @@ Synergy happens when the value of two businesses brought together is greater tha
 	- Access to new distribution
 	- Brand extensions
 	- New geographic markets opened up
+

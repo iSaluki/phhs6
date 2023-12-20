@@ -2,6 +2,7 @@
 title: Retrenchment
 tags:
   - business
+  - growth
 ---
 ### What is retrenchment?
 

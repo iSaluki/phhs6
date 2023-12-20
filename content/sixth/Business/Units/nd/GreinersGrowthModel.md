@@ -3,7 +3,7 @@ title: Greiner's Growth Model
 tags:
   - business
 ---
-scord- How to manage and overcome the problems of growth or retrenchment
+- How to manage and overcome the problems of growth or retrenchment
 
 > [!tip] Greiner's Growth Model
 >
@@ -31,4 +31,9 @@ scord- How to manage and overcome the problems of growth or retrenchment
 | Alliances     | Growth     | Growth slowing as business runs out of ideas. Alliances are sought (including new business owners)                                                                                                                  |
 
 
+### Criticisms
+
+- Like most models - very simplistic
+- Not every business will suffer crises as it grows, many adapt easily
+- Model doesn't really take account of the pace of growth, particularly in an increasingly dynamic online environment
 

@@ -11,3 +11,4 @@ Kurt Lewin argued that successful businesses tend to be constantly adapting to t
 
 - Score forces for and against a change on a scale of 1-5
 - Total up the scores for each side, if resistance is greater than driving, then the change may be difficult to achieve and driving forces should be increased, or restraining forces decreased.
+

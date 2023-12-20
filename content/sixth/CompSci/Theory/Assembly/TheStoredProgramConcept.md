@@ -108,3 +108,10 @@ tags:
 
 - As interrupts occur if another program or the operating system needs to perform another operation. For example, the user presses a button, an event in a control system happens or a date/time has been reached. This will cause the current operation to be suspended and the registers of the CPU to be placed on the call stack. An interrupt service routine is then performed and when it is finished the status of the CPU is restored from the stack. Normal operation of the original task can then continue.
 
+### Assembly Language Instructions
+
+- Humans rarely see machine code
+- Assembly language is machine code but with human friendly syntax
+- Each processor family (x86,68000,ARM, etc) has its own instruction set
+- AQA have devised an instruction set for an imaginary computer to make it easier to grasp the basics.
+

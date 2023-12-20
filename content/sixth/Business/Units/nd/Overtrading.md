@@ -27,4 +27,15 @@ Overtrading happens when a business expands too quickly without having the finan
 - Very low inventory turnover ratio
 - Low levels of capacity utilisation
 
+### Managing the risk of overtrading
+
+- The most effective steps to avoid overtrading are essentially those that would be taken as part of a sensible cash flow and working capital management
+
+- Reducing inventory levels
+- Scaling back the pace of revenue growth until profit margins and cash reserves have improved
+- Leasing rather than buying capital equipment
+- Obtaining better payment terms from suppliers
+- Enforcing better payment terms with customers (eg, through prompt-payment discounts)
+
+
 

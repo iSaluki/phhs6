@@ -18,4 +18,13 @@ Overtrading happens when a business expands too quickly without having the finan
 - Significant growth in inventories is required in order to trade from the expanding capacity
 - A long-term contract requires a business to incur substantial costs before payments are made by customers under the contract
 
+### Classic symptoms of overtrading
+
+- High revenue growth but low gross and operating profit margins
+- Persistent use of bank overdraft facilities
+- Significant increases in payables days and receivables days ratios
+- Significant increase in the current ratio
+- Very low inventory turnover ratio
+- Low levels of capacity utilisation
+
 

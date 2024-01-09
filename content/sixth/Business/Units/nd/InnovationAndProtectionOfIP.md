@@ -60,4 +60,27 @@ tags:
 - Secondment of staff to smaller businesses or startups
 - Staff competitions and innovation days (such as hackathons)
 
+### Why protect Intellectual Property
+
+- Keep control of intellectual property
+- Maintain unique selling point
+- Maximise return on investment
+- Reduce threat of competition
+
+#### Patents
+
+- To be patent protected, the invention must be:
+	- New
+	- An innovative step (not obvious to others with knowledge of the subject)
+	- Capable of industrial application (can be made and used)
+	- Not be excluded (certain inventions don't count, such as scientific theories and artistic creations)
+
+#### Copyright
+
+- Important protection for many industries including media, design and publishing
+- Protection is automatic for any original work
+- Lasts for 70 years after authors death
+- Can control how copyrighted work is exploited (eg, license, royalties)
+- Widely used as a way of protecting creative work of all kinds
+
 

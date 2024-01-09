@@ -1,8 +1,9 @@
 ---
-title: "Sound"
+title: Sound
 tags:
-- compsci
-- theory
+  - compsci
+  - theory
+  - sound
 ---
 
 Sound is stored the same way as other digital files. However, a soundwave is a continuous signal, that isn't directly digital. 

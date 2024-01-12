@@ -22,3 +22,8 @@ tags:
 ### Flexible employment contracts
 
 - Working arrangements that give some degree of flexibility about how long, where, when and at what times employees work; the flexibility about how long, where, when and at what times employees work; the flexibility can be in terms of working time, working location or the pattern of working.
+
+### Organic vs Mechanistic Structures
+
+- Organic structures (also known as flat) have a wide span of control, decentralisation, low specialisation and formalisation and loose departmentalisation. Chain of command can be sometimes difficult to decipher.
+- Mechanistic structures are typified by narrow span of control, high centralisation, specialisation and formalisation. Chain of command long or short would be clear.

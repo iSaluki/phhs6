@@ -10,3 +10,7 @@ tags:
 - A key feature of most flexible organisations is the shift that has taken place in the structure of the workforce.
 - Core workers - permanent, full time, salaried, central to the organisation and likely to be committed to the aims and objectives of the organisation
 - Peripheral, temporary or part-time workers, less secure, easy to replace, less likely to be committed to the organisation's aims and objectives
+
+### Charles Handy Shamrock Organisation
+![[sixth/Business/Units/nd/img/Pasted image 20240112110237.png]]
+

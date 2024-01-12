@@ -14,3 +14,11 @@ tags:
 ### Charles Handy Shamrock Organisation
 ![[sixth/Business/Units/nd/img/Pasted image 20240112110237.png]]
 
+
+### Delayering
+
+- The removal of one of more layers of hierarchy from the management structure of an organisation structure. This leads to a flatter hierarchical structure with a span of control
+
+### Flexible employment contracts
+
+- Working arrangements that give some degree of flexibility about how long, where, when and at what times employees work; the flexibility about how long, where, when and at what times employees work; the flexibility can be in terms of working time, working location or the pattern of working.

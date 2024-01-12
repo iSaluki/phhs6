@@ -27,3 +27,8 @@ tags:
 
 - Organic structures (also known as flat) have a wide span of control, decentralisation, low specialisation and formalisation and loose departmentalisation. Chain of command can be sometimes difficult to decipher.
 - Mechanistic structures are typified by narrow span of control, high centralisation, specialisation and formalisation. Chain of command long or short would be clear.
+
+### Knowledge and information management
+
+- Information management is the provision of the right information, to the right people at the right time.
+- Knowledge management goes beyond this and not only provides just information, but insight, guidance, experience and know-how, for the decision making and effective action.

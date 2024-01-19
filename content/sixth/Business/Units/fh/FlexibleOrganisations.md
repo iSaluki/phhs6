@@ -31,4 +31,4 @@ tags:
 ### Knowledge and information management
 
 - Information management is the provision of the right information, to the right people at the right time.
-- Knowledge management goes beyond this and not only provides just information, but insight, guidance, experience and know-how, for the decision making and effective action.
+- Knowledge management goes beyond this and not only provides just information, but insight, guidance, experience and know-how, f

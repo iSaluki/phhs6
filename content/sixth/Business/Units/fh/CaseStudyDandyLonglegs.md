@@ -14,3 +14,4 @@ As staff require training and have recruitment costs, a high rate of turnover (w
 
 ### To what extent do you agree with Susan's proposal to restructure the business? Justify your view. (20 marks)
 
+Susan's proposal to reduce the bloat in management is likely a good idea. Whilst managers are definitely required in retail stores, they are not needed in large numbers and could likely straddle the responsibilities of several departments. This would be an effective cost-saving manoeuvre which would make it easier for the business to redirect resources towards 

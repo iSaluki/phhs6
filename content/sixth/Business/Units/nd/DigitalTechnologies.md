@@ -80,3 +80,20 @@ tags:
 - The need to respond to digital innovation by competitors
 - Access, analyse and action data that provides key insights into customer needs and business performance
 
+### Key Impacts of Data Mining
+
+#### Marketing
+
+- The ability to discover insights about customers and produce targeted advertising campaigns with higher success rates  than traditional marketing.
+
+#### HRM
+
+- Provide a much closer insight into employee performance, reducing the required work for HR to produce equal or better quality information to use in HR decisions.
+
+#### Operations
+
+- Much easier to improve efficiency as data mining can be used to sift through vast data-lakes and identify small inefficiencies in operational processes.
+
+#### Finance
+
+- As finance is largely numerical, it makes it much simpler to identify and analyse trends, potential patterns and gain insight than in more qualitative areas. Because of this, data mining can be used to flag potential issues to finance personnel.

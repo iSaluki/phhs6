@@ -54,13 +54,3 @@ Yes, go for it. However, if something doesn't look right, challenge it. I would 
 ### 📰 RSS Feed
 
 Located [here](https://me.sethmb.xyz/rss/p/i/)
-
----
-
-### 🖥 Digital Services
-
-> [!tip] Hint
->
-> If you are interested in any services such as hosting, configuration or server management, then get in touch to have a chat. I have ample experience with configuring and running systems and can offer affordable prices with high quality support, including installations and maintaince.
-> 
-> Contact: sethmb-contact.hx96v@passinbox.com

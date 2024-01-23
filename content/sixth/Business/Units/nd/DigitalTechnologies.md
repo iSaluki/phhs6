@@ -96,4 +96,4 @@ tags:
 
 #### Finance
 
-- As finance is largely numerical, it makes it much simpler to identify and analyse trends, potential patterns and gain insight than in more qualitative areas. Because of this, data mining can be used to flag potential issues to finance personnel.
+- As finance is largely numerical, it makes it much simpler to identify and analyse trends, potential patterns and gain insight than in more qualitative areas. Because of this, data mining can be used to flag potential issues to finance personnel. Machine learning could be utilised heavily.

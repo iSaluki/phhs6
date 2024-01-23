@@ -66,5 +66,8 @@ tags:
 		- ERP systems function on a set of basic, set rules. If a situation requires a more nuanced response, ERP systems will likely not perform well. A human may be needed to handle some edge cases.
 	- Limited
 		- Only more basic business operations can be automated with ERP as it requires predefined algorithms.
-
+- Examples include:
+	- Access
+	- Odoo
+	- StoreIQ
 

@@ -71,3 +71,12 @@ tags:
 	- Odoo
 	- StoreIQ
 
+### Key Adoption Pressures
+
+- Serve existing customers better
+- Reach new customers in new segments and locations
+- Offer new ways of delivering products and services using digital technology
+- Reduce costs by integrating digital technology into operations
+- The need to respond to digital innovation by competitors
+- Access, analyse and action data that provides key insights into customer needs and business performance
+

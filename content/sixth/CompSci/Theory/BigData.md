@@ -17,6 +17,8 @@ tags:
 
 ### Example: Weather
 
+![[sixth/CompSci/Theory/img/Pasted image 20240123122144.png]]
+
 - Consider a website that shows the weather information of major cities around the world
 - The information is updated hourly and the website also predicts future weather. This is a huge amount of information to handle.
 - The data received initially will be unstructured. For example, satellite images are used to calculate cloud cover.

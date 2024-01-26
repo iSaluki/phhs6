@@ -26,4 +26,5 @@ tags:
 
 1) Assess the various causes of, and pressures for, change and how these contribute to the value of change for an organisation.
    
+   Change is an inevitability for any organisation that wants to survive. However, the pressures for and against changes are highly fluid and dependent upon the specifics of each change. Regardless, all changes are characterised by a few similar factors. Typically, you could expect the employees to generate a resisting factor and the managers to generate a driving factor. A change is usually required to safeguard the future of the business, yet it might be made at the expense of those who work there. Employees typically like to have a routine and a way of doing things - change disrupts this and causes dissatisfaction. Dissatisfaction is bad for the productivity of a business so managers aim to avoid or minimise it where possible, but in some cases this may not be possible as a change may be strongly contested but still required.
    

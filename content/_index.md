@@ -48,3 +48,8 @@ Yes, go for it. However, if something doesn't look right, challenge it. I would 
 ### 📰 RSS Feed
 
 Located [here](https://me.sethmb.xyz/rss/p/i/)
+
+---
+
+### 🗄️ Sitemap
+[Sitemap](/sitemap.xml)

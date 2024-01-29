@@ -66,3 +66,8 @@ tags:
 - A strong culture is where employees agree with the firm's corporate values and are committed to helping the firm in the long-term. Such staff are loyal and hence turnover is low.
 
 
+### Handy's Four Types of Culture
+
+- Charles Handy devised a model which identified four distinct types of culture that might exist within an organisation
+- This theory explores classifications of business structures and organisation based upon the functions and roles of the individual.
+

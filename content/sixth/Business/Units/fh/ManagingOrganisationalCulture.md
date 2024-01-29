@@ -45,3 +45,17 @@ tags:
 - The methods used for communication
 - How staff call each other
 
+### Strong or Weak
+
+#### Strong
+
+- Staff understand and respond to culture
+- Little need for policies and procedures
+- Consistent behaviour
+- Culture is embedded
+
+#### Weak
+
+- Little alignment with business values
+- Inconsistent behaviour
+- A need for extensive bureaucracy & procedures

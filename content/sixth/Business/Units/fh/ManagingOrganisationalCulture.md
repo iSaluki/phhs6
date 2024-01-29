@@ -82,6 +82,11 @@ tags:
 	- Typically tall detailed organisational structure
 	- Decision making slow
 - Task
+	- Teams are formed to solve particular problems
+	- Power derives from expertise as long as a team requires expertise
+	- No single power source
+	- Matrix organisation
+	- Team may develop own objectives (potential risk)
 - Person
 	- People believe they are superior to the organisation
 	- Common in professionals

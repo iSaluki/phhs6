@@ -23,3 +23,25 @@ tags:
 - Size and development stage of the business (eg, start-up, multisite, multinational)
 - Leadership & management style
 - Organisational structure, policies & practices
+### Ways of Identifying Culture Within an Organisation
+
+- Company Rituals
+	- Celebrating a birthday
+- Reward systems
+	- Are employees still rewarded for acting in an unethical manner?
+	- Are staff rewarded for high sales or happy customers?
+- Physical environment
+	- What pictures hang on the walls?
+	- How much investment do facilities receive?
+### How culture might be demonstrated
+
+- How employees are recruited
+- The way that visitors and guests are looked after
+- How the working space is organised
+- The degree of delegation & individual responsibility
+- How contracts are negotiated and agreed
+- The personality and style of the sales force
+- The responsiveness of communication
+- The methods used for communication
+- How staff call each other
+

@@ -71,3 +71,18 @@ tags:
 - Charles Handy devised a model which identified four distinct types of culture that might exist within an organisation
 - This theory explores classifications of business structures and organisation based upon the functions and roles of the individual.
 
+- Power
+	- Power radiates from a few individuals
+	- Found in entrepreneurial organisations
+	- Few rules/little bureaucracy
+	- Swift decision making
+- Role
+	- People clearly delegated authorities
+	- Highly defined structure role 
+	- Typically tall detailed organisational structure
+	- Decision making slow
+- Task
+- Person
+	- People believe they are superior to the organisation
+	- Common in professionals
+	- Success depends on retaining key personnel

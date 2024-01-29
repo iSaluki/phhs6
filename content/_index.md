@@ -51,5 +51,5 @@ Located [here](https://me.sethmb.xyz/rss/p/i/)
 
 ---
 
-### 🗄️ Sitemap
+
 [Sitemap](/sitemap.xml)

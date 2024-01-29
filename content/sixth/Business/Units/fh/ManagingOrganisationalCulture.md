@@ -17,3 +17,9 @@ tags:
 	- beliefs and norms that affect every aspect of work life
 	- the behaviours that are typical of day-to-day behaviour
 	- the strength of a culture determines how difficult or easy it is to know how to behave in the business
+### Factors Influencing Culture of an Organisation
+
+- Influence of the founder (shadow of the leader)
+- Size and development stage of the business (eg, start-up, multisite, multinational)
+- Leadership & management style
+- Organisational structure, policies & practices

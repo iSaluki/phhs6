@@ -59,3 +59,10 @@ tags:
 - Little alignment with business values
 - Inconsistent behaviour
 - A need for extensive bureaucracy & procedures
+
+### Culture: Strong or Weak?
+
+- A firm's cultural hold over their employees can be either strong or relatively weak
+- A strong culture is where employees agree with the firm's corporate values and are committed to helping the firm in the long-term. Such staff are loyal and hence turnover is low.
+
+

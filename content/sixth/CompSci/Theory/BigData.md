@@ -40,3 +40,10 @@ tags:
 	- Information that is not structured in a predefined manner is called unstructured data.
 	- Data in a word or notepad are examples of unstructured data
 
+### Fact-based modelling
+
+- The datasets are stored in data warehouses. In order to locate the data in data warehouses, a fact-based model is required.
+- In fact-based modelling, data is stored with timestamps. This data is not deleted and keeps growing.
+- Using the timestamps, we can differentiate which transaction is the most recent one and which one is from the past.
+- Because of the use of timestamps, the data is immutable.
+- This type of model is well-suited for Big Data as the changes in the databases are recorded quickly.

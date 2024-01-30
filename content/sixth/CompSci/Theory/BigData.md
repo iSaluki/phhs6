@@ -47,3 +47,23 @@ tags:
 - Using the timestamps, we can differentiate which transaction is the most recent one and which one is from the past.
 - Because of the use of timestamps, the data is immutable.
 - This type of model is well-suited for Big Data as the changes in the databases are recorded quickly.
+
+- Due to the high volume of raw data information can be stored in a graphical form called a graph schema, which is a graph-based data type.
+- In addition to the facts, graph schemas also represent the relationship between facts
+- Both the nodes and relationships have properties.
+
+### Problems with Big Data
+
+- Difficulty in analysing unstructured data.
+- Large datasets to store and analyse.
+- Specialised algorithms are required to extract information from raw data.
+- Multiple servers and dedicated network are required for processing huge data and capturing the changes in data at higher velocity.
+- Imperative programming cannot be used as concurrent changes in data may result in problems. Instead, functional programming is used.
+- Finding a correlation does not necessarily lead to a solution. Te inference of a correlation is also important to reach the correct conclusion.
+
+### Functional Programming for distributed processing
+
+- Because of the huge volume of data and greater speed of transactions, a single server will not be enough for processing.
+- Instead, multiple servers are connected through a network and the processes are distributed among them. This type of processing is called distributed programming. 
+- A master computer is assigned to look at the operating system and the specialist software required.
+- A dedicated network is created to connect the computers. The network can be used to connect to the internet for cloud computing.

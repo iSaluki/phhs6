@@ -24,3 +24,19 @@ tags:
 - The data received initially will be unstructured. For example, satellite images are used to calculate cloud cover.
 - An algorithm is used to find the percentage of cloud cover and the possibility of rain.
 
+### Examples of Big Data
+
+- Medical research
+- Financial services and banking sector
+- E-commerce website
+- Government
+
+### Structured vs Unstructured Data
+
+- Structured
+	- Information that is stored in a predefined manner, that is, in a structure is called structured data.
+	- A database helps us to store data in a structured manner.
+- Unstructured
+	- Information that is not structured in a predefined manner is called unstructured data.
+	- Data in a word or notepad are examples of unstructured data
+

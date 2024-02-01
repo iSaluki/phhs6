@@ -3,7 +3,8 @@ title: Make Your Own ASN
 tags:
   - whitepaper
 ---
-
+> [!warning]
+> Work in progress. This is incomplete and unedited.
 
 ## Why?
 

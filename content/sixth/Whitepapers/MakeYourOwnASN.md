@@ -100,10 +100,10 @@ tags:
 		- allow easy access to abuse contacts for network operators
 		- publishing information required to make the internet work
 - RIPE do not have the only database in the world, and RIPE is not the only Regional Internet Registry (RIR)
-- ![[content/Whitepapers/img/Pasted image 20240201163004.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201163004.png]]
 - I'm mostly working with LIRs and RIRs here, but knowing about the others involved is useful.
 - IANA is globally the highest authority, they aggregate data from all RIRs
-- ![[content/Whitepapers/img/Pasted image 20240201163119.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201163119.png]]
 - RIRs are regionally assigned.
 - LIRs and ISPs are generally service providers, and are usually fairly large organisations
 - EU simply stands for end user, that's us.
@@ -316,7 +316,7 @@ frantech   BGP        ---        up     2024-01-31    Est
 ```
 
 - With the key information being the BGP state being `Established`. Believe me when I say that took a while. We had a lot of being stuck in `Connecting` and `Socket: Connection closed`. (It turns out Stallion was blocking connections because I hadn't enabled them)
-- ![[content/Whitepapers/img/Pasted image 20240201162505.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201162505.png]]
 - This needed me to set the IP addresses to my server IPs in order for BGP requests from my server to be accepted. D'uh!
 
 ## RPKI
@@ -324,19 +324,19 @@ frantech   BGP        ---        up     2024-01-31    Est
 - So I had got my BGP routing working now - whoopie. However, Frantech had now informed me that as my prefixes were not RPKI signed that Stallion (their control panel) would not whitelist me.
 - This meant I had to figure out *how* to sign a prefix with RPKI. Obviously my first point of contact was RIPE, as I recalled seeing an RPKI portal on RIPE.
 
-![[content/Whitepapers/img/Pasted image 20240201143950.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201143950.png]]
 
 - So I headed on over, chose for RIPE to host things for me and clicked the *New ROA* button.
 - I was prompted to fill out a few fields, nothing too complex. But that's obviously when something went wrong.
-![[content/Whitepapers/img/Pasted image 20240201144201.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201144201.png]]
 
 - Ripe was reporting that the prefix I entered was not a certified resource. It was definitely *my* prefix though.
 - Odd, maybe I can fix this?
 - So off to create a route object I went
- ![[content/Whitepapers/img/Pasted image 20240201144329.png]]
-![[content/Whitepapers/img/Pasted image 20240201144438.png]]
+ ![[sixth/Whitepapers/img/Pasted image 20240201144329.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201144438.png]]
 - Everything seemed in order
-![[content/Whitepapers/img/Pasted image 20240201144513.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201144513.png]]
 
 - So, what was wrong?
 - Well, after a bit of digging I discovered that because my IP block was PA not PI, I was unable to issue an RPKI certificate for it.
@@ -409,17 +409,17 @@ server {
 ```
 
 - And just like that, we had Krill.
-![[content/Whitepapers/img/Pasted image 20240201152141.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201152141.png]]
 - A simple `sudo cat /etc/krill.conf | grep admin_token` and we had our password.
 - Next step was to make myself a certificate authority, I chose the inventive `SETH-MB` name and moved on.
 - However I still had my hosted CA on RIPE, so I had to go and revoke that before I could continue.
-- ![[content/Whitepapers/img/Pasted image 20240201152746.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201152746.png]]
 - Now I could make a delegated CA under RIPE and generate a child request XML file from Krill to link myself up.
-- ![[content/Whitepapers/img/Pasted image 20240201152848.png]]
-- ![[content/Whitepapers/img/Pasted image 20240201152922.png]]
-- ![[content/Whitepapers/img/Pasted image 20240201152953.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201152848.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201152922.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201152953.png]]
 - Now let's go and stick the generated server identity file into Krill.
-![[content/Whitepapers/img/Pasted image 20240201153143.png]]
+![[sixth/Whitepapers/img/Pasted image 20240201153143.png]]
 - Parent added, now we needed to make a repository.
 - I won't bore you with the details because it's basically the same process I've just gone through again, nothing too interesting happened here.
 - I decided then to reach out to Lagrange as my ROA certification wasn't working, and I likely needed them to delegate access to me.

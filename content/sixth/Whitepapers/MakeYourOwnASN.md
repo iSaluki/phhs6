@@ -109,8 +109,10 @@ tags:
 - LIRs and ISPs are generally service providers, and are usually fairly large organisations
 - EU simply stands for end user, that's us.
 - Back to making our RIPE objects.
-- First thing's first, we need to make a 
-
+- First thing's first, we need to make a `MAINTAINER` and a `PERSON` pair.
+- This is required to do anything useful with the RIPE database.
+- ![[sixth/Whitepapers/img/Pasted image 20240201165303.png]]
+- ![[sixth/Whitepapers/img/Pasted image 20240201165418.png]]
 ### BGP with BIRD
 
 - So for those that don't know, Bird is controlled 2 ways:
@@ -323,6 +325,8 @@ frantech   BGP        ---        up     2024-01-31    Est
 ## RPKI
 
 - So I had got my BGP routing working now - whoopie. However, Frantech had now informed me that as my prefixes were not RPKI signed that Stallion (their control panel) would not whitelist me.
+- But why? What makes RPKI important?
+	- RPKI is effectively the IP equivalent of HTTPS for HTTP. (it's not, but it does a similar job). If a BGP route is RPKI signed, then we know it actually came from the intended ASN and not someone who knows what Google's ASN is.
 - This meant I had to figure out *how* to sign a prefix with RPKI. Obviously my first point of contact was RIPE, as I recalled seeing an RPKI portal on RIPE.
 
 ![[sixth/Whitepapers/img/Pasted image 20240201143950.png]]

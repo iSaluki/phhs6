@@ -14,7 +14,7 @@ The accuracy of the information on the site cannot be fully guaranteed. I do my 
 Lots of computer science content such as code is not hosted here, but may appear on source control occasionally. If there is demand for algorithms or code to be explained here, then I may consider including it in future.
 
 
-# 🏫 Subjects
+# 🏫 Subjects/Topics
 
 You can find all my subject work below
 
@@ -28,7 +28,7 @@ You can find all my subject work below
 
 You may also wish to search with [🏷️ tags](/tags)
 
-If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://social.sethmb.xyz/@seth)
+If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://fosstodon.org/@saluki) or via email with the link at the bottom of the page.
 
 
 ##  📋FAQ

@@ -98,3 +98,16 @@ tags:
 | Role          | Autocratic or paternalistic |
 | Task          | Paternalistic/democratic    |
 | Person        | Democratic                  |
+
+### Why might a culture need changing?
+
+- Improved business performance
+	- Declining profits and sales
+	- Inadequate returns on investment
+	- Low quality or standards of customer service
+- To respond to significant chnage
+	- Market changes (growth, competitors)
+	- Political and legal environment
+	- Change of ownership (acquisition)
+	- Change of management or leadership (eg, a new CEO)
+	- Economic conditions (eg, downturn)

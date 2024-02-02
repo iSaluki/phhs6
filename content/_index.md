@@ -24,6 +24,8 @@ You can find all my subject work below
 
 ### 💰[Business Studies](/tags/business)
 
+### [🔍 Investigations](/tags/whitepaper)
+
 You may also wish to search with [🏷️ tags](/tags)
 
 If you notice an issue with the site or need help reach out to me on [👥 Mastodon](https://social.sethmb.xyz/@seth)

@@ -105,7 +105,7 @@ tags:
 	- Declining profits and sales
 	- Inadequate returns on investment
 	- Low quality or standards of customer service
-- To respond to significant chnage
+- To respond to significant change
 	- Market changes (growth, competitors)
 	- Political and legal environment
 	- Change of ownership (acquisition)

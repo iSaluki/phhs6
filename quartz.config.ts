@@ -6,9 +6,6 @@ const config: QuartzConfig = {
     pageTitle: "📚 Seth Maurice-Brant",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     baseUrl: "sethmb.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

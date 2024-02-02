@@ -53,3 +53,5 @@ Located [here](https://me.sethmb.xyz/rss/p/i/)
 
 
 [Sitemap](/sitemap.xml)
+
+[Contact me](mailto:sethmb.xyz.vrkz9@passinbox.com)

@@ -91,3 +91,10 @@ tags:
 	- People believe they are superior to the organisation
 	- Common in professionals
 	- Success depends on retaining key personnel
+
+| Cultural Type | Suitable Leadership Style   |
+|---------------|-----------------------------|
+| Power         | Autocratic                  |
+| Role          | Autocratic or paternalistic |
+| Task          | Paternalistic/democratic    |
+| Person        | Democratic                  |

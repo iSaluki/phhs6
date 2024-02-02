@@ -51,6 +51,7 @@ Located [here](https://me.sethmb.xyz/rss/p/i/)
 
 ---
 
+### 🚏 Quick Links
 
 [Sitemap](/sitemap.xml)
 

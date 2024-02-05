@@ -38,7 +38,7 @@ Stakeholder needs should be considered when making decisions. This can help to a
 	- Stakeholder mapping the relative power of each stakeholder group against the degree of interest
 	- This helps inform managers pm how important each stakeholder group is and therefore how involved they should be in the decision-making process.
 
-![[content/sixth/Business/Units/nd/img/Pasted image 20220923144942.png]]
+![[sixth/Business/Units/nd/img/Pasted image 20220923144942.png]]
 
 ---
 

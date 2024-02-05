@@ -41,6 +41,8 @@ tags:
 	- Autonomy ⇾ How much freedom is given to an individual to accomplish their tasks. What freedoms are they given over how they complete the task, when they complete the task and what decisions they can make.
 	- Job Feedback ⇾ Employees are kept in the loop when it comes to their performance. They are told whether they are doing their job well, and if they are not, they are given constructive criticism on how they can improve.
 
+![[sixth/Business/Units/fh/img/Pasted image 20240205150854.png]]
+
 ---
 
 ## Worksheet

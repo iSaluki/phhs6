@@ -40,7 +40,7 @@ Why is this happening?
 
 ## Blake Mouton Managerial Grid
 
-![[content/sixth/Business/Units/nd/img/Pasted image 20220913095215.png]]
+![[sixth/Business/Units/nd/img/Pasted image 20220913095215.png]]
 
 The "*Blake Mouton Managerial Grid*" shows how management styles differ between the balance between a concern for people and concern for results.
 

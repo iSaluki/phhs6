@@ -27,6 +27,8 @@ Vision & strategy:
 - Internal Processes
 - Organisational capacity
 
+![[sixth/Business/Units/fh/img/Pasted image 20240205145704.png]]
+
 **KPI** - Key Performance Indicator
 
 ### Advantages of the Balanced Scorecard

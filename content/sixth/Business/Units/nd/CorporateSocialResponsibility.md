@@ -39,3 +39,22 @@ tags:
 - Business relies on inputs from society and on socially created institutions
 - There is a social contract between business and society involving mutual obligations.
 
+### Arguments for CSR
+
+- The ethical thing to do
+- Improves a businesses image and reputation
+- Necessary in order to avoid excessive regulation
+- Socially responsible actions can be profitable
+- Improved social environment benefits business
+- Helps attract investors
+- Can increase employee motivation
+- Helps to correct the social problems caused by business
+
+### Arguments against CSR
+
+- The only social responsibility of the business is to create shareholder wealth
+- The efficient use of resources will be reduced if businesses are restricted in how they act
+- Businesses cannot decide what is in society's interest
+- Extra costs will be incurred which must be passed on to consumers
+- CSR stifles innovation
+

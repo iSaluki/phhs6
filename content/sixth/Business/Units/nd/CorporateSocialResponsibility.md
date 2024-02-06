@@ -32,7 +32,10 @@ tags:
 	- Free market view: the job of business is to create wealth for shareholders
 	- Corporate social responsibility view: business should be concerned with social issues
 
+### The Stakeholder Concept
 
+- Businesses do not have an unquestioned right to operate in society
+- Those managing businesses should recognise that they depend on society
+- Business relies on inputs from society and on socially created institutions
+- There is a social contract between business and society involving mutual obligations.
 
-
-‎‎

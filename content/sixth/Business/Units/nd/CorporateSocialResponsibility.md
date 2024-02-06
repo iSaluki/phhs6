@@ -19,7 +19,10 @@ tags:
 	- Create demand
 	- Public assets and infrastructure
 	- Legal protection
+### Key CSR questions
 
+- What is the purpose of the business?
+- What contribution should businesses make to society?
 
 ### The Debate on Social Responsibility
 

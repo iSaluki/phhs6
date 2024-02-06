@@ -29,7 +29,7 @@ tags:
 - Retention of staff
 - Absenteeism
 
-## Hackman and Oldham—Job Characteristics Model
+## Hackman and Oldham —Job Characteristics Model
 
 - Employees will work much harder and better when they are rewarded for the work they do and when that work provides them with satisfaction. They will perform even better when they can see the relevance of the tasks.
 

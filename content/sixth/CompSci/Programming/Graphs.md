@@ -121,5 +121,13 @@ And time for the beautiful hand-drawn tree, with sorted examples.
 ### Exponential
 - O(x^n)
 
+### (In)Tractable 
+
+- Intractable
+	- We know how to solve the problem
+	- We could write code to solve the problem
+	- However the code would not complete in a reasonable amount of time
+
+
 
 [Computer Science](/ComputerScience)

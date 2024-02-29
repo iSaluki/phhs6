@@ -128,6 +128,8 @@ And time for the beautiful hand-drawn tree, with sorted examples.
 	- We could write code to solve the problem
 	- However the code would not complete in a reasonable amount of time
 
+### Noncomputable
 
+- There is no known solution for the problem
 
 [Computer Science](/ComputerScience)

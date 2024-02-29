@@ -113,7 +113,13 @@ And time for the beautiful hand-drawn tree, with sorted examples.
 ![[sixth/CompSci/Programming/img/Pasted image 20230706122524.png]]
 
 
+### Polynomials
+![[sixth/CompSci/Theory/img/Pasted image 20240229112413.png]]
 
+- Better than exponentials
+
+### Exponential
+- O(x^n)
 
 
 [Computer Science](/ComputerScience)

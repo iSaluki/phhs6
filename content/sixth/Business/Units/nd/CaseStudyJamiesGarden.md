@@ -4,8 +4,6 @@ tags:
   - business
   - casestudy
 ---
-
-
 ### To what extent is it essential that all businesses operate in a socially responsible manner? (20m)
 
 When a business acts in an ethical manner, they are effectively reinvesting their revenue into society. This is not technically essential to the running of a business, however a symbiosis exists between all businesses and the host society. If a business gives back to society, then society can better support the business. 

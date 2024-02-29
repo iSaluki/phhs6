@@ -430,3 +430,5 @@ server {
 - I decided then to reach out to Lagrange as my ROA certification wasn't working, and I likely needed them to delegate access to me.
 - Lagrange took another child request and had to forward it to their upstream provider to get me a parent request.
 - I had to sign off for a bit here, as I couldn't proceed until the parent request was back, so I took some time to work on another one of my caffeine fuelled madnesses.
+
+https://rpki.cloudflare.com/?ohlcTa=RIPE&view=validator&validateRoute=53667_2a0f%3A85c1%3A362%3A%3A%2F48

@@ -117,7 +117,10 @@ const calloutLineRegex = new RegExp(/^> *\[\!\w+\][+-]?.*$/, "gm")
 // #(...)               -> capturing group, tag itself must start with #
 // (?:[-_\p{L}\d\p{Z}])+       -> non-capturing group, non-empty string of (Unicode-aware) alpha-numeric characters and symbols, hyphens and/or underscores
 // (?:\/[-_\p{L}\d\p{Z}]+)*)   -> non-capturing group, matches an arbitrary number of tag strings separated by "/"
-const tagRegex = new RegExp(/(?:^| )#((?:[-_\p{L}\p{Emoji}\d])+(?:\/[-_\p{L}\p{Emoji}\d]+)*)/, "gu")
+const tagRegex = new RegExp(
+  /(?:^| )#((?:[-_\p{L}\p{Emoji}\p{M}\d])+(?:\/[-_\p{L}\p{Emoji}\p{M}\d]+)*)/,
+  "gu",
+)
 const blockReferenceRegex = new RegExp(/\^([-_A-Za-z0-9]+)$/, "g")
 const ytLinkRegex = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/
 const videoExtensionRegex = new RegExp(/\.(mp4|webm|ogg|avi|mov|flv|wmv|mkv|mpg|mpeg|3gp|m4v)$/)
@@ -185,8 +188,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
       return src
     },
-    markdownPlugins() {
+    markdownPlugins(ctx) {
       const plugins: PluggableList = []
+      const cfg = ctx.cfg.configuration
 
       // regex replacements
       plugins.push(() => {
@@ -407,7 +411,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                   children: [
                     {
                       type: "text",
-                      value: useDefaultTitle ? capitalize(calloutType) : titleContent + " ",
+                      value: useDefaultTitle ? capitalize(typeString) : titleContent + " ",
                     },
                     ...restOfTitle,
                   ],
@@ -443,13 +447,19 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                 // replace first line of blockquote with title and rest of the paragraph text
                 node.children.splice(0, 1, ...blockquoteContent)
 
+                const classNames = ["callout", calloutType]
+                if (collapse) {
+                  classNames.push("is-collapsible")
+                }
+                if (defaultState === "collapsed") {
+                  classNames.push("is-collapsed")
+                }
+
                 // add properties to base blockquote
                 node.data = {
                   hProperties: {
                     ...(node.data?.hProperties ?? {}),
-                    className: `callout ${calloutType} ${collapse ? "is-collapsible" : ""} ${
-                      defaultState === "collapsed" ? "is-collapsed" : ""
-                    }`,
+                    className: classNames.join(" "),
                     "data-callout": calloutType,
                     "data-callout-fold": collapse,
                   },
@@ -517,12 +527,35 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                     last.value = last.value.slice(0, -matches[0].length)
                     const block = matches[0].slice(1)
 
-                    if (!Object.keys(file.data.blocks!).includes(block)) {
-                      node.properties = {
-                        ...node.properties,
-                        id: block,
+                    if (last.value === "") {
+                      // this is an inline block ref but the actual block
+                      // is the previous element above it
+                      let idx = (index ?? 1) - 1
+                      while (idx >= 0) {
+                        const element = parent?.children.at(idx)
+                        if (!element) break
+                        if (element.type !== "element") {
+                          idx -= 1
+                        } else {
+                          if (!Object.keys(file.data.blocks!).includes(block)) {
+                            element.properties = {
+                              ...element.properties,
+                              id: block,
+                            }
+                            file.data.blocks![block] = element
+                          }
+                          return
+                        }
                       }
-                      file.data.blocks![block] = node
+                    } else {
+                      // normal paragraph transclude
+                      if (!Object.keys(file.data.blocks!).includes(block)) {
+                        node.properties = {
+                          ...node.properties,
+                          id: block,
+                        }
+                        file.data.blocks![block] = node
+                      }
                     }
                   }
                 }
@@ -603,7 +636,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           let mermaidImport = undefined
           document.addEventListener('nav', async () => {
             if (document.querySelector("code.mermaid")) {
-              mermaidImport ||= await import('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs')
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
               const mermaid = mermaidImport.default
               const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
               mermaid.initialize({

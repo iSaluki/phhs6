@@ -24,3 +24,6 @@ tags:
 	- Some cultures are unwilling to take unnecessary risks while others are more willing to go for it.
 - Indulgence vs Restraint
 	- Relation between gratification and control. Indulgence is freedom of speech and leisure as priorities whilst restraint sees these with lower importance. Indulgence tends to be more prevalent in the Americas and Europe.
+
+
+

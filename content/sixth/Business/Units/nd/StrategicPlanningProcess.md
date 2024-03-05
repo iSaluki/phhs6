@@ -33,3 +33,13 @@ tags:
 - Regional
 - Matrix
 
+### Types of Plan in Business
+
+- Strategic 
+	- Sets out the overall direction for the business in broad scope
+- Business
+	- The actions that a business will take to achieve corporate objectives
+- Operational
+	- Details how each objective is to be achieved
+	- Specifies what senior management expects from specific departments or functions
+

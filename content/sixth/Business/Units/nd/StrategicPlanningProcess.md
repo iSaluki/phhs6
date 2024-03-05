@@ -17,3 +17,19 @@ tags:
 - Ensure right people
 - Establish review points
 
+### Leadership
+
+- Make clear
+- Gain support of other managers
+- Ensure resources are in place
+- Communication: support from stakeholders and reduces distrust
+- Reward and appraisal
+- Design systems to review
+
+### Hierarchy, span and form of structure
+
+- Functional
+- Product
+- Regional
+- Matrix
+

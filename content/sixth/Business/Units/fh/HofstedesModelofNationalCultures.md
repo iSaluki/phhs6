@@ -29,4 +29,33 @@ tags:
 ### Cultural Web Analysis
 
 - The Cultural Web analysis is a model where the organisational paradigm, convictions and assumptions within an organisation are clarified by means of a coherent whole of six elements.
+- A paradigm is a widely accepted example, belief or concept.
 
+![[sixth/Business/Units/fh/img/Pasted image 20240308100805.png]]
+### Symbols and Titles
+
+- These include visual representations of an organisation, including logos, how people dress and how they speak. It also includes things such as how large a manager's office is, whether managers have PAs or if there are separate canteens/entrances for different power scales.
+
+### Power relations
+
+- The power structure is an interrelationship between individuals or groups who take decisions about how an organisation's resources are allocated. 
+
+### Organisational Structure
+
+- This is about the way management is organised both vertically, by layers of hierarchy, and horizontally by functional structures. 
+
+### Control Systems
+
+- This is about the way that an organisation is controlled, including financial systems, quality systems and reward systems. This does include the level of autonomy awarded to individuals within the organisation.
+
+### Rituals and routines
+
+- These are signs of what is considered appropriate behaviour and what is expected to happen in a given situation.
+
+### Myths and stories
+
+- These are the things that are repeated within the organisation and by others outside the organisation about it's history, founders and other significant figures.
+
+### Organisational assumption (paradigm)
+
+- The six elements of the cultural web discussed above help to make up what Johnson and Scholes call the paradigm.

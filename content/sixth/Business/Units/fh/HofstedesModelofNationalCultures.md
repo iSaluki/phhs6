@@ -59,3 +59,5 @@ tags:
 ### Organisational assumption (paradigm)
 
 - The six elements of the cultural web discussed above help to make up what Johnson and Scholes call the paradigm.
+
+

@@ -45,7 +45,9 @@ tags:
 
 - The **float** is the duration an activity can be extended or postponed so that the the project still finished within the minimum time
 Calculated as:
-- LFT less Activity Duration less EST
+- LFT *less* Activity Duration *less* EST
 
+### Identifying the Critical Path
 
-
+- Activities with a float of 0 cannot be delayed without delaying the entire project
+- Such activities represent the "critical path"

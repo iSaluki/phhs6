@@ -22,6 +22,20 @@ tags:
 - Any delay of an activity on the critical path directly impacts the planned project completion date (ie, there is no float on the critical path)
 
 
-![[sixth/Business/Units/nd/img/Pasted image 20240312101033.png]]**EST** - Earliest start time
-**LFT** - Latest finish time
+![[sixth/Business/Units/nd/img/Pasted image 20240312101033.png]]
+> **EST** - Earliest start time
+> **LFT** - Latest finish time
+
+### Calculating ESTs
+
+- The first node will always have an EST of 0
+- ESTS are calculated **left to right**
+- Add the duration of the activity to the EST of the previous node
+- If more than one activity leads to a node, the highest figure becomes the new EST
+
+### Calculating LFTs
+
+- Give the last node of the project an LFT equal to the EST
+- Work backwards from **right to left**
+- Subtract the duration of the activity from the LFT
 

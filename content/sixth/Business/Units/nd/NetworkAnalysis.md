@@ -39,3 +39,13 @@ tags:
 - Work backwards from **right to left**
 - Subtract the duration of the activity from the LFT
 
+> Right to left is lower, left to right is higher
+
+### Calculating the float
+
+- The **float** is the duration an activity can be extended or postponed so that the the project still finished within the minimum time
+Calculated as:
+- LFT less Activity Duration less EST
+
+
+

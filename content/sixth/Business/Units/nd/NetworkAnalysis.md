@@ -20,3 +20,8 @@ tags:
 ### Why is the Critical Path so important?
 
 - Any delay of an activity on the critical path directly impacts the planned project completion date (ie, there is no float on the critical path)
+
+
+![[sixth/Business/Units/nd/img/Pasted image 20240312101033.png]]**EST** - Earliest start time
+**LFT** - Latest finish time
+

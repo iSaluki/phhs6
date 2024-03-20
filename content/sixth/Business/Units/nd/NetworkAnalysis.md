@@ -78,3 +78,4 @@ Calculated as:
 - Resources may not be as flexible as management hope when calculating network float
 - Too many activities may make the network diagram too complicated. Activities themselves might have to be broken down into mini-projects.
 
+![[sixth/Business/Units/nd/img/NetworkDiagram3.png]]

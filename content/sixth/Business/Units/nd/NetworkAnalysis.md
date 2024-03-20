@@ -62,3 +62,19 @@ Calculated as:
 
 
 
+### Advantages
+
+- Reduces risks and costs of complex projects
+- Encourages careful assessment of the requirements of each activity in the project
+- Help spot which activities have some slack or float and could transfer resources
+- A decision-making and planning tool
+- Provides managers with a useful overview
+- Links well with other aspects of planning
+
+### Disadvantages
+
+- Reliability of CPA largely based on accurate estimates and assumptions made
+- CPA does not guarantee the success of a project
+- Resources may not be as flexible as management hope when calculating network float
+- Too many activities may make the network diagram too complicated. Activities themselves might have to be broken down into mini-projects.
+

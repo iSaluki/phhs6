@@ -51,3 +51,14 @@ Calculated as:
 
 - Activities with a float of 0 cannot be delayed without delaying the entire project
 - Such activities represent the "critical path"
+
+### Use  of critical path analysis
+
+- Estimate and minimise project time
+- Support project costing and evaluation
+- Plan and organise resources
+- Prioritise tasks
+- Help provide direction
+
+
+
